@@ -1,0 +1,1993 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "Referenční klub",
+      "corporate": "Firemní klub",
+      "restricted": "Omezený klub",
+      "term": "Klub Agora",
+      "pic": "Klub veřejného zájmu",
+      "open": "Veřejný klub"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "Portoriko"
+    },
+    "ps": {
+      "name": "Palestinská autonomie"
+    },
+    "pt": {
+      "name": "Portugalsko"
+    },
+    "pw": {
+      "name": "Palau"
+    },
+    "py": {
+      "name": "Paraguay"
+    },
+    "qa": {
+      "name": "Katar"
+    },
+    "ad": {
+      "name": "Andorra"
+    },
+    "ae": {
+      "name": "Spojené arabské emiráty"
+    },
+    "af": {
+      "name": "Afghánistán"
+    },
+    "ag": {
+      "name": "Antigua a Barbuda"
+    },
+    "ai": {
+      "name": "Anguilla"
+    },
+    "al": {
+      "name": "Albánie"
+    },
+    "am": {
+      "name": "Arménie"
+    },
+    "ao": {
+      "name": "Angola"
+    },
+    "aq": {
+      "name": "Antarktida"
+    },
+    "ar": {
+      "name": "Argentina"
+    },
+    "as": {
+      "name": "Americká Samoa"
+    },
+    "at": {
+      "name": "Rakousko"
+    },
+    "re": {
+      "name": "Réunion"
+    },
+    "au": {
+      "name": "Austrálie"
+    },
+    "aw": {
+      "name": "Aruba"
+    },
+    "ax": {
+      "name": "Alandy"
+    },
+    "az": {
+      "name": "Ázerbájdžán"
+    },
+    "ro": {
+      "name": "Rumunsko"
+    },
+    "ba": {
+      "name": "Bosna a Hercegovina"
+    },
+    "bb": {
+      "name": "Barbados"
+    },
+    "rs": {
+      "name": "Srbsko"
+    },
+    "bd": {
+      "name": "Bangladéš"
+    },
+    "be": {
+      "name": "Belgie"
+    },
+    "ru": {
+      "name": "Rusko"
+    },
+    "bf": {
+      "name": "Burkina Faso"
+    },
+    "bg": {
+      "name": "Bulharsko"
+    },
+    "rw": {
+      "name": "Rwanda"
+    },
+    "bh": {
+      "name": "Bahrajn"
+    },
+    "bi": {
+      "name": "Burundi"
+    },
+    "bj": {
+      "name": "Benin"
+    },
+    "bl": {
+      "name": "Svatý Bartoloměj"
+    },
+    "bm": {
+      "name": "Bermudy"
+    },
+    "bn": {
+      "name": "Brunej Darussalam"
+    },
+    "bo": {
+      "name": "Bolívie"
+    },
+    "sa": {
+      "name": "Saúdská Arábie"
+    },
+    "bq": {
+      "name": "Bonaire, Svatý Eustach a Saba"
+    },
+    "sb": {
+      "name": "Šalamounovy ostrovy"
+    },
+    "br": {
+      "name": "Brazílie"
+    },
+    "sc": {
+      "name": "Seychely"
+    },
+    "bs": {
+      "name": "Bahamy"
+    },
+    "sd": {
+      "name": "Súdán"
+    },
+    "bt": {
+      "name": "Bhútán"
+    },
+    "se": {
+      "name": "Švédsko"
+    },
+    "bv": {
+      "name": "Ostrov Bouvet"
+    },
+    "sg": {
+      "name": "Singapur"
+    },
+    "bw": {
+      "name": "Botswana"
+    },
+    "sh": {
+      "name": "Svatá Helena, Ascension a Tristan da Cunha"
+    },
+    "si": {
+      "name": "Slovinsko"
+    },
+    "by": {
+      "name": "Bělorusko"
+    },
+    "sj": {
+      "name": "Špicberky a Jan Mayen"
+    },
+    "bz": {
+      "name": "Belize"
+    },
+    "sk": {
+      "name": "Slovensko"
+    },
+    "sl": {
+      "name": "Sierra Leone"
+    },
+    "sm": {
+      "name": "San Marino"
+    },
+    "sn": {
+      "name": "Senegal"
+    },
+    "so": {
+      "name": "Somálsko"
+    },
+    "ca": {
+      "name": "Kanada"
+    },
+    "sr": {
+      "name": "Surinam"
+    },
+    "cc": {
+      "name": "Kokosové ostrovy"
+    },
+    "ss": {
+      "name": "Jižní Súdán"
+    },
+    "cd": {
+      "name": "Demokratická republika Kongo"
+    },
+    "st": {
+      "name": "Svatý Tomáš a Princův ostrov"
+    },
+    "cf": {
+      "name": "Středoafrická republika"
+    },
+    "sv": {
+      "name": "El Salvador"
+    },
+    "cg": {
+      "name": "Kongo"
+    },
+    "ch": {
+      "name": "Švýcarsko"
+    },
+    "sx": {
+      "name": "Svatý Martin (nizozemská část)"
+    },
+    "ci": {
+      "name": "Pobřeží slonoviny"
+    },
+    "sy": {
+      "name": "Sýrie"
+    },
+    "sz": {
+      "name": "Svazijsko"
+    },
+    "ck": {
+      "name": "Cookovy ostrovy"
+    },
+    "cl": {
+      "name": "Chile"
+    },
+    "cm": {
+      "name": "Kamerun"
+    },
+    "cn": {
+      "name": "Čína"
+    },
+    "co": {
+      "name": "Kolumbie"
+    },
+    "cr": {
+      "name": "Kostarika"
+    },
+    "tc": {
+      "name": "Turks a Caicos"
+    },
+    "td": {
+      "name": "Čad"
+    },
+    "cu": {
+      "name": "Kuba"
+    },
+    "tf": {
+      "name": "Francouzská jižní a antarktická území"
+    },
+    "cv": {
+      "name": "Kapverdy"
+    },
+    "tg": {
+      "name": "Togo"
+    },
+    "cw": {
+      "name": "Curaçao"
+    },
+    "th": {
+      "name": "Thajsko"
+    },
+    "cx": {
+      "name": "Vánoční ostrov"
+    },
+    "cy": {
+      "name": "Kypr"
+    },
+    "tj": {
+      "name": "Tádžikistán"
+    },
+    "cz": {
+      "name": "Česká republika"
+    },
+    "tk": {
+      "name": "Tokelau"
+    },
+    "tl": {
+      "name": "Východní Timor"
+    },
+    "tm": {
+      "name": "Turkmenistán"
+    },
+    "tn": {
+      "name": "Tunisko"
+    },
+    "to": {
+      "name": "Tonga"
+    },
+    "tr": {
+      "name": "Turecko"
+    },
+    "tt": {
+      "name": "Trinidad a Tobago"
+    },
+    "de": {
+      "name": "Německo"
+    },
+    "tv": {
+      "name": "Tuvalu"
+    },
+    "tw": {
+      "name": "Tchaj-wan"
+    },
+    "dj": {
+      "name": "Džibuti"
+    },
+    "tz": {
+      "name": "Tanzanie"
+    },
+    "dk": {
+      "name": "Dánsko"
+    },
+    "dm": {
+      "name": "Dominika"
+    },
+    "do": {
+      "name": "Dominikánská republika"
+    },
+    "ua": {
+      "name": "Ukrajina"
+    },
+    "ug": {
+      "name": "Uganda"
+    },
+    "dz": {
+      "name": "Alžírsko"
+    },
+    "um": {
+      "name": "Menší odlehlé ostrovy USA"
+    },
+    "ec": {
+      "name": "Ekvádor"
+    },
+    "us": {
+      "name": "Spojené státy americké"
+    },
+    "ee": {
+      "name": "Estonsko"
+    },
+    "eg": {
+      "name": "Egypt"
+    },
+    "eh": {
+      "name": "Západní Sahara"
+    },
+    "uy": {
+      "name": "Uruguay"
+    },
+    "uz": {
+      "name": "Uzbekistán"
+    },
+    "va": {
+      "name": "Svatý stolec"
+    },
+    "er": {
+      "name": "Eritrea"
+    },
+    "vc": {
+      "name": "Svatý Vincent a Grenadiny"
+    },
+    "es": {
+      "name": "Španělsko"
+    },
+    "et": {
+      "name": "Etiopie"
+    },
+    "ve": {
+      "name": "Venezuela"
+    },
+    "vg": {
+      "name": "Britské Panenské ostrovy"
+    },
+    "vi": {
+      "name": "Americké Panenské ostrovy"
+    },
+    "vn": {
+      "name": "Vietnam"
+    },
+    "vu": {
+      "name": "Vanuatu"
+    },
+    "fi": {
+      "name": "Finsko"
+    },
+    "fj": {
+      "name": "Fidži"
+    },
+    "fk": {
+      "name": "Falklandy (Malvíny)"
+    },
+    "fm": {
+      "name": "Mikronézie"
+    },
+    "fo": {
+      "name": "Faerské ostrovy"
+    },
+    "fr": {
+      "name": "Francie"
+    },
+    "wf": {
+      "name": "Wallis a Futuna"
+    },
+    "ga": {
+      "name": "Gabon"
+    },
+    "gb": {
+      "name": "Spojené království"
+    },
+    "ws": {
+      "name": "Samoa"
+    },
+    "gd": {
+      "name": "Grenada"
+    },
+    "ge": {
+      "name": "Gruzie"
+    },
+    "gf": {
+      "name": "Francouzská Guyana"
+    },
+    "gg": {
+      "name": "Guernsey"
+    },
+    "gh": {
+      "name": "Ghana"
+    },
+    "gi": {
+      "name": "Gibraltar"
+    },
+    "gl": {
+      "name": "Grónsko"
+    },
+    "gm": {
+      "name": "Gambie"
+    },
+    "gn": {
+      "name": "Guinea"
+    },
+    "gp": {
+      "name": "Guadeloupe"
+    },
+    "gq": {
+      "name": "Rovníková Guinea"
+    },
+    "gr": {
+      "name": "Řecko"
+    },
+    "gs": {
+      "name": "Jižní Georgie a Jižní Sandwichovy ostrovy"
+    },
+    "gt": {
+      "name": "Guatemala"
+    },
+    "gu": {
+      "name": "Guam"
+    },
+    "gw": {
+      "name": "Guinea-Bissau"
+    },
+    "gy": {
+      "name": "Guyana"
+    },
+    "hk": {
+      "name": "Hongkong"
+    },
+    "hm": {
+      "name": "Heardův ostrov a McDonaldovy ostrovy"
+    },
+    "hn": {
+      "name": "Honduras"
+    },
+    "hr": {
+      "name": "Chorvatsko"
+    },
+    "ht": {
+      "name": "Haiti"
+    },
+    "ye": {
+      "name": "Jemen"
+    },
+    "hu": {
+      "name": "Maďarsko"
+    },
+    "id": {
+      "name": "Indonésie"
+    },
+    "yt": {
+      "name": "Mayotte"
+    },
+    "ie": {
+      "name": "Irsko"
+    },
+    "il": {
+      "name": "Izrael"
+    },
+    "im": {
+      "name": "Ostrov Man"
+    },
+    "in": {
+      "name": "Indie"
+    },
+    "io": {
+      "name": "Britské indickooceánské území"
+    },
+    "za": {
+      "name": "Jihoafrická republika"
+    },
+    "iq": {
+      "name": "Irák"
+    },
+    "ir": {
+      "name": "Írán"
+    },
+    "is": {
+      "name": "Island"
+    },
+    "it": {
+      "name": "Itálie"
+    },
+    "zm": {
+      "name": "Zambie"
+    },
+    "je": {
+      "name": "Jersey"
+    },
+    "zw": {
+      "name": "Zimbabwe"
+    },
+    "jm": {
+      "name": "Jamajka"
+    },
+    "jo": {
+      "name": "Jordánsko"
+    },
+    "jp": {
+      "name": "Japonsko"
+    },
+    "ke": {
+      "name": "Keňa"
+    },
+    "kg": {
+      "name": "Kyrgyzstán"
+    },
+    "kh": {
+      "name": "Kambodža"
+    },
+    "ki": {
+      "name": "Kiribati"
+    },
+    "km": {
+      "name": "Komory"
+    },
+    "kn": {
+      "name": "Svatý Kitts a Nevis"
+    },
+    "kp": {
+      "name": "Severní Korea"
+    },
+    "kr": {
+      "name": "Jižní Korea"
+    },
+    "kw": {
+      "name": "Kuvajt"
+    },
+    "ky": {
+      "name": "Kajmanské ostrovy"
+    },
+    "kz": {
+      "name": "Kazachstán"
+    },
+    "la": {
+      "name": "Lidově demokratická republika Laos"
+    },
+    "lb": {
+      "name": "Libanon"
+    },
+    "lc": {
+      "name": "Svatá Lucie"
+    },
+    "li": {
+      "name": "Lichtenštejnsko"
+    },
+    "lk": {
+      "name": "Srí Lanka"
+    },
+    "lr": {
+      "name": "Libérie"
+    },
+    "ls": {
+      "name": "Lesotho"
+    },
+    "lt": {
+      "name": "Litva"
+    },
+    "lu": {
+      "name": "Lucembursko"
+    },
+    "lv": {
+      "name": "Lotyšsko"
+    },
+    "ly": {
+      "name": "Libye"
+    },
+    "ma": {
+      "name": "Maroko"
+    },
+    "mc": {
+      "name": "Monako"
+    },
+    "md": {
+      "name": "Moldavsko, republika"
+    },
+    "me": {
+      "name": "Černá Hora"
+    },
+    "mf": {
+      "name": "Svatý Martin (francouzská část)"
+    },
+    "mg": {
+      "name": "Madagaskar"
+    },
+    "mh": {
+      "name": "Marshallovy ostrovy"
+    },
+    "mk": {
+      "name": "Makedonie"
+    },
+    "ml": {
+      "name": "Mali"
+    },
+    "mm": {
+      "name": "Myanmar"
+    },
+    "mn": {
+      "name": "Mongolsko"
+    },
+    "mo": {
+      "name": "Zvláštní administrativní oblast Číny Macao"
+    },
+    "mp": {
+      "name": "Severní Mariany"
+    },
+    "mq": {
+      "name": "Martinik"
+    },
+    "mr": {
+      "name": "Mauritánie"
+    },
+    "ms": {
+      "name": "Montserrat"
+    },
+    "mt": {
+      "name": "Malta"
+    },
+    "mu": {
+      "name": "Mauricius"
+    },
+    "mv": {
+      "name": "Maladivy"
+    },
+    "mw": {
+      "name": "Malawi"
+    },
+    "mx": {
+      "name": "Mexiko"
+    },
+    "my": {
+      "name": "Malajsie"
+    },
+    "mz": {
+      "name": "Mosambik"
+    },
+    "na": {
+      "name": "Namibie"
+    },
+    "nc": {
+      "name": "Nová Kaledonie"
+    },
+    "ne": {
+      "name": "Niger"
+    },
+    "nf": {
+      "name": "Norfolk"
+    },
+    "ng": {
+      "name": "Nigérie"
+    },
+    "ni": {
+      "name": "Nikaragua"
+    },
+    "nl": {
+      "name": "Nizozemsko"
+    },
+    "no": {
+      "name": "Norsko"
+    },
+    "np": {
+      "name": "Nepál"
+    },
+    "nr": {
+      "name": "Nauru"
+    },
+    "nu": {
+      "name": "Niue"
+    },
+    "nz": {
+      "name": "Nový Zéland"
+    },
+    "om": {
+      "name": "Omán"
+    },
+    "pa": {
+      "name": "Panama"
+    },
+    "pe": {
+      "name": "Peru"
+    },
+    "pf": {
+      "name": "Francouzská Polynésie"
+    },
+    "pg": {
+      "name": "Papua-Nová Guinea"
+    },
+    "ph": {
+      "name": "Filipíny"
+    },
+    "pk": {
+      "name": "Pákistán"
+    },
+    "pl": {
+      "name": "Polsko"
+    },
+    "pm": {
+      "name": "Svatý Pierre a Miquelon"
+    },
+    "pn": {
+      "name": "Pitcairnovy ostrovy"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Ocenění udílené za dosahování vzdělávacích cílů v souladu s Agora programem",
+        "title": "Ocenění za vzdělávání"
+      },
+      "social": {
+        "help": "Ocenění udílená za mimořádný vliv na vaši komunitu",
+        "title": "Ocenění za vliv na společnost"
+      },
+      "operational": {
+        "help": "Ocenění za výtečnost v klubovém managementu a za zakládání - charterování nových klubů",
+        "title": "Ocenění za klubový managment a zakládání nových klubů"
+      },
+      "community": {
+        "help": "Ocenění udílené za růst a podporu Agora komunity",
+        "title": "Ocenění za Agora komunitu"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "Hledat",
+      "register": "Registrovat"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "Úspěšná organizace regionálního nebo mezinárodního sjezdu Agora",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "Organizátor sjezdu"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "Kvalifikovaný vůdce"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "Aprobovaný řečník"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "Vyznamenání za členství"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "Vítěztví v soutěži Agora Speakers",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "Vítěz soutězě"
+        },
+        "third": {
+          "help": "Třetí místo v soutěži Agora Speakers",
+          "image": "awards.individual.contest.third.svg",
+          "title": "Soutěž, 3. místo"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "Úspěšná organizace soutěže Agora",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "Organizátor soutěží"
+        },
+        "participant": {
+          "help": "Účast v soutěži Agora Speakers",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "Osvědčení o účasti"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "Druhé místo v soutěži Agora Speakers",
+          "image": "awards.individual.contest.second.svg",
+          "title": "Soutěž, 2. místo"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "Nejvýraznější zlepšení",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "Cena za vzdělávací pokrok"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "Vyznamenání za angažovanost"
+      },
+      "community": {
+        "leadership": {
+          "help": "Vynikající realizace komunitních projektů",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "Ocenění za rozvoj komunity"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "Excelence a odhodlání k misi Agora",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "Cena významného člena velvyslance"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "Speciální ocenění"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "Perfektní leader"
+        },
+        "communicator": "Perfektní komunikátor"
+      },
+      "help": {
+        "help": "Trvalý závazek k úspěchu klubu",
+        "image": "awards.individual.help.svg",
+        "title": "Cena za oddanost klubu"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "Úspěšný řečník mediálního vysílání"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "Úspěšný přesvědčivý řečník"
+              }
+            },
+            "pr": {
+              "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "Úspěšný PR specialista"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "Úspěšný řečník pro zvláštní příležitosti"
+              }
+            },
+            "storytelling": {
+              "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "Úspěšný vypravěč"
+            },
+            "educational": {
+              "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "Úspěšný vzdělávací řečník"
+            },
+            "business": {
+              "contexts": {
+                "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "Úspěšný obchodní řečník"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "Úspěšný kritický myslitel"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "Úspěšný řečník navzdory všem očekáváním"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "Úspěšný podnikatelský řečník"
+            },
+            "project": {
+              "management": {
+                "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "Úspěšný projektový manažer"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "Úspěšný mistr mezilidských dovedností"
+              }
+            },
+            "dramatization": {
+              "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "Úspěšný dramatický řečník"
+            },
+            "humorous": {
+              "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "Úspěšný humorný řečník"
+            },
+            "leadership": {
+              "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "Perfektní leader"
+            },
+            "negotiation": {
+              "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "Úspěšný vyjednavač"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "Úspěšné dokončení {{v0}} pokročilé vzdělávací cesty",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "Úspěšný vizuální vypravěč"
+              }
+            }
+          },
+          "title": "Perfektní řečník"
+        },
+        "communicator": {
+          "help": "Successfully completing the full Communication Track",
+          "image": "awards.individual.accomplished.communicator.svg",
+          "title": "Perfektní komunikátor"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "Klubový vůdce"
+        },
+        "founder": {
+          "help": "Úspěšné založení klubu Agora",
+          "image": "awards.individual.club.founder.svg",
+          "title": "Zakladatel klubu"
+        },
+        "officer": {
+          "help": "Úspěšné vedení klubu během jednoho roku",
+          "image": "awards.individual.club.officer.svg",
+          "title": "Vedení klubu"
+        },
+        "growth": {
+          "help": "Excelence v oblasti mentoringu a vytváření klubů Agora v zemi",
+          "image": "awards.individual.club.growth.svg",
+          "title": "Cena za růst klubu"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "Trvalé členství v klubu po dobu 5 let",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "Výroční cena"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "Člen měsíce"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "Průběžná a aktivní účast na setkáních",
+        "image": "awards.individual.attendance.svg",
+        "title": "Cena za závazek"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Vyznamenání Agora za inovace"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Agora nositel pochodně"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "Vyznamenání Agora Promotér"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "Ocenění za pořádání kongresu"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "Vyznamenání pro státního průkopníka"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "Ocenění za vzdělávací znamenitost"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "Ocenění pro angažovaný klub ve vzdělávání"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "Vyznamenání pro městského průkopníka"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "Ocenění pro angažovaný klub"
+        }
+      },
+      "media": {
+        "help": "Excellence in promoting the Agora mission and activities in the media",
+        "image": "awards.club.media.svg",
+        "title": "Media Excellence Award"
+      },
+      "membership": {
+        "growth": "Ocenění za nárůst členů",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "Ocenění za velký počet členů"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "Vynikající realizace komunitních projektů",
+          "image": "awards.club.community.leadership.svg",
+          "title": "Ocenění za rozvoj komunity"
+        }
+      },
+      "content": {
+        "help": "Excellence in creating novel content for the Agora community",
+        "image": "awards.club.content.svg",
+        "title": "Content Creation Award"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "Ocenění pro inovativní klub"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "Speciální ocenění"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "Vyznamenání od ambasadora"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "Ocenění za mentorování"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "Klub měsíce"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "Membership satisfaction with the club exceeding 90%",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "Membership Satisfaction Golden Award"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "Membership satisfaction with the club exceeding 75%",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "Membership Satisfaction Silver Award"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "Ocenění za spokojené členy"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "Membership growth of over 20 members",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "Golden Membership Growth Award"
+          }
+        },
+        "anniversary": {
+          "help": "Successful and continuous operation of the club during ten years",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "Golden Anniversary Award"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "Ocenění pro modelový klub"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "Membership growth of over 10 members",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "Silver Membership Growth Award"
+          }
+        },
+        "anniversary": {
+          "help": "Successful and continuous operation of the club during five years",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "Silver Anniversary Award"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "Klubové výročí - {{v0}} let"
+      }
+    },
+    "place": {
+      "participation": "Účast"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "Být tím nejzvídavějším a nejpronikavějším tazatelem při křížových otázkách",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "Nejzvídavější účastník křížových otázek"
+        },
+        "survivor": {
+          "help": "Přežít sekci křížových otázek na setkání",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "Přeživší křižových otázek"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "Být nejlepším moderátorem a tazatelem kolokvia",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "Nejlepší účastník kolokvia"
+        },
+        "role": {
+          "help": "Provádění role na setkání skvělým způsobem",
+          "image": "awards.meeting.best.role.svg",
+          "title": "Nejlepší role na setkání"
+        },
+        "speaker": {
+          "help": "Přednesení nejlépe připraveného projevu na klubovém setkání",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "Nejlepší řečník na setkání"
+        },
+        "hot": {
+          "response": {
+            "help": "Přednesení nejlepší improvizované řeči na klubovém setkání",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "Nejlepší improvizující řečník na setkání"
+          }
+        },
+        "speechwriter": {
+          "help": "Vytvoření nejlepšího projevu na setkání",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "Nejlepší autor projevu na setkání"
+        },
+        "evaluator": {
+          "help": "Poskytování nejlepšího hodnocení na klubovém setkání",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "Nejlepší hodnotitel setkání"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "Agora Speakers International Foundation je evropská sekulární vzdělávací charita, která lidem umožňuje stát se brilantními komunikátory a sebevědomými vůdci, kteří budou aktivně budovat lepší svět."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "Ostatní"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "Datum",
+      "country": "Země",
+      "address": "Adresa",
+      "city": "Město",
+      "awards": "Získaná ocenění",
+      "state": "Stát/Provincie/apod.",
+      "event": "Událost",
+      "region": "Region",
+      "points": {
+        "total": "Počet získaných bodů celkem",
+        "year": "Počet získaných bodů letos",
+        "name": "Body"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "Uveďte prosím jazyk nebo jazyky, které budou v klubu použity (např .: angličtina)"
+      },
+      "charter": {
+        "date": "Datum charterování",
+        "help": "Datum zahajovací setkání musí být v budoucnu, ale ne dále než 30 dní."
+      },
+      "founder": {
+        "name": "Zakladatel klubu",
+        "email": "E-mail zakladatele"
+      },
+      "fee": {
+        "title": "Členský poplatek klubu (pokud existuje)."
+      },
+      "banner": "Banner",
+      "restrictions": {
+        "guests": {
+          "input": "Popište, prosím, jaký druh omezení bude existovat pro účast v klubu jako host (pokud existují)"
+        },
+        "membership": {
+          "input": "Popište, prosím, jaký druh omezení bude existovat pro vstup do klubu jako člen (pokud existuje). Pokud registrujete mládežnický klub, uveďte věkové rozmezí"
+        }
+      },
+      "type": {
+        "help": "Více informací o různých typech klubů naleznete zde.",
+        "input": "Typ klubu"
+      },
+      "points": {
+        "date": "Datum akce",
+        "action": "Akce klubu"
+      },
+      "token": "Tajný klubový Token",
+      "number": "Číslo klubu",
+      "assets": "Klubové materiály",
+      "awards": "Klubové ceny",
+      "contact": {
+        "help": {
+          "1": "Kontaktní informace klubu. Musí to být e-mail nebo telefon.",
+          "2": "Další kontaktní údaje klubu - musí se lišit od předchozího a může to být jiný e-mail / telefon, nebo webová stránka, skupina na Facebooku, skupina pro setkávání atd."
+        },
+        "title": "Kontaktní informace"
+      },
+      "name": "Jméno klubu",
+      "logo": {
+        "title": "Můžete nahrát své vlastní logo, nebo pokud jej nemáte, automaticky vygenerujeme logo pro váš klub."
+      },
+      "meeting": {
+        "schedule": "Frekvence setkávání",
+        "info": "Další informace"
+      }
+    },
+    "personal": {
+      "participation": {
+        "input": "Jaký způsob účasti vás zajímá?",
+        "online": "Online setkání",
+        "physical": "Setkání fyzicky na místě"
+      },
+      "languages": {
+        "interested": "Jaké jazyky vás zajímají?"
+      },
+      "joined": "Datum registrace",
+      "facebook": "Odkaz na Facebook profil",
+      "roles": {
+        "date": "Datum",
+        "role": "Role",
+        "taken": "Role",
+        "club": "Klub"
+      },
+      "speeches": {
+        "persuasive": "Projev s cílem někoho přesvědčit",
+        "general": "Obecné projevy",
+        "storytelling": "Vyprávění příběhů",
+        "educational": "Vzdělávací projev",
+        "business": "Byznys prezentace",
+        "interested": "Jak způsob prezentací / projevů se chcete naučit?",
+        "media": "Vlogování a online přednes",
+        "sales": "Prodejní prezentace / řeči",
+        "humorous": "Humorné řeči, vtip, apod."
+      },
+      "privacy": "Souhlasím se všemi pravidly a podmínkami na této stránce a s Politikou ochrany soukromí Agora Speakers International",
+      "history": {
+        "date": "Datum",
+        "club": "Jméno klubu",
+        "event": "Událost"
+      },
+      "linkedin": "Odkaz na Linkedin profil",
+      "skills": "V jaké dovednosti z následujícíh se chcete zlepšit?",
+      "number": "Číslo člena",
+      "password": {
+        "input": "Heslo",
+        "verify": "Opakujte heslo pro kontrolu"
+      },
+      "clubs": {
+        "role": "Role"
+      },
+      "name": {
+        "address": {
+          "help": "Jak bychom vás měli oslovovat v komunikaci (např. email)",
+          "field": "Preferované jméno pro oslovení při komunikaci"
+        },
+        "certificates": {
+          "help": "Jaké jméno se má zobrazovat na certifikátech a oceněních?",
+          "input": "Preferované jméno při vystavování certifikátů"
+        },
+        "online": {
+          "help": "Jméno, které se bude používat v našich online systémech, fóru, atd.",
+          "input": "Preferované online jméno / přezdívka"
+        },
+        "full": "Celé jméno"
+      },
+      "principles": {
+        "agreement": "Prosím potvrďtě souhlas s našimi základními principy"
+      },
+      "position": "Současná pozice v klubu",
+      "interests": {
+        "11": {
+          "language": "Chci se zlepšit v cizím jazyce"
+        },
+        "01": {
+          "curious": "Jsem zvědavý co je Agora Speakers International"
+        },
+        "12": {
+          "contests": "Zajímají mě soutěže a chci soutěžit na soutěžích Agora Speakers International"
+        },
+        "02": {
+          "confidence": "Chci zlepšit svou sebedůvěru"
+        },
+        "13": {
+          "critical": "Zajímá mě kritické myšleni a chci se mu naučit"
+        },
+        "03": {
+          "communicate": "Chci se naučit lépe komunikovat"
+        },
+        "14": {
+          "friends": "Chci potkávat nové lidi a poznávat nové přátele"
+        },
+        "04": {
+          "speak": "Chci zlepšit mluvení na veřejnosti"
+        },
+        "15": {
+          "cooperation": "Zajímají mě rozdílné kultury a mezikulturní spolupráce"
+        },
+        "question": "Co vás zajímá na Agora Speakers International?",
+        "05": {
+          "leadership": "Chci zlepšit mou kompetenci vedení lidí"
+        },
+        "16": {
+          "startclub": "Chci založit nový Agora klub v mém městě"
+        },
+        "06": {
+          "networking": "Zajímá mě profesionální vytváření kontaktů (networking)"
+        },
+        "17": {
+          "ambassador": "Chci se stát Agora Ambasador v mém městě"
+        },
+        "07": {
+          "presentations": "Zajímá mě umění předvádění byznys prezentací"
+        },
+        "18": {
+          "partnership": "Chci navázat spojení mezi mou organizací a Agora Speakers International"
+        },
+        "08": {
+          "events": "Zajímají mě workshopy, semináře a další setkání, která organizujete"
+        },
+        "09": {
+          "debating": "Zajímají mě debaty a umění argumentace"
+        },
+        "10": {
+          "community": "Chci být schopen udělat změnu v mém okolí"
+        }
+      },
+      "email": "Email"
+    },
+    "meeting": {
+      "date": "Datum setkání",
+      "number": "Číslo setkání",
+      "venue": {
+        "name": "Název místa setkání"
+      },
+      "address": {
+        "input": "Adresa setkání"
+      },
+      "online": {
+        "software": "Software pro online setkání",
+        "link": "Klikněte pro připojení",
+        "id": "Identifikátor online setkání",
+        "title": "Informace pro online setkání",
+        "passowrd": "Heslo pro připojení"
+      },
+      "theme": "Téma setkání (pokud nějaké je)",
+      "time": "Čas setkání"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) Copyright Agora Speakers International. Všechna práva vyhrazena. Všechny materiály Agora mohou být použity pouze v souladu s našimi všeobecnými podmínkami."
+    },
+    "terms": "Všeobecné podmínky",
+    "legal": {
+      "notice": "Právní informace"
+    },
+    "privacy": {
+      "policy": "Politika ochrany soukromí"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "Hindština",
+      "ps": "Paštština",
+      "pt": "Portugalština",
+      "hr": "Chorvatština",
+      "pt_br": "Brazilian",
+      "hu": "Maďarština",
+      "yi": "Jidiš",
+      "hy": "Arménština",
+      "yo": "Jorubština",
+      "ia": "Interlingua",
+      "id": "Indonéština",
+      "ig": "Igboština",
+      "ii": "Iština (sečuánská)",
+      "qu": "Kečuánština",
+      "af": "Afrikánština",
+      "ak": "Akanština",
+      "is": "Islandština",
+      "it": "Italština",
+      "am": "Amharština",
+      "zh": "Čínština",
+      "ar": "Arabština",
+      "as": "Ásámština",
+      "ja": "Japonština",
+      "az": "Ázerbájdžánština",
+      "rm": "Rétorománština",
+      "zu": "Zuluština",
+      "rn": "Kirundština",
+      "ro": "Rumunština",
+      "be": "Běloruština",
+      "ru": "Ruština",
+      "bg": "Bulharština",
+      "rw": "Kiňarwandština",
+      "bm": "Bambarština",
+      "bn": "Bengálština",
+      "jv": "Javánština",
+      "bo": "Tibetština",
+      "sa": "Sanskrt",
+      "br": "Bretonština",
+      "bs": "Bosenština",
+      "sd": "Sindhština",
+      "se": "Sámština (severní)",
+      "sg": "Sangština",
+      "sh": "Srbochorvatština",
+      "ka": "Gruzínština",
+      "si": "Sinhálština",
+      "sk": "Slovenština",
+      "sl": "Slovinština",
+      "sn": "Šonština",
+      "so": "Somálština",
+      "ca": "Katalánština",
+      "ki": "Kikujština",
+      "sq": "Albánština",
+      "sr": "Srbština",
+      "kk": "Kazaština",
+      "kl": "Grónština",
+      "ce": "Čečenština",
+      "km": "Khmérština",
+      "su": "Sundština",
+      "kn": "Kannadština",
+      "sv": "Švédština",
+      "ko": "Korejština",
+      "sw": "Svahilština",
+      "ks": "Kašmírština",
+      "ku": "Kurdština",
+      "kw": "Kornština",
+      "ta": "Tamilština",
+      "ky": "Kyrgyzština",
+      "cs": "Čeština",
+      "te": "Telugština",
+      "tg": "Tádžičtina",
+      "th": "Thajština",
+      "ti": "Tigrinijština",
+      "cy": "Velština",
+      "lb": "Lucemburština",
+      "tk": "Turkmenština",
+      "tl": "Tagalog",
+      "lg": "Gandština",
+      "to": "Tongánština",
+      "da": "Dánština",
+      "tr": "Turečtina",
+      "tt": "Tatarština",
+      "de": "Němčina",
+      "ln": "Lingalština",
+      "lo": "Laoština",
+      "lt": "Litevština",
+      "lu": "Lubu-katanžština",
+      "lv": "Lotyština",
+      "ug": "Ujgurština",
+      "dz": "Dzongkä",
+      "uk": "Ukrajinština",
+      "mg": "Malgaština",
+      "mi": "Maorština",
+      "ur": "Urdština",
+      "mk": "Makedonština",
+      "ml": "Malajálamština",
+      "ee": "Eweština",
+      "mn": "Mongolština",
+      "mr": "Maráthština",
+      "uz": "Uzbečtina",
+      "ms": "Malajština",
+      "el": "Řečtina",
+      "mt": "Maltština",
+      "en": "Angličtina",
+      "eo": "Esperanto",
+      "my": "Barmština",
+      "es": "Španělština",
+      "et": "Estonština",
+      "eu": "Baskičtina",
+      "vi": "Vietnamština",
+      "nb": "Norština (bokmål)",
+      "nd": "Ndebele (Zimbabwe)",
+      "ne": "Nepálština",
+      "fa": "Perština",
+      "nl": "Nizozemština",
+      "ff": "Fulbština",
+      "nn": "Norština (nynorsk)",
+      "no": "Norština",
+      "fi": "Finština",
+      "fo": "Faerština",
+      "fr": "Francouzština",
+      "fy": "Fríština (západní)",
+      "wo": "Wolofština",
+      "ga": "Irština",
+      "gd": "Skotská gaelština",
+      "om": "Oromština",
+      "or": "Urijština",
+      "os": "Osetština",
+      "gl": "Galicijština",
+      "gu": "Gudžarátština",
+      "gv": "Manština",
+      "xh": "Xhoština",
+      "pa": "Paňdžábština",
+      "ha": "Hauština",
+      "pl": "Polština",
+      "he": "Hebrejština"
+    },
+    "full": {
+      "hi": "Hindština (हिन्दी)",
+      "ps": "Paštština (پښتو)",
+      "pt": "Portugalština (Português)",
+      "hr": "Chorvatština (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "Maďarština (Magyar)",
+      "yi": "Jidiš (ייִדיש)",
+      "hy": "Arménština (Հայերեն)",
+      "yo": "Jorubština (Èdè Yorùbá)",
+      "ia": "Interlingua (Interlingua)",
+      "id": "Indonéština (Indonesia)",
+      "ig": "Igboština (Igbo)",
+      "ii": "Iština (sečuánská) (ꆈꌠꉙ)",
+      "qu": "Kečuánština (Runasimi)",
+      "af": "Afrikánština (Afrikaans)",
+      "ak": "Akanština (Akan)",
+      "is": "Islandština (Íslenska)",
+      "it": "Italština (Italiano)",
+      "am": "Amharština (አማርኛ)",
+      "zh": "Čínština (中文)",
+      "ar": "Arabština (العربية)",
+      "as": "Ásámština (অসমীয়া)",
+      "ja": "Japonština (日本語)",
+      "az": "Ázerbájdžánština (Azərbaycan)",
+      "rm": "Rétorománština (Rumantsch)",
+      "zu": "Zuluština (IsiZulu)",
+      "rn": "Kirundština (Ikirundi)",
+      "ro": "Rumunština (Română)",
+      "be": "Běloruština (Беларуская)",
+      "ru": "Ruština (Русский)",
+      "bg": "Bulharština (Български)",
+      "rw": "Kiňarwandština (Kinyarwanda)",
+      "bm": "Bambarština (Bamanakan)",
+      "bn": "Bengálština (বাংলা)",
+      "jv": "Javánština (Jawa)",
+      "bo": "Tibetština (བོད་སྐད་)",
+      "sa": "Sanskrt (संस्कृत भाषा)",
+      "br": "Bretonština (Brezhoneg)",
+      "bs": "Bosenština (Bosanski)",
+      "sd": "Sindhština (سنڌي)",
+      "se": "Sámština (severní) (Davvisámegiella)",
+      "sg": "Sangština (Sängö)",
+      "sh": "Srbochorvatština (Srpskohrvatski)",
+      "ka": "Gruzínština (ქართული)",
+      "si": "Sinhálština (සිංහල)",
+      "sk": "Slovenština (Slovenčina)",
+      "sl": "Slovinština (Slovenščina)",
+      "sn": "Šonština (ChiShona)",
+      "so": "Somálština (Soomaali)",
+      "ca": "Katalánština (Català)",
+      "ki": "Kikujština (Gikuyu)",
+      "sq": "Albánština (Shqip)",
+      "sr": "Srbština (Српски)",
+      "kk": "Kazaština (Қазақ тілі)",
+      "kl": "Grónština (Kalaallisut)",
+      "ce": "Čečenština (Нохчийн)",
+      "km": "Khmérština (ខ្មែរ)",
+      "su": "Sundština (Basa Sunda)",
+      "kn": "Kannadština (ಕನ್ನಡ)",
+      "sv": "Švédština (Svenska)",
+      "ko": "Korejština (한국어)",
+      "sw": "Svahilština (Kiswahili)",
+      "ks": "Kašmírština (کٲشُر)",
+      "ku": "Kurdština (Kurdî)",
+      "kw": "Kornština (Kernewek)",
+      "ta": "Tamilština (தமிழ்)",
+      "ky": "Kyrgyzština (Кыргызча)",
+      "cs": "Čeština (Čeština)",
+      "te": "Telugština (తెలుగు)",
+      "tg": "Tádžičtina (Тоҷикӣ)",
+      "th": "Thajština (ไทย)",
+      "ti": "Tigrinijština (ትግር)",
+      "cy": "Velština (Cymraeg)",
+      "lb": "Lucemburština (Lëtzebuergesch)",
+      "tk": "Turkmenština (Türkmen dili)",
+      "tl": "Tagalog (Tagalog)",
+      "lg": "Gandština (Luganda)",
+      "to": "Tongánština (Lea fakatonga)",
+      "da": "Dánština (Dansk)",
+      "tr": "Turečtina (Türkçe)",
+      "tt": "Tatarština (Татар)",
+      "de": "Němčina (Deutsch)",
+      "ln": "Lingalština (Lingála)",
+      "lo": "Laoština (ລາວ)",
+      "lt": "Litevština (Lietuvių)",
+      "lu": "Lubu-katanžština (Tshiluba)",
+      "lv": "Lotyština (Latviešu)",
+      "ug": "Ujgurština (ئۇيغۇرچە)",
+      "dz": "Dzongkä (རྫོང་ཁ)",
+      "uk": "Ukrajinština (Українська)",
+      "mg": "Malgaština (Malagasy)",
+      "mi": "Maorština (Te reo Māori)",
+      "ur": "Urdština (اردو)",
+      "mk": "Makedonština (Македонски)",
+      "ml": "Malajálamština (മലയാളം)",
+      "ee": "Eweština (Eʋegbe)",
+      "mn": "Mongolština (Монгол)",
+      "mr": "Maráthština (मराठी)",
+      "uz": "Uzbečtina (O‘zbek)",
+      "ms": "Malajština (Melayu)",
+      "el": "Řečtina (Ελληνικά)",
+      "mt": "Maltština (Malti)",
+      "en": "Angličtina (English)",
+      "eo": "Esperanto (Esperanto)",
+      "my": "Barmština (မြန်မာ)",
+      "es": "Španělština (Español)",
+      "et": "Estonština (Eesti)",
+      "eu": "Baskičtina (Euskara)",
+      "vi": "Vietnamština (Tiếng Việt)",
+      "nb": "Norština (bokmål) (Norsk bokmål)",
+      "nd": "Ndebele (Zimbabwe) (IsiNdebele)",
+      "ne": "Nepálština (नेपाली)",
+      "fa": "Perština (فارسی)",
+      "nl": "Nizozemština (Nederlands)",
+      "ff": "Fulbština (Pulaar)",
+      "nn": "Norština (nynorsk) (Norsk nynorsk)",
+      "no": "Norština (Norsk)",
+      "fi": "Finština (Suomi)",
+      "fo": "Faerština (Føroyskt)",
+      "fr": "Francouzština (Français)",
+      "fy": "Fríština (západní) (Frysk)",
+      "wo": "Wolofština (Wolof)",
+      "ga": "Irština (Gaeilge)",
+      "gd": "Skotská gaelština (Gàidhlig)",
+      "om": "Oromština (Oromoo)",
+      "or": "Urijština (ଓଡ଼ିଆ)",
+      "os": "Osetština (Ирон)",
+      "gl": "Galicijština (Galego)",
+      "gu": "Gudžarátština (ગુજરાતી)",
+      "gv": "Manština (Gaelg)",
+      "xh": "Xhoština (IsiXhosa)",
+      "pa": "Paňdžábština (ਪੰਜਾਬੀ)",
+      "ha": "Hauština (Hausa)",
+      "pl": "Polština (Polski)",
+      "he": "Hebrejština (עברית)"
+    }
+  }
+}

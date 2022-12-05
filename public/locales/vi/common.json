@@ -1,0 +1,1992 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "Câu lạc bộ hình mẫu",
+      "corporate": "Câu lạc bộ doanh nghiệp",
+      "restricted": "Câu lạc bộ hạn chế",
+      "term": "Câu lạc bộ Agora",
+      "pic": "Câu lạc bộ công ích",
+      "open": "Câu lạc bộ công cộng"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "Puerto Rico"
+    },
+    "ps": {
+      "name": "Lãnh thổ Palestine"
+    },
+    "pt": {
+      "name": "Bồ Đào Nha"
+    },
+    "pw": {
+      "name": "Cộng Hoà Palau"
+    },
+    "py": {
+      "name": "Pa-ra-goay"
+    },
+    "qa": {
+      "name": "Ca-ta"
+    },
+    "ad": {
+      "name": "Andorra"
+    },
+    "ae": {
+      "name": "Các Tiểu Vương quốc A-rập Thống nhất"
+    },
+    "af": {
+      "name": "Áp-ga-ni-xtan"
+    },
+    "ag": {
+      "name": "An-ti-gu-a và Ba-bu-đa"
+    },
+    "ai": {
+      "name": "Anguilla"
+    },
+    "al": {
+      "name": "An-ba-ni"
+    },
+    "am": {
+      "name": "Ác-mê-ni-a"
+    },
+    "ao": {
+      "name": "Ăng-gô-la"
+    },
+    "aq": {
+      "name": "Nam Cực"
+    },
+    "ar": {
+      "name": "Ác-hen-ti-na"
+    },
+    "as": {
+      "name": "Đảo Somoa thuộc Mỹ"
+    },
+    "at": {
+      "name": "Áo"
+    },
+    "re": {
+      "name": "RE"
+    },
+    "au": {
+      "name": "Úc"
+    },
+    "aw": {
+      "name": "Dominica"
+    },
+    "ax": {
+      "name": "Quần đảo Aland"
+    },
+    "az": {
+      "name": "Ai-déc-bai-gian"
+    },
+    "ro": {
+      "name": "Ru-ma-ni"
+    },
+    "ba": {
+      "name": "Bô-xni-a Héc-xê-gô-vi-na"
+    },
+    "bb": {
+      "name": "Bác-ba-đốt"
+    },
+    "rs": {
+      "name": "Xéc-bi"
+    },
+    "bd": {
+      "name": "Băng-la-đét"
+    },
+    "be": {
+      "name": "Bỉ"
+    },
+    "ru": {
+      "name": "Nga"
+    },
+    "bf": {
+      "name": "Buốc-ki-na Pha-xô"
+    },
+    "bg": {
+      "name": "Bun-ga-ri"
+    },
+    "rw": {
+      "name": "Ru-an-đa"
+    },
+    "bh": {
+      "name": "Ba-ren"
+    },
+    "bi": {
+      "name": "Bu-run-đi"
+    },
+    "bj": {
+      "name": "Bê-nanh"
+    },
+    "bl": {
+      "name": "Saint Barthélemy"
+    },
+    "bm": {
+      "name": "Bermuda"
+    },
+    "bn": {
+      "name": "Bru-nây"
+    },
+    "bo": {
+      "name": "Bô-li-vi-a"
+    },
+    "sa": {
+      "name": "A-rập Xê-út"
+    },
+    "bq": {
+      "name": "Caribe Hà Lan"
+    },
+    "sb": {
+      "name": "Quần đảo Xô-lô-mông"
+    },
+    "br": {
+      "name": "Bra-xin"
+    },
+    "sc": {
+      "name": "Xây-sen"
+    },
+    "bs": {
+      "name": "Ba-ha-ma"
+    },
+    "sd": {
+      "name": "Xu-đăng"
+    },
+    "bt": {
+      "name": "Bu-tan (Bhutan)"
+    },
+    "se": {
+      "name": "Thụy Điển"
+    },
+    "bv": {
+      "name": "Đảo Bouvet (Na Uy)"
+    },
+    "sg": {
+      "name": "Xin-ga-po"
+    },
+    "bw": {
+      "name": "Bốt-xoa-na"
+    },
+    "sh": {
+      "name": "Saint Helena"
+    },
+    "si": {
+      "name": "Xlô-ven-ni-a"
+    },
+    "by": {
+      "name": "Bê-la-rút"
+    },
+    "sj": {
+      "name": "Svalbard và Jan Mayen"
+    },
+    "bz": {
+      "name": "Bê-li-xê"
+    },
+    "sk": {
+      "name": "Xlô-va-ki-a"
+    },
+    "sl": {
+      "name": "Xi-ê-ra Lê-ôn"
+    },
+    "sm": {
+      "name": "Xan Ma-ri-nô"
+    },
+    "sn": {
+      "name": "Xê-nê-gan"
+    },
+    "so": {
+      "name": "Xô-ma-li"
+    },
+    "ca": {
+      "name": "Ca-na-đa"
+    },
+    "sr": {
+      "name": "Xu-ri-nam"
+    },
+    "cc": {
+      "name": "Quần đảo Cocos"
+    },
+    "ss": {
+      "name": "Nam Sudan"
+    },
+    "cd": {
+      "name": "Cộng hoà dân chủ Côngô"
+    },
+    "st": {
+      "name": "Xao Tô-mê và Prin-xi-pê"
+    },
+    "cf": {
+      "name": "Cộng hòa Trung Phi"
+    },
+    "sv": {
+      "name": "En-san-va-đo"
+    },
+    "cg": {
+      "name": "Công-gô"
+    },
+    "ch": {
+      "name": "Thụy Sĩ"
+    },
+    "sx": {
+      "name": "Sint Maarten (Phần Hà Lan)"
+    },
+    "ci": {
+      "name": "Bờ Biển Ngà"
+    },
+    "sy": {
+      "name": "Xi-ri"
+    },
+    "sz": {
+      "name": "Xoa-di-len"
+    },
+    "ck": {
+      "name": "Quần đảo Cook"
+    },
+    "cl": {
+      "name": "Chi-lê"
+    },
+    "cm": {
+      "name": "Ca-mơ-run"
+    },
+    "cn": {
+      "name": "Trung Quốc"
+    },
+    "co": {
+      "name": "Cô-lôm-bi-a"
+    },
+    "cr": {
+      "name": "Cốt-xta Ri-ca"
+    },
+    "tc": {
+      "name": "Quần đảo Turk và Caicos"
+    },
+    "td": {
+      "name": "Sát"
+    },
+    "cu": {
+      "name": "Cu Ba"
+    },
+    "tf": {
+      "name": "Thuộc Địa Nam của Pháp"
+    },
+    "cv": {
+      "name": "Cáp-ve"
+    },
+    "tg": {
+      "name": "Tô-gô"
+    },
+    "cw": {
+      "name": "Curaçao"
+    },
+    "th": {
+      "name": "Thái Lan"
+    },
+    "cx": {
+      "name": "Đảo Giáng Sinh"
+    },
+    "cy": {
+      "name": "Síp"
+    },
+    "tj": {
+      "name": "Tát-gi-ki-xtan"
+    },
+    "cz": {
+      "name": "Cộng hòa Séc"
+    },
+    "tk": {
+      "name": "Tokelau"
+    },
+    "tl": {
+      "name": "Đông Ti-mo"
+    },
+    "tm": {
+      "name": "Tuốc-mê-ni-xtan"
+    },
+    "tn": {
+      "name": "Tuy-ni-di"
+    },
+    "to": {
+      "name": "Tông-ga"
+    },
+    "tr": {
+      "name": "Thổ Nhĩ Kỳ"
+    },
+    "tt": {
+      "name": "Tri-ni-đát và Tô-ba-gô"
+    },
+    "de": {
+      "name": "Đức"
+    },
+    "tv": {
+      "name": "Tu-va-lu"
+    },
+    "tw": {
+      "name": "Đài Loan"
+    },
+    "dj": {
+      "name": "Gi-bu-ti"
+    },
+    "tz": {
+      "name": "Tan-da-ni-a"
+    },
+    "dk": {
+      "name": "Đan Mạch"
+    },
+    "dm": {
+      "name": "Dominica"
+    },
+    "do": {
+      "name": "Cộng hoà Đô-mi-ni-ca"
+    },
+    "ua": {
+      "name": "U-crai-na"
+    },
+    "ug": {
+      "name": "U-gan-đa"
+    },
+    "dz": {
+      "name": "An-giê-ri"
+    },
+    "um": {
+      "name": "Các đảo nhỏ xa trung tâm thuộc Mỹ"
+    },
+    "ec": {
+      "name": "Ê-cu-a-đo"
+    },
+    "us": {
+      "name": "Hoa Kỳ"
+    },
+    "ee": {
+      "name": "E-xtô-ni-a"
+    },
+    "eg": {
+      "name": "Ai Cập"
+    },
+    "eh": {
+      "name": "Tây Sahara"
+    },
+    "uy": {
+      "name": "U-ru-goay"
+    },
+    "uz": {
+      "name": "U-dơ-bê-ki-xtan"
+    },
+    "va": {
+      "name": "Va-ti-căng"
+    },
+    "er": {
+      "name": "Ê-ri-tơ-rê-a"
+    },
+    "vc": {
+      "name": "Xan Vin-xen và Grê-na-din"
+    },
+    "es": {
+      "name": "Tây Ban Nha"
+    },
+    "et": {
+      "name": "Ê-ti-ô-pi-a"
+    },
+    "ve": {
+      "name": "Vê-nê-zu-ê-la"
+    },
+    "vg": {
+      "name": "Đảo Virgin, thuộc Anh"
+    },
+    "vi": {
+      "name": "Quần đảo Virgin, Mỹ"
+    },
+    "vn": {
+      "name": "Việt Nam"
+    },
+    "vu": {
+      "name": "Va-nu-a-tu"
+    },
+    "fi": {
+      "name": "Phần Lan"
+    },
+    "fj": {
+      "name": "Phi-gi"
+    },
+    "fk": {
+      "name": "Quần đảo Falkland"
+    },
+    "fm": {
+      "name": "Mi-crô-nê-xi-a"
+    },
+    "fo": {
+      "name": "Quần đảo Faroe"
+    },
+    "fr": {
+      "name": "Pháp"
+    },
+    "wf": {
+      "name": "Wallis và Futuna"
+    },
+    "ga": {
+      "name": "Ga-bông"
+    },
+    "gb": {
+      "name": "Vương quốc Anh"
+    },
+    "ws": {
+      "name": "Xa-moa"
+    },
+    "gd": {
+      "name": "Grê-na-đa"
+    },
+    "ge": {
+      "name": "Gru-di-a"
+    },
+    "gf": {
+      "name": "Quiana thuộc Pháp"
+    },
+    "gg": {
+      "name": "Guernsey"
+    },
+    "gh": {
+      "name": "Gha-na"
+    },
+    "gi": {
+      "name": "Gibraltar"
+    },
+    "gl": {
+      "name": "Băng Đảo"
+    },
+    "gm": {
+      "name": "Găm-bi-a"
+    },
+    "gn": {
+      "name": "Ghi-nê"
+    },
+    "gp": {
+      "name": "Goa-đê-lốp"
+    },
+    "gq": {
+      "name": "Ghi-nê Xích-đạo"
+    },
+    "gr": {
+      "name": "Hy Lạp"
+    },
+    "gs": {
+      "name": "Quần đảo Nam Georgia và Nam Sandwich"
+    },
+    "gt": {
+      "name": "Goa-tê-ma-la"
+    },
+    "gu": {
+      "name": "Đảo Gu-am"
+    },
+    "gw": {
+      "name": "Ghi-nê Bít-xao"
+    },
+    "gy": {
+      "name": "Guy-a-na"
+    },
+    "hk": {
+      "name": "Đặc khu hành chính Hồng Kông thuộc CHND Trung Hoa"
+    },
+    "hm": {
+      "name": "Đảo Heard và Quần đảo McDonald"
+    },
+    "hn": {
+      "name": "Hôn-đu-rát"
+    },
+    "hr": {
+      "name": "Crô-a-ti-a"
+    },
+    "ht": {
+      "name": "Ha-i-ti"
+    },
+    "ye": {
+      "name": "Y-ê-men"
+    },
+    "hu": {
+      "name": "Hung-ga-ri"
+    },
+    "id": {
+      "name": "Nam Dương"
+    },
+    "yt": {
+      "name": "YT"
+    },
+    "ie": {
+      "name": "Ai-len"
+    },
+    "il": {
+      "name": "I-xra-en"
+    },
+    "im": {
+      "name": "Đảo Man"
+    },
+    "in": {
+      "name": "Ấn Độ"
+    },
+    "io": {
+      "name": "Thuộc địa Anh tại Ấn Độ Dương"
+    },
+    "za": {
+      "name": "Nam Phi"
+    },
+    "iq": {
+      "name": "I-rắc"
+    },
+    "ir": {
+      "name": "I-ran"
+    },
+    "is": {
+      "name": "Ai-xơ-len"
+    },
+    "it": {
+      "name": "Ý"
+    },
+    "zm": {
+      "name": "Dăm-bi-a"
+    },
+    "je": {
+      "name": "Jersey"
+    },
+    "zw": {
+      "name": "Dim-ba-bu-ê"
+    },
+    "jm": {
+      "name": "Ha-mai-ca"
+    },
+    "jo": {
+      "name": "Gióc-đa-ni"
+    },
+    "jp": {
+      "name": "Nhật Bản"
+    },
+    "ke": {
+      "name": "Kê-ni-a"
+    },
+    "kg": {
+      "name": "Cư-rơ-gư-xtan"
+    },
+    "kh": {
+      "name": "Campuchia"
+    },
+    "ki": {
+      "name": "Ki-ri-ba-ti"
+    },
+    "km": {
+      "name": "Cô-mô"
+    },
+    "kn": {
+      "name": "Xan-kít và Nê-vi"
+    },
+    "kp": {
+      "name": "Bắc Triều Tiên"
+    },
+    "kr": {
+      "name": "Hàn Quốc"
+    },
+    "kw": {
+      "name": "Cô-oét"
+    },
+    "ky": {
+      "name": "Quần đảo Cayman"
+    },
+    "kz": {
+      "name": "Ka-dắc-xtan"
+    },
+    "la": {
+      "name": "Lào"
+    },
+    "lb": {
+      "name": "Li-băng"
+    },
+    "lc": {
+      "name": "Xan Lu-xi"
+    },
+    "li": {
+      "name": "Lich-ten-xtên"
+    },
+    "lk": {
+      "name": "Xri Lan-ca"
+    },
+    "lr": {
+      "name": "Li-bê-ri-a"
+    },
+    "ls": {
+      "name": "Lê-xô-thô"
+    },
+    "lt": {
+      "name": "Li-tu-a-ni-a"
+    },
+    "lu": {
+      "name": "Lúc-xăm-bua"
+    },
+    "lv": {
+      "name": "Lát-vi-a"
+    },
+    "ly": {
+      "name": "Li-bi"
+    },
+    "ma": {
+      "name": "Ma-rốc"
+    },
+    "mc": {
+      "name": "Mô-na-cô"
+    },
+    "md": {
+      "name": "Môn-đô-va"
+    },
+    "me": {
+      "name": "Montenegro"
+    },
+    "mf": {
+      "name": "MF"
+    },
+    "mg": {
+      "name": "Ma-đa-gát-xca"
+    },
+    "mh": {
+      "name": "Quần đảo Mác-san"
+    },
+    "mk": {
+      "name": "Ma-xê-đô-ni-a"
+    },
+    "ml": {
+      "name": "Ma-li"
+    },
+    "mm": {
+      "name": "Mi-an-ma"
+    },
+    "mn": {
+      "name": "Mông Cổ"
+    },
+    "mo": {
+      "name": "Đặc khu hành chính Macao thuộc CHND Trung Hoa"
+    },
+    "mp": {
+      "name": "Quần đảo Bắc Mariana"
+    },
+    "mq": {
+      "name": "MQ"
+    },
+    "mr": {
+      "name": "Mô-ri-ta-ni"
+    },
+    "ms": {
+      "name": "Montserrat"
+    },
+    "mt": {
+      "name": "Man-ta"
+    },
+    "mu": {
+      "name": "Mô-ri-xơ"
+    },
+    "mv": {
+      "name": "Man-đi-vơ"
+    },
+    "mw": {
+      "name": "Ma-la-uy"
+    },
+    "mx": {
+      "name": "Mê-hi-cô"
+    },
+    "my": {
+      "name": "Ma-lay-xi-a"
+    },
+    "mz": {
+      "name": "Mô-dăm-bích"
+    },
+    "na": {
+      "name": "Nam-mi-bi-a"
+    },
+    "nc": {
+      "name": "New Caledonia"
+    },
+    "ne": {
+      "name": "Ni-giê"
+    },
+    "nf": {
+      "name": "Đảo Norfolk"
+    },
+    "ng": {
+      "name": "Ni-giê-ri-a"
+    },
+    "ni": {
+      "name": "Ni-ca-ra-goa"
+    },
+    "nl": {
+      "name": "Hà Lan"
+    },
+    "no": {
+      "name": "Na Uy"
+    },
+    "np": {
+      "name": "Nê-pan"
+    },
+    "nr": {
+      "name": "Nauru"
+    },
+    "nu": {
+      "name": "Niue"
+    },
+    "nz": {
+      "name": "Niu Di-lân"
+    },
+    "om": {
+      "name": "Ô-man"
+    },
+    "pa": {
+      "name": "Pa-na-ma"
+    },
+    "pe": {
+      "name": "Pê-ru"
+    },
+    "pf": {
+      "name": "Polynesia thuộc Pháp"
+    },
+    "pg": {
+      "name": "Pa-pu-a Niu Ghi-nê"
+    },
+    "ph": {
+      "name": "Phi-lip-pin"
+    },
+    "pk": {
+      "name": "Pa-ki-xtan"
+    },
+    "pl": {
+      "name": "Ba Lan"
+    },
+    "pm": {
+      "name": "Saint Pierre và Miquelon"
+    },
+    "pn": {
+      "name": "Quần đảo Pitcairn"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Các giải thưởng cho việc hoàn thành xuất sắc các mục tiêu giáo dục trong chương trình Agora",
+        "title": "Các giải Giáo dục"
+      },
+      "social": {
+        "help": "Các giải thưởng ghi nhận tác động tích cực của bạn trong cộng đồng",
+        "title": "Các giải Tác động xã hội"
+      },
+      "operational": {
+        "help": "Các giải thưởng cho sự xuất sắc trong việc quản lý và thành lập các câu lạc bộ",
+        "title": "Xuất sắc trong công tác quản lý câu lạc bộ"
+      },
+      "community": {
+        "help": "Các giải thưởng cho những đóng góp trong việc phát triển và củng cố cộng đồng Agora",
+        "title": "Các giải Cộng đồng Agora"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "Tìm kiếm",
+      "register": "Đăng ký"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "Tổ chức thành công một Hội nghị Agora khu vực hoặc quốc tế",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "Người tổ chức hội nghị"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "Nhà lãnh đạo đạt chuẩn"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "Diễn giả đạt chuẩn"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "Giải Người hướng dẫn"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "Giành chiến thắng trong một cuộc thi Agora Speakers",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "Quán quân cuộc thi"
+        },
+        "third": {
+          "help": "Về thứ ba trong một cuộc thi Agora Speakers",
+          "image": "awards.individual.contest.third.svg",
+          "title": "Hạng ba cuộc thi"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "Tổ chức thành công một cuộc thi Agora",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "Người tổ chức cuộc thi"
+        },
+        "participant": {
+          "help": "Tham gia một cuộc thi Agora Speakers",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "Chứng nhận tham gia"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "Về nhì trong một cuộc thi Agora Speakers",
+          "image": "awards.individual.contest.second.svg",
+          "title": "Á quân cuộc thi"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "Có sự tiến bộ đáng chú ý nhất",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "Giải Tiến bộ giáo dục"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "Giải Tiếp cận"
+      },
+      "community": {
+        "leadership": {
+          "help": "Thực hiện xuất sắc các dự án cộng đồng",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "Giải Lãnh đạo cộng đồng"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "Sự xuất sắc và tâm huyết trong việc thực hiện sứ mệnh Agora",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "Giải Thành viên nổi bật của Đại sứ"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "Giải Nổi bật Đặc biệt"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "Nhà lãnh đạo xuất sắc"
+        },
+        "communicator": "Người giao tiếp xuất sắc"
+      },
+      "help": {
+        "help": "Luôn tâm huyết vì thành công của câu lạc bộ",
+        "image": "awards.individual.help.svg",
+        "title": "Giải Cống hiến cho thành công của câu lạc bộ"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "Diễn giả xuất sắc trên truyền thông"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "Diễn giả thuyết phục xuất sắc"
+              }
+            },
+            "pr": {
+              "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "Chuyên gia PR xuất sắc"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "Diễn giả dịp đặc biệt xuất sắc"
+              }
+            },
+            "storytelling": {
+              "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "Người kể chuyện xuất sắc"
+            },
+            "educational": {
+              "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "Diễn giả giáo dục xuất sắc"
+            },
+            "business": {
+              "contexts": {
+                "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "Diễn giả kinh doanh xuất sắc"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "Người tư duy phản biện xuất sắc"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "Diễn giả bất chấp trở ngại xuất sắc"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "Diễn giả kinh doanh mạo hiểm xuất sắc"
+            },
+            "project": {
+              "management": {
+                "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "Người quản lý dự án xuất sắc"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "Bậc thầy kỹ năng xã hội xuất sắc"
+              }
+            },
+            "dramatization": {
+              "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "Diễn giả tạo kịch tính xuất sắc"
+            },
+            "humorous": {
+              "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "Diễn giả hài hước xuất sắc"
+            },
+            "leadership": {
+              "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "Nhà lãnh đạo xuất sắc"
+            },
+            "negotiation": {
+              "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "Người đàm phán xuất sắc"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "Hoàn tất thành công {{v0}} Lộ trình giáo dục nâng cao",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "Người kể chuyện bằng hình ảnh xuất sắc"
+              }
+            }
+          },
+          "title": "Diễn giả xuất sắc"
+        },
+        "communicator": {
+          "help": "Hoàn tất thành công toàn bộ Lộ trình giao tiếp",
+          "image": "awards.individual.accomplished.communicator.svg"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "Người lãnh đạo câu lạc bộ"
+        },
+        "founder": {
+          "help": "Thành lập thành công một câu lạc bộ Agora",
+          "image": "awards.individual.club.founder.svg",
+          "title": "Người sáng lập câu lạc bộ"
+        },
+        "officer": {
+          "help": "Lãnh đạo câu lạc bộ thành công trong suốt một năm",
+          "image": "awards.individual.club.officer.svg",
+          "title": "Lãnh đạo câu lạc bộ"
+        },
+        "growth": {
+          "help": "Xuất sắc trong việc hướng dẫn và mở các câu lạc bộ Agora trong nước",
+          "image": "awards.individual.club.growth.svg",
+          "title": "Giải Phát triển câu lạc bộ"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "Là thành viên liên tục trong một câu lạc bộ trong 5 năm",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "Giải Kỷ niệm"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "Giải Thành viên của tháng"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "Tham dự các cuộc họp liên tục và tích cực",
+        "image": "awards.individual.attendance.svg",
+        "title": "Giải cống hiến"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Giải thưởng Nhà đổi mới Agora"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Người cầm đuốc Agora"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "Giải Người thúc đẩy Agora"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "Giải Người tổ chức hội nghị"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "Giải Người tiên phong của quốc gia"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "Giải Giáo dục Xuất sắc"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "Giải Tiếp cận giáo dục"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "Giải Người tiên phong của thành phố"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "Giải Tiếp cận Xuất sắc"
+        }
+      },
+      "media": {
+        "help": "Xuất sắc trong việc quảng bá sứ mệnh và hoạt động của Agora trên các phương tiện truyền thông",
+        "image": "awards.club.media.svg",
+        "title": "Giải Truyền thông Xuất sắc"
+      },
+      "membership": {
+        "growth": "Giải Tăng trưởng thành viên",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "Giải Giữ chân thành viên"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "Thực hiện xuất sắc các dự án cộng đồng",
+          "image": "awards.club.community.leadership.svg",
+          "title": "Giải Lãnh đạo cộng đồng"
+        }
+      },
+      "content": {
+        "help": "Xuất sắc trong việc tạo các nội dung mới lạ cho cộng đồng Agora",
+        "image": "awards.club.content.svg",
+        "title": "Giải Sáng tạo nội dung"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "Giải Người đổi mới câu lạc bộ"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "Giải Nổi bật Đặc biệt"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "Giải thưởng của Đại sứ"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "Giải Hướng dẫn câu lạc bộ"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "Giải Câu lạc bộ của tháng"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "Tỷ lệ thành viên hài lòng về câu lạc bộ vượt 90%",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "Giải vàng Thành viên hài lòng"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "Tỷ lệ thành viên hài lòng về câu lạc bộ vượt 75%",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "Giải bạc Thành viên hài lòng"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "Giải Thành viên câu lạc bộ hài lòng"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "Tăng trưởng thành viên trên 20 người",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "Giải vàng Tăng trưởng thành viên"
+          }
+        },
+        "anniversary": {
+          "help": "Câu lạc bộ hoạt động liên tục và thành công trong suốt 10 năm",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "Giải Kỷ niệm Vàng"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "Giải Câu lạc bộ tiêu biểu"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "Tăng trưởng thành viên trên 10 người",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "Giải bạc Phát triển thành viên"
+          }
+        },
+        "anniversary": {
+          "help": "Câu lạc bộ hoạt động liên tục và thành công trong suốt 5 năm",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "Giải Kỷ niệm Bạc"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "Giải Kỷ niệm Câu lạc bộ - {{v0}} năm"
+      }
+    },
+    "place": {
+      "participation": "Gia nhập"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "Là người đặt câu hỏi hiếu kỳ và sắc sảo nhất trong một phần họp bắn tỉa",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "Người tham gia bắn tỉa hiếu kỳ nhất"
+        },
+        "survivor": {
+          "help": "Sống sót sau phần bắn tỉa trong một cuộc họp",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "Người sống sót sau bắn tỉa"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "Là người trình bày và đặt câu hỏi hay nhất trong hội đàm",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "Người tham gia hội đàm tốt nhất"
+        },
+        "role": {
+          "help": "Thực hiện xuất sắc vai trò cuộc họp",
+          "image": "awards.meeting.best.role.svg",
+          "title": "Vai trò cuộc họp tốt nhất"
+        },
+        "speaker": {
+          "help": "Thực hiện bài nói chuẩn bị sẵn tốt nhất tại một cuộc họp câu lạc bộ",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "Diễn giả cuộc họp tốt nhất"
+        },
+        "hot": {
+          "response": {
+            "help": "Ứng biến tốt nhất tại một buổi họp câu lạc bộ",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "Diễn giả cuộc họp ứng biến tốt nhất"
+          }
+        },
+        "speechwriter": {
+          "help": "Soạn bài nói tốt nhất trong một cuộc họp",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "Người soạn bài nói tốt nhất cuộc họp"
+        },
+        "evaluator": {
+          "help": "Nhận xét tốt nhất tại một cuộc họp câu lạc bộ",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "Người nhận xét cuộc họp tốt nhất"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "Tổ chức Agora Speakers International là một tổ chức giáo dục từ thiện phi tôn giáo của châu Âu, giúp mọi người trở thành người giao tiếp xuất sắc và nhà lãnh đạo tự tin, những người sẽ tích cực xây dựng một thế giới tốt đẹp hơn."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "Khác"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "Ngày",
+      "country": "Quốc gia",
+      "address": "Địa chỉ",
+      "city": "Thành phố",
+      "awards": "Giải thưởng nhận được",
+      "state": "Tỉnh thành",
+      "event": "Sự kiện",
+      "region": "Vùng",
+      "points": {
+        "total": "Số điểm nhận được (tổng)",
+        "year": "Số điểm nhận được (năm nay)",
+        "name": "Điểm"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "Vui lòng nêu rõ ngôn ngữ hoặc các ngôn ngữ sẽ được sử dụng trong câu lạc bộ (ví dụ: tiếng Anh)"
+      },
+      "charter": {
+        "date": "Ngày thành lập",
+        "help": "Ngày thành lập phải là một ngày trong tương lai, nhưng không xa hơn 30 ngày."
+      },
+      "founder": {
+        "name": "Người sáng lập câu lạc bộ (tên đầy đủ)",
+        "email": "Email của người sáng lập"
+      },
+      "fee": {
+        "title": "Phí thành viên câu lạc bộ (nếu có)."
+      },
+      "banner": "Biểu ngữ",
+      "restrictions": {
+        "guests": {
+          "input": "Vui lòng mô tả loại hạn chế nào sẽ có đối với việc làm khách tham dự câu lạc bộ (nếu có)"
+        },
+        "membership": {
+          "input": "Vui lòng mô tả loại hạn chế nào sẽ có đối với việc gia nhập làm thành viên câu lạc bộ (nếu có). Nếu bạn đang đăng ký một Câu lạc bộ thiếu niên, vui lòng cho biết độ tuổi"
+        }
+      },
+      "type": {
+        "help": "Thông tin thêm về các loại câu lạc bộ khác nhau tại đây.",
+        "input": "Loại câu lạc bộ"
+      },
+      "points": {
+        "date": "Ngày hoạt động",
+        "action": "Hoạt động của câu lạc bộ"
+      },
+      "token": "Token bí mật của câu lạc bộ",
+      "number": "Mã câu lạc bộ",
+      "assets": "Tài sản của câu lạc bộ",
+      "awards": "Giải thưởng của câu lạc bộ",
+      "contact": {
+        "help": {
+          "1": "Thông tin liên hệ của câu lạc bộ. Phải là email hoặc số điện thoại.",
+          "2": "Thông tin liên hệ bổ sung của câu lạc bộ - phải khác với thông tin trước đó và có thể là một email/số điện thoại khác, hoặc một trang web, nhóm Facebook, nhóm Meetup, v.v."
+        },
+        "title": "Thông tin liên hệ"
+      },
+      "name": "Tên câu lạc bộ",
+      "logo": {
+        "title": "Bạn có thể tải lên logo riêng, hoặc nếu bạn chưa có, chúng tôi sẽ tự động tạo một logo cho câu lạc bộ của bạn."
+      },
+      "meeting": {
+        "schedule": "Lịch họp",
+        "info": "Thông tin thêm"
+      }
+    },
+    "personal": {
+      "participation": {
+        "input": "Bạn quan tâm đến hình thức tham gia nào?",
+        "online": "Cuộc họp trực tuyến",
+        "physical": "Cuộc họp thực tế"
+      },
+      "languages": {
+        "interested": "Bạn quan tâm đến ngôn ngữ nào?"
+      },
+      "joined": "Ngày gia nhập",
+      "facebook": "Liên kết đến hồ sơ Facebook",
+      "roles": {
+        "date": "Ngày",
+        "role": "Vai trò",
+        "taken": "Vai trò đã đảm nhận",
+        "club": "Câu lạc bộ"
+      },
+      "speeches": {
+        "persuasive": "Bài nói thuyết phục",
+        "general": "Bài nói với mục đích chung",
+        "storytelling": "Cuộc thi diễn thuyết kể chuyện",
+        "educational": "Giáo dục",
+        "business": "Bài thuyết trình kinh doanh",
+        "interested": "Bạn muốn học những dạng bài thuyết trình/bài nói nào?",
+        "media": "Vlog và sản xuất truyền thông",
+        "sales": "Bán hàng",
+        "humorous": "Bài nói hài hước và hài kịch"
+      },
+      "privacy": "Tôi đồng ý với các điều khoản và điều kiện của trang web này và Chính sách Quyền riêng tư của Agora Speakers International",
+      "history": {
+        "date": "Ngày",
+        "club": "Tên câu lạc bộ",
+        "event": "Sự kiện"
+      },
+      "linkedin": "Liên kết đến hồ sơ Linkedin",
+      "skills": "Bạn muốn cải thiện những kỹ năng nào sau đây?",
+      "number": "Mã thành viên",
+      "password": {
+        "input": "Mật khẩu",
+        "verify": "Nhập lại mật khẩu để xác minh"
+      },
+      "clubs": {
+        "role": "Vai trò"
+      },
+      "name": {
+        "address": {
+          "help": "Chúng tôi nên gọi bạn như thế nào trong trao đổi (chẳng hạn như khi gửi email cho bạn)?",
+          "field": "Tên liên lạc ưa thích:"
+        },
+        "certificates": {
+          "help": "Tên bạn nên hiển thị như thế nào trên các chứng nhận và giải thưởng bạn nhận được?",
+          "input": "Tên ghi trên chứng nhận ưa thích"
+        },
+        "online": {
+          "help": "Tên bạn nên hiển thị như thế nào trên các hệ thống trực tuyến, diễn đàn, v.v. của chúng tôi?",
+          "input": "Tên trực tuyến ưa thích"
+        },
+        "full": "Họ tên đầy đủ"
+      },
+      "principles": {
+        "agreement": "Vui lòng xác nhận bạn đồng ý với các nguyên tắc cốt lõi của chúng tôi"
+      },
+      "position": "Vị trí hiện tại trong câu lạc bộ",
+      "interests": {
+        "11": {
+          "language": "Tôi muốn cải thiện kỹ năng ngoại ngữ của mình"
+        },
+        "01": {
+          "curious": "Tôi chỉ tò mò về tổ chức"
+        },
+        "12": {
+          "contests": "Tôi muốn tranh tài trong các cuộc thi do Agora Speakers International tổ chức"
+        },
+        "02": {
+          "confidence": "Tôi muốn cải thiện sự tự tin của mình"
+        },
+        "13": {
+          "critical": "Tôi muốn học cách tư duy phản biện"
+        },
+        "03": {
+          "communicate": "Tôi muốn học cách giao tiếp hiệu quả hơn"
+        },
+        "14": {
+          "friends": "Tôi muốn gặp gỡ mọi người và kết bạn mới"
+        },
+        "04": {
+          "speak": "Tôi muốn cải thiện kỹ năng nói chuyện trước công chúng của mình"
+        },
+        "15": {
+          "cooperation": "Tôi quan tâm đến các hoạt động trao đổi văn hóa và hợp tác giữa các nền văn hóa"
+        },
+        "question": "Bạn quan tâm đến điều gì ở Agora Speakers International?",
+        "05": {
+          "leadership": "Tôi muốn cải thiện kỹ năng lãnh đạo của mình"
+        },
+        "16": {
+          "startclub": "Tôi muốn mở một câu lạc bộ Agora ở thành phố của mình"
+        },
+        "06": {
+          "networking": "Tôi quan tâm đến việc giao lưu kết nối về chuyên môn"
+        },
+        "17": {
+          "ambassador": "Tôi muốn trở thành Đại sứ Agora cho đất nước mình"
+        },
+        "07": {
+          "presentations": "Tôi quan tâm đến việc thực hiện các bài thuyết trình kinh doanh"
+        },
+        "18": {
+          "partnership": "Tôi quan tâm đến mối quan hệ đối tác giữa tổ chức của mình và Agora Speakers International"
+        },
+        "08": {
+          "events": "Tôi quan tâm đến các hội thảo, hội nghị chuyên đề và sự kiện các bạn tổ chức"
+        },
+        "09": {
+          "debating": "Tôi quan tâm đến việc phản biện và tranh luận"
+        },
+        "10": {
+          "community": "Tôi muốn tạo nên sự khác biệt trong cộng đồng của mình"
+        }
+      },
+      "email": "Email"
+    },
+    "meeting": {
+      "date": "Ngày họp",
+      "number": "Mã cuộc họp",
+      "venue": {
+        "name": "Tên địa điểm"
+      },
+      "address": {
+        "input": "Địa chỉ của địa điểm họp"
+      },
+      "online": {
+        "software": "Phần mềm họp",
+        "link": "Liên kết tham gia",
+        "id": "ID cuộc họp trực tuyến",
+        "title": "Thông tin về cuộc họp trực tuyến",
+        "passowrd": "Mật khẩu tham gia"
+      },
+      "theme": "Chủ đề cuộc họp (nếu có)",
+      "time": "Thời gian họp"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) Bản quyền của Agora Speakers International. Đã đăng ký bản quyền. Những tài liệu và tài sản của Agora chỉ được sử dụng theo các điều khoản và điều kiện của chúng tôi"
+    },
+    "terms": "Điều khoản và Điều kiện",
+    "legal": {
+      "notice": "Thông tin pháp lý"
+    },
+    "privacy": {
+      "policy": "Chính sách quyền riêng tư"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "Tiếng Hindi",
+      "ps": "Tiếng Pashto",
+      "pt": "Tiếng Bồ Đào Nha",
+      "hr": "Tiếng Croatia",
+      "pt_br": "Brazilian",
+      "hu": "Tiếng Hungary",
+      "yi": "Tiếng Yiddish",
+      "hy": "Tiếng Armenia",
+      "yo": "Tiếng Yoruba",
+      "ia": "Tiếng Khoa Học Quốc Tế",
+      "id": "Tiếng Indonesia",
+      "ig": "Tiếng Igbo",
+      "ii": "Tiếng Di Tứ Xuyên",
+      "qu": "Tiếng Quechua",
+      "af": "Tiếng Afrikaans",
+      "ak": "Tiếng Akan",
+      "is": "Tiếng Iceland",
+      "it": "Tiếng Italy",
+      "am": "Tiếng Amharic",
+      "zh": "Tiếng Trung",
+      "ar": "Tiếng Ả Rập",
+      "as": "Tiếng Assam",
+      "ja": "Tiếng Nhật",
+      "az": "Tiếng Azerbaijan",
+      "rm": "Tiếng Romansh",
+      "zu": "Tiếng Zulu",
+      "rn": "Tiếng Rundi",
+      "ro": "Tiếng Romania",
+      "be": "Tiếng Belarus",
+      "ru": "Tiếng Nga",
+      "bg": "Tiếng Bulgaria",
+      "rw": "Tiếng Kinyarwanda",
+      "bm": "Tiếng Bambara",
+      "bn": "Tiếng Bangla",
+      "jv": "Tiếng Java",
+      "bo": "Tiếng Tây Tạng",
+      "sa": "Tiếng Phạn",
+      "br": "Tiếng Breton",
+      "bs": "Tiếng Bosnia",
+      "sd": "Tiếng Sindhi",
+      "se": "Tiếng Sami Miền Bắc",
+      "sg": "Tiếng Sango",
+      "sh": "Tiếng Serbo-Croatia",
+      "ka": "Tiếng Georgia",
+      "si": "Tiếng Sinhala",
+      "sk": "Tiếng Slovak",
+      "sl": "Tiếng Slovenia",
+      "sn": "Tiếng Shona",
+      "so": "Tiếng Somali",
+      "ca": "Tiếng Catalan",
+      "ki": "Tiếng Kikuyu",
+      "sq": "Tiếng Albania",
+      "sr": "Tiếng Serbia",
+      "kk": "Tiếng Kazakh",
+      "kl": "Tiếng Kalaallisut",
+      "ce": "Tiếng Chechen",
+      "km": "Tiếng Khmer",
+      "su": "Tiếng Sunda",
+      "kn": "Tiếng Kannada",
+      "sv": "Tiếng Thụy Điển",
+      "ko": "Tiếng Hàn",
+      "sw": "Tiếng Swahili",
+      "ks": "Tiếng Kashmir",
+      "ku": "Tiếng Kurd",
+      "kw": "Tiếng Cornwall",
+      "ta": "Tiếng Tamil",
+      "ky": "Tiếng Kyrgyz",
+      "cs": "Tiếng Séc",
+      "te": "Tiếng Telugu",
+      "tg": "Tiếng Tajik",
+      "th": "Tiếng Thái",
+      "ti": "Tiếng Tigrinya",
+      "cy": "Tiếng Wales",
+      "lb": "Tiếng Luxembourg",
+      "tk": "Tiếng Turkmen",
+      "tl": "Tiếng Tagalog",
+      "lg": "Tiếng Ganda",
+      "to": "Tiếng Tonga",
+      "da": "Tiếng Đan Mạch",
+      "tr": "Tiếng Thổ Nhĩ Kỳ",
+      "tt": "Tiếng Tatar",
+      "de": "Tiếng Đức",
+      "ln": "Tiếng Lingala",
+      "lo": "Tiếng Lào",
+      "lt": "Tiếng Litva",
+      "lu": "Tiếng Luba-Katanga",
+      "lv": "Tiếng Latvia",
+      "ug": "Tiếng Uyghur",
+      "dz": "Tiếng Dzongkha",
+      "uk": "Tiếng Ukraina",
+      "mg": "Tiếng Malagasy",
+      "mi": "Tiếng Maori",
+      "ur": "Tiếng Urdu",
+      "mk": "Tiếng Macedonia",
+      "ml": "Tiếng Malayalam",
+      "ee": "Tiếng Ewe",
+      "mn": "Tiếng Mông Cổ",
+      "mr": "Tiếng Marathi",
+      "uz": "Tiếng Uzbek",
+      "ms": "Tiếng Mã Lai",
+      "el": "Tiếng Hy Lạp",
+      "mt": "Tiếng Malta",
+      "en": "Tiếng Anh",
+      "eo": "Tiếng Quốc Tế Ngữ",
+      "my": "Tiếng Miến Điện",
+      "es": "Tiếng Tây Ban Nha",
+      "et": "Tiếng Estonia",
+      "eu": "Tiếng Basque",
+      "vi": "Tiếng Việt",
+      "nb": "Tiếng Na Uy (Bokmål)",
+      "nd": "Tiếng Ndebele Miền Bắc",
+      "ne": "Tiếng Nepal",
+      "fa": "Tiếng Ba Tư",
+      "nl": "Tiếng Hà Lan",
+      "ff": "Tiếng Fulah",
+      "nn": "Tiếng Na Uy (Nynorsk)",
+      "no": "Tiếng Na Uy",
+      "fi": "Tiếng Phần Lan",
+      "fo": "Tiếng Faroe",
+      "fr": "Tiếng Pháp",
+      "fy": "Tiếng Frisia",
+      "wo": "Tiếng Wolof",
+      "ga": "Tiếng Ireland",
+      "gd": "Tiếng Gael Scotland",
+      "om": "Tiếng Oromo",
+      "or": "Tiếng Odia",
+      "os": "Tiếng Ossetic",
+      "gl": "Tiếng Galician",
+      "gu": "Tiếng Gujarati",
+      "gv": "Tiếng Manx",
+      "xh": "Tiếng Xhosa",
+      "pa": "Tiếng Punjab",
+      "ha": "Tiếng Hausa",
+      "pl": "Tiếng Ba Lan",
+      "he": "Tiếng Do Thái"
+    },
+    "full": {
+      "hi": "Tiếng Hindi (हिन्दी)",
+      "ps": "Tiếng Pashto (پښتو)",
+      "pt": "Tiếng Bồ Đào Nha (Português)",
+      "hr": "Tiếng Croatia (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "Tiếng Hungary (Magyar)",
+      "yi": "Tiếng Yiddish (ייִדיש)",
+      "hy": "Tiếng Armenia (Հայերեն)",
+      "yo": "Tiếng Yoruba (Èdè Yorùbá)",
+      "ia": "Tiếng Khoa Học Quốc Tế (Interlingua)",
+      "id": "Tiếng Indonesia (Indonesia)",
+      "ig": "Tiếng Igbo (Igbo)",
+      "ii": "Tiếng Di Tứ Xuyên (ꆈꌠꉙ)",
+      "qu": "Tiếng Quechua (Runasimi)",
+      "af": "Tiếng Afrikaans (Afrikaans)",
+      "ak": "Tiếng Akan (Akan)",
+      "is": "Tiếng Iceland (Íslenska)",
+      "it": "Tiếng Italy (Italiano)",
+      "am": "Tiếng Amharic (አማርኛ)",
+      "zh": "Tiếng Trung (中文)",
+      "ar": "Tiếng Ả Rập (العربية)",
+      "as": "Tiếng Assam (অসমীয়া)",
+      "ja": "Tiếng Nhật (日本語)",
+      "az": "Tiếng Azerbaijan (Azərbaycan)",
+      "rm": "Tiếng Romansh (Rumantsch)",
+      "zu": "Tiếng Zulu (IsiZulu)",
+      "rn": "Tiếng Rundi (Ikirundi)",
+      "ro": "Tiếng Romania (Română)",
+      "be": "Tiếng Belarus (Беларуская)",
+      "ru": "Tiếng Nga (Русский)",
+      "bg": "Tiếng Bulgaria (Български)",
+      "rw": "Tiếng Kinyarwanda (Kinyarwanda)",
+      "bm": "Tiếng Bambara (Bamanakan)",
+      "bn": "Tiếng Bangla (বাংলা)",
+      "jv": "Tiếng Java (Jawa)",
+      "bo": "Tiếng Tây Tạng (བོད་སྐད་)",
+      "sa": "Tiếng Phạn (संस्कृत भाषा)",
+      "br": "Tiếng Breton (Brezhoneg)",
+      "bs": "Tiếng Bosnia (Bosanski)",
+      "sd": "Tiếng Sindhi (سنڌي)",
+      "se": "Tiếng Sami Miền Bắc (Davvisámegiella)",
+      "sg": "Tiếng Sango (Sängö)",
+      "sh": "Tiếng Serbo-Croatia (Srpskohrvatski)",
+      "ka": "Tiếng Georgia (ქართული)",
+      "si": "Tiếng Sinhala (සිංහල)",
+      "sk": "Tiếng Slovak (Slovenčina)",
+      "sl": "Tiếng Slovenia (Slovenščina)",
+      "sn": "Tiếng Shona (ChiShona)",
+      "so": "Tiếng Somali (Soomaali)",
+      "ca": "Tiếng Catalan (Català)",
+      "ki": "Tiếng Kikuyu (Gikuyu)",
+      "sq": "Tiếng Albania (Shqip)",
+      "sr": "Tiếng Serbia (Српски)",
+      "kk": "Tiếng Kazakh (Қазақ тілі)",
+      "kl": "Tiếng Kalaallisut (Kalaallisut)",
+      "ce": "Tiếng Chechen (Нохчийн)",
+      "km": "Tiếng Khmer (ខ្មែរ)",
+      "su": "Tiếng Sunda (Basa Sunda)",
+      "kn": "Tiếng Kannada (ಕನ್ನಡ)",
+      "sv": "Tiếng Thụy Điển (Svenska)",
+      "ko": "Tiếng Hàn (한국어)",
+      "sw": "Tiếng Swahili (Kiswahili)",
+      "ks": "Tiếng Kashmir (کٲشُر)",
+      "ku": "Tiếng Kurd (Kurdî)",
+      "kw": "Tiếng Cornwall (Kernewek)",
+      "ta": "Tiếng Tamil (தமிழ்)",
+      "ky": "Tiếng Kyrgyz (Кыргызча)",
+      "cs": "Tiếng Séc (Čeština)",
+      "te": "Tiếng Telugu (తెలుగు)",
+      "tg": "Tiếng Tajik (Тоҷикӣ)",
+      "th": "Tiếng Thái (ไทย)",
+      "ti": "Tiếng Tigrinya (ትግር)",
+      "cy": "Tiếng Wales (Cymraeg)",
+      "lb": "Tiếng Luxembourg (Lëtzebuergesch)",
+      "tk": "Tiếng Turkmen (Türkmen dili)",
+      "tl": "Tiếng Tagalog (Tagalog)",
+      "lg": "Tiếng Ganda (Luganda)",
+      "to": "Tiếng Tonga (Lea fakatonga)",
+      "da": "Tiếng Đan Mạch (Dansk)",
+      "tr": "Tiếng Thổ Nhĩ Kỳ (Türkçe)",
+      "tt": "Tiếng Tatar (Татар)",
+      "de": "Tiếng Đức (Deutsch)",
+      "ln": "Tiếng Lingala (Lingála)",
+      "lo": "Tiếng Lào (ລາວ)",
+      "lt": "Tiếng Litva (Lietuvių)",
+      "lu": "Tiếng Luba-Katanga (Tshiluba)",
+      "lv": "Tiếng Latvia (Latviešu)",
+      "ug": "Tiếng Uyghur (ئۇيغۇرچە)",
+      "dz": "Tiếng Dzongkha (རྫོང་ཁ)",
+      "uk": "Tiếng Ukraina (Українська)",
+      "mg": "Tiếng Malagasy (Malagasy)",
+      "mi": "Tiếng Maori (Te reo Māori)",
+      "ur": "Tiếng Urdu (اردو)",
+      "mk": "Tiếng Macedonia (Македонски)",
+      "ml": "Tiếng Malayalam (മലയാളം)",
+      "ee": "Tiếng Ewe (Eʋegbe)",
+      "mn": "Tiếng Mông Cổ (Монгол)",
+      "mr": "Tiếng Marathi (मराठी)",
+      "uz": "Tiếng Uzbek (O‘zbek)",
+      "ms": "Tiếng Mã Lai (Melayu)",
+      "el": "Tiếng Hy Lạp (Ελληνικά)",
+      "mt": "Tiếng Malta (Malti)",
+      "en": "Tiếng Anh (English)",
+      "eo": "Tiếng Quốc Tế Ngữ (Esperanto)",
+      "my": "Tiếng Miến Điện (မြန်မာ)",
+      "es": "Tiếng Tây Ban Nha (Español)",
+      "et": "Tiếng Estonia (Eesti)",
+      "eu": "Tiếng Basque (Euskara)",
+      "vi": "Tiếng Việt (Tiếng Việt)",
+      "nb": "Tiếng Na Uy (Bokmål) (Norsk bokmål)",
+      "nd": "Tiếng Ndebele Miền Bắc (IsiNdebele)",
+      "ne": "Tiếng Nepal (नेपाली)",
+      "fa": "Tiếng Ba Tư (فارسی)",
+      "nl": "Tiếng Hà Lan (Nederlands)",
+      "ff": "Tiếng Fulah (Pulaar)",
+      "nn": "Tiếng Na Uy (Nynorsk) (Norsk nynorsk)",
+      "no": "Tiếng Na Uy (Norsk)",
+      "fi": "Tiếng Phần Lan (Suomi)",
+      "fo": "Tiếng Faroe (Føroyskt)",
+      "fr": "Tiếng Pháp (Français)",
+      "fy": "Tiếng Frisia (Frysk)",
+      "wo": "Tiếng Wolof (Wolof)",
+      "ga": "Tiếng Ireland (Gaeilge)",
+      "gd": "Tiếng Gael Scotland (Gàidhlig)",
+      "om": "Tiếng Oromo (Oromoo)",
+      "or": "Tiếng Odia (ଓଡ଼ିଆ)",
+      "os": "Tiếng Ossetic (Ирон)",
+      "gl": "Tiếng Galician (Galego)",
+      "gu": "Tiếng Gujarati (ગુજરાતી)",
+      "gv": "Tiếng Manx (Gaelg)",
+      "xh": "Tiếng Xhosa (IsiXhosa)",
+      "pa": "Tiếng Punjab (ਪੰਜਾਬੀ)",
+      "ha": "Tiếng Hausa (Hausa)",
+      "pl": "Tiếng Ba Lan (Polski)",
+      "he": "Tiếng Do Thái (עברית)"
+    }
+  }
+}

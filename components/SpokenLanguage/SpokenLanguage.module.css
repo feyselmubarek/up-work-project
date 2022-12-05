@@ -1,0 +1,17 @@
+.langListBox {
+  width: 100%;
+  max-width: 22em;
+}
+
+.help {
+  font-size: 0.75em;
+  color: #ce3c17;
+}
+
+.errorBorder {
+  border-color: #ce3c17;
+}
+
+.list {
+  max-height: 14em;
+}

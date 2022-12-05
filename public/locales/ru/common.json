@@ -1,0 +1,2020 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "Справочный Клуб",
+      "corporate": "Корпоративный Клуб",
+      "restricted": "Ограниченный Клуб",
+      "term": "Клуб Agora",
+      "pic": "Клуб с Общественным Интересом",
+      "open": "Открытый Общий Клуб"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "Пуэрто-Рико"
+    },
+    "ps": {
+      "name": "Палестинская автономия"
+    },
+    "pt": {
+      "name": "Португалия"
+    },
+    "pw": {
+      "name": "Палау"
+    },
+    "py": {
+      "name": "Парагвай"
+    },
+    "qa": {
+      "name": "Катар"
+    },
+    "ad": {
+      "name": "Андорра"
+    },
+    "ae": {
+      "name": "Объединенные Арабские Эмираты"
+    },
+    "af": {
+      "name": "Афганистан"
+    },
+    "ag": {
+      "name": "Антигуа и Барбуда"
+    },
+    "ai": {
+      "name": "Ангуилла"
+    },
+    "al": {
+      "name": "Албания"
+    },
+    "am": {
+      "name": "Армения"
+    },
+    "ao": {
+      "name": "Ангола"
+    },
+    "aq": {
+      "name": "Антарктика"
+    },
+    "ar": {
+      "name": "Аргентина"
+    },
+    "as": {
+      "name": "Американское Самоа"
+    },
+    "at": {
+      "name": "Австрия"
+    },
+    "re": {
+      "name": "Реюньон"
+    },
+    "au": {
+      "name": "Австралия"
+    },
+    "aw": {
+      "name": "Аруба"
+    },
+    "ax": {
+      "name": "Аландские острова"
+    },
+    "az": {
+      "name": "Азербайджан"
+    },
+    "ro": {
+      "name": "Румыния"
+    },
+    "ba": {
+      "name": "Босния и Герцеговина"
+    },
+    "bb": {
+      "name": "Барбадос"
+    },
+    "rs": {
+      "name": "Сербия"
+    },
+    "bd": {
+      "name": "Бангладеш"
+    },
+    "be": {
+      "name": "Бельгия"
+    },
+    "ru": {
+      "name": "Россия"
+    },
+    "bf": {
+      "name": "Буркина Фасо"
+    },
+    "bg": {
+      "name": "Болгария"
+    },
+    "rw": {
+      "name": "Руанда"
+    },
+    "bh": {
+      "name": "Бахрейн"
+    },
+    "bi": {
+      "name": "Бурунди"
+    },
+    "bj": {
+      "name": "Бенин"
+    },
+    "bl": {
+      "name": "Остров Святого Бартоломея"
+    },
+    "bm": {
+      "name": "Бермудские Острова"
+    },
+    "bn": {
+      "name": "Бруней Даруссалам"
+    },
+    "bo": {
+      "name": "Боливия"
+    },
+    "sa": {
+      "name": "Саудовская Аравия"
+    },
+    "bq": {
+      "name": "Бонайре, Синт-Эстатиус и Саба"
+    },
+    "sb": {
+      "name": "Соломоновы Острова"
+    },
+    "br": {
+      "name": "Бразилия"
+    },
+    "sc": {
+      "name": "Сейшельские Острова"
+    },
+    "bs": {
+      "name": "Багамские острова"
+    },
+    "sd": {
+      "name": "Судан"
+    },
+    "bt": {
+      "name": "Бутан"
+    },
+    "se": {
+      "name": "Швеция"
+    },
+    "bv": {
+      "name": "Остров Буве"
+    },
+    "sg": {
+      "name": "Сингапур"
+    },
+    "bw": {
+      "name": "Ботсвана"
+    },
+    "sh": {
+      "name": "Остров Святой Елены"
+    },
+    "si": {
+      "name": "Словения"
+    },
+    "by": {
+      "name": "Беларусь"
+    },
+    "sj": {
+      "name": "Свальбард и Ян-Майен"
+    },
+    "bz": {
+      "name": "Белиз"
+    },
+    "sk": {
+      "name": "Словакия"
+    },
+    "sl": {
+      "name": "Сьерра-Леоне"
+    },
+    "sm": {
+      "name": "Сан-Марино"
+    },
+    "sn": {
+      "name": "Сенегал"
+    },
+    "so": {
+      "name": "Сомали"
+    },
+    "ca": {
+      "name": "Канада"
+    },
+    "sr": {
+      "name": "Суринам"
+    },
+    "cc": {
+      "name": "Кокосовые острова"
+    },
+    "ss": {
+      "name": "Южный Судан"
+    },
+    "cd": {
+      "name": "Демократическая Республика Конго"
+    },
+    "st": {
+      "name": "Сан-Томе и Принсипи"
+    },
+    "cf": {
+      "name": "Центрально-Африканская Республика"
+    },
+    "sv": {
+      "name": "Сальвадор"
+    },
+    "cg": {
+      "name": "Конго"
+    },
+    "ch": {
+      "name": "Швейцария"
+    },
+    "sx": {
+      "name": "Синт-Mартен (голландская Часть)"
+    },
+    "ci": {
+      "name": "Кот д’Ивуар"
+    },
+    "sy": {
+      "name": "Сирийская Арабская Республика"
+    },
+    "sz": {
+      "name": "Свазиленд"
+    },
+    "ck": {
+      "name": "Острова Кука"
+    },
+    "cl": {
+      "name": "Чили"
+    },
+    "cm": {
+      "name": "Камерун"
+    },
+    "cn": {
+      "name": "Китай"
+    },
+    "co": {
+      "name": "Колумбия"
+    },
+    "cr": {
+      "name": "Коста-Рика"
+    },
+    "tc": {
+      "name": "Острова Тёркс и Кайкос"
+    },
+    "td": {
+      "name": "Чад"
+    },
+    "cu": {
+      "name": "Куба"
+    },
+    "tf": {
+      "name": "Французские Южные Территории"
+    },
+    "cv": {
+      "name": "Острова Зеленого Мыса"
+    },
+    "tg": {
+      "name": "Того"
+    },
+    "cw": {
+      "name": "Кюрасао"
+    },
+    "th": {
+      "name": "Таиланд"
+    },
+    "cx": {
+      "name": "Остров Рождества"
+    },
+    "cy": {
+      "name": "Кипр"
+    },
+    "tj": {
+      "name": "Таджикистан"
+    },
+    "cz": {
+      "name": "Чешская республика"
+    },
+    "tk": {
+      "name": "Токелау"
+    },
+    "tl": {
+      "name": "Восточный Тимор"
+    },
+    "tm": {
+      "name": "Туркменистан"
+    },
+    "tn": {
+      "name": "Тунис"
+    },
+    "to": {
+      "name": "Тонга"
+    },
+    "tr": {
+      "name": "Турция"
+    },
+    "tt": {
+      "name": "Тринидад и Тобаго"
+    },
+    "de": {
+      "name": "Германия"
+    },
+    "tv": {
+      "name": "Тувалу"
+    },
+    "tw": {
+      "name": "Тайвань"
+    },
+    "dj": {
+      "name": "Джибути"
+    },
+    "tz": {
+      "name": "Танзания"
+    },
+    "dk": {
+      "name": "Дания"
+    },
+    "dm": {
+      "name": "Остров Доминика"
+    },
+    "do": {
+      "name": "Доминиканская Республика"
+    },
+    "ua": {
+      "name": "Украина"
+    },
+    "ug": {
+      "name": "Уганда"
+    },
+    "dz": {
+      "name": "Алжир"
+    },
+    "um": {
+      "name": "Внешние малые острова (США)"
+    },
+    "ec": {
+      "name": "Эквадор"
+    },
+    "us": {
+      "name": "США"
+    },
+    "ee": {
+      "name": "Эстония"
+    },
+    "eg": {
+      "name": "Египет"
+    },
+    "eh": {
+      "name": "Западная Сахара"
+    },
+    "uy": {
+      "name": "Уругвай"
+    },
+    "uz": {
+      "name": "Узбекистан"
+    },
+    "va": {
+      "name": "Ватикан"
+    },
+    "er": {
+      "name": "Эритрея"
+    },
+    "vc": {
+      "name": "Сент-Винсент и Гренадины"
+    },
+    "es": {
+      "name": "Испания"
+    },
+    "et": {
+      "name": "Эфиопия"
+    },
+    "ve": {
+      "name": "Венесуэла"
+    },
+    "vg": {
+      "name": "Британские Виргинские Острова"
+    },
+    "vi": {
+      "name": "Американские Виргинские острова"
+    },
+    "vn": {
+      "name": "Вьетнам"
+    },
+    "vu": {
+      "name": "Вануату"
+    },
+    "fi": {
+      "name": "Финляндия"
+    },
+    "fj": {
+      "name": "Фиджи"
+    },
+    "fk": {
+      "name": "Фолклендские острова"
+    },
+    "fm": {
+      "name": "Федеративные Штаты Микронезии"
+    },
+    "fo": {
+      "name": "Фарерские острова"
+    },
+    "fr": {
+      "name": "Франция"
+    },
+    "wf": {
+      "name": "Уоллис и Футуна"
+    },
+    "ga": {
+      "name": "Габон"
+    },
+    "gb": {
+      "name": "Великобритания"
+    },
+    "ws": {
+      "name": "Самоа"
+    },
+    "gd": {
+      "name": "Гренада"
+    },
+    "ge": {
+      "name": "Грузия"
+    },
+    "gf": {
+      "name": "Французская Гвиана"
+    },
+    "gg": {
+      "name": "Гернси"
+    },
+    "gh": {
+      "name": "Гана"
+    },
+    "gi": {
+      "name": "Гибралтар"
+    },
+    "gl": {
+      "name": "Гренландия"
+    },
+    "gm": {
+      "name": "Гамбия"
+    },
+    "gn": {
+      "name": "Гвинея"
+    },
+    "gp": {
+      "name": "Гваделупа"
+    },
+    "gq": {
+      "name": "Экваториальная Гвинея"
+    },
+    "gr": {
+      "name": "Греция"
+    },
+    "gs": {
+      "name": "Южная Джорджия и Южные Сандвичевы Острова"
+    },
+    "gt": {
+      "name": "Гватемала"
+    },
+    "gu": {
+      "name": "Гуам"
+    },
+    "gw": {
+      "name": "Гвинея-Биссау"
+    },
+    "gy": {
+      "name": "Гайана"
+    },
+    "hk": {
+      "name": "Гонконг, Особый Административный Район Китая"
+    },
+    "hm": {
+      "name": "Острова Херд и Макдональд"
+    },
+    "hn": {
+      "name": "Гондурас"
+    },
+    "hr": {
+      "name": "Хорватия"
+    },
+    "ht": {
+      "name": "Гаити"
+    },
+    "ye": {
+      "name": "Йемен"
+    },
+    "hu": {
+      "name": "Венгрия"
+    },
+    "id": {
+      "name": "Индонезия"
+    },
+    "yt": {
+      "name": "Майотта"
+    },
+    "ie": {
+      "name": "Ирландия"
+    },
+    "il": {
+      "name": "Израиль"
+    },
+    "im": {
+      "name": "Остров Мэн"
+    },
+    "in": {
+      "name": "Индия"
+    },
+    "io": {
+      "name": "Британская территория в Индийском океане"
+    },
+    "za": {
+      "name": "Южная Африка"
+    },
+    "iq": {
+      "name": "Ирак"
+    },
+    "ir": {
+      "name": "Иран"
+    },
+    "is": {
+      "name": "Исландия"
+    },
+    "it": {
+      "name": "Италия"
+    },
+    "zm": {
+      "name": "Замбия"
+    },
+    "je": {
+      "name": "Джерси"
+    },
+    "zw": {
+      "name": "Зимбабве"
+    },
+    "jm": {
+      "name": "Ямайка"
+    },
+    "jo": {
+      "name": "Иордания"
+    },
+    "jp": {
+      "name": "Япония"
+    },
+    "ke": {
+      "name": "Кения"
+    },
+    "kg": {
+      "name": "Кыргызстан"
+    },
+    "kh": {
+      "name": "Камбоджа"
+    },
+    "ki": {
+      "name": "Кирибати"
+    },
+    "km": {
+      "name": "Коморские Острова"
+    },
+    "kn": {
+      "name": "Сент-Киттс и Невис"
+    },
+    "kp": {
+      "name": "Корейская Народно-Демократическая Республика"
+    },
+    "kr": {
+      "name": "Республика Корея"
+    },
+    "kw": {
+      "name": "Кувейт"
+    },
+    "ky": {
+      "name": "Каймановы острова"
+    },
+    "kz": {
+      "name": "Казахстан"
+    },
+    "la": {
+      "name": "Лаос"
+    },
+    "lb": {
+      "name": "Ливан"
+    },
+    "lc": {
+      "name": "Сент-Люсия"
+    },
+    "li": {
+      "name": "Лихтенштейн"
+    },
+    "lk": {
+      "name": "Шри-Ланка"
+    },
+    "lr": {
+      "name": "Либерия"
+    },
+    "ls": {
+      "name": "Лесото"
+    },
+    "lt": {
+      "name": "Литва"
+    },
+    "lu": {
+      "name": "Люксембург"
+    },
+    "lv": {
+      "name": "Латвия"
+    },
+    "ly": {
+      "name": "Ливия"
+    },
+    "ma": {
+      "name": "Марокко"
+    },
+    "mc": {
+      "name": "Монако"
+    },
+    "md": {
+      "name": "Молдова"
+    },
+    "me": {
+      "name": "Черногория"
+    },
+    "mf": {
+      "name": "Остров Святого Мартина"
+    },
+    "mg": {
+      "name": "Мадагаскар"
+    },
+    "mh": {
+      "name": "Маршалловы Острова"
+    },
+    "mk": {
+      "name": "Македония"
+    },
+    "ml": {
+      "name": "Мали"
+    },
+    "mm": {
+      "name": "Мьянма"
+    },
+    "mn": {
+      "name": "Монголия"
+    },
+    "mo": {
+      "name": "Макао (особый административный район КНР)"
+    },
+    "mp": {
+      "name": "Северные Марианские Острова"
+    },
+    "mq": {
+      "name": "Мартиник"
+    },
+    "mr": {
+      "name": "Мавритания"
+    },
+    "ms": {
+      "name": "Монсеррат"
+    },
+    "mt": {
+      "name": "Мальта"
+    },
+    "mu": {
+      "name": "Маврикий"
+    },
+    "mv": {
+      "name": "Мальдивы"
+    },
+    "mw": {
+      "name": "Малави"
+    },
+    "mx": {
+      "name": "Мексика"
+    },
+    "my": {
+      "name": "Малайзия"
+    },
+    "mz": {
+      "name": "Мозамбик"
+    },
+    "na": {
+      "name": "Намибия"
+    },
+    "nc": {
+      "name": "Новая Каледония"
+    },
+    "ne": {
+      "name": "Нигер"
+    },
+    "nf": {
+      "name": "Остров Норфолк"
+    },
+    "ng": {
+      "name": "Нигерия"
+    },
+    "ni": {
+      "name": "Никарагуа"
+    },
+    "nl": {
+      "name": "Нидерланды"
+    },
+    "no": {
+      "name": "Норвегия"
+    },
+    "np": {
+      "name": "Непал"
+    },
+    "nr": {
+      "name": "Науру"
+    },
+    "nu": {
+      "name": "Ниуе"
+    },
+    "nz": {
+      "name": "Новая Зеландия"
+    },
+    "om": {
+      "name": "Оман"
+    },
+    "pa": {
+      "name": "Панама"
+    },
+    "pe": {
+      "name": "Перу"
+    },
+    "pf": {
+      "name": "Французская Полинезия"
+    },
+    "pg": {
+      "name": "Папуа-Новая Гвинея"
+    },
+    "ph": {
+      "name": "Филиппины"
+    },
+    "pk": {
+      "name": "Пакистан"
+    },
+    "pl": {
+      "name": "Польша"
+    },
+    "pm": {
+      "name": "Сен-Пьер и Микелон"
+    },
+    "pn": {
+      "name": "Питкерн"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Премия за отличие в достижении образовательных целей в пределах программы Agora",
+        "title": "Образовательная Премия"
+      },
+      "social": {
+        "help": "Награды, признающие ваш положительный общественный вклад",
+        "title": "Награда за Общественный Вклад"
+      },
+      "operational": {
+        "help": "Премия за отличие в управлении и основании клубов",
+        "title": "Отличие в Управлении Клубом"
+      },
+      "community": {
+        "help": "Премия за вклад в рост и усиление сообщества Agora",
+        "title": "Общественная Премия Agora"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "Поиск",
+      "register": "Регистрация"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "Успешная организация Региональной или Международной Конвенции Agora",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "Организатор Конвенции"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "Квалифицированный Лидер"
+        },
+        "speaker": {
+          "help": "Успешное завершение Базового Образовательного Пути",
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "Квалифицированный Выступающий"
+        }
+      },
+      "mentor": {
+        "help": "Успешное наставничество нового члена клуба",
+        "image": "awards.individual.mentor.svg",
+        "title": "Награда за Наставничество"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "Победа в Конкурсе Выступающих Agora",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "Победитель Конкурса"
+        },
+        "third": {
+          "help": "Третье место в Конкурсе Выступающих Agora",
+          "image": "awards.individual.contest.third.svg",
+          "title": "Конкурс, 3-е Место"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "Успешная организация Конкурса Agora",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "Организатор Конкурса"
+        },
+        "participant": {
+          "help": "Участие в Конкурсе Выступающих Agora",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "Диплом Участника"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "Второе место в Конкурсе Выступающих Agora",
+          "image": "awards.individual.contest.second.svg",
+          "title": "Конкурс, 2-е Место"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "Наиболее заметный прогресс",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "Награда за Образовательный Прогресс"
+        }
+      },
+      "outreach": {
+        "help": "Отличие в просветительской деятельности сообщества",
+        "image": "awards.individual.outreach.svg",
+        "title": "Награда за Просветительство"
+      },
+      "community": {
+        "leadership": {
+          "help": "Выдающееся выполнение общественных проектов",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "Награда за Общественное Лидерство"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "Отличие и приверженность миссии Agora",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "Награда Посла за Выдающиеся Заслуги"
+        }
+      },
+      "special": {
+        "distinction": {
+          "help": "Отличие в помощи сообществу Agora",
+          "image": "awards.individual.special.distinction.svg",
+          "title": "Награда за Особые Отличия"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "help": "Успешное завершение Программы Лидерства",
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "Опытный Ведущий"
+        },
+        "communicator": "Опытный Коммуникатор"
+      },
+      "help": {
+        "help": "Продолжительная приверженность успеху клуба",
+        "image": "awards.individual.help.svg",
+        "title": "Награда за Приверженность Успеху Клуба"
+      },
+      "accomplished": {
+        "speaker": {
+          "help": "Успешное завершение {{v0}} Продвинутого Образовательного Пути",
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "Успешное завершение {{v0}} Продвинутого Образовательного Пути",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "Опытный Телерадиоведущий"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "Успешное завершение {{v0}} Продвинутого Образовательного Пути",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "Опытный Убедительный Спикер"
+              }
+            },
+            "pr": {
+              "help": "Успешное выполнение {{v0}} Продвинутого Образовательного Пути",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "Опытный PR-специалист"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "Успешное выполнение {{v0}} Продвинутого Образовательного Пути",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "Опытный Спикер Особых Мероприятий"
+              }
+            },
+            "storytelling": {
+              "help": "Успешное завершение {{v0}} Продвинутого Образовательного Пути",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "Опытный Рассказчик"
+            },
+            "educational": {
+              "help": "Успешное завершение {{v0}} Продвинутого Образовательного Пути",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "Опытный Образовательный Спикер"
+            },
+            "business": {
+              "contexts": {
+                "help": "Успешное завершение {{v0}} Продвинутого Образовательного Пути",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "Опытный Бизнес Спикер"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "Успешное завершение {{v0}} Продвинутого Образовательного Пути",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "Опытный Критический Мыслитель"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "Успешное завершение {{v0}} Продвинутого Образовательного Пути",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "Опытный Упорный Спикер"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "Успешное завершение {{v0}} Продвинутого Образовательного Пути",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "Опытный Спикер-Предприниматель"
+            },
+            "project": {
+              "management": {
+                "help": "Успешное выполнение {{v0}} Продвинутого Образовательного ПутиSuccessfully completing the {{v0}} Advanced Educational Path",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "Опытный Менеджер Проектов"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "Успешное завершение {{v0}} Продвинутого Образовательного ПутиSuccessfully completing the {{v0}} Advanced Educational Path",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "Эксперт Навыков Междичностного Общения"
+              }
+            },
+            "dramatization": {
+              "help": "Успешное выполнение {{v0}} Продвинутого Образовательного Пути",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "Опытный Драматический Спикер"
+            },
+            "humorous": {
+              "help": "Успешное завершение {{v0}} Продвинутого Образовательного Пути",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "Опытный Юмористический Выступающий"
+            },
+            "leadership": {
+              "help": "Успешное выполнение {{v0}} Продвинутого Образовательного Пути",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "Опытный Руководитель"
+            },
+            "negotiation": {
+              "help": "Успешное завершение {{v0}} Продвинутого Образовательного Пути",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "Опытный Переговорщик"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "Успешное завершение {{v0}} Продвинутого Образовательного Пути",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "Опытный Визуальный Рассказчик"
+              }
+            }
+          },
+          "title": "Опытный Выступающий"
+        },
+        "communicator": {
+          "help": "Успешное завершение полного пути коммуникации",
+          "image": "awards.individual.accomplished.communicator.svg",
+          "title": "Опытный Собеседник"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "Лидер Клуба"
+        },
+        "founder": {
+          "help": "Успешное основание Клуба Agora",
+          "image": "awards.individual.club.founder.svg",
+          "title": "Основатель Клуба"
+        },
+        "officer": {
+          "help": "Успешное руководство клубом на протяжении одного года",
+          "image": "awards.individual.club.officer.svg",
+          "title": "Руководство Клуба"
+        },
+        "growth": {
+          "help": "Отличие в наставничестве и создании клубов Agora в стране",
+          "image": "awards.individual.club.growth.svg",
+          "title": "Награда за Рост Клуба"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "Продолжительное членство в клубе на протяжении 5 лет",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "Юбилейная Награда"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "help": "Отличие в участии и приверженности",
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "Награда \u0027Член Клуба Месяца\u0027"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "Продолжительное и активное посещение встречC",
+        "image": "awards.individual.attendance.svg",
+        "title": "Награда за Приверженность"
+      },
+      "agora": {
+        "innovator": {
+          "help": "Разработка и внедрение успешной образовательной деятельности",
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Награда Инноватора Agora"
+        },
+        "torchbearer": {
+          "help": "Отличие в связи с общественностью и продвижении миссии Agora",
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Вдохновитель Agora"
+        }
+      },
+      "promotion": {
+        "help": "Отличие в связях с общественностью и продвижении миссии Agora",
+        "image": "awards.individual.promotion.svg",
+        "title": "Награда за Продвижение Agora"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "help": "Совместное Проведение Конвенции Agora International",
+          "image": "awards.club.convention.host.svg",
+          "title": "Награда За Проведение Встречи"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "help": "Основание первого клуба в стране",
+          "image": "awards.club.country.pioneer.svg",
+          "title": "Награда Первопроходца Страны"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "help": "Отличие в обучении членов клуба",
+          "image": "awards.club.educational.excellence.svg",
+          "title": "Награда за Высокое Качество Образования"
+        },
+        "outreach": {
+          "help": "Отличие в образовательной деятельности в пределах клубного сообщества",
+          "image": "awards.club.educational.outreach.svg",
+          "title": "Награда за Образовательное Просветительство"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "help": "Основание первого клуба в городе",
+          "image": "awards.club.city.pioneer.svg",
+          "title": "Награда Первопроходца Города"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "help": "Отличие в коммуникации и продвижении миссии Agora в стране клуба",
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "Награда за Успехи в Просветительской Деятельности"
+        }
+      },
+      "media": {
+        "help": "Отличие в продвижении миссии и деятельности Agora в СМИ",
+        "image": "awards.club.media.svg",
+        "title": "Награда за Отличие в СМИMedia Excellence Award"
+      },
+      "membership": {
+        "growth": "Награда За Рост Числа Членов Клуба",
+        "retention": {
+          "help": "Сохранение численности клуба выше 80%",
+          "image": "awards.club.membership.retention.svg",
+          "title": "Награда за Сохранение Членства Клуба"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "Выдающееся выполнение общественных проектов",
+          "image": "awards.club.community.leadership.svg",
+          "title": "Награда За Общественное Лидерство"
+        }
+      },
+      "content": {
+        "help": "Отличие в создании оригинального контента для сообщества Agora",
+        "image": "awards.club.content.svg",
+        "title": "Награда за Создание Контента"
+      },
+      "innovator": {
+        "help": "Успешное определение и выполнение новой образовательной деятельности",
+        "image": "awards.club.innovator.svg",
+        "title": "Награда Инноватора Клуба"
+      },
+      "special": {
+        "distinction": {
+          "help": "Отличие в управлении клубомExcellence in club operation",
+          "image": "awards.club.special.distinction.svg",
+          "title": "Награда За Особые Достижения"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "help": "Отличие в управлении клубом",
+          "image": "awards.club.ambassador.award.svg",
+          "title": "Награда Посла"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "help": "Отличие в наставничестве новых членов клуба",
+          "image": "awards.club.club.mentorship.svg",
+          "title": "Награда За Менторство Клуба"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "help": "Отличие в обслуживании членов клуба и выполнении программы Agora",
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "Награда \u0027Клуб Месяца\u0027"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "Члены клуба довольны клубом больше, чем на 90%",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "Золотая Награда за Удовлетворенность Членов Клуба"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "Члены клуба довольны клубом больше, чем на 75%",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "Серебряная Награда за Удовлетворенность Членов Клуба"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "Награда За Членство В Клубе"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "Членство клуба выросло на более чем 20 человек",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "Золотая Награда за Рост Клуба"
+          }
+        },
+        "anniversary": {
+          "help": "Успешное и продолжительное управление клубом на протяжении десяти лет",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "Награда \u0027Золотой Юбилей\u0027"
+        }
+      },
+      "model": {
+        "club": {
+          "help": "Отличие в соблюдении управленческой программы Agora",
+          "image": "awards.club.model.club.svg",
+          "title": "Награда Образцового Клуба"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "Членство клуба выросло на более чем 10 человек",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "Серебряная Награда за Рост Клуба"
+          }
+        },
+        "anniversary": {
+          "help": "Успешное и продолжительное управление клубом на протяжении пяти лет",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "Награда \u0027Серебряный Юбилей\u0027"
+        }
+      },
+      "anniversary": {
+        "help": "Успешное и продолжительное управление клубом на протяжении одного года",
+        "image": "awards.club.anniversary.svg",
+        "title": "Награда Годовщины Клуба - {{v0}} лет"
+      }
+    },
+    "place": {
+      "participation": "Участие"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "Самый любопытный и эрудированный интервьюер словесной перепалки на встрече",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "Самый Любопытный Участник Словесной Перепалки"
+        },
+        "survivor": {
+          "help": "Победа в секции словесной перепалки на встрече",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "Выживший в Словесной Перепалке"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "Лучший ведущий и интервьюер собеседования",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "Лучший Участник Собеседования"
+        },
+        "role": {
+          "help": "Превосходное исполнение должности на встрече",
+          "image": "awards.meeting.best.role.svg",
+          "title": "Лучшая Должность Встречи"
+        },
+        "speaker": {
+          "help": "Самое лучшее заготовленное выступление встречи клуба",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "Лучший Выступающий Встречи"
+        },
+        "hot": {
+          "response": {
+            "help": "Лучшее ипровизированное выступление встречи клуба",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "Лучший Импровизирующий Выступающий Встречи"
+          }
+        },
+        "speechwriter": {
+          "help": "Написание лучшей речи на встрече",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "Лучший Спичрайтер Встречи"
+        },
+        "evaluator": {
+          "help": "Лучшее оценивание встречи клуба",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "Лучший Рецензент Митинга"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "Agora Speakers International Foundation - это европейская светская образовательная благотворительная организация, позволяющая людям стать выдающимися коммуникаторами и уверенными лидерами, активно строящими лучший мир."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "Иная точка зрения"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "Дата",
+      "country": "Страна",
+      "address": "Адрес",
+      "city": "Город",
+      "awards": "Выигранные Награды",
+      "state": "Область",
+      "event": "Мероприятие",
+      "region": "Регион",
+      "points": {
+        "total": "Заработанные Баллы (Всего)",
+        "year": "Заработанные Баллы (В Этом Году)",
+        "name": "Баллы"
+      }
+    },
+    "club": {
+      "date": "Дата Мероприятия",
+      "languages": {
+        "input": "Пожалуйста, уточните язык или языки, которые буду использоваться в клубе (например, английский)"
+      },
+      "year": "Баллы Клуба (За этот год)",
+      "charter": {
+        "date": "Дата Основания",
+        "help": "Бронируемая дата должна быть в будущем, но не позднее чем через 30 дней."
+      },
+      "founder": {
+        "name": "Основатель Клуба",
+        "email": "Электронная почта Основантеля"
+      },
+      "fee": {
+        "title": "Членский взнос клуба (если он есть)."
+      },
+      "banner": "Баннер",
+      "restrictions": {
+        "guests": {
+          "input": "Пожалуйста, опишите, какие ограничения будут для желающих посетить клуб в качестве зрителей (если таковые будут)"
+        },
+        "membership": {
+          "input": "Пожалуйста, опишите, какие ограничения будут для желающих вступить в клуб(если таковые будут). Если вы регистрируете Молодежный Клуб, пожалуйста, укажите возрастные рамки"
+        }
+      },
+      "type": {
+        "help": "Больше информации о разных типах клубов здесь.",
+        "input": "Тип Клуба"
+      },
+      "points": "Заработанные Баллы",
+      "token": "Секретный Пароль Клуба",
+      "number": "Номер Клуба",
+      "assets": "Материалы Клуба",
+      "awards": "Награды Клуба",
+      "contact": {
+        "help": {
+          "1": "Контактная информация клуба. Должна быть в формате адреса электронной почты или номера телефона.",
+          "2": "Дополнительная контактная информация клуба: должна отличаться от предыдущей, может быть в виде адреса электронной почты/номера телефона, веб-страницы, группы в Facebook, группы в Meetup и т.д."
+        },
+        "title": "Контактная Информация"
+      },
+      "name": "Название Клуба",
+      "logo": {
+        "title": "Вы можете загрузить свой логотип, а если у вас его нет, мы создадим логотип для вашего клуба автоматически."
+      },
+      "action": "Деятельность Клуба",
+      "meeting": {
+        "schedule": "Расписание Встреч",
+        "info": "Дополнительная Информация"
+      },
+      "officers": "Руководители Клуба"
+    },
+    "personal": {
+      "participation": {
+        "input": "В каком виде участия вы заинтересованы?",
+        "online": "Онлайн-встречи",
+        "physical": "Очные встречи"
+      },
+      "languages": {
+        "spoken": "Укажите языки, которыми вы владеете",
+        "interested": "В каких языках вы заинтересованы?"
+      },
+      "joined": "Дата Вступления",
+      "facebook": "Ссылка на профиль в Facebook",
+      "roles": {
+        "date": "Дата",
+        "role": "Должность",
+        "taken": "Занятые Должности",
+        "club": "Клуб"
+      },
+      "speeches": {
+        "persuasive": "Убедительные выступления",
+        "general": "Выступления с общей целью",
+        "storytelling": "Сторителлинг",
+        "educational": "Образовательные",
+        "business": "Бизнес-презентации",
+        "interested": "В изучении каких видов презентаций/выступлений вы заинтересованы?",
+        "media": "Влоггинг и производство СМИ",
+        "sales": "Продажи",
+        "humorous": "Юмористические выстпуления и комедия"
+      },
+      "privacy": "Я согласен с положениями и условиями этого сайта и с Политикой Конфиденциальности Agora Speakers International",
+      "history": {
+        "date": "Дата",
+        "club": "Название Клуба",
+        "event": "Мероприятие"
+      },
+      "linkedin": "Ссылка на профиль в Linkedin",
+      "skills": "В развитии каких из следующих навыков вы заинтересованы?",
+      "number": "Номер Члена Клуба",
+      "password": {
+        "input": "Пароль",
+        "verify": "Повторите пароль для верификации"
+      },
+      "awards": "Заработанные Награды",
+      "clubs": {
+        "role": "Должность"
+      },
+      "name": {
+        "address": {
+          "help": "Как мы должны к вам обращаться в нашей коммуникации (например, в переписке по электронной почте)?",
+          "field": "Предпочитаемое имя для коммуникации:"
+        },
+        "certificates": {
+          "help": "Как должно выглядеть ваше имя на сертификатах и наградах, которые вы зарабатываете?",
+          "input": "Предпочитаемое имя для сертификатов"
+        },
+        "online": {
+          "help": "Как должно выглядеть ваше имя в наших онлайн-системах, на формах и т.д.?",
+          "input": "Предпочитаемое имя онлайн"
+        },
+        "full": "Полное Имя"
+      },
+      "principles": {
+        "agreement": "Пожалуйста, укажите своё согласие с нашими основными принципами"
+      },
+      "position": "Текущая должность в клубе",
+      "interests": {
+        "11": {
+          "language": "Я заинтересован в развитии навыков иностранных языков"
+        },
+        "01": {
+          "curious": "Мне просто любопытна ваша организация"
+        },
+        "12": {
+          "contests": "Я заинтересован в участии в конкурсах, организованных Agora Speakers International"
+        },
+        "02": {
+          "confidence": "Я хочу повысить свою самооценку"
+        },
+        "13": {
+          "critical": "Я заинтересован в том, чтобы научиться мыслить критически"
+        },
+        "03": {
+          "communicate": "Я хочу научиться общаться более эффективно"
+        },
+        "14": {
+          "friends": "Я заинтересован в знакомстве с людьми и хочу завести новых друзей"
+        },
+        "04": {
+          "speak": "Я хочу улучшить свои навыки публичных выступлений"
+        },
+        "15": {
+          "cooperation": "Я заинтересован в культурном обмене и активностях по кросс-культурному сотрудничеству"
+        },
+        "question": "Почему вы заинтересованы в Agora Speakers International?",
+        "05": {
+          "leadership": "Я хочу улучшить свои навыки лидерства"
+        },
+        "16": {
+          "startclub": "Я хочу основать Клуб Agora в своём городе"
+        },
+        "06": {
+          "networking": "Я заинтересован в профессиональном нетворкинге"
+        },
+        "17": {
+          "ambassador": "Я хочу стать послом Agora для своей страны"
+        },
+        "07": {
+          "presentations": "Я заинтересован в представлении бизнес презентацийI\u0027\u0027m interested in delivering business presentations"
+        },
+        "18": {
+          "partnership": "Я заинтересован в партнёрстве между моей организацией и Agora Speakers International"
+        },
+        "08": {
+          "events": "Я заинтересован в мастер-классах, семинарах и мероприятиях, которые вы организовываете"
+        },
+        "09": {
+          "debating": "Я заинтересован в дебатах и аргументации"
+        },
+        "10": {
+          "community": "Я хочу произвести изменения в моем сообществе"
+        }
+      },
+      "email": "Электронная почта"
+    },
+    "meeting": {
+      "date": "Дата Встречи",
+      "number": "Номер Встречи",
+      "venue": {
+        "name": "Название Места Проведения"
+      },
+      "address": {
+        "input": "Адрес места проведения встречи"
+      },
+      "online": {
+        "software": "Программное обеспечение встречи",
+        "link": "Ссылка для участия",
+        "id": "ID онлайн-встречи",
+        "title": "Информация для онлайн-встреч",
+        "passowrd": "Пароль для входа"
+      },
+      "theme": "Тема встречи (если она есть)",
+      "time": "Время Встречи"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) Авторские права Agora Speakers International. Все права защищены. Материалы Agora могут быть использованы только в соответствии с нашими положениями и условиями."
+    },
+    "terms": "Положения и Условия",
+    "legal": {
+      "notice": "Правовая иноформация"
+    },
+    "privacy": {
+      "policy": "Политика конфиденциальности"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "Хинди",
+      "ps": "Пушту",
+      "pt": "Португальский",
+      "hr": "Хорватский",
+      "pt_br": "Brazilian",
+      "hu": "Венгерский",
+      "yi": "Идиш",
+      "hy": "Армянский",
+      "yo": "Йоруба",
+      "ia": "Интерлингва",
+      "id": "Индонезийский",
+      "ig": "Игбо",
+      "ii": "Носу",
+      "qu": "Кечуа",
+      "af": "Африкаанс",
+      "ak": "Акан",
+      "is": "Исландский",
+      "it": "Итальянский",
+      "am": "Амхарский",
+      "zh": "Китайский",
+      "ar": "Арабский",
+      "as": "Ассамский",
+      "ja": "Японский",
+      "az": "Азербайджанский",
+      "rm": "Романшский",
+      "zu": "Зулу",
+      "rn": "Рунди",
+      "ro": "Румынский",
+      "be": "Белорусский",
+      "ru": "Русский",
+      "bg": "Болгарский",
+      "rw": "Киньяруанда",
+      "bm": "Бамбара",
+      "bn": "Бенгальский",
+      "jv": "Яванский",
+      "bo": "Тибетский",
+      "sa": "Санскрит",
+      "br": "Бретонский",
+      "bs": "Боснийский",
+      "sd": "Синдхи",
+      "se": "Северносаамский",
+      "sg": "Санго",
+      "sh": "Сербскохорватский",
+      "ka": "Грузинский",
+      "si": "Сингальский",
+      "sk": "Словацкий",
+      "sl": "Словенский",
+      "sn": "Шона",
+      "so": "Сомали",
+      "ca": "Каталанский",
+      "ki": "Кикуйю",
+      "sq": "Албанский",
+      "sr": "Сербский",
+      "kk": "Казахский",
+      "kl": "Гренландский",
+      "ce": "Чеченский",
+      "km": "Кхмерский",
+      "su": "Сунданский",
+      "kn": "Каннада",
+      "sv": "Шведский",
+      "ko": "Корейский",
+      "sw": "Суахили",
+      "ks": "Кашмири",
+      "ku": "Курдский",
+      "kw": "Корнский",
+      "ta": "Тамильский",
+      "ky": "Киргизский",
+      "cs": "Чешский",
+      "te": "Телугу",
+      "tg": "Таджикский",
+      "th": "Тайский",
+      "ti": "Тигринья",
+      "cy": "Валлийский",
+      "lb": "Люксембургский",
+      "tk": "Туркменский",
+      "tl": "Тагалог",
+      "lg": "Ганда",
+      "to": "Тонганский",
+      "da": "Датский",
+      "tr": "Турецкий",
+      "tt": "Татарский",
+      "de": "Немецкий",
+      "ln": "Лингала",
+      "lo": "Лаосский",
+      "lt": "Литовский",
+      "lu": "Луба-катанга",
+      "lv": "Латышский",
+      "ug": "Уйгурский",
+      "dz": "Дзонг-кэ",
+      "uk": "Украинский",
+      "mg": "Малагасийский",
+      "mi": "Маори",
+      "ur": "Урду",
+      "mk": "Македонский",
+      "ml": "Малаялам",
+      "ee": "Эве",
+      "mn": "Монгольский",
+      "mr": "Маратхи",
+      "uz": "Узбекский",
+      "ms": "Малайский",
+      "el": "Греческий",
+      "mt": "Мальтийский",
+      "en": "Английский",
+      "eo": "Эсперанто",
+      "my": "Бирманский",
+      "es": "Испанский",
+      "et": "Эстонский",
+      "eu": "Баскский",
+      "vi": "Вьетнамский",
+      "nb": "Норвежский букмол",
+      "nd": "Северный ндебеле",
+      "ne": "Непальский",
+      "fa": "Персидский",
+      "nl": "Нидерландский",
+      "ff": "Фулах",
+      "nn": "Нюнорск",
+      "no": "Норвежский",
+      "fi": "Финский",
+      "fo": "Фарерский",
+      "fr": "Французский",
+      "fy": "Западнофризский",
+      "wo": "Волоф",
+      "ga": "Ирландский",
+      "gd": "Гэльский",
+      "om": "Оромо",
+      "or": "Ория",
+      "os": "Осетинский",
+      "gl": "Галисийский",
+      "gu": "Гуджарати",
+      "gv": "Мэнский",
+      "xh": "Коса",
+      "pa": "Панджаби",
+      "ha": "Хауса",
+      "pl": "Польский",
+      "he": "Иврит"
+    },
+    "full": {
+      "hi": "Хинди (हिन्दी)",
+      "ps": "Пушту (پښتو)",
+      "pt": "Португальский (Português)",
+      "hr": "Хорватский (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "Венгерский (Magyar)",
+      "yi": "Идиш (ייִדיש)",
+      "hy": "Армянский (Հայերեն)",
+      "yo": "Йоруба (Èdè Yorùbá)",
+      "ia": "Интерлингва (Interlingua)",
+      "id": "Индонезийский (Indonesia)",
+      "ig": "Игбо (Igbo)",
+      "ii": "Носу (ꆈꌠꉙ)",
+      "qu": "Кечуа (Runasimi)",
+      "af": "Африкаанс (Afrikaans)",
+      "ak": "Акан (Akan)",
+      "is": "Исландский (Íslenska)",
+      "it": "Итальянский (Italiano)",
+      "am": "Амхарский (አማርኛ)",
+      "zh": "Китайский (中文)",
+      "ar": "Арабский (العربية)",
+      "as": "Ассамский (অসমীয়া)",
+      "ja": "Японский (日本語)",
+      "az": "Азербайджанский (Azərbaycan)",
+      "rm": "Романшский (Rumantsch)",
+      "zu": "Зулу (IsiZulu)",
+      "rn": "Рунди (Ikirundi)",
+      "ro": "Румынский (Română)",
+      "be": "Белорусский (Беларуская)",
+      "ru": "Русский (Русский)",
+      "bg": "Болгарский (Български)",
+      "rw": "Киньяруанда (Kinyarwanda)",
+      "bm": "Бамбара (Bamanakan)",
+      "bn": "Бенгальский (বাংলা)",
+      "jv": "Яванский (Jawa)",
+      "bo": "Тибетский (བོད་སྐད་)",
+      "sa": "Санскрит (संस्कृत भाषा)",
+      "br": "Бретонский (Brezhoneg)",
+      "bs": "Боснийский (Bosanski)",
+      "sd": "Синдхи (سنڌي)",
+      "se": "Северносаамский (Davvisámegiella)",
+      "sg": "Санго (Sängö)",
+      "sh": "Сербскохорватский (Srpskohrvatski)",
+      "ka": "Грузинский (ქართული)",
+      "si": "Сингальский (සිංහල)",
+      "sk": "Словацкий (Slovenčina)",
+      "sl": "Словенский (Slovenščina)",
+      "sn": "Шона (ChiShona)",
+      "so": "Сомали (Soomaali)",
+      "ca": "Каталанский (Català)",
+      "ki": "Кикуйю (Gikuyu)",
+      "sq": "Албанский (Shqip)",
+      "sr": "Сербский (Српски)",
+      "kk": "Казахский (Қазақ тілі)",
+      "kl": "Гренландский (Kalaallisut)",
+      "ce": "Чеченский (Нохчийн)",
+      "km": "Кхмерский (ខ្មែរ)",
+      "su": "Сунданский (Basa Sunda)",
+      "kn": "Каннада (ಕನ್ನಡ)",
+      "sv": "Шведский (Svenska)",
+      "ko": "Корейский (한국어)",
+      "sw": "Суахили (Kiswahili)",
+      "ks": "Кашмири (کٲشُر)",
+      "ku": "Курдский (Kurdî)",
+      "kw": "Корнский (Kernewek)",
+      "ta": "Тамильский (தமிழ்)",
+      "ky": "Киргизский (Кыргызча)",
+      "cs": "Чешский (Čeština)",
+      "te": "Телугу (తెలుగు)",
+      "tg": "Таджикский (Тоҷикӣ)",
+      "th": "Тайский (ไทย)",
+      "ti": "Тигринья (ትግር)",
+      "cy": "Валлийский (Cymraeg)",
+      "lb": "Люксембургский (Lëtzebuergesch)",
+      "tk": "Туркменский (Türkmen dili)",
+      "tl": "Тагалог (Tagalog)",
+      "lg": "Ганда (Luganda)",
+      "to": "Тонганский (Lea fakatonga)",
+      "da": "Датский (Dansk)",
+      "tr": "Турецкий (Türkçe)",
+      "tt": "Татарский (Татар)",
+      "de": "Немецкий (Deutsch)",
+      "ln": "Лингала (Lingála)",
+      "lo": "Лаосский (ລາວ)",
+      "lt": "Литовский (Lietuvių)",
+      "lu": "Луба-катанга (Tshiluba)",
+      "lv": "Латышский (Latviešu)",
+      "ug": "Уйгурский (ئۇيغۇرچە)",
+      "dz": "Дзонг-кэ (རྫོང་ཁ)",
+      "uk": "Украинский (Українська)",
+      "mg": "Малагасийский (Malagasy)",
+      "mi": "Маори (Te reo Māori)",
+      "ur": "Урду (اردو)",
+      "mk": "Македонский (Македонски)",
+      "ml": "Малаялам (മലയാളം)",
+      "ee": "Эве (Eʋegbe)",
+      "mn": "Монгольский (Монгол)",
+      "mr": "Маратхи (मराठी)",
+      "uz": "Узбекский (O‘zbek)",
+      "ms": "Малайский (Melayu)",
+      "el": "Греческий (Ελληνικά)",
+      "mt": "Мальтийский (Malti)",
+      "en": "Английский (English)",
+      "eo": "Эсперанто (Esperanto)",
+      "my": "Бирманский (မြန်မာ)",
+      "es": "Испанский (Español)",
+      "et": "Эстонский (Eesti)",
+      "eu": "Баскский (Euskara)",
+      "vi": "Вьетнамский (Tiếng Việt)",
+      "nb": "Норвежский букмол (Norsk bokmål)",
+      "nd": "Северный ндебеле (IsiNdebele)",
+      "ne": "Непальский (नेपाली)",
+      "fa": "Персидский (فارسی)",
+      "nl": "Нидерландский (Nederlands)",
+      "ff": "Фулах (Pulaar)",
+      "nn": "Нюнорск (Norsk nynorsk)",
+      "no": "Норвежский (Norsk)",
+      "fi": "Финский (Suomi)",
+      "fo": "Фарерский (Føroyskt)",
+      "fr": "Французский (Français)",
+      "fy": "Западнофризский (Frysk)",
+      "wo": "Волоф (Wolof)",
+      "ga": "Ирландский (Gaeilge)",
+      "gd": "Гэльский (Gàidhlig)",
+      "om": "Оромо (Oromoo)",
+      "or": "Ория (ଓଡ଼ିଆ)",
+      "os": "Осетинский (Ирон)",
+      "gl": "Галисийский (Galego)",
+      "gu": "Гуджарати (ગુજરાતી)",
+      "gv": "Мэнский (Gaelg)",
+      "xh": "Коса (IsiXhosa)",
+      "pa": "Панджаби (ਪੰਜਾਬੀ)",
+      "ha": "Хауса (Hausa)",
+      "pl": "Польский (Polski)",
+      "he": "Иврит (עברית)"
+    }
+  }
+}

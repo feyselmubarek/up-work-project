@@ -1,0 +1,2018 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "सन्दर्भ क्लब",
+      "corporate": "कर्पोरेट क्लब",
+      "restricted": "सिमित पहुँच क्लब",
+      "term": "एगोरा क्लब",
+      "pic": "सार्वजनिक रुचि क्लब",
+      "open": "Open Public Club\u003dखुल्ला सार्वजनिक क्लब"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "प्युर्टोरिको"
+    },
+    "ps": {
+      "name": "प्यालेस्टनी भू-भाग"
+    },
+    "pt": {
+      "name": "पोर्तुगल"
+    },
+    "pw": {
+      "name": "पलाउ"
+    },
+    "py": {
+      "name": "प्यारागुये"
+    },
+    "qa": {
+      "name": "कटार"
+    },
+    "ad": {
+      "name": "अन्डोर्रा"
+    },
+    "ae": {
+      "name": "संयुक्त अरब इमिराट्स"
+    },
+    "af": {
+      "name": "अफ्गानिष्तान"
+    },
+    "ag": {
+      "name": "एन्टिगुआ र बारबुडा"
+    },
+    "ai": {
+      "name": "आङ्गुइला"
+    },
+    "al": {
+      "name": "अल्बानिया"
+    },
+    "am": {
+      "name": "आर्मेनिया"
+    },
+    "ao": {
+      "name": "अङ्गोला"
+    },
+    "aq": {
+      "name": "अन्टारतिका"
+    },
+    "ar": {
+      "name": "अर्जेण्टिना"
+    },
+    "as": {
+      "name": "अमेरिकी समोआ"
+    },
+    "at": {
+      "name": "अष्ट्रिया"
+    },
+    "re": {
+      "name": "रियुनियन"
+    },
+    "au": {
+      "name": "अष्ट्रेलिया"
+    },
+    "aw": {
+      "name": "आरूबा"
+    },
+    "ax": {
+      "name": "अलान्ड टापु"
+    },
+    "az": {
+      "name": "अजरबैजान"
+    },
+    "ro": {
+      "name": "रोमानिया"
+    },
+    "ba": {
+      "name": "बोस्निया र हर्जगोभिनिया"
+    },
+    "bb": {
+      "name": "बार्बाडोस"
+    },
+    "rs": {
+      "name": "सर्बिया"
+    },
+    "bd": {
+      "name": "बङ्गलादेश"
+    },
+    "be": {
+      "name": "बेल्जियम"
+    },
+    "ru": {
+      "name": "रूस"
+    },
+    "bf": {
+      "name": "बर्किना फासो"
+    },
+    "bg": {
+      "name": "बल्गेरिया"
+    },
+    "rw": {
+      "name": "रवाण्डा"
+    },
+    "bh": {
+      "name": "बाह्रेन"
+    },
+    "bi": {
+      "name": "बुरूण्डी"
+    },
+    "bj": {
+      "name": "बेनिन"
+    },
+    "bl": {
+      "name": "सेन्ट बार्थालेमी"
+    },
+    "bm": {
+      "name": "बर्मुडा"
+    },
+    "bn": {
+      "name": "ब्रुनाइ"
+    },
+    "bo": {
+      "name": "बोलिभिया"
+    },
+    "sa": {
+      "name": "साउदी अरब"
+    },
+    "bq": {
+      "name": "Bonaire, Sint Eustatius and Saba"
+    },
+    "sb": {
+      "name": "सोलोमोन टापु"
+    },
+    "br": {
+      "name": "ब्राजिल"
+    },
+    "sc": {
+      "name": "सेचेलेस"
+    },
+    "bs": {
+      "name": "बहामास"
+    },
+    "sd": {
+      "name": "सुडान"
+    },
+    "bt": {
+      "name": "भुटान"
+    },
+    "se": {
+      "name": "स्विडेन"
+    },
+    "bv": {
+      "name": "बुभेट टापु"
+    },
+    "sg": {
+      "name": "सिङ्गापुर"
+    },
+    "bw": {
+      "name": "बोट्स्वाना"
+    },
+    "sh": {
+      "name": "सेन्ट हेलेना"
+    },
+    "si": {
+      "name": "स्लोभेनिया"
+    },
+    "by": {
+      "name": "बेलारूस"
+    },
+    "sj": {
+      "name": "सभाल्बार्ड र जान मायेन"
+    },
+    "bz": {
+      "name": "बेलिज"
+    },
+    "sk": {
+      "name": "स्लोभाकिया"
+    },
+    "sl": {
+      "name": "सिएर्रा लिओन"
+    },
+    "sm": {
+      "name": "सान् मारिनो"
+    },
+    "sn": {
+      "name": "सेनेगाल"
+    },
+    "so": {
+      "name": "सोमालिया"
+    },
+    "ca": {
+      "name": "क्यानाडा"
+    },
+    "sr": {
+      "name": "सुरिनेम"
+    },
+    "cc": {
+      "name": "कोकोस टापु"
+    },
+    "ss": {
+      "name": "South Sudan"
+    },
+    "cd": {
+      "name": "कोङ्गो-किन्शासा"
+    },
+    "st": {
+      "name": "साओ टोमे र प्रिन्सिप"
+    },
+    "cf": {
+      "name": "केन्द्रीय अफ्रिकी गणतन्त्र"
+    },
+    "sv": {
+      "name": "एल् साल्भाडोर"
+    },
+    "cg": {
+      "name": "कोङ्गो - ब्राज्जाभिल्ले"
+    },
+    "ch": {
+      "name": "स्विजरल्याण्ड"
+    },
+    "sx": {
+      "name": "Sint Maarten (Dutch Part)"
+    },
+    "ci": {
+      "name": "आइभोरी कोष्ट"
+    },
+    "sy": {
+      "name": "सिरिया"
+    },
+    "sz": {
+      "name": "स्वाजिल्याण्ड"
+    },
+    "ck": {
+      "name": "कुक टापु"
+    },
+    "cl": {
+      "name": "चिली"
+    },
+    "cm": {
+      "name": "क्यामेरून"
+    },
+    "cn": {
+      "name": "चीन"
+    },
+    "co": {
+      "name": "कोलोम्बिया"
+    },
+    "cr": {
+      "name": "कोष्टारिका"
+    },
+    "tc": {
+      "name": "तुर्क र काइकोस टापु"
+    },
+    "td": {
+      "name": "चाड"
+    },
+    "cu": {
+      "name": "क्युबा"
+    },
+    "tf": {
+      "name": "फ्रान्सेली दक्षिणी क्षेत्र"
+    },
+    "cv": {
+      "name": "केप भर्डे"
+    },
+    "tg": {
+      "name": "टोगो"
+    },
+    "cw": {
+      "name": "Curaçao"
+    },
+    "th": {
+      "name": "थाइल्याण्ड"
+    },
+    "cx": {
+      "name": "क्रिष्टमस टापु"
+    },
+    "cy": {
+      "name": "साइप्रस"
+    },
+    "tj": {
+      "name": "ताजिकिस्तान"
+    },
+    "cz": {
+      "name": "चेख गणतन्त्र"
+    },
+    "tk": {
+      "name": "तोगो"
+    },
+    "tl": {
+      "name": "पूर्वी टिमोर"
+    },
+    "tm": {
+      "name": "तुर्कमेनिस्तान"
+    },
+    "tn": {
+      "name": "टुनिसिया"
+    },
+    "to": {
+      "name": "टोंगा"
+    },
+    "tr": {
+      "name": "टर्की"
+    },
+    "tt": {
+      "name": "त्रिनिडाड र तोबागो"
+    },
+    "de": {
+      "name": "जर्मनी"
+    },
+    "tv": {
+      "name": "तुभालु"
+    },
+    "tw": {
+      "name": "ताइवान"
+    },
+    "dj": {
+      "name": "डिजिबुटी"
+    },
+    "tz": {
+      "name": "तान्जानिया"
+    },
+    "dk": {
+      "name": "डेन्मार्क"
+    },
+    "dm": {
+      "name": "डोमिनिका"
+    },
+    "do": {
+      "name": "डोमिनिकन गणतन्त्र"
+    },
+    "ua": {
+      "name": "युक्रेन"
+    },
+    "ug": {
+      "name": "युगाण्डा"
+    },
+    "dz": {
+      "name": "अल्जेरिया"
+    },
+    "um": {
+      "name": "संयुक्त राज्य अल्प बाह्य टापु"
+    },
+    "ec": {
+      "name": "इक्वडेर"
+    },
+    "us": {
+      "name": "संयुक्त राज्य"
+    },
+    "ee": {
+      "name": "इस्टोनिया"
+    },
+    "eg": {
+      "name": "इजिप्ट"
+    },
+    "eh": {
+      "name": "पश्चिमी साहारा"
+    },
+    "uy": {
+      "name": "युरूगुए"
+    },
+    "uz": {
+      "name": "उज्बेकिस्तान"
+    },
+    "va": {
+      "name": "भेटिकन"
+    },
+    "er": {
+      "name": "एरित्रिया"
+    },
+    "vc": {
+      "name": "सेन्ट भिन्सेन्ट र ग्रेनाडिन्स"
+    },
+    "es": {
+      "name": "स्पेन"
+    },
+    "et": {
+      "name": "इथोपिया"
+    },
+    "ve": {
+      "name": "भेनेजुएला"
+    },
+    "vg": {
+      "name": "बेलायती भर्जिन टापु"
+    },
+    "vi": {
+      "name": "संयुक्त राज्य भर्जिन टापु"
+    },
+    "vn": {
+      "name": "भिएतनाम"
+    },
+    "vu": {
+      "name": "भानुआतु"
+    },
+    "fi": {
+      "name": "फिन्ल्याण्ड"
+    },
+    "fj": {
+      "name": "फिजी"
+    },
+    "fk": {
+      "name": "फकल्याण्ड टापु"
+    },
+    "fm": {
+      "name": "माइक्रोनेसिया"
+    },
+    "fo": {
+      "name": "फारोर टापु"
+    },
+    "fr": {
+      "name": "फ्रान्स"
+    },
+    "wf": {
+      "name": "वालिस र फुटुना"
+    },
+    "ga": {
+      "name": "गावोन"
+    },
+    "gb": {
+      "name": "संयुक्त अधिराज्य"
+    },
+    "ws": {
+      "name": "सामोआ"
+    },
+    "gd": {
+      "name": "ग्रेनाडा"
+    },
+    "ge": {
+      "name": "जोर्जिया"
+    },
+    "gf": {
+      "name": "फ्रान्सेली गायना"
+    },
+    "gg": {
+      "name": "गुएर्नसे"
+    },
+    "gh": {
+      "name": "घाना"
+    },
+    "gi": {
+      "name": "जिब्राल्टार"
+    },
+    "gl": {
+      "name": "ग्रिनल्याण्ड"
+    },
+    "gm": {
+      "name": "गाम्विया"
+    },
+    "gn": {
+      "name": "गिनी"
+    },
+    "gp": {
+      "name": "ग्वाडेलुप"
+    },
+    "gq": {
+      "name": "भू-मध्यीय गिनी"
+    },
+    "gr": {
+      "name": "ग्रिश"
+    },
+    "gs": {
+      "name": "दक्षिणी जर्जिया र दक्षिणी स्याडवीच टापुहरू"
+    },
+    "gt": {
+      "name": "ग्वाटेमाला"
+    },
+    "gu": {
+      "name": "गुवाम"
+    },
+    "gw": {
+      "name": "गिनी-बिसाउ"
+    },
+    "gy": {
+      "name": "गुयाना"
+    },
+    "hk": {
+      "name": "हङकङ चिनिँया समाजवादी स्वायत्त क्षेत्र"
+    },
+    "hm": {
+      "name": "हर्ड टापु र म्याकडोनाल्ड टापु"
+    },
+    "hn": {
+      "name": "हन्डुरास"
+    },
+    "hr": {
+      "name": "क्रोएशिया"
+    },
+    "ht": {
+      "name": "हैटी"
+    },
+    "ye": {
+      "name": "येमेन"
+    },
+    "hu": {
+      "name": "हङ्गेरी"
+    },
+    "id": {
+      "name": "इन्डोनेशिया"
+    },
+    "yt": {
+      "name": "मायोट्ट"
+    },
+    "ie": {
+      "name": "आइरल्याण्ड"
+    },
+    "il": {
+      "name": "इज्रायल"
+    },
+    "im": {
+      "name": "आइज्ले अफ् म्यान"
+    },
+    "in": {
+      "name": "भारत"
+    },
+    "io": {
+      "name": "बेलायती हिन्द महासागर क्षेत्र"
+    },
+    "za": {
+      "name": "दक्षिण अफ्रिका"
+    },
+    "iq": {
+      "name": "इराक"
+    },
+    "ir": {
+      "name": "इरान"
+    },
+    "is": {
+      "name": "आइस्ल्याण्ड"
+    },
+    "it": {
+      "name": "इटाली"
+    },
+    "zm": {
+      "name": "जाम्बिया"
+    },
+    "je": {
+      "name": "जर्सी"
+    },
+    "zw": {
+      "name": "जिम्बाबे"
+    },
+    "jm": {
+      "name": "जमाइका"
+    },
+    "jo": {
+      "name": "जोर्डन"
+    },
+    "jp": {
+      "name": "जापान"
+    },
+    "ke": {
+      "name": "केन्या"
+    },
+    "kg": {
+      "name": "किर्गिस्थान"
+    },
+    "kh": {
+      "name": "कम्बोडिया"
+    },
+    "ki": {
+      "name": "किरिबाटी"
+    },
+    "km": {
+      "name": "कोमोरोस"
+    },
+    "kn": {
+      "name": "सेन्ट किट्स र नेभिस"
+    },
+    "kp": {
+      "name": "उत्तर कोरिया"
+    },
+    "kr": {
+      "name": "दक्षिण कोरिया"
+    },
+    "kw": {
+      "name": "कुवेत"
+    },
+    "ky": {
+      "name": "केयमान टापु"
+    },
+    "kz": {
+      "name": "काजाकस्थान"
+    },
+    "la": {
+      "name": "लाओस"
+    },
+    "lb": {
+      "name": "लेबनोन"
+    },
+    "lc": {
+      "name": "सेन्ट लुसिया"
+    },
+    "li": {
+      "name": "लिएखटेन्स्टाइन"
+    },
+    "lk": {
+      "name": "श्रीलङ्का"
+    },
+    "lr": {
+      "name": "लाइबेरिया"
+    },
+    "ls": {
+      "name": "लेसोथो"
+    },
+    "lt": {
+      "name": "लिथुअनिया"
+    },
+    "lu": {
+      "name": "लक्जेमबर्ग"
+    },
+    "lv": {
+      "name": "लाट्भिया"
+    },
+    "ly": {
+      "name": "लिबिया"
+    },
+    "ma": {
+      "name": "मोरोक्को"
+    },
+    "mc": {
+      "name": "मोनाको"
+    },
+    "md": {
+      "name": "माल्डोभा"
+    },
+    "me": {
+      "name": "मोन्टेनेग्रो"
+    },
+    "mf": {
+      "name": "सेन्ट मार्टिन"
+    },
+    "mg": {
+      "name": "मडागास्कर"
+    },
+    "mh": {
+      "name": "मार्शल टापु"
+    },
+    "mk": {
+      "name": "म्याकेडोनिया"
+    },
+    "ml": {
+      "name": "माली"
+    },
+    "mm": {
+      "name": "म्यान्मार"
+    },
+    "mn": {
+      "name": "मङ्गोलिया"
+    },
+    "mo": {
+      "name": "मकावो चिनिँया स्वशासित क्षेत्र"
+    },
+    "mp": {
+      "name": "उत्तरी मारिआना टापु"
+    },
+    "mq": {
+      "name": "मार्टिनिक"
+    },
+    "mr": {
+      "name": "माउरिटानिया"
+    },
+    "ms": {
+      "name": "मोन्टसेर्राट"
+    },
+    "mt": {
+      "name": "माल्टा"
+    },
+    "mu": {
+      "name": "माउरिटस"
+    },
+    "mv": {
+      "name": "माल्दिभ्स"
+    },
+    "mw": {
+      "name": "मालावी"
+    },
+    "mx": {
+      "name": "मेक्सिको"
+    },
+    "my": {
+      "name": "मलेसिया"
+    },
+    "mz": {
+      "name": "मोजाम्बिक"
+    },
+    "na": {
+      "name": "नामिबिया"
+    },
+    "nc": {
+      "name": "नयाँ कालेडोनिया"
+    },
+    "ne": {
+      "name": "नाइजर"
+    },
+    "nf": {
+      "name": "नोरफोल्क टापु"
+    },
+    "ng": {
+      "name": "नाइजेरिया"
+    },
+    "ni": {
+      "name": "निकारागुवा"
+    },
+    "nl": {
+      "name": "नेदरल्याण्ड्स"
+    },
+    "no": {
+      "name": "नर्वे"
+    },
+    "np": {
+      "name": "नेपाल"
+    },
+    "nr": {
+      "name": "नाउरू"
+    },
+    "nu": {
+      "name": "नियुइ"
+    },
+    "nz": {
+      "name": "न्युजिल्याण्ड"
+    },
+    "om": {
+      "name": "ओमन"
+    },
+    "pa": {
+      "name": "पनामा"
+    },
+    "pe": {
+      "name": "पेरू"
+    },
+    "pf": {
+      "name": "फ्रान्सेली पोलिनेसिया"
+    },
+    "pg": {
+      "name": "पपुआ न्यू गाइनिया"
+    },
+    "ph": {
+      "name": "फिलिपिन्स"
+    },
+    "pk": {
+      "name": "पाकिस्तान"
+    },
+    "pl": {
+      "name": "पोल्याण्ड"
+    },
+    "pm": {
+      "name": "सेन्ट पिर्रे र मिक्केलोन"
+    },
+    "pn": {
+      "name": "पिटकाइर्न"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "एगोरा कार्यक्रम अन्तर्गतको शैक्षिक लक्ष्यहरू उत्कृष्टताका साथ पूरा गर्न सफल भएकाले सम्मानित",
+        "title": "शैक्षिक पुरस्कार"
+      },
+      "social": {
+        "help": "पुरस्कार जसले तपाँइको समुदायमा तपाँइको सकारात्मक प्रभाव पहिचान गर्दछ",
+        "title": "समाजमा प्रभावका लागी पुरस्कार"
+      },
+      "operational": {
+        "help": "क्लब दर्ता र त्यसको व्यवथापनमा उत्कृष्टताको पुरस्कार",
+        "title": "क्लब व्यवस्थापनमा उत्कृष्टता"
+      },
+      "community": {
+        "help": "एगोरा समुदायलाइ बढाउ र सुदृढीकरण गर्न योगदान पुर्याएकाले सम्मानित",
+        "title": "एगोरा सामुदायिक पुरस्कार"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "खोज",
+      "register": "दर्ता गर्नु"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "क्षेत्रीय वा अन्तर्राष्ट्रिय एगोरा सम्मेलनसफलता पूर्वक आयोजना गर्नु",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "सम्मेलन आयोजक"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "योग्य नेता"
+        },
+        "speaker": {
+          "help": "आधारभुत शैक्षिक मार्ग सफलताका साथ पूरा गर्दै",
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "योग्य वक्ता"
+        }
+      },
+      "mentor": {
+        "help": "नयाँ सदस्यको सफल परामर्श",
+        "image": "awards.individual.mentor.svg",
+        "title": "सल्लाहकार पुरस्कार"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "एगोरा वक्ता प्रतियोगितामा जिद्दै",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "प्रतियोगिताको विजेता"
+        },
+        "third": {
+          "help": "एगोरा वक्ता प्रतियोगिता तेस्रो भएर पूरा र्गदै",
+          "image": "awards.individual.contest.third.svg",
+          "title": "प्रतियोगिताको , तेस्रो स्थान"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "एगोरा प्रतियोगिता सफलतापूर्वक आयोजना गर्नु",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "प्रतियोगिताको आयोजक"
+        },
+        "participant": {
+          "help": "एगोरा वक्ता प्रतियोगिता भाग लिदै",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "सहभागिताको प्रमाणपत्र"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "एगोरा वक्ता प्रतियोगितामा दोस्रो पुरा गर्दै",
+          "image": "awards.individual.contest.second.svg",
+          "title": "प्रतियोगिताको , दोस्रो स्थान"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "सबैभन्दा याद भएको सुधार",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "शैक्षिक प्रगति पुरस्कार"
+        }
+      },
+      "outreach": {
+        "help": "समुदायिक आवटरिचमा उत्कृष्टता",
+        "image": "awards.individual.outreach.svg",
+        "title": "आउटरिच पुरस्कार"
+      },
+      "community": {
+        "leadership": {
+          "help": "सामुदायिक परियोजनाहरूको उत्कृष्ट कार्यवाही",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "समुदाय नेतृत्व पुरस्कार"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "एगोरा मिशनका लागि उत्कृष्टता र प्रतिबद्धता",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "राजदुतको विशिष्ट सदस्य पुरस्कार"
+        }
+      },
+      "special": {
+        "distinction": {
+          "help": "एगोरा समुदायलाइ सहयोग गर्नमा उत्कृष्टता",
+          "image": "awards.individual.special.distinction.svg",
+          "title": "विशेष कदर पुरस्कार"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "help": "नेतृत्व कार्यक्रम सफलतापुर्वक पूरा गर्दै",
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "कुशल नाइके"
+        },
+        "communicator": "कुशल संचारकर्ता"
+      },
+      "help": {
+        "help": "क्लबको सफलतामा निरन्तर प्रतिबद्धता",
+        "image": "awards.individual.help.svg",
+        "title": "क्लब सफलता पुरस्कारमा समर्पण"
+      },
+      "accomplished": {
+        "speaker": {
+          "help": "{०} उन्नत शैक्षिक मार्ग सफलतापुर्वक पूरा गर्दै",
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "निपुण प्रसारण संचार मिडिया"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "निपुणता सँग मनाउन सक्ने वक्ता"
+              }
+            },
+            "pr": {
+              "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "निपुण जनसम्पर्क विशेषज्ञ"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "विशेष अवसरका लागिनिपुण वक्ता"
+              }
+            },
+            "storytelling": {
+              "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "निपुण कथाकार"
+            },
+            "educational": {
+              "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "निपुण शैक्षिक वक्ता"
+            },
+            "business": {
+              "contexts": {
+                "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "निपुण व्यावसायिक वक्ता"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "निपुण आलोचनात्मक विचारक"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "सबै प्रतिकुल वक्ताविरुद्ध निपुण"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "निपुण उद्यमी वक्ता"
+            },
+            "project": {
+              "management": {
+                "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "निपुण परियोजना प्रबन्धक"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "निपुण व्यक्तिगत सीप गुरु"
+              }
+            },
+            "dramatization": {
+              "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "निपुण नाटकीय वक्ता"
+            },
+            "humorous": {
+              "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "निपुण व्याङ्ग्यात्मक वक्ता"
+            },
+            "leadership": {
+              "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "कुशल नाइके"
+            },
+            "negotiation": {
+              "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "निपुण वार्तालापकर्ता"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "सफलतापूर्वक {{v0}} उन्नत शैक्षिक मार्ग पूरा गर्दै",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "निपुण दृश्य कथाकार"
+              }
+            }
+          },
+          "title": "कुशल वक्ता"
+        },
+        "communicator": {
+          "help": "पूर्ण संचार ट्रयाक सफलतापुर्वक पूरा गर्दै",
+          "image": "awards.individual.accomplished.communicator.svg",
+          "title": "कुशल संचारकर्ता"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "क्लब नेता"
+        },
+        "founder": {
+          "help": "एगोरा क्लबलाई सफलतापूर्वक स्थापना गर्नु",
+          "image": "awards.individual.club.founder.svg",
+          "title": "क्लब संस्थापक"
+        },
+        "officer": {
+          "help": "एक वर्षमा क्लबलाई सफलतापूर्वक नेतृत्व गर्नु",
+          "image": "awards.individual.club.officer.svg",
+          "title": "क्लबको नेतृत्व"
+        },
+        "growth": {
+          "help": "देशमा एगोरा क्लब बनाउन र सल्लाह प्रदान गर्नमा श्रेष्ठता",
+          "image": "awards.individual.club.growth.svg",
+          "title": "क्लब वृद्धि पुरस्कार"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "५ वर्षसम्म क्लबमा निरन्तर सदस्यता",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "वार्षिकोत्सव पुरस्कार"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "help": "सहभागिता र प्रतिबद्धतामा उत्कृष्टता",
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "महिनाको सदस्य (पुरस्कार)"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "बैठकमा निरन्तर र सक्रिय उपस्थिति",
+        "image": "awards.individual.attendance.svg",
+        "title": "प्रतिबद्धता पुरस्कार"
+      },
+      "agora": {
+        "innovator": {
+          "help": "सफल शैक्षिक गतिविधि डिजाइन र कार्यन्वयन गर्दै",
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "एगोरा नवप्रवर्तक पुरस्कार"
+        },
+        "torchbearer": {
+          "help": "एगोरा मिशनको संचार र प्रचार गर्नमा उत्कृष्टता",
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "एगोरा टर्च वियरर"
+        }
+      },
+      "promotion": {
+        "help": "एगोरा मिशनको संचार र प्रचार गर्नमा उत्कृष्टता",
+        "image": "awards.individual.promotion.svg",
+        "title": "एगोरा संस्थापक पुरस्कार"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "help": "अन्त्तराष्टिय एगोरा सम्मेलनको सह आयोजक",
+          "image": "awards.club.convention.host.svg",
+          "title": "अधिवेशन आयोजक पुरस्कार"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "help": "देशमा पहिलो क्लब दर्ता",
+          "image": "awards.club.country.pioneer.svg",
+          "title": "देश अग्रगामि (पुरस्कार)"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "help": "सदस्यहरूको शैक्षिक प्रशिक्षणमा उत्कृष्टता",
+          "image": "awards.club.educational.excellence.svg",
+          "title": "शैक्षिक उत्कृष्टता पुरस्कार"
+        },
+        "outreach": {
+          "help": "क्लब समुदाय भित्रको शैक्षिक गतिविधिमा उत्कृष्टता",
+          "image": "awards.club.educational.outreach.svg",
+          "title": "शैक्षिक आउटरिच पुरस्कार"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "help": "सहरमा पहिलो क्लबको दर्ता",
+          "image": "awards.club.city.pioneer.svg",
+          "title": "शहर अग्रगामि (पुरस्कार)"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "help": "क्लबको देशमा एगोरा मिशनको संचार र प्रचार गर्नमा उत्कृष्टता",
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "उत्कृष्ट आउटरिच पुरस्कार"
+        }
+      },
+      "media": {
+        "help": "एगोरा मिशन र गतिविधि प्रचार गर्नमा उत्कृष्टता",
+        "image": "awards.club.media.svg",
+        "title": "मिडिया उत्कृष्टता पुरस्कार"
+      },
+      "membership": {
+        "growth": "सदस्यता वृद्धि पुरस्कार",
+        "retention": {
+          "help": "८०%बढि सदस्यता धारणा",
+          "image": "awards.club.membership.retention.svg",
+          "title": "सदस्यता अवधारण पुरस्कार"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "समुदाययिक परियोजनाको उत्कृष्ट कार्यन्वयन",
+          "image": "awards.club.community.leadership.svg",
+          "title": "समुदाय नेतृत्व पुरस्कार"
+        }
+      },
+      "content": {
+        "help": "एगोरा समुदायका लागी नविन सामाग्री सिर्जना गर्नमा उत्कृष्टता",
+        "image": "awards.club.content.svg",
+        "title": "सामाग्री सिर्जना पुरस्कार"
+      },
+      "innovator": {
+        "help": "नँया शैक्षिक गतिविधि सफल परिभाषा र कार्यान्वयन",
+        "image": "awards.club.innovator.svg",
+        "title": "क्लब नवप्रवर्तक पुरस्कार"
+      },
+      "special": {
+        "distinction": {
+          "help": "क्लबको संचानलनमा उत्कृष्टता",
+          "image": "awards.club.special.distinction.svg",
+          "title": "विशेष कदर पुरस्कार"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "help": "क्लबको संचानलनमा उत्कृष्टता",
+          "image": "awards.club.ambassador.award.svg",
+          "title": "राजदुतको पुरस्कार"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "help": "नयाँ सदस्यहरूलाइ मार्गदर्शन प्रदान गर्नमा उत्कृष्टता",
+          "image": "awards.club.club.mentorship.svg",
+          "title": "क्लब सल्लाहकार पुरस्कार"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "help": "सदस्यहरूको सेवा र एगोरा कार्यक्रम पूरा गर्नमा उत्कृष्टता",
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "महिनाको क्लब (पुरस्कार)"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "९०% बढिले क्लबको सदस्यता सन्तुष्टि",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "सदस्यता सन्तुष्टि स्वर्ण पुरस्कार"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "७५% बढिले क्लबको सदस्यता सन्तुष्टि पुरस्कार",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "सदस्यता सन्तुष्टि रजत पुरस्कार"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "क्लब सदस्यता सन्तुष्टि पुरस्कार"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "२० जना बढि सदस्यको सदस्यता बृद्धि",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "गोल्डन सदस्यता बृद्धि पुरस्कार"
+          }
+        },
+        "anniversary": {
+          "help": "दश वर्षको अवधिमा क्लबको सफल र लगातर संचालन",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "स्वर्ण जयन्ती पूरस्कार"
+        }
+      },
+      "model": {
+        "club": {
+          "help": "एगोराको संचालन कार्यक्रम पछ्याउनमा उत्कृष्टता",
+          "image": "awards.club.model.club.svg",
+          "title": "मोडेल क्लब पुरस्कार"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "१० जना बढि सदस्यको सदस्यता बृद्धि",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "रजत सदस्यता बृद्धि पुरस्कार"
+          }
+        },
+        "anniversary": {
+          "help": "पाचँ वर्षको अवधिमा क्लबको सफल र लगातर संचालन",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "रजत वार्षिकोत्सव पुरस्कार"
+        }
+      },
+      "anniversary": {
+        "help": "एक वर्षको अवधिमा क्लबको सफल र लगातर संचालन",
+        "image": "awards.club.anniversary.svg",
+        "title": "क्लब वार्षिकोत्सव पुरस्कार- {०} वर्ष"
+      }
+    },
+    "place": {
+      "participation": "सहभागिता"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "Crossfire क्रसफायर बैठकमा सबैभन्दा बढी जिज्ञासुर चतुर प्रश्नकर्ता हुनु",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "सबैभन्दा बढी जिज्ञासु क्रसफायर सहभागी"
+        },
+        "survivor": {
+          "help": "बैठकको क्रसफायरमा खण्डमा सफल",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "क्रसफायरमा सफल"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "उत्तम बोलचाल प्रस्तुतकर्ता र प्रश्नकर्ता बन्दै",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "उत्तम बोलचाल सहभागी"
+        },
+        "role": {
+          "help": "बैठक भूमिका शानदार रूपमा प्रदर्शन गर्दै",
+          "image": "awards.meeting.best.role.svg",
+          "title": "उत्तम बैठक भूमिका"
+        },
+        "speaker": {
+          "help": "क्लब बैठकमा सर्वश्रेष्ठ तयारी भासण गर्दै",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "बैठकको सर्वश्रेष्ठ वक्ता"
+        },
+        "hot": {
+          "response": {
+            "help": "क्लब बैठकमा सर्वश्रेष्ठ आकस्मिक (impromptu) भासण गर्दै",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "उत्तम बैठक आकस्मिक (Impromptu) वक्ता"
+          }
+        },
+        "speechwriter": {
+          "help": "बैठकमा उत्कृष्ट भासण सिर्जना गर्नु",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "बैठकको उत्कृष्ट भासण लेखक"
+        },
+        "evaluator": {
+          "help": "क्लब बैठकमा सर्वश्रेष्ठ मूल्यांकन गर्दै",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "उत्तम बैठक मूल्यांकनकर्ता"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "अगोरा अन्तराष्ट्रिय फाउन्डेसन भनेको शीक्षा सँग सम्बद्ध युरोपियन धर्मनिरपेक्ष च्यारिटि हो जसले मानिसलाई एकदमै उत्कृट कम्युनिकेटर र आत्मविश्वासी नाइके जसले सक्रिय रूपमा राम्रो संसार निर्माण गर्ने काम सक्छन् त्यस्ता व्यक्ति निर्माण गर्न सहयोग गर्दछ।"
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "अरू"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "मिति",
+      "country": "देश",
+      "address": "ठेगाना",
+      "city": "शहर",
+      "awards": "पाएको पुरस्कारहरू",
+      "state": "राज्य/प्रान्त/क्यान्टोन/आदि",
+      "event": "कार्यक्रम",
+      "region": "क्षेत्र",
+      "points": {
+        "total": "पाएको अंक (जम्मा)",
+        "year": "पाएको अंक (यो वर्ष)",
+        "name": "बुदाहरू"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "कृपया क्लबमा प्रयोग गरिने भाषा वा भाषाहरू निर्दिष्ट गर्नुहोस्  (उदाहरण: अंग्रेजी)"
+      },
+      "charter": {
+        "date": "दर्ता मिति",
+        "help": "दर्ता मिति भविष्यमा हुनुपर्दछ, तर ३० दिनहरू भन्दा पछि हुनुहुदैन।"
+      },
+      "founder": {
+        "name": "क्लबको संस्थापक",
+        "email": "संस्थापकको ईमेल"
+      },
+      "fee": {
+        "title": "क्लब सदस्यता शुल्क (यदि छ भने)।"
+      },
+      "banner": "ब्यानर",
+      "restrictions": {
+        "guests": {
+          "input": "कृपया क्लबमा अतिथिको रूपमा भाग लिनका लागि कस्तो प्रकारको प्रतिबन्धहरू छन् भन्ने कुरा वर्णन गर्नुहोस् (यदि कुनै छ भने)"
+        },
+        "membership": {
+          "input": "कृपया क्लबमा सदस्य हुनका लागि कस्तो प्रकारको प्रतिबन्धहरू रहनेछन् वर्णन गर्नुहोस् (यदि कुनै छ भने)। यदि तपाईं युवा क्लब दर्ता गर्दै हुनुहुन्छ भने, कृपया उमेरको दायरा सूचित गर्नुहोस्"
+        }
+      },
+      "type": {
+        "help": "बिभिन्न क्लब प्रकारहरुको बारे मा यहाँ अधिक जानकारी रहेको छ।",
+        "input": "क्लबको प्रकार"
+      },
+      "points": {
+        "date": "कार्य मिति",
+        "action": "क्लबको कार्य"
+      },
+      "token": "क्लबको गोप्य टोकन",
+      "number": "क्लब संख्या",
+      "assets": "क्लबको सम्पत्ति",
+      "awards": "क्लब पुरस्कारहरू",
+      "contact": {
+        "help": {
+          "1": "क्लबको लागि सम्पर्क जानकारी। इमेल वा फोन मध्ये एक हुनु पर्छ।",
+          "2": "क्लबबारे अतिरिक्त सम्पर्क जानकारी - अघिल्लो भन्दा फरक हुनुपर्दछ, र अर्को ईमेल / फोन, वा वेबपृष्ठ, फेसबुक समूह, मीटअप समूह, आदि हुन सक्छ।"
+        },
+        "title": "सम्पर्क जानकारी"
+      },
+      "name": "क्लबको नाम",
+      "logo": {
+        "title": "तपाईं आफ्नो लोगो अपलोड गर्न सक्नुहुनेछ, वा यदि तपाईंसँग त्यस्तो छैन भने हामी तपाईंको क्लबको लागि लोगो स्वचालित रूपमा उत्पन्न गर्नेछौं।"
+      },
+      "meeting": {
+        "schedule": "बैँठकको तालिका",
+        "info": "थप जानकारी"
+      },
+      "officers": "क्लब अफिसर"
+    },
+    "personal": {
+      "participation": {
+        "input": "कस्तो प्रकारको सहभागितामा तपाँइ रूची राख्नुहुन्छ?",
+        "online": "अनलाइन बैठकहरू",
+        "physical": "भाैतिक बैँठकहरू"
+      },
+      "languages": {
+        "interested": "कस्तो प्रकारको भाषामा तपाँइ रूची राख्नुहुन्छ?"
+      },
+      "joined": "सामेल हुने मिति",
+      "facebook": "फेसबुक प्रोफाइलको लागी लिंक",
+      "roles": {
+        "date": "मिति",
+        "role": "भूमिका",
+        "taken": "लिइएको भूमिका",
+        "club": "क्लब"
+      },
+      "speeches": {
+        "persuasive": "प्रेरक भासणहरू",
+        "general": "सामान्य उद्देश्यका भासण",
+        "storytelling": "कथा वाचन",
+        "educational": "शैक्षिक",
+        "business": "व्यापार प्रस्तुतिकरण",
+        "interested": "कस्तो प्रकारको प्रस्तुतिकरणा / भासणमा तपाँइ रूची राख्नुहुन्छ?",
+        "media": "भलगिंन र मिडिया उत्पादन",
+        "sales": "बिक्रि",
+        "humorous": "व्यांक्तमक भासण र हास्य"
+      },
+      "privacy": "म यस साइटको सर्त तथा बन्धेजहरू र अन्तर्राष्टिय एगोरा वक्ताहरूको गोपनीयताको नीतिसगँ सहमत छु",
+      "history": {
+        "date": "मिति",
+        "club": "क्लबको नाम",
+        "event": "कार्यक्रम"
+      },
+      "linkedin": "Linkedin प्रोफाइलको लागी लिंक",
+      "skills": "तपाँइलाइ निम्न मध्य कुन शैलीमा सुधार गर्न रूचि छ?",
+      "number": "सदस्य संख्या",
+      "password": {
+        "input": "पासवर्ड",
+        "verify": "प्रमाणिकरणको लागि पासवर्ड दोहोर्याउनुहोस्"
+      },
+      "clubs": {
+        "role": "भूमिका"
+      },
+      "name": {
+        "address": {
+          "help": "हाम्रो संचारमा (जस्तै इमेलमा )हामी तपाँइलाइ कसरी सम्बोधन गर्ने?",
+          "field": "संचारका लागी प्राथमिकतामा रहेको नाम:"
+        },
+        "certificates": {
+          "help": "तपाँइले पाउनुभएको प्रमाणपत्र र पुरस्कारमा तपाँइको नाम कसरी देखा पर्नुपर्छ?",
+          "input": "प्रमाणपत्रका लागी प्राथमिकतामा रहेको नाम"
+        },
+        "online": {
+          "help": "तपाँइको नाम हाम्रो अनलाइन प्रणाली,फोरममा आदिमा कसरी देखा पर्नुपर्छ?",
+          "input": "प्राथमिकतामा रहेको अनलाइन नाम"
+        },
+        "full": "पुरा नाम"
+      },
+      "principles": {
+        "agreement": "कृपया हाम्रो मूल सिद्धान्तहरूसंग तपाइको सम्झौता संकेत गर्नुहोस"
+      },
+      "position": "क्लबमा वर्तमान भूमिका",
+      "interests": {
+        "11": {
+          "language": "म विदेशी भाषाकाैशल सुधार गर्नमा रूचि राख्छु।"
+        },
+        "01": {
+          "curious": "म संगठनको बारेमा केवल जान्न उत्सुक मात्र छु"
+        },
+        "12": {
+          "contests": "अन्तर्राष्टिय एगोरा वक्ताहरूले (Agora Speakers International)संचालन गरेको प्रतियोगितामा भाग लिन इच्छुक छु"
+        },
+        "02": {
+          "confidence": "म आफ्नो आत्मविश्वास बढाउन चाहान्छु ।"
+        },
+        "13": {
+          "critical": "म आलोचनात्मक तरीकाले सोच्न सिक्न इच्छुक छु ।"
+        },
+        "03": {
+          "communicate": "म प्रभावकारी ढङ्गले कुराकानी गर्न सिक्न चाहान्छु ।"
+        },
+        "14": {
+          "friends": "म मान्छेहरूलाइ भेट्न र नयाँसाथी बनाउनमा रूचि राख्छु।"
+        },
+        "04": {
+          "speak": "म आफ्नो सार्वजनिक बोल्ने कला सुधार गर्न चाहान्छु ।"
+        },
+        "15": {
+          "cooperation": "म सांस्कृतिक आदानप्रदान र पार सांस्कृतिक सहयोग गतिविधिहरूमा रूचि राख्छु ।"
+        },
+        "question": "Agora Speakers Internationalमा तपाँइको रूचि के हो?",
+        "05": {
+          "leadership": "म आफ्नो नेतृत्व कैशल सुधार गर्न चाहान्छु ।"
+        },
+        "16": {
+          "startclub": "म मेरो शहरमा एगोरा क्लब सुरू गर्न चहान्छु"
+        },
+        "06": {
+          "networking": "म व्यावसायिक नेटवर्किँगमा रूचि राख्छु।"
+        },
+        "17": {
+          "ambassador": "म मेरो देशको लागी एगोरा राजदुत बन्न चाहान्छु"
+        },
+        "07": {
+          "presentations": "म व्यावसायिक प्रस्तुतिकरणहरू दिनमा रूचि राख्छु।"
+        },
+        "18": {
+          "partnership": "म मेरो संगठन र अन्तर्राष्टिय एगोरा वक्ताहरू(Agora Speakers International) बिच साझेदारीमा इच्छुक छु"
+        },
+        "08": {
+          "events": "म एगोराले संचालन गरेको कार्यशालाहरू,सेमिनारहरू र अन्य कार्यक्रमहरूमा रूचि राख्छु"
+        },
+        "09": {
+          "debating": "म वादविवाद गर्न र तर्क राख्नमा रूचि राख्छु।"
+        },
+        "10": {
+          "community": "म मेरो समुदायमा परिर्वतन ल्याउन चहान्छु"
+        }
+      },
+      "email": "इमेल"
+    },
+    "meeting": {
+      "date": "बैठकको मिति",
+      "number": "बैठक संख्या",
+      "venue": {
+        "name": "ठाँउको नाम"
+      },
+      "address": {
+        "input": "बैठक हुने ठाँउको ठेगाना"
+      },
+      "online": {
+        "software": "बैठक सफ्ट्वयर",
+        "link": "सामेल हुनका लागी लिंक",
+        "id": "अनलाइन बैठकको आइडि",
+        "title": "अनलाइन बैठकका लागी जानकारी",
+        "passowrd": "सामेल हुनका लागी पासवर्ड"
+      },
+      "theme": "बैठकको विषयवस्तु  (छ भने)",
+      "time": "बैठकको समय"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) अन्तराष्ट्रिय एगोरा वक्ताहरूको प्रतिलिपि अधिकार। सबै अधिकार सुरक्षित।एगोरा सामाग्री र सम्पत्तिहरु केवल हाम्रो सर्त र अधिनहरुमा रहेर अनुसार प्रयोग गर्न सकिन्छ।"
+    },
+    "terms": "शर्त र अधिनहरू",
+    "legal": {
+      "notice": "कानूनी जानकारी"
+    },
+    "privacy": {
+      "policy": "गोपनियताको नीति"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "हिन्दी",
+      "ps": "पास्तो",
+      "pt": "पोर्तुगी",
+      "hr": "क्रोयसियाली",
+      "pt_br": "Brazilian",
+      "hu": "हङ्गेरियाली",
+      "yi": "यिद्दिस",
+      "hy": "आर्मेनियाली",
+      "yo": "योरूवा",
+      "ia": "इन्टर्लिङ्गुआ",
+      "id": "इन्डोनेसियाली",
+      "ig": "इग्बो",
+      "ii": "सिचुआन यि",
+      "qu": "क्वेचुवा",
+      "af": "अफ्रिकान्स",
+      "ak": "आकान",
+      "is": "आइसल्यान्डियाली",
+      "it": "इटालेली",
+      "am": "अम्हारिक",
+      "zh": "चिनियाँ",
+      "ar": "अरबी",
+      "as": "आसामी",
+      "ja": "जापानी",
+      "az": "अजरबैजानी",
+      "rm": "रोमानिस",
+      "zu": "जुलु",
+      "rn": "रुन्डी",
+      "ro": "रोमानियाली",
+      "be": "बेलारुसी",
+      "ru": "रसियाली",
+      "bg": "बुल्गेरियाली",
+      "rw": "किन्यारवान्डा",
+      "bm": "बाम्बारा",
+      "bn": "बंगाली",
+      "jv": "जाभानी",
+      "bo": "तिब्बती",
+      "sa": "संस्कृत",
+      "br": "ब्रेटन",
+      "bs": "बोस्नियाली",
+      "sd": "सिन्धी",
+      "se": "उत्तरी सामी",
+      "sg": "साङ्गो",
+      "sh": "Serbo-Croatian",
+      "ka": "जर्जियाली",
+      "si": "सिन्हाली",
+      "sk": "स्लोभाकियाली",
+      "sl": "स्लोभेनियाली",
+      "sn": "शोना",
+      "so": "सोमाली",
+      "ca": "क्याटालन",
+      "ki": "किकुयु",
+      "sq": "अल्बानियाली",
+      "sr": "सर्बियाली",
+      "kk": "काजाख",
+      "kl": "कालालिसुट",
+      "ce": "चेचेन",
+      "km": "खमेर",
+      "su": "सुडानी",
+      "kn": "कन्नाडा",
+      "sv": "स्विडिस",
+      "ko": "कोरियाली",
+      "sw": "स्वाहिली",
+      "ks": "कास्मिरी",
+      "ku": "कुर्दी",
+      "kw": "कोर्निस",
+      "ta": "तामिल",
+      "ky": "किर्गिज",
+      "cs": "चेक",
+      "te": "तेलुगु",
+      "tg": "ताजिक",
+      "th": "थाई",
+      "ti": "टिग्रिन्या",
+      "cy": "वेल्श",
+      "lb": "लक्जेम्बर्गी",
+      "tk": "टर्कमेन",
+      "tl": "Tagalog",
+      "lg": "गान्डा",
+      "to": "टोङ्गन",
+      "da": "डेनिस",
+      "tr": "टर्किश",
+      "tt": "तातार",
+      "de": "जर्मन",
+      "ln": "लिङ्गाला",
+      "lo": "लाओ",
+      "lt": "लिथुआनियाली",
+      "lu": "लुबा-काताङ्गा",
+      "lv": "लात्भियाली",
+      "ug": "उइघुर",
+      "dz": "जोङ्खा",
+      "uk": "युक्रेनी",
+      "mg": "मलागासी",
+      "mi": "माओरी",
+      "ur": "उर्दु",
+      "mk": "म्यासेडोनियन",
+      "ml": "मलयालम",
+      "ee": "इवी",
+      "mn": "मङ्गोलियाली",
+      "mr": "मराठी",
+      "uz": "उज्बेकी",
+      "ms": "मलाय",
+      "el": "ग्रीक",
+      "mt": "माल्टिज",
+      "en": "अङ्ग्रेजी",
+      "eo": "एस्पेरान्तो",
+      "my": "बर्मेली",
+      "es": "स्पेनी",
+      "et": "इस्टोनियन",
+      "eu": "बास्क",
+      "vi": "भियतनामी",
+      "nb": "नर्वेली बोकमाल",
+      "nd": "उत्तरी न्डेबेले",
+      "ne": "नेपाली",
+      "fa": "फारसी",
+      "nl": "डच",
+      "ff": "फुलाह",
+      "nn": "नर्वेली नाइनोर्स्क",
+      "no": "नर्वेली",
+      "fi": "फिनिस",
+      "fo": "फारोज",
+      "fr": "फ्रान्सेली",
+      "fy": "पश्चिमी फ्रिसियन",
+      "wo": "वुलुफ",
+      "ga": "आइरिस",
+      "gd": "स्कटिस गाएलिक",
+      "om": "ओरोमो",
+      "or": "उडिया",
+      "os": "ओस्सेटिक",
+      "gl": "गलिसियाली",
+      "gu": "गुजराती",
+      "gv": "मान्क्स",
+      "xh": "खोसा",
+      "pa": "पंजाबी",
+      "ha": "हाउसा",
+      "pl": "पोलिस",
+      "he": "हिब्रु"
+    },
+    "full": {
+      "hi": "हिन्दी (हिन्दी)",
+      "ps": "पास्तो (پښتو)",
+      "pt": "पोर्तुगी (Português)",
+      "hr": "क्रोयसियाली (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "हङ्गेरियाली (Magyar)",
+      "yi": "यिद्दिस (ייִדיש)",
+      "hy": "आर्मेनियाली (Հայերեն)",
+      "yo": "योरूवा (Èdè Yorùbá)",
+      "ia": "इन्टर्लिङ्गुआ (Interlingua)",
+      "id": "इन्डोनेसियाली (Indonesia)",
+      "ig": "इग्बो (Igbo)",
+      "ii": "सिचुआन यि (ꆈꌠꉙ)",
+      "qu": "क्वेचुवा (Runasimi)",
+      "af": "अफ्रिकान्स (Afrikaans)",
+      "ak": "आकान (Akan)",
+      "is": "आइसल्यान्डियाली (Íslenska)",
+      "it": "इटालेली (Italiano)",
+      "am": "अम्हारिक (አማርኛ)",
+      "zh": "चिनियाँ (中文)",
+      "ar": "अरबी (العربية)",
+      "as": "आसामी (অসমীয়া)",
+      "ja": "जापानी (日本語)",
+      "az": "अजरबैजानी (Azərbaycan)",
+      "rm": "रोमानिस (Rumantsch)",
+      "zu": "जुलु (IsiZulu)",
+      "rn": "रुन्डी (Ikirundi)",
+      "ro": "रोमानियाली (Română)",
+      "be": "बेलारुसी (Беларуская)",
+      "ru": "रसियाली (Русский)",
+      "bg": "बुल्गेरियाली (Български)",
+      "rw": "किन्यारवान्डा (Kinyarwanda)",
+      "bm": "बाम्बारा (Bamanakan)",
+      "bn": "बंगाली (বাংলা)",
+      "jv": "जाभानी (Jawa)",
+      "bo": "तिब्बती (བོད་སྐད་)",
+      "sa": "संस्कृत (संस्कृत भाषा)",
+      "br": "ब्रेटन (Brezhoneg)",
+      "bs": "बोस्नियाली (Bosanski)",
+      "sd": "सिन्धी (سنڌي)",
+      "se": "उत्तरी सामी (Davvisámegiella)",
+      "sg": "साङ्गो (Sängö)",
+      "sh": "Serbo-Croatian (Srpskohrvatski)",
+      "ka": "जर्जियाली (ქართული)",
+      "si": "सिन्हाली (සිංහල)",
+      "sk": "स्लोभाकियाली (Slovenčina)",
+      "sl": "स्लोभेनियाली (Slovenščina)",
+      "sn": "शोना (ChiShona)",
+      "so": "सोमाली (Soomaali)",
+      "ca": "क्याटालन (Català)",
+      "ki": "किकुयु (Gikuyu)",
+      "sq": "अल्बानियाली (Shqip)",
+      "sr": "सर्बियाली (Српски)",
+      "kk": "काजाख (Қазақ тілі)",
+      "kl": "कालालिसुट (Kalaallisut)",
+      "ce": "चेचेन (Нохчийн)",
+      "km": "खमेर (ខ្មែរ)",
+      "su": "सुडानी (Basa Sunda)",
+      "kn": "कन्नाडा (ಕನ್ನಡ)",
+      "sv": "स्विडिस (Svenska)",
+      "ko": "कोरियाली (한국어)",
+      "sw": "स्वाहिली (Kiswahili)",
+      "ks": "कास्मिरी (کٲشُر)",
+      "ku": "कुर्दी (Kurdî)",
+      "kw": "कोर्निस (Kernewek)",
+      "ta": "तामिल (தமிழ்)",
+      "ky": "किर्गिज (Кыргызча)",
+      "cs": "चेक (Čeština)",
+      "te": "तेलुगु (తెలుగు)",
+      "tg": "ताजिक (Тоҷикӣ)",
+      "th": "थाई (ไทย)",
+      "ti": "टिग्रिन्या (ትግር)",
+      "cy": "वेल्श (Cymraeg)",
+      "lb": "लक्जेम्बर्गी (Lëtzebuergesch)",
+      "tk": "टर्कमेन (Türkmen dili)",
+      "tl": "Tagalog (Tagalog)",
+      "lg": "गान्डा (Luganda)",
+      "to": "टोङ्गन (Lea fakatonga)",
+      "da": "डेनिस (Dansk)",
+      "tr": "टर्किश (Türkçe)",
+      "tt": "तातार (Татар)",
+      "de": "जर्मन (Deutsch)",
+      "ln": "लिङ्गाला (Lingála)",
+      "lo": "लाओ (ລາວ)",
+      "lt": "लिथुआनियाली (Lietuvių)",
+      "lu": "लुबा-काताङ्गा (Tshiluba)",
+      "lv": "लात्भियाली (Latviešu)",
+      "ug": "उइघुर (ئۇيغۇرچە)",
+      "dz": "जोङ्खा (རྫོང་ཁ)",
+      "uk": "युक्रेनी (Українська)",
+      "mg": "मलागासी (Malagasy)",
+      "mi": "माओरी (Te reo Māori)",
+      "ur": "उर्दु (اردو)",
+      "mk": "म्यासेडोनियन (Македонски)",
+      "ml": "मलयालम (മലയാളം)",
+      "ee": "इवी (Eʋegbe)",
+      "mn": "मङ्गोलियाली (Монгол)",
+      "mr": "मराठी (मराठी)",
+      "uz": "उज्बेकी (O‘zbek)",
+      "ms": "मलाय (Melayu)",
+      "el": "ग्रीक (Ελληνικά)",
+      "mt": "माल्टिज (Malti)",
+      "en": "अङ्ग्रेजी (English)",
+      "eo": "एस्पेरान्तो (Esperanto)",
+      "my": "बर्मेली (မြန်မာ)",
+      "es": "स्पेनी (Español)",
+      "et": "इस्टोनियन (Eesti)",
+      "eu": "बास्क (Euskara)",
+      "vi": "भियतनामी (Tiếng Việt)",
+      "nb": "नर्वेली बोकमाल (Norsk bokmål)",
+      "nd": "उत्तरी न्डेबेले (IsiNdebele)",
+      "ne": "नेपाली (नेपाली)",
+      "fa": "फारसी (فارسی)",
+      "nl": "डच (Nederlands)",
+      "ff": "फुलाह (Pulaar)",
+      "nn": "नर्वेली नाइनोर्स्क (Norsk nynorsk)",
+      "no": "नर्वेली (Norsk)",
+      "fi": "फिनिस (Suomi)",
+      "fo": "फारोज (Føroyskt)",
+      "fr": "फ्रान्सेली (Français)",
+      "fy": "पश्चिमी फ्रिसियन (Frysk)",
+      "wo": "वुलुफ (Wolof)",
+      "ga": "आइरिस (Gaeilge)",
+      "gd": "स्कटिस गाएलिक (Gàidhlig)",
+      "om": "ओरोमो (Oromoo)",
+      "or": "उडिया (ଓଡ଼ିଆ)",
+      "os": "ओस्सेटिक (Ирон)",
+      "gl": "गलिसियाली (Galego)",
+      "gu": "गुजराती (ગુજરાતી)",
+      "gv": "मान्क्स (Gaelg)",
+      "xh": "खोसा (IsiXhosa)",
+      "pa": "पंजाबी (ਪੰਜਾਬੀ)",
+      "ha": "हाउसा (Hausa)",
+      "pl": "पोलिस (Polski)",
+      "he": "हिब्रु (עברית)"
+    }
+  }
+}

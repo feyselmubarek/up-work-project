@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g transform="matrix(1.2400000000000002,0,0,1.2400000000000002,-61.440000000000055,-61.440000000000055)">
+<linearGradient xmlns="http://www.w3.org/2000/svg" id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="74.9807" y1="439.0193" x2="437.0193" y2="76.9807" gradientTransform="matrix(1 0 0 -1 0 514)"><stop stop-opacity="0" stop-color="#424459" offset="0"/><stop stop-opacity="0" stop-color="#424458" offset="1"/></linearGradient>
+<circle xmlns="http://www.w3.org/2000/svg" style="fill:url(#SVGID_1_);" cx="256" cy="256" r="256" fill=""/>
+<linearGradient xmlns="http://www.w3.org/2000/svg" id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="174.33" y1="289.169" x2="381.04" y2="289.169" gradientTransform="matrix(1 0 0 -1 0 514)">
+	<stop offset="0.005" style="stop-color:#FFE767"/>
+	<stop offset="0.168" style="stop-color:#FFE661"/>
+	<stop offset="0.395" style="stop-color:#FFE44E"/>
+	<stop offset="0.659" style="stop-color:#FFE131"/>
+	<stop offset="0.951" style="stop-color:#FFDD08"/>
+	<stop offset="1" style="stop-color:#FFDC00"/>
+</linearGradient>
+<polygon xmlns="http://www.w3.org/2000/svg" style="fill:url(#SVGID_2_);" points="256,85.79 103.771,363.872 408.229,363.872 " fill=""/>
+<linearGradient xmlns="http://www.w3.org/2000/svg" id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="87" y1="289.1685" x2="431.28" y2="289.1685" gradientTransform="matrix(1 0 0 -1 0 514)">
+	<stop offset="0" style="stop-color:#FF53A0"/>
+	<stop offset="1" style="stop-color:#A90057"/>
+</linearGradient>
+<path xmlns="http://www.w3.org/2000/svg" style="fill:url(#SVGID_3_);" d="M402.061,389.996H109.939c-11.217,0-21.602-5.917-27.32-15.567s-5.922-21.6-0.536-31.44  L228.144,76.175c5.572-10.179,16.252-16.508,27.856-16.508s22.284,6.329,27.856,16.508L429.917,342.99  c5.386,9.839,5.182,21.79-0.536,31.44C423.663,384.079,413.278,389.996,402.061,389.996z M117.509,353.214h276.982L256,100.227  L117.509,353.214z" fill=""/>
+<g xmlns="http://www.w3.org/2000/svg">
+	
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="174.33" y1="290.93" x2="381.04" y2="290.93" gradientTransform="matrix(1 0 0 -1 0 514)">
+		<stop offset="0" style="stop-color:#9330B2"/>
+		<stop offset="1" style="stop-color:#451151"/>
+	</linearGradient>
+	<rect x="241.6" y="173.37" style="fill:url(#SVGID_4_);" width="28.797" height="99.4" fill=""/>
+	
+		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="174.33" y1="209.65" x2="381.04" y2="209.65" gradientTransform="matrix(1 0 0 -1 0 514)">
+		<stop offset="0" style="stop-color:#9330B2"/>
+		<stop offset="1" style="stop-color:#451151"/>
+	</linearGradient>
+	<circle style="fill:url(#SVGID_5_);" cx="256" cy="304.35" r="21.83" fill=""/>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+</g></svg>

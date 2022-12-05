@@ -1,0 +1,20 @@
+/*
+ * Copyright (c) 2022. Agora Speakers International.  All rights reserved.
+ * This file is subject to the terms and conditions defined in the  'LICENSE.txt' file which is part of this source code package.
+ *
+ * Author: Alexander Hristov
+ */
+.header {
+    background-color: var(--agora-blue-0);
+    width: 100%;
+    min-height: 64px;
+    margin-bottom:1em;
+    color: white;
+}
+.header h1 {
+    padding-top:0.5em;
+    padding-bottom:0.5em;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
+}

@@ -1,0 +1,1243 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "参考俱乐部",
+      "corporate": "企业俱乐部",
+      "restricted": "半公开型俱乐部",
+      "term": "Agora俱乐部",
+      "pic": "公益俱乐部",
+      "open": "公共型俱乐部"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Agora项目教育目标达成优秀奖",
+        "title": "教育奖"
+      },
+      "social": {
+        "help": "社区积极影响奖",
+        "title": "社会影响力奖"
+      },
+      "operational": {
+        "help": "俱乐部管理和特许经营优秀奖",
+        "title": "俱乐部管理优秀奖"
+      },
+      "community": {
+        "help": "Agora社区发展壮大贡献奖",
+        "title": "Agora社区奖励"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "搜索",
+      "register": "注册"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "成功组织一场Agora区域或国际会议",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "大会组织者"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "合格领导者"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "合格的演讲人"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "导师奖"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "赢得Agora演讲比赛",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "比赛获胜者"
+        },
+        "third": {
+          "help": "在Agora比赛中获得第三名",
+          "image": "awards.individual.contest.third.svg",
+          "title": "比赛，第三名"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "成功组织一场Agora比赛",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "比赛组织者"
+        },
+        "participant": {
+          "help": "参加一场Agora演讲比赛",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "参与证书"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "在Agora比赛中获得第二名",
+          "image": "awards.individual.contest.second.svg",
+          "title": "比赛，第二名"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "最显著进步",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "教育进步奖"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "外展奖"
+      },
+      "community": {
+        "leadership": {
+          "help": "出色执行社区项目",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "社区领导力奖"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "践行Agora使命的卓越成就与全心投入",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "大使杰出会员奖"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "卓越奖"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "领导者成就"
+        },
+        "communicator": "沟通者成就"
+      },
+      "help": {
+        "help": "持续为俱乐部成功奉献",
+        "image": "awards.individual.help.svg",
+        "title": "助力俱乐部成功贡献奖"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "成功完成{{v0}}进阶教育路线",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "\u003d广播媒体演讲人成就"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "成功完成{{v0}}进阶教育路线",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "令人信服的演讲人成就"
+              }
+            },
+            "pr": {
+              "help": "成功完成{{v0}}进阶教育路线",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "公关专家成就"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "成功完成{{v0}}进阶教育路线",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "特殊场合演讲人成就"
+              }
+            },
+            "storytelling": {
+              "help": "成功完成{{v0}}进阶教育路线",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "叙事成就"
+            },
+            "educational": {
+              "help": "成功完成{{v0}}进阶教育路线",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "教育演讲人成就"
+            },
+            "business": {
+              "contexts": {
+                "help": "成功完成{{v0}}进阶教育路线",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "商务精英演讲人成就"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "成功完成{{v0}}进阶教育路线",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "批判思维演讲人成就"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "成功完成{{v0}}进阶教育路线",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "勇往直前演讲人成就"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "成功完成{{v0}}进阶教育路线",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "企业家演讲人成就"
+            },
+            "project": {
+              "management": {
+                "help": "成功完成{{v0}}进阶教育路线",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "项目经理成就"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "成功完成{{v0}}进阶教育路线",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "人际关系技能大师成就"
+              }
+            },
+            "dramatization": {
+              "help": "成功完成{{v0}}进阶教育路线",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "戏剧性演讲人成就"
+            },
+            "humorous": {
+              "help": "成功完成{{v0}}进阶教育路线",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "幽默演讲人成就"
+            },
+            "leadership": {
+              "help": "成功完成{{v0}}进阶教育路线",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "领导者成就"
+            },
+            "negotiation": {
+              "help": "成功完成{{v0}}进阶教育路线",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "谈判者成就"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "成功完成{{v0}}进阶教育路线",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "视觉叙事者成就"
+              }
+            }
+          },
+          "title": "演讲人成就"
+        },
+        "communicator": {
+          "help": "成功搭建沟通通道",
+          "image": "awards.individual.accomplished.communicator.svg"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "俱乐部领导奖"
+        },
+        "founder": {
+          "help": "成功成立一个Agora俱乐部",
+          "image": "awards.individual.club.founder.svg",
+          "title": "俱乐部创始人"
+        },
+        "officer": {
+          "help": "成功领导俱乐部一年",
+          "image": "awards.individual.club.officer.svg",
+          "title": "俱乐部领导力奖"
+        },
+        "growth": {
+          "help": "国内辅导和创建Agora俱乐部卓越成就奖",
+          "image": "awards.individual.club.growth.svg",
+          "title": "俱乐部成长奖"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "俱乐部会员满5年",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "周年纪念奖"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "月度最佳会员奖"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "持续积极参加会议",
+        "image": "awards.individual.attendance.svg",
+        "title": "全身心投入奖"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Agora创新者奖"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Agora火炬手奖"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "Agora宣传奖"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "大会主持人奖"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "国家先锋奖"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "教育卓越奖"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "教育外展奖"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "城市先锋奖"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "外展优秀奖"
+        }
+      },
+      "media": {
+        "help": "媒体宣传Agora使命和活动优秀奖",
+        "image": "awards.club.media.svg",
+        "title": "媒体优秀奖"
+      },
+      "membership": {
+        "growth": "会员增长奖",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "会员留存奖"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "出色执行社区项目",
+          "image": "awards.club.community.leadership.svg",
+          "title": "社区领导力奖"
+        }
+      },
+      "content": {
+        "help": "Agora社区新内容创作优秀奖",
+        "image": "awards.club.content.svg",
+        "title": "内容创作奖"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "俱乐部创新者奖"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "卓越奖"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "大使奖"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "俱乐部辅导奖"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "月度最佳俱乐部奖"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "会员对俱乐部的满意度超90%",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "会员满意金奖"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "会员对俱乐部的满意度超过75%",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "会员满意银奖"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "俱乐部会员满意奖"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "增长超过20个会员奖",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "会员增长金奖"
+          }
+        },
+        "anniversary": {
+          "help": "成功运营俱乐部十年",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "周年金奖"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "模范俱乐部奖"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "增长超过10个会员奖",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "会员增长银奖"
+          }
+        },
+        "anniversary": {
+          "help": "成功运营俱乐部五年",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "周年银奖"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "俱乐部周年纪念奖-{{v0}}年"
+      }
+    },
+    "place": {
+      "participation": "参与"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "B会议交叉攻辩中最具求知欲、最机敏的提问者",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "最具求知欲的交叉攻辩参与者"
+        },
+        "survivor": {
+          "help": "在会议上交叉攻辩环节幸存下来",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "交叉攻辩幸存者"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "最佳座谈会主讲人和提问者",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "最佳座谈会参会人员t"
+        },
+        "role": {
+          "help": "出色完成会议角色",
+          "image": "awards.meeting.best.role.svg",
+          "title": "最佳会议角色"
+        },
+        "speaker": {
+          "help": "在俱乐部会议上发表最精彩的拟稿演讲",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "最佳会议演讲人"
+        },
+        "hot": {
+          "response": {
+            "help": "在俱乐部会议上发表最精彩的即兴演讲",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "最佳会议即兴演讲人"
+          }
+        },
+        "speechwriter": {
+          "help": "撰写会议上最好的演讲稿",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "最佳会议演讲稿撰写人"
+        },
+        "evaluator": {
+          "help": "在俱乐部会议上发表最好的评价",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "最佳会议评估员"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "Agora 演说家国际基金会是一家欧洲世俗教育慈善机构，它使人们能够成为杰出的沟通者和自信的领导者，他们会积极建设一个更美好的世界。"
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "其他"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "日期",
+      "country": "国家",
+      "address": "地址",
+      "city": "城市",
+      "awards": "赢得的奖励",
+      "state": "州/省/州/等.",
+      "event": "活动",
+      "region": "区域",
+      "points": {
+        "total": "获得的分数（总计）",
+        "year": "积分（今年）",
+        "name": "分数"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "请指定俱乐部将使用的一种或多种语言（例如：英语）"
+      },
+      "charter": {
+        "date": "获得特许经营权的日期",
+        "help": "获得特许经营权的日期不能是当天，但也不能提前30天以上。"
+      },
+      "founder": {
+        "name": "俱乐部创始人（全名）",
+        "email": "创始人的电子邮件"
+      },
+      "fee": {
+        "title": "俱乐部会员费（如有）。"
+      },
+      "banner": "横幅",
+      "restrictions": {
+        "guests": {
+          "input": "请描述来宾参加俱乐部有哪些限制（如有）"
+        },
+        "membership": {
+          "input": "请描述成为俱乐部会员的限制条件（如有）。如果您要注册一个青年俱乐部，请注明年龄范围"
+        }
+      },
+      "type": {
+        "help": "在这里了解不同类型俱乐部的更多信息。",
+        "input": "俱乐部类型"
+      },
+      "points": {
+        "date": "行动日期",
+        "action": "俱乐部行动"
+      },
+      "token": "俱乐部秘密令牌",
+      "number": "俱乐部编号",
+      "assets": "俱乐部资产",
+      "awards": "俱乐部奖励",
+      "contact": {
+        "help": {
+          "1": "俱乐部的联系信息。必须是电子邮件或电话。",
+          "2": "其他俱乐部联系信息-必须与前一个不同，可以是其他电子邮件/电话，也可以是网页、脸书群组、meetup群组等。"
+        },
+        "title": "联系方式"
+      },
+      "name": "俱乐部名称",
+      "logo": {
+        "title": "您可以上传自己的标志，如果您没有标志，我们将为您的俱乐部自动生成一个标志。"
+      },
+      "meeting": {
+        "schedule": "会议日程",
+        "info": "附加信息"
+      }
+    },
+    "personal": {
+      "participation": {
+        "input": "您对参与什么样的活动感兴趣？",
+        "online": "在线会议",
+        "physical": "线下会议"
+      },
+      "languages": {
+        "interested": "您对哪国语言感兴趣？"
+      },
+      "joined": "加入日期",
+      "facebook": "链接至脸书个人资料",
+      "roles": {
+        "date": "日期",
+        "role": "角色",
+        "taken": "担任的角色",
+        "club": "俱乐部"
+      },
+      "speeches": {
+        "persuasive": "有说服力的演讲",
+        "general": "一般演讲",
+        "storytelling": "叙事",
+        "educational": "教育型",
+        "business": "业务演示",
+        "interested": "您对学习那种演示／演讲感兴趣？",
+        "media": "视频日志和媒体制作",
+        "sales": "销售",
+        "humorous": "幽默型演讲和喜剧表演"
+      },
+      "privacy": "我同意本网站的条款、条件，以及Agora演说家国际的隐私政策",
+      "history": {
+        "date": "日期",
+        "club": "俱乐部名称",
+        "event": "活动"
+      },
+      "linkedin": "链接至领英个人资料",
+      "skills": "您对提高以下技能中的哪一个比较感兴趣？",
+      "number": "成员编号",
+      "password": {
+        "input": "密码",
+        "verify": "重复验证密码"
+      },
+      "clubs": {
+        "role": "角色"
+      },
+      "name": {
+        "address": {
+          "help": "我们应该在沟通时如何称呼您（比如在给您发邮件的时候）？",
+          "field": "沟通中的首选名字："
+        },
+        "certificates": {
+          "help": "您希望在您获得的证书和奖励上如何显示您的名字？",
+          "input": "证书中的首选名字"
+        },
+        "online": {
+          "help": "您希望在我们的线上系统、论坛等如何显示您的名字？",
+          "input": "线上的首选名字"
+        },
+        "full": "全名"
+      },
+      "principles": {
+        "agreement": "请写明您同意我们的核心原则"
+      },
+      "position": "当前在俱乐部的职位",
+      "interests": {
+        "11": {
+          "language": "我对提高外语水平感兴趣"
+        },
+        "01": {
+          "curious": "我只是对这个组织很好奇"
+        },
+        "12": {
+          "contests": "我有兴趣参加Agora演说家国际组织的比赛"
+        },
+        "02": {
+          "confidence": "我想增强自信"
+        },
+        "13": {
+          "critical": "我对学习批判性思维感兴趣"
+        },
+        "03": {
+          "communicate": "我想学会更有效地沟通"
+        },
+        "14": {
+          "friends": "我对结识新朋友感兴趣"
+        },
+        "04": {
+          "speak": "我想提升我的公开演讲技能"
+        },
+        "15": {
+          "cooperation": "我对文化交流和跨文化合作活动感兴趣"
+        },
+        "question": "您对Agora演说家国际的哪些地方感兴趣？",
+        "05": {
+          "leadership": "我想提升我的领导技能"
+        },
+        "16": {
+          "startclub": "我想在我所在的城市开办一个Agora俱乐部"
+        },
+        "06": {
+          "networking": "我对职业社交感兴趣"
+        },
+        "17": {
+          "ambassador": "我想成为我国的Agora大使"
+        },
+        "07": {
+          "presentations": "我对发表商务报告感兴趣"
+        },
+        "18": {
+          "partnership": "我对我所在的组织和Agora演说家国际的合作感兴l"
+        },
+        "08": {
+          "events": "我对您组织的讲座、研讨会和活动感兴趣"
+        },
+        "09": {
+          "debating": "我对辩论和争辩感兴趣"
+        },
+        "10": {
+          "community": "我想在我的社区中有所作为"
+        }
+      },
+      "email": "电子邮件"
+    },
+    "meeting": {
+      "date": "会议日期",
+      "number": "会议号",
+      "venue": {
+        "name": "会场名称"
+      },
+      "address": {
+        "input": "会议场所的地址"
+      },
+      "online": {
+        "software": "会议软件",
+        "link": "加入链接",
+        "id": "线上会议id",
+        "title": "线上会议信息",
+        "passowrd": "加入密码"
+      },
+      "theme": "会议主题 (如有)",
+      "time": "会议时间"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "（c） Agora演说家国际版权。版权所有。Agora的资料和资产只能依据我们的条款和条件使用。"
+    },
+    "terms": "条款和条件",
+    "legal": {
+      "notice": "法律信息"
+    },
+    "privacy": {
+      "policy": "隐私政策"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "印地语",
+      "ps": "普什图语",
+      "pt": "葡萄牙语",
+      "hr": "克罗地亚语",
+      "pt_br": "Brazilian",
+      "hu": "匈牙利语",
+      "yi": "意第绪语",
+      "hy": "亚美尼亚语",
+      "yo": "约鲁巴语",
+      "ia": "国际语",
+      "id": "印度尼西亚语",
+      "ig": "伊博语",
+      "ii": "四川彝语",
+      "qu": "克丘亚语",
+      "af": "南非荷兰语",
+      "ak": "阿肯语",
+      "is": "冰岛语",
+      "it": "意大利语",
+      "am": "阿姆哈拉语",
+      "zh": "中文",
+      "ar": "阿拉伯语",
+      "as": "阿萨姆语",
+      "ja": "日语",
+      "az": "阿塞拜疆语",
+      "rm": "罗曼什语",
+      "zu": "祖鲁语",
+      "rn": "隆迪语",
+      "ro": "罗马尼亚语",
+      "be": "白俄罗斯语",
+      "ru": "俄语",
+      "bg": "保加利亚语",
+      "rw": "卢旺达语",
+      "bm": "班巴拉语",
+      "bn": "孟加拉语",
+      "jv": "爪哇语",
+      "bo": "藏语",
+      "sa": "梵语",
+      "br": "布列塔尼语",
+      "bs": "波斯尼亚语",
+      "sd": "信德语",
+      "se": "北方萨米语",
+      "sg": "桑戈语",
+      "sh": "塞尔维亚-克罗地亚语",
+      "ka": "格鲁吉亚语",
+      "si": "僧伽罗语",
+      "sk": "斯洛伐克语",
+      "sl": "斯洛文尼亚语",
+      "sn": "绍纳语",
+      "so": "索马里语",
+      "ca": "加泰罗尼亚语",
+      "ki": "吉库尤语",
+      "sq": "阿尔巴尼亚语",
+      "sr": "塞尔维亚语",
+      "kk": "哈萨克语",
+      "kl": "格陵兰语",
+      "ce": "车臣语",
+      "km": "高棉语",
+      "su": "巽他语",
+      "kn": "卡纳达语",
+      "sv": "瑞典语",
+      "ko": "韩语",
+      "sw": "斯瓦希里语",
+      "ks": "克什米尔语",
+      "ku": "库尔德语",
+      "kw": "康沃尔语",
+      "ta": "泰米尔语",
+      "ky": "柯尔克孜语",
+      "cs": "捷克语",
+      "te": "泰卢固语",
+      "tg": "塔吉克语",
+      "th": "泰语",
+      "ti": "提格利尼亚语",
+      "cy": "威尔士语",
+      "lb": "卢森堡语",
+      "tk": "土库曼语",
+      "tl": "他加禄语",
+      "lg": "卢干达语",
+      "to": "汤加语",
+      "da": "丹麦语",
+      "tr": "土耳其语",
+      "tt": "鞑靼语",
+      "de": "德语",
+      "ln": "林加拉语",
+      "lo": "老挝语",
+      "lt": "立陶宛语",
+      "lu": "鲁巴加丹加语",
+      "lv": "拉脱维亚语",
+      "ug": "维吾尔语",
+      "dz": "宗卡语",
+      "uk": "乌克兰语",
+      "mg": "马拉加斯语",
+      "mi": "毛利语",
+      "ur": "乌尔都语",
+      "mk": "马其顿语",
+      "ml": "马拉雅拉姆语",
+      "ee": "埃维语",
+      "mn": "蒙古语",
+      "mr": "马拉地语",
+      "uz": "乌兹别克语",
+      "ms": "马来语",
+      "el": "希腊语",
+      "mt": "马耳他语",
+      "en": "英语",
+      "eo": "世界语",
+      "my": "缅甸语",
+      "es": "西班牙语",
+      "et": "爱沙尼亚语",
+      "eu": "巴斯克语",
+      "vi": "越南语",
+      "nb": "书面挪威语",
+      "nd": "北恩德贝勒语",
+      "ne": "尼泊尔语",
+      "fa": "波斯语",
+      "nl": "荷兰语",
+      "ff": "富拉语",
+      "nn": "挪威尼诺斯克语",
+      "no": "挪威语",
+      "fi": "芬兰语",
+      "fo": "法罗语",
+      "fr": "法语",
+      "fy": "西弗里西亚语",
+      "wo": "沃洛夫语",
+      "ga": "爱尔兰语",
+      "gd": "苏格兰盖尔语",
+      "om": "奥罗莫语",
+      "or": "奥里亚语",
+      "os": "奥塞梯语",
+      "gl": "加利西亚语",
+      "gu": "古吉拉特语",
+      "gv": "马恩语",
+      "xh": "科萨语",
+      "pa": "旁遮普语",
+      "ha": "豪萨语",
+      "pl": "波兰语",
+      "he": "希伯来语"
+    },
+    "full": {
+      "hi": "印地语 (हिन्दी)",
+      "ps": "普什图语 (پښتو)",
+      "pt": "葡萄牙语 (Português)",
+      "hr": "克罗地亚语 (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "匈牙利语 (Magyar)",
+      "yi": "意第绪语 (ייִדיש)",
+      "hy": "亚美尼亚语 (Հայերեն)",
+      "yo": "约鲁巴语 (Èdè Yorùbá)",
+      "ia": "国际语 (Interlingua)",
+      "id": "印度尼西亚语 (Indonesia)",
+      "ig": "伊博语 (Igbo)",
+      "ii": "四川彝语 (ꆈꌠꉙ)",
+      "qu": "克丘亚语 (Runasimi)",
+      "af": "南非荷兰语 (Afrikaans)",
+      "ak": "阿肯语 (Akan)",
+      "is": "冰岛语 (Íslenska)",
+      "it": "意大利语 (Italiano)",
+      "am": "阿姆哈拉语 (አማርኛ)",
+      "zh": "中文 (中文)",
+      "ar": "阿拉伯语 (العربية)",
+      "as": "阿萨姆语 (অসমীয়া)",
+      "ja": "日语 (日本語)",
+      "az": "阿塞拜疆语 (Azərbaycan)",
+      "rm": "罗曼什语 (Rumantsch)",
+      "zu": "祖鲁语 (IsiZulu)",
+      "rn": "隆迪语 (Ikirundi)",
+      "ro": "罗马尼亚语 (Română)",
+      "be": "白俄罗斯语 (Беларуская)",
+      "ru": "俄语 (Русский)",
+      "bg": "保加利亚语 (Български)",
+      "rw": "卢旺达语 (Kinyarwanda)",
+      "bm": "班巴拉语 (Bamanakan)",
+      "bn": "孟加拉语 (বাংলা)",
+      "jv": "爪哇语 (Jawa)",
+      "bo": "藏语 (བོད་སྐད་)",
+      "sa": "梵语 (संस्कृत भाषा)",
+      "br": "布列塔尼语 (Brezhoneg)",
+      "bs": "波斯尼亚语 (Bosanski)",
+      "sd": "信德语 (سنڌي)",
+      "se": "北方萨米语 (Davvisámegiella)",
+      "sg": "桑戈语 (Sängö)",
+      "sh": "塞尔维亚-克罗地亚语 (Srpskohrvatski)",
+      "ka": "格鲁吉亚语 (ქართული)",
+      "si": "僧伽罗语 (සිංහල)",
+      "sk": "斯洛伐克语 (Slovenčina)",
+      "sl": "斯洛文尼亚语 (Slovenščina)",
+      "sn": "绍纳语 (ChiShona)",
+      "so": "索马里语 (Soomaali)",
+      "ca": "加泰罗尼亚语 (Català)",
+      "ki": "吉库尤语 (Gikuyu)",
+      "sq": "阿尔巴尼亚语 (Shqip)",
+      "sr": "塞尔维亚语 (Српски)",
+      "kk": "哈萨克语 (Қазақ тілі)",
+      "kl": "格陵兰语 (Kalaallisut)",
+      "ce": "车臣语 (Нохчийн)",
+      "km": "高棉语 (ខ្មែរ)",
+      "su": "巽他语 (Basa Sunda)",
+      "kn": "卡纳达语 (ಕನ್ನಡ)",
+      "sv": "瑞典语 (Svenska)",
+      "ko": "韩语 (한국어)",
+      "sw": "斯瓦希里语 (Kiswahili)",
+      "ks": "克什米尔语 (کٲشُر)",
+      "ku": "库尔德语 (Kurdî)",
+      "kw": "康沃尔语 (Kernewek)",
+      "ta": "泰米尔语 (தமிழ்)",
+      "ky": "柯尔克孜语 (Кыргызча)",
+      "cs": "捷克语 (Čeština)",
+      "te": "泰卢固语 (తెలుగు)",
+      "tg": "塔吉克语 (Тоҷикӣ)",
+      "th": "泰语 (ไทย)",
+      "ti": "提格利尼亚语 (ትግር)",
+      "cy": "威尔士语 (Cymraeg)",
+      "lb": "卢森堡语 (Lëtzebuergesch)",
+      "tk": "土库曼语 (Türkmen dili)",
+      "tl": "他加禄语 (Tagalog)",
+      "lg": "卢干达语 (Luganda)",
+      "to": "汤加语 (Lea fakatonga)",
+      "da": "丹麦语 (Dansk)",
+      "tr": "土耳其语 (Türkçe)",
+      "tt": "鞑靼语 (Татар)",
+      "de": "德语 (Deutsch)",
+      "ln": "林加拉语 (Lingála)",
+      "lo": "老挝语 (ລາວ)",
+      "lt": "立陶宛语 (Lietuvių)",
+      "lu": "鲁巴加丹加语 (Tshiluba)",
+      "lv": "拉脱维亚语 (Latviešu)",
+      "ug": "维吾尔语 (ئۇيغۇرچە)",
+      "dz": "宗卡语 (རྫོང་ཁ)",
+      "uk": "乌克兰语 (Українська)",
+      "mg": "马拉加斯语 (Malagasy)",
+      "mi": "毛利语 (Te reo Māori)",
+      "ur": "乌尔都语 (اردو)",
+      "mk": "马其顿语 (Македонски)",
+      "ml": "马拉雅拉姆语 (മലയാളം)",
+      "ee": "埃维语 (Eʋegbe)",
+      "mn": "蒙古语 (Монгол)",
+      "mr": "马拉地语 (मराठी)",
+      "uz": "乌兹别克语 (O‘zbek)",
+      "ms": "马来语 (Melayu)",
+      "el": "希腊语 (Ελληνικά)",
+      "mt": "马耳他语 (Malti)",
+      "en": "英语 (English)",
+      "eo": "世界语 (Esperanto)",
+      "my": "缅甸语 (မြန်မာ)",
+      "es": "西班牙语 (Español)",
+      "et": "爱沙尼亚语 (Eesti)",
+      "eu": "巴斯克语 (Euskara)",
+      "vi": "越南语 (Tiếng Việt)",
+      "nb": "书面挪威语 (Norsk bokmål)",
+      "nd": "北恩德贝勒语 (IsiNdebele)",
+      "ne": "尼泊尔语 (नेपाली)",
+      "fa": "波斯语 (فارسی)",
+      "nl": "荷兰语 (Nederlands)",
+      "ff": "富拉语 (Pulaar)",
+      "nn": "挪威尼诺斯克语 (Norsk nynorsk)",
+      "no": "挪威语 (Norsk)",
+      "fi": "芬兰语 (Suomi)",
+      "fo": "法罗语 (Føroyskt)",
+      "fr": "法语 (Français)",
+      "fy": "西弗里西亚语 (Frysk)",
+      "wo": "沃洛夫语 (Wolof)",
+      "ga": "爱尔兰语 (Gaeilge)",
+      "gd": "苏格兰盖尔语 (Gàidhlig)",
+      "om": "奥罗莫语 (Oromoo)",
+      "or": "奥里亚语 (ଓଡ଼ିଆ)",
+      "os": "奥塞梯语 (Ирон)",
+      "gl": "加利西亚语 (Galego)",
+      "gu": "古吉拉特语 (ગુજરાતી)",
+      "gv": "马恩语 (Gaelg)",
+      "xh": "科萨语 (IsiXhosa)",
+      "pa": "旁遮普语 (ਪੰਜਾਬੀ)",
+      "ha": "豪萨语 (Hausa)",
+      "pl": "波兰语 (Polski)",
+      "he": "希伯来语 (עברית)"
+    }
+  }
+}

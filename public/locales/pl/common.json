@@ -1,0 +1,1992 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "Klub wzorcowy",
+      "corporate": "Klub korporacyjny",
+      "restricted": "Klub zastrzeżony",
+      "term": "Klub Agory",
+      "pic": "Klub społeczny",
+      "open": "Klub otwarty"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "Portoryko"
+    },
+    "ps": {
+      "name": "Terytoria Palestyńskie"
+    },
+    "pt": {
+      "name": "Portugalia"
+    },
+    "pw": {
+      "name": "Palau"
+    },
+    "py": {
+      "name": "Paragwaj"
+    },
+    "qa": {
+      "name": "Katar"
+    },
+    "ad": {
+      "name": "Andora"
+    },
+    "ae": {
+      "name": "Zjednoczone Emiraty Arabskie"
+    },
+    "af": {
+      "name": "Afganistan"
+    },
+    "ag": {
+      "name": "Antigua i Barbuda"
+    },
+    "ai": {
+      "name": "Anguilla"
+    },
+    "al": {
+      "name": "Albania"
+    },
+    "am": {
+      "name": "Armenia"
+    },
+    "ao": {
+      "name": "Angola"
+    },
+    "aq": {
+      "name": "Antarktyka"
+    },
+    "ar": {
+      "name": "Argentyna"
+    },
+    "as": {
+      "name": "Samoa Amerykańskie"
+    },
+    "at": {
+      "name": "Austria"
+    },
+    "re": {
+      "name": "Reunion"
+    },
+    "au": {
+      "name": "Australia"
+    },
+    "aw": {
+      "name": "Aruba"
+    },
+    "ax": {
+      "name": "Wyspy Alandzkie"
+    },
+    "az": {
+      "name": "Azerbejdżan"
+    },
+    "ro": {
+      "name": "Rumunia"
+    },
+    "ba": {
+      "name": "Bośnia i Hercegowina"
+    },
+    "bb": {
+      "name": "Barbados"
+    },
+    "rs": {
+      "name": "Serbia"
+    },
+    "bd": {
+      "name": "Bangladesz"
+    },
+    "be": {
+      "name": "Belgia"
+    },
+    "ru": {
+      "name": "Rosja"
+    },
+    "bf": {
+      "name": "Burkina Faso"
+    },
+    "bg": {
+      "name": "Bułgaria"
+    },
+    "rw": {
+      "name": "Rwanda"
+    },
+    "bh": {
+      "name": "Bahrajn"
+    },
+    "bi": {
+      "name": "Burundi"
+    },
+    "bj": {
+      "name": "Benin"
+    },
+    "bl": {
+      "name": "Saint Barthélemy"
+    },
+    "bm": {
+      "name": "Bermudy"
+    },
+    "bn": {
+      "name": "Brunei Darussalam"
+    },
+    "bo": {
+      "name": "Boliwia"
+    },
+    "sa": {
+      "name": "Arabia Saudyjska"
+    },
+    "bq": {
+      "name": "Bonaire, Sint Eustatius i Saba"
+    },
+    "sb": {
+      "name": "Wyspy Salomona"
+    },
+    "br": {
+      "name": "Brazylia"
+    },
+    "sc": {
+      "name": "Seszele"
+    },
+    "bs": {
+      "name": "Bahamy"
+    },
+    "sd": {
+      "name": "Sudan"
+    },
+    "bt": {
+      "name": "Bhutan"
+    },
+    "se": {
+      "name": "Szwecja"
+    },
+    "bv": {
+      "name": "Wyspa Bouveta"
+    },
+    "sg": {
+      "name": "Singapur"
+    },
+    "bw": {
+      "name": "Botswana"
+    },
+    "sh": {
+      "name": "Wyspa Świętej Heleny"
+    },
+    "si": {
+      "name": "Słowenia"
+    },
+    "by": {
+      "name": "Białoruś"
+    },
+    "sj": {
+      "name": "Svalbard i Jan Mayen"
+    },
+    "bz": {
+      "name": "Belize"
+    },
+    "sk": {
+      "name": "Słowacja"
+    },
+    "sl": {
+      "name": "Sierra Leone"
+    },
+    "sm": {
+      "name": "San Marino"
+    },
+    "sn": {
+      "name": "Senegal"
+    },
+    "so": {
+      "name": "Somalia"
+    },
+    "ca": {
+      "name": "Kanada"
+    },
+    "sr": {
+      "name": "Surinam"
+    },
+    "cc": {
+      "name": "Wyspy Kokosowe"
+    },
+    "ss": {
+      "name": "Południowy Sudan"
+    },
+    "cd": {
+      "name": "Demokratyczna Republika Konga"
+    },
+    "st": {
+      "name": "Wyspy Świętego Tomasza i Książęca"
+    },
+    "cf": {
+      "name": "Republika Środkowoafrykańska"
+    },
+    "sv": {
+      "name": "Salwador"
+    },
+    "cg": {
+      "name": "Kongo"
+    },
+    "ch": {
+      "name": "Szwajcaria"
+    },
+    "sx": {
+      "name": "Sint Maarten (Holenderski Część)"
+    },
+    "ci": {
+      "name": "Wybrzeże Kości Słoniowej"
+    },
+    "sy": {
+      "name": "Syria"
+    },
+    "sz": {
+      "name": "Suazi"
+    },
+    "ck": {
+      "name": "Wyspy Cooka"
+    },
+    "cl": {
+      "name": "Chile"
+    },
+    "cm": {
+      "name": "Kamerun"
+    },
+    "cn": {
+      "name": "Chiny"
+    },
+    "co": {
+      "name": "Kolumbia"
+    },
+    "cr": {
+      "name": "Kostaryka"
+    },
+    "tc": {
+      "name": "Turks i Caicos"
+    },
+    "td": {
+      "name": "Czad"
+    },
+    "cu": {
+      "name": "Kuba"
+    },
+    "tf": {
+      "name": "Francuskie Terytoria Południowe"
+    },
+    "cv": {
+      "name": "Republika Zielonego Przylądka"
+    },
+    "tg": {
+      "name": "Togo"
+    },
+    "cw": {
+      "name": "Curacao"
+    },
+    "th": {
+      "name": "Tajlandia"
+    },
+    "cx": {
+      "name": "Wyspa Bożego Narodzenia"
+    },
+    "cy": {
+      "name": "Cypr"
+    },
+    "tj": {
+      "name": "Tadżykistan"
+    },
+    "cz": {
+      "name": "Czechy"
+    },
+    "tk": {
+      "name": "Tokelau"
+    },
+    "tl": {
+      "name": "Timor Wschodni"
+    },
+    "tm": {
+      "name": "Turkmenia"
+    },
+    "tn": {
+      "name": "Tunezja"
+    },
+    "to": {
+      "name": "Tonga"
+    },
+    "tr": {
+      "name": "Turcja"
+    },
+    "tt": {
+      "name": "Trynidad i Tobago"
+    },
+    "de": {
+      "name": "Niemcy"
+    },
+    "tv": {
+      "name": "Tuvalu"
+    },
+    "tw": {
+      "name": "Tajwan"
+    },
+    "dj": {
+      "name": "Dżibuti"
+    },
+    "tz": {
+      "name": "Tanzania"
+    },
+    "dk": {
+      "name": "Dania"
+    },
+    "dm": {
+      "name": "Dominika"
+    },
+    "do": {
+      "name": "Republika Dominikańska"
+    },
+    "ua": {
+      "name": "Ukraina"
+    },
+    "ug": {
+      "name": "Uganda"
+    },
+    "dz": {
+      "name": "Algieria"
+    },
+    "um": {
+      "name": "Dalekie Wyspy Mniejsze Stanów Zjednoczonych"
+    },
+    "ec": {
+      "name": "Ekwador"
+    },
+    "us": {
+      "name": "Stany Zjednoczone"
+    },
+    "ee": {
+      "name": "Estonia"
+    },
+    "eg": {
+      "name": "Egipt"
+    },
+    "eh": {
+      "name": "Sahara Zachodnia"
+    },
+    "uy": {
+      "name": "Urugwaj"
+    },
+    "uz": {
+      "name": "Uzbekistan"
+    },
+    "va": {
+      "name": "Watykan"
+    },
+    "er": {
+      "name": "Erytrea"
+    },
+    "vc": {
+      "name": "Saint Vincent i Grenadyny"
+    },
+    "es": {
+      "name": "Hiszpania"
+    },
+    "et": {
+      "name": "Etiopia"
+    },
+    "ve": {
+      "name": "Wenezuela"
+    },
+    "vg": {
+      "name": "Brytyjskie Wyspy Dziewicze"
+    },
+    "vi": {
+      "name": "Wyspy Dziewicze Stanów Zjednoczonych"
+    },
+    "vn": {
+      "name": "Wietnam"
+    },
+    "vu": {
+      "name": "Vanuatu"
+    },
+    "fi": {
+      "name": "Finlandia"
+    },
+    "fj": {
+      "name": "Fidżi"
+    },
+    "fk": {
+      "name": "Falklandy"
+    },
+    "fm": {
+      "name": "Federalne Stany Mikronezji"
+    },
+    "fo": {
+      "name": "Wyspy Owcze"
+    },
+    "fr": {
+      "name": "Francja"
+    },
+    "wf": {
+      "name": "Wallis i Futuna"
+    },
+    "ga": {
+      "name": "Gabon"
+    },
+    "gb": {
+      "name": "Wielka Brytania"
+    },
+    "ws": {
+      "name": "Samoa"
+    },
+    "gd": {
+      "name": "Grenada"
+    },
+    "ge": {
+      "name": "Gruzja"
+    },
+    "gf": {
+      "name": "Gujana Francuska"
+    },
+    "gg": {
+      "name": "Wyspa Guernsey"
+    },
+    "gh": {
+      "name": "Ghana"
+    },
+    "gi": {
+      "name": "Gibraltar"
+    },
+    "gl": {
+      "name": "Grenlandia"
+    },
+    "gm": {
+      "name": "Gambia"
+    },
+    "gn": {
+      "name": "Gwinea"
+    },
+    "gp": {
+      "name": "Gwadelupa"
+    },
+    "gq": {
+      "name": "Gwinea Równikowa"
+    },
+    "gr": {
+      "name": "Grecja"
+    },
+    "gs": {
+      "name": "Georgia Południowa i Sandwich Południowy"
+    },
+    "gt": {
+      "name": "Gwatemala"
+    },
+    "gu": {
+      "name": "Guam"
+    },
+    "gw": {
+      "name": "Gwinea Bissau"
+    },
+    "gy": {
+      "name": "Gujana"
+    },
+    "hk": {
+      "name": "Hongkong, Specjalny Region Administracyjny Chin"
+    },
+    "hm": {
+      "name": "Wyspy Heard i McDonalda"
+    },
+    "hn": {
+      "name": "Honduras"
+    },
+    "hr": {
+      "name": "Chorwacja"
+    },
+    "ht": {
+      "name": "Haiti"
+    },
+    "ye": {
+      "name": "Jemen"
+    },
+    "hu": {
+      "name": "Węgry"
+    },
+    "id": {
+      "name": "Indonezja"
+    },
+    "yt": {
+      "name": "Majotta"
+    },
+    "ie": {
+      "name": "Irlandia"
+    },
+    "il": {
+      "name": "Izrael"
+    },
+    "im": {
+      "name": "Wyspa Man"
+    },
+    "in": {
+      "name": "Indie"
+    },
+    "io": {
+      "name": "Terytorium Brytyjskie Oceanu Indyjskiego"
+    },
+    "za": {
+      "name": "Republika Południowej Afryki"
+    },
+    "iq": {
+      "name": "Irak"
+    },
+    "ir": {
+      "name": "Iran"
+    },
+    "is": {
+      "name": "Islandia"
+    },
+    "it": {
+      "name": "Włochy"
+    },
+    "zm": {
+      "name": "Zambia"
+    },
+    "je": {
+      "name": "Wyspa Jersey"
+    },
+    "zw": {
+      "name": "Zimbabwe"
+    },
+    "jm": {
+      "name": "Jamajka"
+    },
+    "jo": {
+      "name": "Jordania"
+    },
+    "jp": {
+      "name": "Japonia"
+    },
+    "ke": {
+      "name": "Kenia"
+    },
+    "kg": {
+      "name": "Kirgistan"
+    },
+    "kh": {
+      "name": "Kambodża"
+    },
+    "ki": {
+      "name": "Kiribati"
+    },
+    "km": {
+      "name": "Komory"
+    },
+    "kn": {
+      "name": "Saint Kitts i Nevis"
+    },
+    "kp": {
+      "name": "Korea Północna"
+    },
+    "kr": {
+      "name": "Korea Południowa"
+    },
+    "kw": {
+      "name": "Kuwejt"
+    },
+    "ky": {
+      "name": "Kajmany"
+    },
+    "kz": {
+      "name": "Kazachstan"
+    },
+    "la": {
+      "name": "Laos"
+    },
+    "lb": {
+      "name": "Liban"
+    },
+    "lc": {
+      "name": "Saint Lucia"
+    },
+    "li": {
+      "name": "Liechtenstein"
+    },
+    "lk": {
+      "name": "Sri Lanka"
+    },
+    "lr": {
+      "name": "Liberia"
+    },
+    "ls": {
+      "name": "Lesoto"
+    },
+    "lt": {
+      "name": "Litwa"
+    },
+    "lu": {
+      "name": "Luksemburg"
+    },
+    "lv": {
+      "name": "Łotwa"
+    },
+    "ly": {
+      "name": "Libia"
+    },
+    "ma": {
+      "name": "Maroko"
+    },
+    "mc": {
+      "name": "Monako"
+    },
+    "md": {
+      "name": "Mołdawia"
+    },
+    "me": {
+      "name": "Czarnogóra"
+    },
+    "mf": {
+      "name": "Sint Maarten"
+    },
+    "mg": {
+      "name": "Madagaskar"
+    },
+    "mh": {
+      "name": "Wyspy Marshalla"
+    },
+    "mk": {
+      "name": "Macedonia"
+    },
+    "ml": {
+      "name": "Mali"
+    },
+    "mm": {
+      "name": "Birma"
+    },
+    "mn": {
+      "name": "Mongolia"
+    },
+    "mo": {
+      "name": "Makau, Specjalny Region Administracyjny Chin"
+    },
+    "mp": {
+      "name": "Mariany Północne"
+    },
+    "mq": {
+      "name": "Martynika"
+    },
+    "mr": {
+      "name": "Mauretania"
+    },
+    "ms": {
+      "name": "Montserrat"
+    },
+    "mt": {
+      "name": "Malta"
+    },
+    "mu": {
+      "name": "Mauritius"
+    },
+    "mv": {
+      "name": "Malediwy"
+    },
+    "mw": {
+      "name": "Malawi"
+    },
+    "mx": {
+      "name": "Meksyk"
+    },
+    "my": {
+      "name": "Malezja"
+    },
+    "mz": {
+      "name": "Mozambik"
+    },
+    "na": {
+      "name": "Namibia"
+    },
+    "nc": {
+      "name": "Nowa Kaledonia"
+    },
+    "ne": {
+      "name": "Niger"
+    },
+    "nf": {
+      "name": "Norfolk"
+    },
+    "ng": {
+      "name": "Nigeria"
+    },
+    "ni": {
+      "name": "Nikaragua"
+    },
+    "nl": {
+      "name": "Holandia"
+    },
+    "no": {
+      "name": "Norwegia"
+    },
+    "np": {
+      "name": "Nepal"
+    },
+    "nr": {
+      "name": "Nauru"
+    },
+    "nu": {
+      "name": "Niue"
+    },
+    "nz": {
+      "name": "Nowa Zelandia"
+    },
+    "om": {
+      "name": "Oman"
+    },
+    "pa": {
+      "name": "Panama"
+    },
+    "pe": {
+      "name": "Peru"
+    },
+    "pf": {
+      "name": "Polinezja Francuska"
+    },
+    "pg": {
+      "name": "Papua Nowa Gwinea"
+    },
+    "ph": {
+      "name": "Filipiny"
+    },
+    "pk": {
+      "name": "Pakistan"
+    },
+    "pl": {
+      "name": "Polska"
+    },
+    "pm": {
+      "name": "Saint-Pierre i Miquelon"
+    },
+    "pn": {
+      "name": "Pitcairn"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Nagrody za doskonałość w osiąganiu celów edukacyjnych w ramach programu Agory",
+        "title": "Nagrody edukacyjne"
+      },
+      "social": {
+        "help": "Nagrody, które doceniają Twój pozytywny wpływ na społeczność",
+        "title": "Nagrody za wpływ w społeczeństwie"
+      },
+      "operational": {
+        "help": "Nagrody za doskonałość w zarządzaniu i zakładaniu klubów",
+        "title": "Doskonałość w zarządzaniu klubem"
+      },
+      "community": {
+        "help": "Nagrody za wkład w rozwój i wzmacnianie społeczności Agory",
+        "title": "Nagrody społecznościowe Agory"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "Szukaj",
+      "register": "Rejestracja"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "Zorganizowanie regionalnego lub międzynarodowego zjazdu Agory",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "Organizator Zjazdu"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "Kwalifikowany Przywódca"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "Mówca kwalifikowany"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "Nagroda mentorska"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "Wygranie konkursu przemów Agory",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "Zwycięstwo w konkursie"
+        },
+        "third": {
+          "help": "Zajęcie trzeciego miejsca w konkursie przemów Agory",
+          "image": "awards.individual.contest.third.svg",
+          "title": "Trzecie miejsce w konkursie"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "Zorganizowanie konkursu przemów Agory",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "Organizator konkursu"
+        },
+        "participant": {
+          "help": "Uczestnictwo w konkursie przemów Agory",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "Certyfikat uczestnictwa"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "Zajęcie drugiego miejsca w konkursie przemów Agory",
+          "image": "awards.individual.contest.second.svg",
+          "title": "Drugie miejsce w konkursie"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "Najbardziej widoczny wzrost umięjętności",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "Nagroda za postęp edukacyjny"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "Nagroda za zasięg"
+      },
+      "community": {
+        "leadership": {
+          "help": "Wyjątkowe wykonanie projektów społecznych",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "Nagroda Przywódcy Społeczności"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "Doskonałość i zaangażowanie w misję Agory",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "Ambasadorska nagroda dla zasłużonego członka"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "Wyróżnienie specjalnie"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "Znakomity Przywódca"
+        },
+        "communicator": "Znakomity Komunikator"
+      },
+      "help": {
+        "help": "Nieprzerwane zaangażowanie w skuces klubu",
+        "image": "awards.individual.help.svg",
+        "title": "Nagroda za zaangażowanie w sukces klubu"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "Znakomity Mówca w Występowaniu w mediach"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "Znakomity Mówca Przekonujących Przemów"
+              }
+            },
+            "pr": {
+              "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "Znakomity Specjalista PR"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "Znakomity Mówca na Specjalne Okazje"
+              }
+            },
+            "storytelling": {
+              "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "Znakomity Gawędziarz"
+            },
+            "educational": {
+              "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "Znakomity Mówca Edukacyjny"
+            },
+            "business": {
+              "contexts": {
+                "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "Znakomity Mówca biznesowy"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "Znakomity Mówca w Myśłeniu Krytycznym"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "Znakomity Mówca Na przekór wszystkiemu"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "Znakomity Mówca Przedsiębiorczy"
+            },
+            "project": {
+              "management": {
+                "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "Znakomity Manager Projektów"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "Znakomity Mistrz Zdolności Interpersonalnych"
+              }
+            },
+            "dramatization": {
+              "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "Znakomity Mówca w Elementach Aktorstwa"
+            },
+            "humorous": {
+              "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "Znakomity Mówca Humorystyczny"
+            },
+            "leadership": {
+              "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "Znakomity Przywódca"
+            },
+            "negotiation": {
+              "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "Znakomity Negocjator"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "Ukończenie zaawansowanej ścieżki edukacyjnej {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "Znakomity Mówca w Opowiadaniu Obrazem"
+              }
+            }
+          },
+          "title": "Znakomity Mówca"
+        },
+        "communicator": {
+          "help": "Ukończenie pełnej ścieżki komunikacyjnej",
+          "image": "awards.individual.accomplished.communicator.svg"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "Działacz klubowy"
+        },
+        "founder": {
+          "help": "Założenie klubu Agory",
+          "image": "awards.individual.club.founder.svg",
+          "title": "Założyciel klubu"
+        },
+        "officer": {
+          "help": "Skuteczne przewodzenie klubowi przez rok",
+          "image": "awards.individual.club.officer.svg",
+          "title": "Przywództwo klubu"
+        },
+        "growth": {
+          "help": "Doskonałość w mentoringu i tworzeniu klubów Agory w kraju",
+          "image": "awards.individual.club.growth.svg",
+          "title": "Nagroda za rozwój klubów Agory"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "Nieprzerwane członkostwo w klubie przez 5 lat",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "Nagroda Jubileuszowa"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "Członek miesiąca"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "Regularne i aktywne uczestniczenie w spotkaniach",
+        "image": "awards.individual.attendance.svg",
+        "title": "Nagroda za zaangażowanie"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Nagroda innowatora Agory"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Niosący Pochodnię Agory"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "Nagroda za promowanie Agory"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "Nagroda gospodarza zjazdu"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "Nagroda pierwszego w kraju"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "Nagroda za osiągnięcia edukacyjne"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "Nagroda za zasięg edukacyjny"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "Nagroda pierwszego w mieście"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "Nagroda doskonałości w zasięgu"
+        }
+      },
+      "media": {
+        "help": "Doskonałość w promowaniu misji i działań Agory w mediach",
+        "image": "awards.club.media.svg",
+        "title": "Nagroda doskonałości w mediach"
+      },
+      "membership": {
+        "growth": "Nagroda wzrostu członkostwa",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "Nagroda utrzymania członkostwa"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "Wyjątkowe wykonanie projektów społecznych",
+          "image": "awards.club.community.leadership.svg",
+          "title": "Nagroda Przywódcy Społeczności"
+        }
+      },
+      "content": {
+        "help": "Doskonałość w tworzeniu świeżych treści dla społeczności Agory",
+        "image": "awards.club.content.svg",
+        "title": "Nagroda za tworzenie treści"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "Nagroda innowacyjnego klubu"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "Wyróżnienie specjalnie"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "Nagroda ambasadora"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "Klubowa nagroda mentorska"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "Nagroda Klub miesiąca"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "Satysfakcja z członkostwa w klubie przekraczająca 90%",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "Złota nagroda za satysfakcję z członkostwa"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "Satysfakcja z członkostwa w klubie przekraczająca 75%",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "Srebrna nagroda za satysfakcję z członkostwa"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "Klubowa nagroda za satysfkację z członkostwa"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "Wzrost członkostwa o ponad 20 członków",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "Złota nagroda wzrostu członkostwa"
+          }
+        },
+        "anniversary": {
+          "help": "Skuteczna i nieprzerwana działalność klubu przez 10 lat",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "Złota nagroda jubileuszowa"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "Nagroda modelowego klubu"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "Wzrost członkostwa o ponad 10 członków",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "Srebrna nagroda wzrostu członkostwa"
+          }
+        },
+        "anniversary": {
+          "help": "Skuteczna i nieprzerwana działalność klubu przez 5 lat",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "Srebrna nagroda jubileuszowa"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "Nagroda jubileuszowa klubu - {{v0}} lat(a)"
+      }
+    },
+    "place": {
+      "participation": "Weź udział"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "Bycie najbardziej wnikliwym i dociekliwym zadającym pytania \u0027W ogniu pytań\u0027 podczas spotkania",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "Najbardziej wnikliwy uczestnik \u0027W ogniu pytań\u0027"
+        },
+        "survivor": {
+          "help": "Przetrwanie segmentu \u0027W ogniu pytań\u0027 na spotkaniu klubu",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "Ocalały z Ognia Pytań"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "Bycie najlepszym prezentującym lub pytającym w dyskusji",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "Najlepszy uczestnik dyskusji"
+        },
+        "role": {
+          "help": "Pełnienie roli podczas spotkania w wyjątkowy sposób",
+          "image": "awards.meeting.best.role.svg",
+          "title": "Najlepsza rola spotkania"
+        },
+        "speaker": {
+          "help": "Wygłoszenie najlepszej przygotowanej przemowy na spotkaniu klubu",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "Najlepszy mówca spotkania"
+        },
+        "hot": {
+          "response": {
+            "help": "Wygłoszenie najlepszej przemowy improwizowanej na spotkaniu klubu",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "Najlepszy mówca przemowy improwizowanej"
+          }
+        },
+        "speechwriter": {
+          "help": "Napisanie najlepszej przemowy spotkania",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "Najlepszy autor przemowy"
+        },
+        "evaluator": {
+          "help": "Wygłoszenie najlepszej recenzji na spotkaniu klubu",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "Najlepszy recenzent spotkania"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "Fundacja Agora Speakers International jest europejską, świecką, edukacyjną organizacją charytatywną, która umożliwia ludziom stanie się błyskotliwymi mówcami i pewnymi siebie liderami, aktywnie zmieniającymi świat na lepsze."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "Inne zdanie"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "Data",
+      "country": "Kraj",
+      "address": "Adres",
+      "city": "Miasto",
+      "awards": "Osiągnięcia i nagrody",
+      "state": "Województwo",
+      "event": "Wydarzenia",
+      "region": "Region",
+      "points": {
+        "total": "Zdobyte punkty (wszystkie)",
+        "year": "Zdobyte punkty (w tym roku)",
+        "name": "Punkty"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "Proszę określić język lub języki, które będą używane w klubie (np.: angielski)"
+      },
+      "charter": {
+        "date": "Data rejestracji",
+        "help": "Data rejestracji musi być datą przyszłą, ale nie dalej niż 30 dni w przyszłość."
+      },
+      "founder": {
+        "name": "Założyciel klubu (Imię i nazwisko)",
+        "email": "Adres e-mail założyciela klubu"
+      },
+      "fee": {
+        "title": "Składka członkowska (jeśli jest pobierana)."
+      },
+      "banner": "Baner",
+      "restrictions": {
+        "guests": {
+          "input": "Proszę opisać, jakie ograniczenia będą obowiązywać w przypadku uczestnictwa w klubie jako gość (jeśli istnieją)"
+        },
+        "membership": {
+          "input": "Proszę opisać, jakie ograniczenia będą obowiązywać przy dołączaniu do klubu jako członek (jeśli istnieją). Jeśli rejestrujesz klub młodzieżowy, podaj przedział wiekowy"
+        }
+      },
+      "type": {
+        "help": "Więcej informacji o różnych typach klubów tutaj.",
+        "input": "Typ klubu"
+      },
+      "points": {
+        "date": "Data akcji",
+        "action": "Akcja klubu"
+      },
+      "token": "Tajny token klubu",
+      "number": "Numer klubu",
+      "assets": "Zasoby klubu",
+      "awards": "Nagrody klubu",
+      "contact": {
+        "help": {
+          "1": "Dane kontaktowe klubu. Wymagany jest e-mail lub nr telefonu.",
+          "2": "Dodatkowe dane kontaktowe klubu - muszą być inne niż w poprzednim polu, może to być kolejny e-mail/telefon, albo strona, grupa na Facebooku, grupa na MeetUpie, itd."
+        },
+        "title": "Dane kontaktowe"
+      },
+      "name": "Nazwa klubu",
+      "logo": {
+        "title": "Możesz dodać własne logo, a jeśli go nie masz, automatycznie wygenerujemy logo dla Twojego klubu."
+      },
+      "meeting": {
+        "schedule": "Harmonogram spotkań",
+        "info": "Informacje dodatkowe"
+      }
+    },
+    "personal": {
+      "participation": {
+        "input": "Jakiego typu uczestnictwo Cię interesuje?",
+        "online": "Spotkania online",
+        "physical": "Spotkania osobiste"
+      },
+      "languages": {
+        "interested": "Jakie języki Cię interesują?"
+      },
+      "joined": "Data przystąpienia",
+      "facebook": "Link do profilu na Facebooku",
+      "roles": {
+        "date": "Data",
+        "role": "Rola",
+        "taken": "Pełnione role",
+        "club": "Klub"
+      },
+      "speeches": {
+        "persuasive": "Przemowy przekonujące",
+        "general": "Przemowy ogólne",
+        "storytelling": "Konkurs gawędziarstwa",
+        "educational": "Edukacyjne",
+        "business": "Prezentacje biznesowe",
+        "interested": "Nauka jakiego typu prezentacji / przemów Cię interesuje?",
+        "media": "Vlogowanie i produkcja medialnan",
+        "sales": "Sprzedaż",
+        "humorous": "Przemowy humorystyczne i kabaret"
+      },
+      "privacy": "Potwierdzam zapoznanie się z ogólnymi warunkami tej strony oraz z polityką prywatności Agora Speakers International oraz iż będę się do nich stosować.",
+      "history": {
+        "date": "Data",
+        "club": "Nazwa klubu",
+        "event": "Wydarzenia"
+      },
+      "linkedin": "Link do profilu na LinkedIn",
+      "skills": "Które z następujących umiejętności chcesz wzmocnić/nabyć?",
+      "number": "Numer członkowski",
+      "password": {
+        "input": "Hasło",
+        "verify": "Powtórz hasło w celu weryfikacji"
+      },
+      "clubs": {
+        "role": "Rola"
+      },
+      "name": {
+        "address": {
+          "help": "Jak powinniśmy się do Ciebie zwracać w naszej komunikacji (takiej jak e-maile do Ciebie)?",
+          "field": "Preferowane imię do komunikacji:"
+        },
+        "certificates": {
+          "help": "Jak Twoje imię i nazwisko powinno być zamieszczane na certyfikatach i nagrodach, które otrzymasz?",
+          "input": "Preferowane imię i nazwisko do certyfikatów"
+        },
+        "online": {
+          "help": "Jak Twoje imię ma być wyświetlane w naszym systemie online, na forach, itd.?",
+          "input": "Preferowane imię do użycia online"
+        },
+        "full": "Imię i nazwisko"
+      },
+      "principles": {
+        "agreement": "Zaznacz proszę, że zgadzasz się z naszymi głównymi zasadami"
+      },
+      "position": "Aktualne stanowisko w klubie",
+      "interests": {
+        "11": {
+          "language": "Interesuje mnie ćwiczenie języka obcego"
+        },
+        "01": {
+          "curious": "Po prostu ciekawi mnie, co to za organizacja"
+        },
+        "12": {
+          "contests": "Interesuje mnie udział w konkursach organizowanych przez Agora Speakers International"
+        },
+        "02": {
+          "confidence": "Chcę podwyższyć moją pewność siebie"
+        },
+        "13": {
+          "critical": "Interesuje mnie nauka myślenia krytycznego"
+        },
+        "03": {
+          "communicate": "Chcę nauczyć się lepszej komunikacji"
+        },
+        "14": {
+          "friends": "Interesuje mnie poznawanie ludzi i znajdywanie przyjaciół"
+        },
+        "04": {
+          "speak": "Chcę poprawić moje umiejętności przemawiania publicznego"
+        },
+        "15": {
+          "cooperation": "Interesuje mnie wymiana kulturowa i współpraca z różnymi kulturami"
+        },
+        "question": "Co interesuje Cię w Agora Speakers International?",
+        "05": {
+          "leadership": "Chcę poprawić moje umiejętności przywódcze"
+        },
+        "16": {
+          "startclub": "Chcę założyć klub Agory w moim mieście"
+        },
+        "06": {
+          "networking": "Interesuje mnie networking zawodowy"
+        },
+        "17": {
+          "ambassador": "Chcę zostać Ambasadorem Agory w moim kraju"
+        },
+        "07": {
+          "presentations": "Interesuje mnie prowadzenie prezentacji biznesowych"
+        },
+        "18": {
+          "partnership": "Interesuje mnie współpraca pomiędzy moją organizacją a Agora Speakers International"
+        },
+        "08": {
+          "events": "Interesują mnie warsztaty, seminaria i wydarzenia, które organizujecie"
+        },
+        "09": {
+          "debating": "Interesują mnie debaty i dyskusje"
+        },
+        "10": {
+          "community": "Chcę mieć jakiś wpływ na moją społeczność"
+        }
+      },
+      "email": "E-mail"
+    },
+    "meeting": {
+      "date": "Data spotkania",
+      "number": "Numer spotkania",
+      "venue": {
+        "name": "Nazwa miejsca spotkania"
+      },
+      "address": {
+        "input": "Adres miejsca spotkania"
+      },
+      "online": {
+        "software": "Platforma (oprogramowanie) spotkania",
+        "link": "Link do spotkania",
+        "id": "ID spotkania online (Meeting id)",
+        "title": "Dane do spotkania online",
+        "passowrd": "Hasło do dołączenia"
+      },
+      "theme": "Motyw spotkania (jeśli jest ustalony)",
+      "time": "Czas spotkania"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) Copyright Agora Speakers International. Wszelkie prawa zastrzeżone. Materiały i zasoby Agory mogą być wykorzystywane wyłącznie zgodnie z naszymi warunkami ogólnymi."
+    },
+    "terms": "Warunki ogólne",
+    "legal": {
+      "notice": "Informacje prawne"
+    },
+    "privacy": {
+      "policy": "Polityka prywatności"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "Hindi",
+      "ps": "Paszto",
+      "pt": "Portugalski",
+      "hr": "Chorwacki",
+      "pt_br": "Brazilian",
+      "hu": "Węgierski",
+      "yi": "Jidysz",
+      "hy": "Ormiański",
+      "yo": "Joruba",
+      "ia": "Interlingua",
+      "id": "Indonezyjski",
+      "ig": "Igbo",
+      "ii": "Syczuański",
+      "qu": "Keczua",
+      "af": "Afrikaans",
+      "ak": "Akan",
+      "is": "Islandzki",
+      "it": "Włoski",
+      "am": "Amharski",
+      "zh": "Chiński",
+      "ar": "Arabski",
+      "as": "Asamski",
+      "ja": "Japoński",
+      "az": "Azerbejdżański",
+      "rm": "Retoromański",
+      "zu": "Zulu",
+      "rn": "Rundi",
+      "ro": "Rumuński",
+      "be": "Białoruski",
+      "ru": "Rosyjski",
+      "bg": "Bułgarski",
+      "rw": "Kinya-ruanda",
+      "bm": "Bambara",
+      "bn": "Bengalski",
+      "jv": "Jawajski",
+      "bo": "Tybetański",
+      "sa": "Sanskryt",
+      "br": "Bretoński",
+      "bs": "Bośniacki",
+      "sd": "Sindhi",
+      "se": "Północnolapoński",
+      "sg": "Sango",
+      "sh": "Serbsko-chorwacki",
+      "ka": "Gruziński",
+      "si": "Syngaleski",
+      "sk": "Słowacki",
+      "sl": "Słoweński",
+      "sn": "Shona",
+      "so": "Somalijski",
+      "ca": "Kataloński",
+      "ki": "Kikuju",
+      "sq": "Albański",
+      "sr": "Serbski",
+      "kk": "Kazachski",
+      "kl": "Grenlandzki",
+      "ce": "Czeczeński",
+      "km": "Khmerski",
+      "su": "Sundajski",
+      "kn": "Kannada",
+      "sv": "Szwedzki",
+      "ko": "Koreański",
+      "sw": "Suahili",
+      "ks": "Kaszmirski",
+      "ku": "Kurdyjski",
+      "kw": "Kornijski",
+      "ta": "Tamilski",
+      "ky": "Kirgiski",
+      "cs": "Czeski",
+      "te": "Telugu",
+      "tg": "Tadżycki",
+      "th": "Tajski",
+      "ti": "Tigrinia",
+      "cy": "Walijski",
+      "lb": "Luksemburski",
+      "tk": "Turkmeński",
+      "tl": "Tagalski",
+      "lg": "Ganda",
+      "to": "Tonga",
+      "da": "Duński",
+      "tr": "Turecki",
+      "tt": "Tatarski",
+      "de": "Niemiecki",
+      "ln": "Lingala",
+      "lo": "Laotański",
+      "lt": "Litewski",
+      "lu": "Luba-katanga",
+      "lv": "Łotewski",
+      "ug": "Ujgurski",
+      "dz": "Dzongkha",
+      "uk": "Ukraiński",
+      "mg": "Malgaski",
+      "mi": "Maoryjski",
+      "ur": "Urdu",
+      "mk": "Macedoński",
+      "ml": "Malajalam",
+      "ee": "Ewe",
+      "mn": "Mongolski",
+      "mr": "Marathi",
+      "uz": "Uzbecki",
+      "ms": "Malajski",
+      "el": "Grecki",
+      "mt": "Maltański",
+      "en": "Angielski",
+      "eo": "Esperanto",
+      "my": "Birmański",
+      "es": "Hiszpański",
+      "et": "Estoński",
+      "eu": "Baskijski",
+      "vi": "Wietnamski",
+      "nb": "Norweski (bokmål)",
+      "nd": "Ndebele północny",
+      "ne": "Nepalski",
+      "fa": "Perski",
+      "nl": "Niderlandzki",
+      "ff": "Fulani",
+      "nn": "Norweski (nynorsk)",
+      "no": "Norweski",
+      "fi": "Fiński",
+      "fo": "Farerski",
+      "fr": "Francuski",
+      "fy": "Zachodniofryzyjski",
+      "wo": "Wolof",
+      "ga": "Irlandzki",
+      "gd": "Szkocki gaelicki",
+      "om": "Oromo",
+      "or": "Orija",
+      "os": "Osetyjski",
+      "gl": "Galicyjski",
+      "gu": "Gudżarati",
+      "gv": "Manx",
+      "xh": "Khosa",
+      "pa": "Pendżabski",
+      "ha": "Hausa",
+      "pl": "Polski",
+      "he": "Hebrajski"
+    },
+    "full": {
+      "hi": "Hindi (हिन्दी)",
+      "ps": "Paszto (پښتو)",
+      "pt": "Portugalski (Português)",
+      "hr": "Chorwacki (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "Węgierski (Magyar)",
+      "yi": "Jidysz (ייִדיש)",
+      "hy": "Ormiański (Հայերեն)",
+      "yo": "Joruba (Èdè Yorùbá)",
+      "ia": "Interlingua (Interlingua)",
+      "id": "Indonezyjski (Indonesia)",
+      "ig": "Igbo (Igbo)",
+      "ii": "Syczuański (ꆈꌠꉙ)",
+      "qu": "Keczua (Runasimi)",
+      "af": "Afrikaans (Afrikaans)",
+      "ak": "Akan (Akan)",
+      "is": "Islandzki (Íslenska)",
+      "it": "Włoski (Italiano)",
+      "am": "Amharski (አማርኛ)",
+      "zh": "Chiński (中文)",
+      "ar": "Arabski (العربية)",
+      "as": "Asamski (অসমীয়া)",
+      "ja": "Japoński (日本語)",
+      "az": "Azerbejdżański (Azərbaycan)",
+      "rm": "Retoromański (Rumantsch)",
+      "zu": "Zulu (IsiZulu)",
+      "rn": "Rundi (Ikirundi)",
+      "ro": "Rumuński (Română)",
+      "be": "Białoruski (Беларуская)",
+      "ru": "Rosyjski (Русский)",
+      "bg": "Bułgarski (Български)",
+      "rw": "Kinya-ruanda (Kinyarwanda)",
+      "bm": "Bambara (Bamanakan)",
+      "bn": "Bengalski (বাংলা)",
+      "jv": "Jawajski (Jawa)",
+      "bo": "Tybetański (བོད་སྐད་)",
+      "sa": "Sanskryt (संस्कृत भाषा)",
+      "br": "Bretoński (Brezhoneg)",
+      "bs": "Bośniacki (Bosanski)",
+      "sd": "Sindhi (سنڌي)",
+      "se": "Północnolapoński (Davvisámegiella)",
+      "sg": "Sango (Sängö)",
+      "sh": "Serbsko-chorwacki (Srpskohrvatski)",
+      "ka": "Gruziński (ქართული)",
+      "si": "Syngaleski (සිංහල)",
+      "sk": "Słowacki (Slovenčina)",
+      "sl": "Słoweński (Slovenščina)",
+      "sn": "Shona (ChiShona)",
+      "so": "Somalijski (Soomaali)",
+      "ca": "Kataloński (Català)",
+      "ki": "Kikuju (Gikuyu)",
+      "sq": "Albański (Shqip)",
+      "sr": "Serbski (Српски)",
+      "kk": "Kazachski (Қазақ тілі)",
+      "kl": "Grenlandzki (Kalaallisut)",
+      "ce": "Czeczeński (Нохчийн)",
+      "km": "Khmerski (ខ្មែរ)",
+      "su": "Sundajski (Basa Sunda)",
+      "kn": "Kannada (ಕನ್ನಡ)",
+      "sv": "Szwedzki (Svenska)",
+      "ko": "Koreański (한국어)",
+      "sw": "Suahili (Kiswahili)",
+      "ks": "Kaszmirski (کٲشُر)",
+      "ku": "Kurdyjski (Kurdî)",
+      "kw": "Kornijski (Kernewek)",
+      "ta": "Tamilski (தமிழ்)",
+      "ky": "Kirgiski (Кыргызча)",
+      "cs": "Czeski (Čeština)",
+      "te": "Telugu (తెలుగు)",
+      "tg": "Tadżycki (Тоҷикӣ)",
+      "th": "Tajski (ไทย)",
+      "ti": "Tigrinia (ትግር)",
+      "cy": "Walijski (Cymraeg)",
+      "lb": "Luksemburski (Lëtzebuergesch)",
+      "tk": "Turkmeński (Türkmen dili)",
+      "tl": "Tagalski (Tagalog)",
+      "lg": "Ganda (Luganda)",
+      "to": "Tonga (Lea fakatonga)",
+      "da": "Duński (Dansk)",
+      "tr": "Turecki (Türkçe)",
+      "tt": "Tatarski (Татар)",
+      "de": "Niemiecki (Deutsch)",
+      "ln": "Lingala (Lingála)",
+      "lo": "Laotański (ລາວ)",
+      "lt": "Litewski (Lietuvių)",
+      "lu": "Luba-katanga (Tshiluba)",
+      "lv": "Łotewski (Latviešu)",
+      "ug": "Ujgurski (ئۇيغۇرچە)",
+      "dz": "Dzongkha (རྫོང་ཁ)",
+      "uk": "Ukraiński (Українська)",
+      "mg": "Malgaski (Malagasy)",
+      "mi": "Maoryjski (Te reo Māori)",
+      "ur": "Urdu (اردو)",
+      "mk": "Macedoński (Македонски)",
+      "ml": "Malajalam (മലയാളം)",
+      "ee": "Ewe (Eʋegbe)",
+      "mn": "Mongolski (Монгол)",
+      "mr": "Marathi (मराठी)",
+      "uz": "Uzbecki (O‘zbek)",
+      "ms": "Malajski (Melayu)",
+      "el": "Grecki (Ελληνικά)",
+      "mt": "Maltański (Malti)",
+      "en": "Angielski (English)",
+      "eo": "Esperanto (Esperanto)",
+      "my": "Birmański (မြန်မာ)",
+      "es": "Hiszpański (Español)",
+      "et": "Estoński (Eesti)",
+      "eu": "Baskijski (Euskara)",
+      "vi": "Wietnamski (Tiếng Việt)",
+      "nb": "Norweski (bokmål) (Norsk bokmål)",
+      "nd": "Ndebele północny (IsiNdebele)",
+      "ne": "Nepalski (नेपाली)",
+      "fa": "Perski (فارسی)",
+      "nl": "Niderlandzki (Nederlands)",
+      "ff": "Fulani (Pulaar)",
+      "nn": "Norweski (nynorsk) (Norsk nynorsk)",
+      "no": "Norweski (Norsk)",
+      "fi": "Fiński (Suomi)",
+      "fo": "Farerski (Føroyskt)",
+      "fr": "Francuski (Français)",
+      "fy": "Zachodniofryzyjski (Frysk)",
+      "wo": "Wolof (Wolof)",
+      "ga": "Irlandzki (Gaeilge)",
+      "gd": "Szkocki gaelicki (Gàidhlig)",
+      "om": "Oromo (Oromoo)",
+      "or": "Orija (ଓଡ଼ିଆ)",
+      "os": "Osetyjski (Ирон)",
+      "gl": "Galicyjski (Galego)",
+      "gu": "Gudżarati (ગુજરાતી)",
+      "gv": "Manx (Gaelg)",
+      "xh": "Khosa (IsiXhosa)",
+      "pa": "Pendżabski (ਪੰਜਾਬੀ)",
+      "ha": "Hausa (Hausa)",
+      "pl": "Polski (Polski)",
+      "he": "Hebrajski (עברית)"
+    }
+  }
+}

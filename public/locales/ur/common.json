@@ -1,0 +1,1993 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "ریفرینس کلب",
+      "corporate": "کارپوریٹ کلب",
+      "restricted": "محدود کلب",
+      "term": "کلب Agora",
+      "pic": "مفاد عامہ کلب",
+      "open": "عوامی کلب کھولیں"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": " پورٹو ریکو"
+    },
+    "ps": {
+      "name": "فلسطین"
+    },
+    "pt": {
+      "name": "پرتگال"
+    },
+    "pw": {
+      "name": " پلاؤ"
+    },
+    "py": {
+      "name": "پیراگوئے"
+    },
+    "qa": {
+      "name": "قطر"
+    },
+    "ad": {
+      "name": " انڈورہ"
+    },
+    "ae": {
+      "name": "متحدہ عرب امارات"
+    },
+    "af": {
+      "name": "افغانستان"
+    },
+    "ag": {
+      "name": "انٹیگوا اور باربودا"
+    },
+    "ai": {
+      "name": "اینگویلا"
+    },
+    "al": {
+      "name": "البانیا"
+    },
+    "am": {
+      "name": "آر مینیا"
+    },
+    "ao": {
+      "name": "انگولا"
+    },
+    "aq": {
+      "name": "انٹار ٹکا"
+    },
+    "ar": {
+      "name": "ارجنٹینا"
+    },
+    "as": {
+      "name": "امریکی ساموا"
+    },
+    "at": {
+      "name": "آسٹریا"
+    },
+    "re": {
+      "name": " غے یونیوں"
+    },
+    "au": {
+      "name": "آسٹریلیا"
+    },
+    "aw": {
+      "name": " اروبا"
+    },
+    "ax": {
+      "name": " جزائر اولینڈ"
+    },
+    "az": {
+      "name": "آذر بائجان"
+    },
+    "ro": {
+      "name": "رومانیہ"
+    },
+    "ba": {
+      "name": "بوسنیا ہرزگوینا"
+    },
+    "bb": {
+      "name": "بارباڈوس"
+    },
+    "rs": {
+      "name": " سربیا"
+    },
+    "bd": {
+      "name": "بنگلا دیش"
+    },
+    "be": {
+      "name": "بیلجئیم"
+    },
+    "ru": {
+      "name": "روس"
+    },
+    "bf": {
+      "name": "برکینا فاسو"
+    },
+    "bg": {
+      "name": "بلغاریہ"
+    },
+    "rw": {
+      "name": "روانڈا"
+    },
+    "bh": {
+      "name": "بحرین"
+    },
+    "bi": {
+      "name": "برنڈی"
+    },
+    "bj": {
+      "name": "بینن"
+    },
+    "bl": {
+      "name": " سینٹ بارتھیملے"
+    },
+    "bm": {
+      "name": " برمودا"
+    },
+    "bn": {
+      "name": " برونائی"
+    },
+    "bo": {
+      "name": "بولیویا"
+    },
+    "sa": {
+      "name": "سعودی عرب"
+    },
+    "bq": {
+      "name": "کیریبین نیدرلینڈز"
+    },
+    "sb": {
+      "name": "جزائرسولمون"
+    },
+    "br": {
+      "name": "برازیل"
+    },
+    "sc": {
+      "name": "سے شلز"
+    },
+    "bs": {
+      "name": "باھا ماس"
+    },
+    "sd": {
+      "name": "سوڈان"
+    },
+    "bt": {
+      "name": "بھوٹان"
+    },
+    "se": {
+      "name": "سویڈن"
+    },
+    "bv": {
+      "name": "جزیرہ بووٹ"
+    },
+    "sg": {
+      "name": "سنگاپور"
+    },
+    "bw": {
+      "name": "بوٹسوانا"
+    },
+    "sh": {
+      "name": "سینٹ ھیلینا"
+    },
+    "si": {
+      "name": "سلوانیہ"
+    },
+    "by": {
+      "name": "بیلا رس"
+    },
+    "sj": {
+      "name": "سوالبارد}"
+    },
+    "bz": {
+      "name": " بیلیز"
+    },
+    "sk": {
+      "name": "سلوواکیہ"
+    },
+    "sl": {
+      "name": "سیرالیون"
+    },
+    "sm": {
+      "name": "سان میرینو"
+    },
+    "sn": {
+      "name": "سینیگال"
+    },
+    "so": {
+      "name": "صوپالیہ"
+    },
+    "ca": {
+      "name": "کینیڈا"
+    },
+    "sr": {
+      "name": "سورینام"
+    },
+    "cc": {
+      "name": "جزائر کوکوز"
+    },
+    "ss": {
+      "name": " جنوبی سوڈان"
+    },
+    "cd": {
+      "name": "کانگو، جمہوری ریاست"
+    },
+    "st": {
+      "name": " ساؤ ٹوم و پرنسپے"
+    },
+    "cf": {
+      "name": "جمہوریہ وسطی افریقہ"
+    },
+    "sv": {
+      "name": "ایل سیلواڈور"
+    },
+    "cg": {
+      "name": "کانگو"
+    },
+    "ch": {
+      "name": "سوئزر لینڈ"
+    },
+    "sx": {
+      "name": "سنٹ مارٹن (نیدرلینڈز)"
+    },
+    "ci": {
+      "name": "کوت داوواغ"
+    },
+    "sy": {
+      "name": "سیریا"
+    },
+    "sz": {
+      "name": "سوازی لینڈ"
+    },
+    "ck": {
+      "name": "جزائر کُک"
+    },
+    "cl": {
+      "name": "چلی"
+    },
+    "cm": {
+      "name": "کیمرون"
+    },
+    "cn": {
+      "name": "چین"
+    },
+    "co": {
+      "name": "کولمبیا"
+    },
+    "cr": {
+      "name": " کوسٹاریکا"
+    },
+    "tc": {
+      "name": "جزائر کیکس اور ترکیّہ"
+    },
+    "td": {
+      "name": "چاڈ"
+    },
+    "cu": {
+      "name": "کیوبا"
+    },
+    "tf": {
+      "name": "جنوبی فرانسیسی علاقہ جات"
+    },
+    "cv": {
+      "name": " کیپ ورڈی"
+    },
+    "tg": {
+      "name": "ٹوگو"
+    },
+    "cw": {
+      "name": " کیوراساؤ"
+    },
+    "th": {
+      "name": "تھائی لینڈ"
+    },
+    "cx": {
+      "name": "جزیرہ کرسمس"
+    },
+    "cy": {
+      "name": "قبرص"
+    },
+    "tj": {
+      "name": "تاجکستان"
+    },
+    "cz": {
+      "name": "جمہوریہ چیک"
+    },
+    "tk": {
+      "name": "ٹوکیلاؤ"
+    },
+    "tl": {
+      "name": "مشرقی تیمور"
+    },
+    "tm": {
+      "name": "ترکمانستان"
+    },
+    "tn": {
+      "name": "تیونس"
+    },
+    "to": {
+      "name": "تونگا"
+    },
+    "tr": {
+      "name": "ترکی"
+    },
+    "tt": {
+      "name": "ٹرینیڈاڈ اور ٹوباگو"
+    },
+    "de": {
+      "name": "جرمنی"
+    },
+    "tv": {
+      "name": "ٹوالو"
+    },
+    "tw": {
+      "name": "تائیوان"
+    },
+    "dj": {
+      "name": " جبوتی"
+    },
+    "tz": {
+      "name": "تنزانیہ"
+    },
+    "dk": {
+      "name": "ڈنمارک"
+    },
+    "dm": {
+      "name": " ڈومینیکا"
+    },
+    "do": {
+      "name": "ڈومینیکن ریپبلک"
+    },
+    "ua": {
+      "name": "یوکرائن"
+    },
+    "ug": {
+      "name": "یوگنڈا"
+    },
+    "dz": {
+      "name": "الجیریا"
+    },
+    "um": {
+      "name": "ریاست ہائے متحدہ اور بیرونی جزائر"
+    },
+    "ec": {
+      "name": "ایکواڈور"
+    },
+    "us": {
+      "name": "ریاست ہائے متحدہ امریکا"
+    },
+    "ee": {
+      "name": "ایسٹونیا"
+    },
+    "eg": {
+      "name": "مصر"
+    },
+    "eh": {
+      "name": "مغربی صحارا"
+    },
+    "uy": {
+      "name": "ہوراگوئے"
+    },
+    "uz": {
+      "name": "ازبکستان"
+    },
+    "va": {
+      "name": "ویٹیکن سٹی"
+    },
+    "er": {
+      "name": "اریٹیریا"
+    },
+    "vc": {
+      "name": "سینٹ کیرن اور گریناڈائنز"
+    },
+    "es": {
+      "name": "سپین"
+    },
+    "et": {
+      "name": "ایتھوپیا"
+    },
+    "ve": {
+      "name": "وینزولا"
+    },
+    "vg": {
+      "name": "جزائر ورجن، برٹش"
+    },
+    "vi": {
+      "name": "جزائر ورجن، امریکہ"
+    },
+    "vn": {
+      "name": "ویت نام"
+    },
+    "vu": {
+      "name": "وانواٹو"
+    },
+    "fi": {
+      "name": "فن لینڈ"
+    },
+    "fj": {
+      "name": " فجی"
+    },
+    "fk": {
+      "name": "جزائر فاک لینڈ"
+    },
+    "fm": {
+      "name": "مائکرونیزیا"
+    },
+    "fo": {
+      "name": "جزائرفارو"
+    },
+    "fr": {
+      "name": "فرانس"
+    },
+    "wf": {
+      "name": "والس اور فتونہ"
+    },
+    "ga": {
+      "name": "غیبون"
+    },
+    "gb": {
+      "name": "برطانیہ"
+    },
+    "ws": {
+      "name": "ساموا"
+    },
+    "gd": {
+      "name": " گریناڈا"
+    },
+    "ge": {
+      "name": "جارجیا"
+    },
+    "gf": {
+      "name": "فرانسیسی گی آنا"
+    },
+    "gg": {
+      "name": "گرنزی"
+    },
+    "gh": {
+      "name": "گھانا"
+    },
+    "gi": {
+      "name": " جبل الطارق"
+    },
+    "gl": {
+      "name": "گرین لینڈ"
+    },
+    "gm": {
+      "name": "گیمبیا"
+    },
+    "gn": {
+      "name": "گنی"
+    },
+    "gp": {
+      "name": " گواڈیلوپ"
+    },
+    "gq": {
+      "name": "استوائی گنی"
+    },
+    "gr": {
+      "name": "یونان"
+    },
+    "gs": {
+      "name": "جنوبی جارجیا اور جزائر جنوبی سینڈوچ"
+    },
+    "gt": {
+      "name": " گوئٹے مالا"
+    },
+    "gu": {
+      "name": " گوام"
+    },
+    "gw": {
+      "name": "گنی بسائو"
+    },
+    "gy": {
+      "name": " گیانا"
+    },
+    "hk": {
+      "name": " ہانگ کانگ"
+    },
+    "hm": {
+      "name": "جزیرہ ہرڈ اور جزائر مکڈونلڈ"
+    },
+    "hn": {
+      "name": "ہونڈوراس"
+    },
+    "hr": {
+      "name": "کروشیا"
+    },
+    "ht": {
+      "name": "ہائٹی"
+    },
+    "ye": {
+      "name": "یمن"
+    },
+    "hu": {
+      "name": "ہنگری"
+    },
+    "id": {
+      "name": "انڈونیشیا"
+    },
+    "yt": {
+      "name": " مایوٹ"
+    },
+    "ie": {
+      "name": "آئر لینڈ"
+    },
+    "il": {
+      "name": "اسرائیل"
+    },
+    "im": {
+      "name": " آئل آف مین"
+    },
+    "in": {
+      "name": "بھارت"
+    },
+    "io": {
+      "name": "بحرھند کا برٹش علاقہ"
+    },
+    "za": {
+      "name": "جنوبی افریقہ"
+    },
+    "iq": {
+      "name": "عراق"
+    },
+    "ir": {
+      "name": "ایران"
+    },
+    "is": {
+      "name": "آئس لینڈ"
+    },
+    "it": {
+      "name": "اٹلی"
+    },
+    "zm": {
+      "name": "زیمبیا"
+    },
+    "je": {
+      "name": "جرسی"
+    },
+    "zw": {
+      "name": "زمبابوے"
+    },
+    "jm": {
+      "name": " جمیکا"
+    },
+    "jo": {
+      "name": "اردن"
+    },
+    "jp": {
+      "name": "جاپان"
+    },
+    "ke": {
+      "name": "کینیا"
+    },
+    "kg": {
+      "name": "کرغستان"
+    },
+    "kh": {
+      "name": "کمبوڈیا"
+    },
+    "ki": {
+      "name": "کِرباتی"
+    },
+    "km": {
+      "name": "کوموروس"
+    },
+    "kn": {
+      "name": "سینٹ کٹس اور نیوس"
+    },
+    "kp": {
+      "name": "شمالی کوریا"
+    },
+    "kr": {
+      "name": "جنوبی کوریا"
+    },
+    "kw": {
+      "name": " کویت"
+    },
+    "ky": {
+      "name": "جزائر کیمن"
+    },
+    "kz": {
+      "name": "قزاقستان"
+    },
+    "la": {
+      "name": "لاؤس"
+    },
+    "lb": {
+      "name": "لبنان"
+    },
+    "lc": {
+      "name": "سینٹ لوسیا"
+    },
+    "li": {
+      "name": "لکٹنسٹائن"
+    },
+    "lk": {
+      "name": "سری لنکا"
+    },
+    "lr": {
+      "name": "لائبیریا"
+    },
+    "ls": {
+      "name": "لیسوتھو"
+    },
+    "lt": {
+      "name": "لتھوانیا"
+    },
+    "lu": {
+      "name": " لکسمبرگ"
+    },
+    "lv": {
+      "name": "لٹوِیا"
+    },
+    "ly": {
+      "name": "لیبیا"
+    },
+    "ma": {
+      "name": "مراکش"
+    },
+    "mc": {
+      "name": "موناکو"
+    },
+    "md": {
+      "name": "مالدووا"
+    },
+    "me": {
+      "name": " مونٹینیگرو"
+    },
+    "mf": {
+      "name": "سینٹ مارٹن (فرانس)"
+    },
+    "mg": {
+      "name": "مڈغاسکر"
+    },
+    "mh": {
+      "name": "جزائر مارشل"
+    },
+    "mk": {
+      "name": "مقدونیہ"
+    },
+    "ml": {
+      "name": "مالی"
+    },
+    "mm": {
+      "name": "میانمر"
+    },
+    "mn": {
+      "name": "منگولیا"
+    },
+    "mo": {
+      "name": "ماکاؤ"
+    },
+    "mp": {
+      "name": "شمالی ماریاناجزائر"
+    },
+    "mq": {
+      "name": " مارٹینیک"
+    },
+    "mr": {
+      "name": "موریطانیہ"
+    },
+    "ms": {
+      "name": " مانٹسریٹ"
+    },
+    "mt": {
+      "name": " مالٹا"
+    },
+    "mu": {
+      "name": " موریشس"
+    },
+    "mv": {
+      "name": " مالدیپ"
+    },
+    "mw": {
+      "name": "ملاوی"
+    },
+    "mx": {
+      "name": "میکسیکو"
+    },
+    "my": {
+      "name": "ملائیشیا"
+    },
+    "mz": {
+      "name": "موزنبیق"
+    },
+    "na": {
+      "name": "نمیبیا"
+    },
+    "nc": {
+      "name": "نیو کیلیڈونیا"
+    },
+    "ne": {
+      "name": "نائیجر"
+    },
+    "nf": {
+      "name": "جزیرہ نارفولک"
+    },
+    "ng": {
+      "name": "نائیجیریا"
+    },
+    "ni": {
+      "name": "نکاراگوا"
+    },
+    "nl": {
+      "name": "نیدرلینڈ"
+    },
+    "no": {
+      "name": "ناروے"
+    },
+    "np": {
+      "name": "نیپال"
+    },
+    "nr": {
+      "name": " ناورو"
+    },
+    "nu": {
+      "name": " نیووے"
+    },
+    "nz": {
+      "name": "نیوزی لینڈ"
+    },
+    "om": {
+      "name": "عمان"
+    },
+    "pa": {
+      "name": " پاناما"
+    },
+    "pe": {
+      "name": "پیرو"
+    },
+    "pf": {
+      "name": "فرانسیسی پولینیسیا"
+    },
+    "pg": {
+      "name": "پاپوا نیو گنی"
+    },
+    "ph": {
+      "name": "فلپائن"
+    },
+    "pk": {
+      "name": "پاکستان"
+    },
+    "pl": {
+      "name": "پولینڈ"
+    },
+    "pm": {
+      "name": "سینٹ پائرے اور میکویلون"
+    },
+    "pn": {
+      "name": " جزائر پٹکیرن"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "پروگرام کے اندر تعلیمی نصب العین پر پہنچنے میں کامیابی کے لیے ایوارڈ Agora program",
+        "title": "تعلیمی ایوارڈز"
+      },
+      "social": {
+        "help": "ایوارڈز جو آپ کی کمیونٹی میں آپ کے مثبت اثر کی نشاندہی کریں۔",
+        "title": "معاشرے میں اثر پذیری پر ایوارڈ"
+      },
+      "operational": {
+        "help": "کلبوں کے انتظام اور چارٹرنگ میں بہترین کارکردگی کے لیے ایوارڈز",
+        "title": "کلب کے انتظام میں بہترین کارکردگی"
+      },
+      "community": {
+        "help": "کمیونٹی کی افزائش اور استحکام میں حصہ لینے پر ایوارڈز Agora",
+        "title": "کمیونٹی ایوارڈزAgora"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "تلاش کریں",
+      "register": "رجسٹر ہوں"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "علاقائی یا بین الاقوامی کنونشن کا کامیابی سے انعقاد کرانا Agora",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "کنونشن کا مُنتظم"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "سند یافتہ رہنما"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "کوالیفائیڈ اسپیکر"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "مینٹورشپ ایوارڈ"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "اسپیکرز کونٹیسٹ جیتنا Agora ایک",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "مُقابلے کا فاتح"
+        },
+        "third": {
+          "help": "اسپیکرز کونٹیسٹ میں تیسری پوزیشن لی Agora",
+          "image": "awards.individual.contest.third.svg",
+          "title": "مُقابلہ، تیسری پوزیشن"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "مُقابلے کا انعقاد کرانا Agora کامیابی کے ساتھ ایک",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "مُقابلے کا مُنتظم"
+        },
+        "participant": {
+          "help": "اسپیکرز کونٹیسٹ میں شرکت Agora",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "شراکت کا تصدیق نامہ"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "اسپیکرز کونٹیسٹ میں دوسری پوزیشن لی Agora",
+          "image": "awards.individual.contest.second.svg",
+          "title": "مُقابلہ، دوسری پوزیشن"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "سب سے زیادہ قابلِ توجہ بہتری",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "تعلیمی کارکردگی کا ایوارڈ"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "آؤٹ رِیچ ایوارڈ"
+      },
+      "community": {
+        "leadership": {
+          "help": "کمیونٹی پروجیکٹس کی غیرمعمولی کارکردگی",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "کمیونٹی لیڈرشپ ایوارڈ"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "کے مشن میں بہترین کاردگی اور وابستگی Agora",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "ایمبیسڈرز ڈسٹنگوشڈ ممبر ایوارڈ"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "اسپیشل ڈسٹنکشن ایوارڈ"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "ایکمپلشڈ لیڈر"
+        },
+        "communicator": "ایکمپلشڈ کمیونیکیٹر"
+      },
+      "help": {
+        "help": "کلب کی کامیابی سے مستقل وابستگی رکھنا",
+        "image": "awards.individual.help.svg",
+        "title": "کلب کی کامیابی سے وقف ایوارڈ"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "کامیاب براڈکاسٹ میڈیا مقرر"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "کامیاب قائل کرنے والا مقرّر"
+              }
+            },
+            "pr": {
+              "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "کامیاب پی آر اسپیشلسٹ"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "خصوصی مواقع کے لیے کامیاب مقرر"
+              }
+            },
+            "storytelling": {
+              "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "کامیاب قصّہ گو"
+            },
+            "educational": {
+              "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "کامیاب تعلمی مقرّر"
+            },
+            "business": {
+              "contexts": {
+                "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "کامیاب تجارتی مقرر"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "کامیاب تنقیدی مفکّر"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "تمام مخالف مقررین کے خلاف کامیابی پائی"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "کامیاب کاروبار سازی کا مقرر"
+            },
+            "project": {
+              "management": {
+                "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "کامیاب پروجیکٹ مینجر"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "کامیاب باہمی مہارتوں کا ماہر"
+              }
+            },
+            "dramatization": {
+              "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "کامیاب ڈرامائی مقرر"
+            },
+            "humorous": {
+              "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "کامیاب پُرمزاح مقرر"
+            },
+            "leadership": {
+              "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "ایکمپلشڈ لیڈر"
+            },
+            "negotiation": {
+              "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "کامیاب گفت و شنید کا ماہر"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "کامیابی کے ساتھ {}جدید تعلیمی راستہ مکمّل کیا",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "کامیاب بصری قصّہ گو"
+              }
+            }
+          },
+          "title": "ایکمپلشڈ اسپیکر"
+        },
+        "communicator": {
+          "help": "مکمل ترسیلی راستے کو کامیابی ست مکمّل کرنا",
+          "image": "awards.individual.accomplished.communicator.svg",
+          "title": "ایکمپلشڈ کمیونیکیٹر"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "کلب کا رہنما"
+        },
+        "founder": {
+          "help": "کلب کو کامیابی سے قائم کرنا Agora",
+          "image": "awards.individual.club.founder.svg",
+          "title": "کلب کا بانی"
+        },
+        "officer": {
+          "help": "ایک سال کے دوران کامیابی سے کلب کی قیادت کرنا",
+          "image": "awards.individual.club.officer.svg",
+          "title": "کلب کی قیادت"
+        },
+        "growth": {
+          "help": "کلبوں میں تعلیم دینے اور بنانے میں بہترین کارکردگی Agora مُلک میں",
+          "image": "awards.individual.club.growth.svg",
+          "title": "کلب گروتھ ایوارڈ"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "پانچ 5 سال کے لیے ایک کلب میں مستقل رُکنیت سازی",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "اینی ورسری ایوارڈ"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "ممبر آف دا منتھ ایوارڈ"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "اجلاسوں میں مُستقل اور معّال حاضری",
+        "image": "awards.individual.attendance.svg",
+        "title": "وابستگی کا ایوارڈ"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "انوویٹر ایوارڈAgora"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "ٹارچ بیئرر Agora"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "پروموٹر ایوارڈ Agora"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "کنوینشن ہوسٹ ایوارڈ"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "کنٹری پایونیئر ایوارڈ"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "ایجوکیشنل ایکسیلنس ایوارڈ"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "ایجوکیشنل آؤٹ ریچ ایوارڈ"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "سٹی پایونیئر ایوارڈ"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "آؤٹ ریچ ایکسیلنس ایوارڈ"
+        }
+      },
+      "media": {
+        "help": "کے مشن اور سرگرمیوں کی ترویج میں بہترین کارکردگی  Agora میڈیا میں",
+        "image": "awards.club.media.svg",
+        "title": "میڈیا ایکسیلنس ایوارڈ"
+      },
+      "membership": {
+        "growth": "ممبرشپ گروتھ ایوارڈ",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "ممبرشپ ریٹنشن ایوارڈ"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "کمیونٹی پروجیکٹس کی غیرمعمولی کارکردگی",
+          "image": "awards.club.community.leadership.svg",
+          "title": "کمیونٹی لیڈرشپ ایوارڈ"
+        }
+      },
+      "content": {
+        "help": "کمیونٹی کے لیے اعلیٰ مواد تخلیق کرنے میں بہترین کارکردگی Agora community",
+        "image": "awards.club.content.svg",
+        "title": "کونٹینٹ کری ایشن ایوارڈ"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "کلب انوویٹر ایوارڈ"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "اسپیشل ڈسٹنکشن ایوارڈ"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "ایمبیسڈرز ایوارڈ"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "کلب مینٹورشپ ایوارڈ"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "کلب آف دا منتھ ایوارڈ"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "کلب کے ساتھ رکنیت سازی کا اطمینان جو 90٪ سے زائد ہو",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "ممبرشپ سیٹسفیکشن گولڈن ایوارڈ"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "کلب کے ساتھ رکنیت سازی کا اطمینان جو 75٪ سے زائد ہو",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "ممبرشپ سیٹسفیکشن سِلور ایوارڈ"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "کلب ممبرشپ سیٹسفیکشن ایوارڈ"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "20اراکین سے زائد رکنیت سازی کی افزائش",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "گولڈن ممبرشہ گروتھ ایوارڈ"
+          }
+        },
+        "anniversary": {
+          "help": "دس سالوں کے دوران کلب کی کامیاب اور مستقل فعالیت",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "گولڈن اینی ورسری ایوارڈ"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "ماڈل کلب ایوارڈ"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "10اراکین سے زائد رکنیت سازی کی افزائش",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "سلور ممبرشپ گروتھ ایوارڈ"
+          }
+        },
+        "anniversary": {
+          "help": "پانچ سالوں کے دوران کلب کی کامیاب اور مستقل فعالیت",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "سِلور اینی ورسری ایوارڈ"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "کلب اینی ورسری ایوارڈ -{{v0}} سال"
+      }
+    },
+    "place": {
+      "participation": "شراکت"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "ایک اجلاس کے کراس فائر میں سب سے زیادہ متجسّس اور گہرے سوال کرنے والا ہونا",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "سب سے زیادہ مُتجسّس کراس فائر شریک"
+        },
+        "survivor": {
+          "help": "ایک اجلاس میں ایک کراس فائر سیکشن میں بچنا",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "کراس فائر سروائیور"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "بہترین مُکالماتی نشست کا پیش کُنندہ اور سوال کرنے والا ہونا",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "بہترین مکالماتی نشست کا شریک"
+        },
+        "role": {
+          "help": "ایک اعلیٰ ترین انداز میں اجلاس کا کردار ادا کرنا",
+          "image": "awards.meeting.best.role.svg",
+          "title": "بہترین اجلاس کا کردار"
+        },
+        "speaker": {
+          "help": "ایک کلب کے اجلاس میں سب سے بہترین تیار تقریر کرنا",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "بہترین اجلاس کا مُقرر"
+        },
+        "hot": {
+          "response": {
+            "help": "ایک کلب کے اجلاس میں سب سے بہترین فی البدیہہ تقریر کرنا",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "اجلاس کا بہترین فی البدیہہ مقرّر"
+          }
+        },
+        "speechwriter": {
+          "help": "ایک اجلاس میں سب سے بہتری تقریر تخلیق کرنا",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "بہترین اجلاس کا تقریر نِگار"
+        },
+        "evaluator": {
+          "help": "ایک کلب کے اجلاس میں بہترین تشخیص دینا",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "بہترین اجلاس کا تشخیص کُنندہ"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "اسپیکرز انٹرنیشنل فاؤنڈیشن ایک یورپی سیکولر تعلیمی چیرٹی ہے جو لوگوں کو طاقت دیتا ہے کہ وہ بہترین رابطہ کار اور بنیں خُوداعتماد رہنُما بنیں جو فعّال انداز میں ایک بہتر دُنیا تعمیر کریں گے۔ Agora"
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "تاریخ",
+      "country": "مُلک",
+      "address": "پتہ",
+      "city": "شہر",
+      "awards": "جیتے گئے انعامات",
+      "state": "ریاست/صُوبہ/چھاؤنی/وغیرہ",
+      "event": "ایونٹ",
+      "region": "خِطّہ",
+      "points": {
+        "total": "جیتے گئے پوائنٹس (کُل)",
+        "year": "جیتے گئے پوائنٹس (اِس سال)",
+        "name": "پوائنٹس"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "براہِ مہربانی وہ زبان یا زبانیں بتائیں جو کلب میں استعمال ہونگی (مثلاً : انگریزی)"
+      },
+      "charter": {
+        "date": "مُعاہدے کی تاریخ",
+        "help": "مُعاہدے کی تاریخ مستقبل کی ہونی چاہئیے مگر 30 دن سے زیادہ دُور نہیں ہونی چاہئیے۔"
+      },
+      "founder": {
+        "name": "کلب کا بانی (مکمّل نام)",
+        "email": "بانی کا ای میل"
+      },
+      "fee": {
+        "title": ".کلب کی رُکنیت کی فِیس (اگر کوئی ہو)"
+      },
+      "banner": "بینر",
+      "restrictions": {
+        "guests": {
+          "input": "براہِ مہربانی بیان کریں کہ ایک مہمان کے طور پر اس کلب میں شرکت کے لیے کونسی پابندیاں لاگُو ہوں گی۔ (اگر کوئی ہوں)"
+        },
+        "membership": {
+          "input": "براہِ مہربانی بیان کریں کہ ایک مہمان کے طور پر اس کلب میں شمولیت کے لیے کونسی پابندیاں لاگُو ہوں گی۔ (اگر کوئی ہوں) اگر آپ ایک یُوتھ کلب کا اندراج کرا رہے ہیں، براہِ مہربانی عُمر کی حد کی نشاندہی کریں۔"
+        }
+      },
+      "type": {
+        "help": "مختلف کلب کی اقسام کے لیے مزید معلومات یہاں ہیں۔",
+        "input": "کلب کی قسم"
+      },
+      "points": {
+        "date": "عمل کی تاریخ",
+        "action": "کلب کا عمل"
+      },
+      "token": "کلب کا خُفیہ ٹوکن",
+      "number": "کلب کا نمبر",
+      "assets": "کلب کے اثاثہ جات",
+      "awards": "کلب کے ایوارڈز",
+      "contact": {
+        "help": {
+          "1": "کلب کے لیے رابطے کی معلومات۔ ایک ای میل یا فُون ہونا لازمی ہے۔",
+          "2": "اضافی کلب کے رابطے کی معلومات - گزشتہ نام سے مختلف ہونا چاہئیے اور کوئی اور ای میل/فون، یا ایک ویب پیج، فیس بُک گروپ، مِیٹ اپ گروپ ہوسکتا ہے۔"
+        },
+        "title": "رابطے کی معلومات"
+      },
+      "name": "کلب کا نام",
+      "logo": {
+        "title": "آپ اپنا ذاتی لوگو اپ لوڈ کرسکتے ہیں اور اگر آپ کے پاس نہیں تو ہم خودبخود آپ کے کلب کے لیے ایک لوگو بنادیں گے۔"
+      },
+      "meeting": {
+        "schedule": "اجلاس کا جدول",
+        "info": "اضافی معلومات"
+      },
+      "officers": "کلب کے افسران"
+    },
+    "personal": {
+      "participation": {
+        "input": "آپ کس قسم کی شرکت میں دلچسپی رکھتے ہیں؟",
+        "online": "آن لائن اجلاس",
+        "physical": "جسمانی طور پر حاضر اجلاس"
+      },
+      "languages": {
+        "interested": "آپ کن زبانوں میں دلچسپی رکھتے ہیں؟"
+      },
+      "joined": "شمولیت کی تاریخ",
+      "facebook": "فیس بُک پروفائل کا لِنک",
+      "roles": {
+        "date": "تاریخ",
+        "role": "کِردار",
+        "taken": "لیے گئے کِردار",
+        "club": "کلب"
+      },
+      "speeches": {
+        "persuasive": "قائل کرنے والی تقاریر",
+        "general": "عمومی مقصد کی تقاریر",
+        "storytelling": "قصّہ گوئی",
+        "educational": "تعلیمی",
+        "business": "تجارتی پریزینٹیشنز",
+        "interested": "آپ کس قسم کی پریزینٹیشنز/تقاریر کو سیکھنے میں دلچسپی رکھتے ہیں؟",
+        "media": "وی لاگنگ اور میڈیا پروڈکشن",
+        "sales": "سیلز",
+        "humorous": "مزاحیہ تقاریر اور مزاح"
+      },
+      "privacy": "اسپیکرز انٹرنیشنل کے شرائط و ضوابط سے اتفاق کرتا/کرتی  ہُوں۔ Agora مَیں اس سائٹ اور",
+      "history": {
+        "date": "تاریخ",
+        "club": "کلب کا نام",
+        "event": "ایونٹ"
+      },
+      "linkedin": "لنکڈ اِن پروفائل کا لِنک",
+      "skills": "آپ درج ذیل میں سے کن مہارتوں کو بہتر بنانے میں دلچسپی رکھتے ہیں؟",
+      "number": "رُکن کا نمبر",
+      "password": {
+        "input": "پاس ورڈ",
+        "verify": "تصدیق کے لیے پاس ورڈ دُہرائیں"
+      },
+      "clubs": {
+        "role": "کِردار"
+      },
+      "name": {
+        "address": {
+          "help": "ہم آپ کو اپنے تبادلہءِ خیال (جیسے کہ آپ کو ای میلز میں) کیسے مُخاطب کریں؟",
+          "field": "تبادلہءِ خٰال کے لیے ترجیحی نام:"
+        },
+        "certificates": {
+          "help": "آپ کا نام سرٹیفیکیٹ اور انعامات جو آپ نے جیتے ہوں، اُن پر کیسے دکھنا چاہئیے؟",
+          "input": "سرٹیفیکیٹ کے لیے ترجیحی نام"
+        },
+        "online": {
+          "help": "آپ کا نام ہمارے آن لائن سسٹمز، فورمز وغیرہ میں کیسا دِکھنا چاہئیے؟",
+          "input": "ترجیحی آن لائن نام"
+        },
+        "full": "مُکمّل نام"
+      },
+      "principles": {
+        "agreement": "براہِ مہربانی ہمارے بُنیادی اصولوں کے ساتھ اپنے متفق ہونے کی نشاندہی کریں۔"
+      },
+      "position": "کلب میں موجودہ حیثیت",
+      "interests": {
+        "11": {
+          "language": "مَیں اپنی غیرمُلکی زبان کی مہارتوں کو بہتر بنانے میں دلچسپی رکھتا ہُوں"
+        },
+        "01": {
+          "curious": "مَیں صرف اس ادارے کے بارے میں مُتجسّس ہُوں۔"
+        },
+        "12": {
+          "contests": "اسپیکرز انٹرنیشنل لے منعقد کردہ مُقابلوں میں حصّہ لینے میں دلچسپی رکھتا ہُوں۔ Agora مَیں"
+        },
+        "02": {
+          "confidence": "مَیں اپنی خُوداعتمادی کو بہتر بنانا چاہتا ہُوں۔"
+        },
+        "13": {
+          "critical": "مَیں تنقیدی انداز میں سوچنے کو سیکھنے میں دلچسپی رکھتا ہُوں۔"
+        },
+        "03": {
+          "communicate": "مَیں زیادہ اثرپذیری کے ساتھ اظہارِ خیال کرنے کو سیکھنا چاہتا ہُوں۔"
+        },
+        "14": {
+          "friends": "مَیں لوگوں سے مِلنے اور نئے دوست بنانے میں دلچسپی رکھتا ہُوں۔"
+        },
+        "04": {
+          "speak": "مَیں اپنی عوامی خطابت کی مہارتوں کو بہتر بنانا چاہتا ہُوں۔"
+        },
+        "15": {
+          "cooperation": "مَیں ثقافتی تبادلے اور بین الثقافتی تعاون کی سرگرمیوں میں دلچسپی رکھتا ہُوں۔"
+        },
+        "question": "اسپیکرز انٹرنیشنل میں کیا دلچسپی ہے؟ Agora آپ کی",
+        "05": {
+          "leadership": "مَیں اپنی قائدانہ مہارتوں کو بہتر بنانا چاہتا ہُوں۔"
+        },
+        "16": {
+          "startclub": "شروع کرنا چاہتا ہُوں۔ Agora Club مَیں اپنے شہر میں ایک"
+        },
+        "06": {
+          "networking": "مَیں پیشہ ورانہ ربط سازی میں دلچسپی رکھتا ہُوں۔"
+        },
+        "17": {
+          "ambassador": "سفیر بننا چاہتا ہُوں۔ Agora Ambassador مَیں اپنے مُلک کے لیے"
+        },
+        "07": {
+          "presentations": "مَیں کاروباری پریزینٹیشنز دینے میں دلچسپی رکھتا ہُوں۔"
+        },
+        "18": {
+          "partnership": "اسپیکرز انٹرنیشنل اور اپنے ادارے کے درمیان ایک شراکت داری قائم کرنے میں دِلچسپی رکھتا ہُوں۔ Agora مَیں"
+        },
+        "08": {
+          "events": "مَیں اُن ورکشاپس، سیمینار اور ایونٹس میں دلچسپی رکھتا ہُوں جو آپ منعقد کراتے ہیں۔"
+        },
+        "09": {
+          "debating": "مَیں مُباحثے اور استدلال میں دلچسپی رکھتا ہُوں۔"
+        },
+        "10": {
+          "community": "مَیں اپنی کمیونٹی میں ایک فرق لانا چاہتا ہُوں۔"
+        }
+      },
+      "email": "ای میل"
+    },
+    "meeting": {
+      "date": "اجلاس کی تاریخ",
+      "number": "اجلاس کا نمبر",
+      "venue": {
+        "name": "جگہ کا نام"
+      },
+      "address": {
+        "input": "اجلاس کے مقام کا پتہ"
+      },
+      "online": {
+        "software": "اجلاس کا سوفٹ ویئر",
+        "link": "شامل ہونے کا لِنک",
+        "id": "آن لائن اجلاس کی آئی ڈی",
+        "title": "آن لائن اجلاسوں کے لیے معلومات",
+        "passowrd": "شامل ہونے کا پاسورڈ"
+      },
+      "theme": "اجلاس کا بُنیادی تصور (اگر کوئی ہے)",
+      "time": "اِجلاس کا وقت"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c)کے مواد اور اثاثہ جات کو صِرف ہماری شرائط و ضوابط کے مُطابق استعمال کیا جاسکتا ہے۔ Agoraاسپیکرز انٹرنیشنل۔ جُملہ حقوق محفُوظ ہیں۔ Agora کاپی رائٹ"
+    },
+    "terms": "شرائط و ضوابط",
+    "legal": {
+      "notice": "قانُونی معلومات"
+    },
+    "privacy": {
+      "policy": "پرائیویسی پالیسی"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "ہندی",
+      "ps": "پشتو",
+      "pt": "پُرتگالی",
+      "hr": "کراتی",
+      "pt_br": "Brazilian",
+      "hu": "ہنگیرین",
+      "yi": "یدش",
+      "hy": "آرمینیائی",
+      "yo": "یوروبا",
+      "ia": "بین لسانیات",
+      "id": "انڈونیثیائی",
+      "ig": "اِگبو",
+      "ii": "سچوان ای",
+      "qu": "کویچوآ",
+      "af": "افریقی",
+      "ak": "اکان",
+      "is": "آئس لینڈک",
+      "it": "اطالوی",
+      "am": "امہاری",
+      "zh": "چینی",
+      "ar": "عربی",
+      "as": "آسامی",
+      "ja": "جاپانی",
+      "az": "آذربائیجانی",
+      "rm": "رومانش",
+      "zu": "زولو",
+      "rn": "رونڈی",
+      "ro": "رومینین",
+      "be": "بیلاروسی",
+      "ru": "روسی",
+      "bg": "بلغاری",
+      "rw": "کینیاروانڈا",
+      "bm": "بمبارا",
+      "bn": "بنگلہ",
+      "jv": "جاوی",
+      "bo": "تبتی",
+      "sa": "سنسکرت",
+      "br": "بریٹن",
+      "bs": "بوسنیائی",
+      "sd": "سندھی",
+      "se": "شمالی سامی",
+      "sg": "ساںغو",
+      "sh": "سربو-کروئیشین",
+      "ka": "جارجیائی",
+      "si": "سنہالا",
+      "sk": "سلوواک",
+      "sl": "سلووینیائی",
+      "sn": "شونا",
+      "so": "صومالی",
+      "ca": "کیٹالان",
+      "ki": "کیکویو",
+      "sq": "البانی",
+      "sr": "سربین",
+      "kk": "قزاخ",
+      "kl": "کالاليست",
+      "ce": "چیچن",
+      "km": "خمیر",
+      "su": "سنڈانیز",
+      "kn": "کنّاڈا",
+      "sv": "سویڈش",
+      "ko": "کوریائی",
+      "sw": "سواحلی",
+      "ks": "کشمیری",
+      "ku": "کردش",
+      "kw": "کورنش",
+      "ta": "تمل",
+      "ky": "کرغیزی",
+      "cs": "چیک",
+      "te": "تیلگو",
+      "tg": "تاجک",
+      "th": "تھائی",
+      "ti": "ٹگرینیا",
+      "cy": "ویلش",
+      "lb": "لکسمبرگیش",
+      "tk": "ترکمان",
+      "tl": "ٹیگا لوگ",
+      "lg": "گینڈا",
+      "to": "ٹونگن",
+      "da": "ڈینش",
+      "tr": "ترکی",
+      "tt": "تاتار",
+      "de": "جرمن",
+      "ln": "لِنگَلا",
+      "lo": "لاؤ",
+      "lt": "لیتھوینین",
+      "lu": "لبا-کاتانجا",
+      "lv": "لیٹوین",
+      "ug": "یوئگہر",
+      "dz": "ژونگکھا",
+      "uk": "یوکرینیائی",
+      "mg": "ملاگاسی",
+      "mi": "ماؤری",
+      "ur": "اردو",
+      "mk": "مقدونیائی",
+      "ml": "مالایالم",
+      "ee": "ایو",
+      "mn": "منگولین",
+      "mr": "مراٹهی",
+      "uz": "ازبیک",
+      "ms": "مالے",
+      "el": "یونانی",
+      "mt": "مالٹی",
+      "en": "انگریزی",
+      "eo": "ایسپرانٹو",
+      "my": "برمی",
+      "es": "ہسپانوی",
+      "et": "اسٹونین",
+      "eu": "باسکی",
+      "vi": "ویتنامی",
+      "nb": "نارویجین بوکمل",
+      "nd": "شمالی دبیل",
+      "ne": "نیپالی",
+      "fa": "فارسی",
+      "nl": "ڈچ",
+      "ff": "فولہ",
+      "nn": "نارویجین نینورسک",
+      "no": "نارویجین",
+      "fi": "فینیش",
+      "fo": "فیروئیز",
+      "fr": "فرانسیسی",
+      "fy": "مغربی فریسیئن",
+      "wo": "وولوف",
+      "ga": "آئرش",
+      "gd": "سکاٹش گیلک",
+      "om": "اورومو",
+      "or": "اڑیہ",
+      "os": "اوسیٹک",
+      "gl": "گالیشیائی",
+      "gu": "گجراتی",
+      "gv": "مینکس",
+      "xh": "ژوسا",
+      "pa": "پنجابی",
+      "ha": "ہؤسا",
+      "pl": "پولش",
+      "he": "عبرانی"
+    },
+    "full": {
+      "hi": "ہندی (हिन्दी)",
+      "ps": "پشتو (پښتو)",
+      "pt": "پُرتگالی (Português)",
+      "hr": "کراتی (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "ہنگیرین (Magyar)",
+      "yi": "یدش (ייִדיש)",
+      "hy": "آرمینیائی (Հայերեն)",
+      "yo": "یوروبا (Èdè Yorùbá)",
+      "ia": "بین لسانیات (Interlingua)",
+      "id": "انڈونیثیائی (Indonesia)",
+      "ig": "اِگبو (Igbo)",
+      "ii": "سچوان ای (ꆈꌠꉙ)",
+      "qu": "کویچوآ (Runasimi)",
+      "af": "افریقی (Afrikaans)",
+      "ak": "اکان (Akan)",
+      "is": "آئس لینڈک (Íslenska)",
+      "it": "اطالوی (Italiano)",
+      "am": "امہاری (አማርኛ)",
+      "zh": "چینی (中文)",
+      "ar": "عربی (العربية)",
+      "as": "آسامی (অসমীয়া)",
+      "ja": "جاپانی (日本語)",
+      "az": "آذربائیجانی (Azərbaycan)",
+      "rm": "رومانش (Rumantsch)",
+      "zu": "زولو (IsiZulu)",
+      "rn": "رونڈی (Ikirundi)",
+      "ro": "رومینین (Română)",
+      "be": "بیلاروسی (Беларуская)",
+      "ru": "روسی (Русский)",
+      "bg": "بلغاری (Български)",
+      "rw": "کینیاروانڈا (Kinyarwanda)",
+      "bm": "بمبارا (Bamanakan)",
+      "bn": "بنگلہ (বাংলা)",
+      "jv": "جاوی (Jawa)",
+      "bo": "تبتی (བོད་སྐད་)",
+      "sa": "سنسکرت (संस्कृत भाषा)",
+      "br": "بریٹن (Brezhoneg)",
+      "bs": "بوسنیائی (Bosanski)",
+      "sd": "سندھی (سنڌي)",
+      "se": "شمالی سامی (Davvisámegiella)",
+      "sg": "ساںغو (Sängö)",
+      "sh": "سربو-کروئیشین (Srpskohrvatski)",
+      "ka": "جارجیائی (ქართული)",
+      "si": "سنہالا (සිංහල)",
+      "sk": "سلوواک (Slovenčina)",
+      "sl": "سلووینیائی (Slovenščina)",
+      "sn": "شونا (ChiShona)",
+      "so": "صومالی (Soomaali)",
+      "ca": "کیٹالان (Català)",
+      "ki": "کیکویو (Gikuyu)",
+      "sq": "البانی (Shqip)",
+      "sr": "سربین (Српски)",
+      "kk": "قزاخ (Қазақ тілі)",
+      "kl": "کالاليست (Kalaallisut)",
+      "ce": "چیچن (Нохчийн)",
+      "km": "خمیر (ខ្មែរ)",
+      "su": "سنڈانیز (Basa Sunda)",
+      "kn": "کنّاڈا (ಕನ್ನಡ)",
+      "sv": "سویڈش (Svenska)",
+      "ko": "کوریائی (한국어)",
+      "sw": "سواحلی (Kiswahili)",
+      "ks": "کشمیری (کٲشُر)",
+      "ku": "کردش (Kurdî)",
+      "kw": "کورنش (Kernewek)",
+      "ta": "تمل (தமிழ்)",
+      "ky": "کرغیزی (Кыргызча)",
+      "cs": "چیک (Čeština)",
+      "te": "تیلگو (తెలుగు)",
+      "tg": "تاجک (Тоҷикӣ)",
+      "th": "تھائی (ไทย)",
+      "ti": "ٹگرینیا (ትግር)",
+      "cy": "ویلش (Cymraeg)",
+      "lb": "لکسمبرگیش (Lëtzebuergesch)",
+      "tk": "ترکمان (Türkmen dili)",
+      "tl": "ٹیگا لوگ (Tagalog)",
+      "lg": "گینڈا (Luganda)",
+      "to": "ٹونگن (Lea fakatonga)",
+      "da": "ڈینش (Dansk)",
+      "tr": "ترکی (Türkçe)",
+      "tt": "تاتار (Татар)",
+      "de": "جرمن (Deutsch)",
+      "ln": "لِنگَلا (Lingála)",
+      "lo": "لاؤ (ລາວ)",
+      "lt": "لیتھوینین (Lietuvių)",
+      "lu": "لبا-کاتانجا (Tshiluba)",
+      "lv": "لیٹوین (Latviešu)",
+      "ug": "یوئگہر (ئۇيغۇرچە)",
+      "dz": "ژونگکھا (རྫོང་ཁ)",
+      "uk": "یوکرینیائی (Українська)",
+      "mg": "ملاگاسی (Malagasy)",
+      "mi": "ماؤری (Te reo Māori)",
+      "ur": "اردو (اردو)",
+      "mk": "مقدونیائی (Македонски)",
+      "ml": "مالایالم (മലയാളം)",
+      "ee": "ایو (Eʋegbe)",
+      "mn": "منگولین (Монгол)",
+      "mr": "مراٹهی (मराठी)",
+      "uz": "ازبیک (O‘zbek)",
+      "ms": "مالے (Melayu)",
+      "el": "یونانی (Ελληνικά)",
+      "mt": "مالٹی (Malti)",
+      "en": "انگریزی (English)",
+      "eo": "ایسپرانٹو (Esperanto)",
+      "my": "برمی (မြန်မာ)",
+      "es": "ہسپانوی (Español)",
+      "et": "اسٹونین (Eesti)",
+      "eu": "باسکی (Euskara)",
+      "vi": "ویتنامی (Tiếng Việt)",
+      "nb": "نارویجین بوکمل (Norsk bokmål)",
+      "nd": "شمالی دبیل (IsiNdebele)",
+      "ne": "نیپالی (नेपाली)",
+      "fa": "فارسی (فارسی)",
+      "nl": "ڈچ (Nederlands)",
+      "ff": "فولہ (Pulaar)",
+      "nn": "نارویجین نینورسک (Norsk nynorsk)",
+      "no": "نارویجین (Norsk)",
+      "fi": "فینیش (Suomi)",
+      "fo": "فیروئیز (Føroyskt)",
+      "fr": "فرانسیسی (Français)",
+      "fy": "مغربی فریسیئن (Frysk)",
+      "wo": "وولوف (Wolof)",
+      "ga": "آئرش (Gaeilge)",
+      "gd": "سکاٹش گیلک (Gàidhlig)",
+      "om": "اورومو (Oromoo)",
+      "or": "اڑیہ (ଓଡ଼ିଆ)",
+      "os": "اوسیٹک (Ирон)",
+      "gl": "گالیشیائی (Galego)",
+      "gu": "گجراتی (ગુજરાતી)",
+      "gv": "مینکس (Gaelg)",
+      "xh": "ژوسا (IsiXhosa)",
+      "pa": "پنجابی (ਪੰਜਾਬੀ)",
+      "ha": "ہؤسا (Hausa)",
+      "pl": "پولش (Polski)",
+      "he": "عبرانی (עברית)"
+    }
+  }
+}

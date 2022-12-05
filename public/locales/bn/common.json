@@ -1,0 +1,1992 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "রেফারেন্স ক্লাব",
+      "corporate": "কর্পোরেট ক্লাব",
+      "restricted": "সীমাবদ্ধ ক্লাব",
+      "term": "অ্যাগোরা ক্লাব",
+      "pic": "জনস্বার্থের ক্লাব",
+      "open": "সর্বজনীন ক্লাব"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "পুয়ের্তো রিকো"
+    },
+    "ps": {
+      "name": "ফিলিস্তিন"
+    },
+    "pt": {
+      "name": "পর্তুগাল"
+    },
+    "pw": {
+      "name": "পালাউ"
+    },
+    "py": {
+      "name": "প্যারাগুয়ে"
+    },
+    "qa": {
+      "name": "কাতার"
+    },
+    "ad": {
+      "name": "অ্যান্ডোরা"
+    },
+    "ae": {
+      "name": "সংযুক্ত আরব আমিরাত"
+    },
+    "af": {
+      "name": "আফগানিস্তান"
+    },
+    "ag": {
+      "name": "অ্যান্টিগুয়া ও বার্বুডা"
+    },
+    "ai": {
+      "name": "অ্যাঙ্গুইলা"
+    },
+    "al": {
+      "name": "আলবেনিয়া"
+    },
+    "am": {
+      "name": "আর্মেনিয়া"
+    },
+    "ao": {
+      "name": "অ্যাঙ্গোলা"
+    },
+    "aq": {
+      "name": "অ্যান্টার্কটিকা"
+    },
+    "ar": {
+      "name": "আর্জেন্টিনা"
+    },
+    "as": {
+      "name": "আমেরিকান সামোয়া"
+    },
+    "at": {
+      "name": "অস্ট্রিয়া"
+    },
+    "re": {
+      "name": "রিইউনিওন"
+    },
+    "au": {
+      "name": "অস্ট্রেলিয়া"
+    },
+    "aw": {
+      "name": "আরুবা"
+    },
+    "ax": {
+      "name": "অলান্দ দ্বীপপুঞ্জ"
+    },
+    "az": {
+      "name": "আজারবাইজান"
+    },
+    "ro": {
+      "name": "রোমানিয়া"
+    },
+    "ba": {
+      "name": "বসনিয়া ও হার্জেগোভিনা"
+    },
+    "bb": {
+      "name": "বার্বাডোস"
+    },
+    "rs": {
+      "name": "সার্বিয়া"
+    },
+    "bd": {
+      "name": "বাংলাদেশ"
+    },
+    "be": {
+      "name": "বেলজিয়াম"
+    },
+    "ru": {
+      "name": "রাশিয়া"
+    },
+    "bf": {
+      "name": "বুর্কিনা ফাসো"
+    },
+    "bg": {
+      "name": "বুলগেরিয়া"
+    },
+    "rw": {
+      "name": "রুয়ান্ডা"
+    },
+    "bh": {
+      "name": "বাহরাইন"
+    },
+    "bi": {
+      "name": "বুরুন্ডি"
+    },
+    "bj": {
+      "name": "বেনিন"
+    },
+    "bl": {
+      "name": "সেইন্ট বার্তলেমি"
+    },
+    "bm": {
+      "name": "বারমুডা"
+    },
+    "bn": {
+      "name": "ব্রুনাই"
+    },
+    "bo": {
+      "name": "বলিভিয়া"
+    },
+    "sa": {
+      "name": "সৌদি আরব"
+    },
+    "bq": {
+      "name": "ক্যারিবীয় নেদারল্যান্ডস"
+    },
+    "sb": {
+      "name": "সলোমন দ্বীপপুঞ্জ"
+    },
+    "br": {
+      "name": "ব্রাজিল"
+    },
+    "sc": {
+      "name": "সেশেল"
+    },
+    "bs": {
+      "name": "বাহামা দ্বীপপুঞ্জ"
+    },
+    "sd": {
+      "name": "সুদান"
+    },
+    "bt": {
+      "name": "ভূটান"
+    },
+    "se": {
+      "name": "সুইডেন"
+    },
+    "bv": {
+      "name": "বুভেট দ্বীপ"
+    },
+    "sg": {
+      "name": "সিঙ্গাপুর"
+    },
+    "bw": {
+      "name": "বতসোয়ানা"
+    },
+    "sh": {
+      "name": "সেন্ট হেলেনা, অ্যাসেনশন ও ত্রিস্তান দা কুনহা"
+    },
+    "si": {
+      "name": "স্লোভেনিয়া"
+    },
+    "by": {
+      "name": "বেলারুশ"
+    },
+    "sj": {
+      "name": "স্বালবার্ড ও জান মায়েন"
+    },
+    "bz": {
+      "name": "বেলিজ"
+    },
+    "sk": {
+      "name": "স্লোভাকিয়া"
+    },
+    "sl": {
+      "name": "সিয়েরা লিওন"
+    },
+    "sm": {
+      "name": "সান মারিনো"
+    },
+    "sn": {
+      "name": "সেনেগাল"
+    },
+    "so": {
+      "name": "সোমালিয়া"
+    },
+    "ca": {
+      "name": "কানাডা"
+    },
+    "sr": {
+      "name": "সুরিনাম"
+    },
+    "cc": {
+      "name": "কোকোস (কিলিং) দ্বীপপুঞ্জ"
+    },
+    "ss": {
+      "name": "দক্ষিণ সুদান"
+    },
+    "cd": {
+      "name": "গণতান্ত্রিক কঙ্গো প্রজাতন্ত্র"
+    },
+    "st": {
+      "name": "সাঁউ তুমি ও প্রিন্সিপি"
+    },
+    "cf": {
+      "name": "মধ্য আফ্রিকান প্রজাতন্ত্র"
+    },
+    "sv": {
+      "name": "এল সালভাদোর"
+    },
+    "cg": {
+      "name": "কঙ্গো প্রজাতন্ত্র"
+    },
+    "ch": {
+      "name": "সুইজারল্যান্ড"
+    },
+    "sx": {
+      "name": "সিন্ট মার্টেন (ওলন্দাজ অংশ)"
+    },
+    "ci": {
+      "name": "কোত দিভোয়ার"
+    },
+    "sy": {
+      "name": "সিরিয়া"
+    },
+    "sz": {
+      "name": "সোয়াজিল্যান্ড"
+    },
+    "ck": {
+      "name": "কুক দ্বীপপুঞ্জ"
+    },
+    "cl": {
+      "name": "চিলি"
+    },
+    "cm": {
+      "name": "ক্যামেরুন"
+    },
+    "cn": {
+      "name": "গণচীন"
+    },
+    "co": {
+      "name": "কলম্বিয়া"
+    },
+    "cr": {
+      "name": "কোস্টা রিকা"
+    },
+    "tc": {
+      "name": "টার্কস্‌ ও কেইকোস দ্বীপপুঞ্জ"
+    },
+    "td": {
+      "name": "চাদ"
+    },
+    "cu": {
+      "name": "কিউবা"
+    },
+    "tf": {
+      "name": "ফরাসি দক্ষিণাঞ্চলীয় অঞ্চলসমূহ"
+    },
+    "cv": {
+      "name": "কেপ ভার্দ"
+    },
+    "tg": {
+      "name": "টোগো"
+    },
+    "cw": {
+      "name": "কুরাকাও"
+    },
+    "th": {
+      "name": "থাইল্যান্ড"
+    },
+    "cx": {
+      "name": "ক্রিস্টমাস দ্বীপ"
+    },
+    "cy": {
+      "name": "সাইপ্রাস"
+    },
+    "tj": {
+      "name": "তাজিকিস্তান"
+    },
+    "cz": {
+      "name": "চেক প্রজাতন্ত্র"
+    },
+    "tk": {
+      "name": "টোকেলাউ"
+    },
+    "tl": {
+      "name": "পূর্ব তিমুর"
+    },
+    "tm": {
+      "name": "তুর্কমেনিস্তান"
+    },
+    "tn": {
+      "name": "তিউনিসিয়া"
+    },
+    "to": {
+      "name": "টোঙ্গা"
+    },
+    "tr": {
+      "name": "তুরস্ক"
+    },
+    "tt": {
+      "name": "ত্রিনিদাদ ও টোবাগো"
+    },
+    "de": {
+      "name": "জার্মানি"
+    },
+    "tv": {
+      "name": "টুভালু"
+    },
+    "tw": {
+      "name": "তাইওয়ান, চীনের প্রদেশ[পাদটীকা ১]"
+    },
+    "dj": {
+      "name": "জিবুতি"
+    },
+    "tz": {
+      "name": "তানজানিয়া"
+    },
+    "dk": {
+      "name": "ডেনমার্ক"
+    },
+    "dm": {
+      "name": "ডোমিনিকা"
+    },
+    "do": {
+      "name": "ডোমিনিকান প্রজাতন্ত্র"
+    },
+    "ua": {
+      "name": "ইউক্রেন"
+    },
+    "ug": {
+      "name": "উগান্ডা"
+    },
+    "dz": {
+      "name": "আলজেরিয়া"
+    },
+    "um": {
+      "name": "মার্কিন যুক্তরাষ্ট্রের ক্ষুদ্র পার্শ্ববর্তী দ্বীপপুঞ্জ"
+    },
+    "ec": {
+      "name": "ইকুয়েডর"
+    },
+    "us": {
+      "name": "মার্কিন যুক্তরাষ্ট্র"
+    },
+    "ee": {
+      "name": "এস্তোনিয়া"
+    },
+    "eg": {
+      "name": "মিশর"
+    },
+    "eh": {
+      "name": "পশ্চিম সাহারা"
+    },
+    "uy": {
+      "name": "উরুগুয়ে"
+    },
+    "uz": {
+      "name": "উজবেকিস্তান"
+    },
+    "va": {
+      "name": "ভ্যাটিকান সিটি"
+    },
+    "er": {
+      "name": "ইরিত্রিয়া"
+    },
+    "vc": {
+      "name": "সেন্ট ভিনসেন্ট ও গ্রেনাডাইন দ্বীপপুঞ্জ"
+    },
+    "es": {
+      "name": "স্পেন"
+    },
+    "et": {
+      "name": "ইথিওপিয়া"
+    },
+    "ve": {
+      "name": "ভেনেজুয়েলা"
+    },
+    "vg": {
+      "name": "ব্রিটিশ ভার্জিন দ্বীপপুঞ্জ"
+    },
+    "vi": {
+      "name": "মার্কিন যুক্তরাষ্ট্র ভার্জিন দ্বীপপুঞ্জ"
+    },
+    "vn": {
+      "name": "ভিয়েতনাম"
+    },
+    "vu": {
+      "name": "ভানুয়াটু"
+    },
+    "fi": {
+      "name": "ফিনল্যান্ড"
+    },
+    "fj": {
+      "name": "ফিজি"
+    },
+    "fk": {
+      "name": "ফক্‌ল্যান্ড দ্বীপপুঞ্জ"
+    },
+    "fm": {
+      "name": "মাইক্রোনেশিয়া যুক্তরাজ্য"
+    },
+    "fo": {
+      "name": "ফারো দ্বীপপুঞ্জ"
+    },
+    "fr": {
+      "name": "ফ্রান্স"
+    },
+    "wf": {
+      "name": "ওয়ালিস ও ফুটুনা"
+    },
+    "ga": {
+      "name": "গাবন"
+    },
+    "gb": {
+      "name": "যুক্তরাজ্য"
+    },
+    "ws": {
+      "name": "সামোয়া"
+    },
+    "gd": {
+      "name": "গ্রানাডা"
+    },
+    "ge": {
+      "name": "জর্জিয়া"
+    },
+    "gf": {
+      "name": "ফরাসি গায়ানা"
+    },
+    "gg": {
+      "name": "গুয়ের্ঞ্জি"
+    },
+    "gh": {
+      "name": "ঘানা"
+    },
+    "gi": {
+      "name": "জিব্রাল্টার"
+    },
+    "gl": {
+      "name": "গ্রিনল্যান্ড"
+    },
+    "gm": {
+      "name": "গাম্বিয়া"
+    },
+    "gn": {
+      "name": "গিনি"
+    },
+    "gp": {
+      "name": "গুয়াদলুপ"
+    },
+    "gq": {
+      "name": "বিষুবীয় গিনি"
+    },
+    "gr": {
+      "name": "গ্রিস"
+    },
+    "gs": {
+      "name": "দক্ষিণ জর্জিয়া ও দক্ষিণ স্যান্ডউইচ দ্বীপপুঞ্জ"
+    },
+    "gt": {
+      "name": "গুয়াতেমালা"
+    },
+    "gu": {
+      "name": "গুয়াম"
+    },
+    "gw": {
+      "name": "গিনি-বিসাউ"
+    },
+    "gy": {
+      "name": "গায়ানা"
+    },
+    "hk": {
+      "name": "হংকং"
+    },
+    "hm": {
+      "name": "হার্ড দ্বীপ ও ম্যাকডোনাল্ড দ্বীপপুঞ্জ"
+    },
+    "hn": {
+      "name": "হন্ডুরাস"
+    },
+    "hr": {
+      "name": "ক্রোয়েশিয়া"
+    },
+    "ht": {
+      "name": "হাইতি"
+    },
+    "ye": {
+      "name": "ইয়েমেন"
+    },
+    "hu": {
+      "name": "হাঙ্গেরি"
+    },
+    "id": {
+      "name": "ইন্দোনেশিয়া"
+    },
+    "yt": {
+      "name": "মায়োত"
+    },
+    "ie": {
+      "name": "প্রজাতন্ত্রী আয়ারল্যান্ড"
+    },
+    "il": {
+      "name": "ইসরায়েল"
+    },
+    "im": {
+      "name": "আইল অব ম্যান"
+    },
+    "in": {
+      "name": "ভারত"
+    },
+    "io": {
+      "name": "ব্রিটিশ ভারত মহাসাগরীয় অঞ্চল"
+    },
+    "za": {
+      "name": "দক্ষিণ আফ্রিকা"
+    },
+    "iq": {
+      "name": "ইরাক"
+    },
+    "ir": {
+      "name": "ইরান"
+    },
+    "is": {
+      "name": "আইসল্যান্ড"
+    },
+    "it": {
+      "name": "ইতালি"
+    },
+    "zm": {
+      "name": "জাম্বিয়া"
+    },
+    "je": {
+      "name": "জার্সি"
+    },
+    "zw": {
+      "name": "জিম্বাবুয়ে"
+    },
+    "jm": {
+      "name": "জামাইকা"
+    },
+    "jo": {
+      "name": "জর্দান"
+    },
+    "jp": {
+      "name": "জাপান"
+    },
+    "ke": {
+      "name": "কেনিয়া"
+    },
+    "kg": {
+      "name": "কির্গিজস্তান"
+    },
+    "kh": {
+      "name": "কম্বোডিয়া"
+    },
+    "ki": {
+      "name": "কিরিবাস"
+    },
+    "km": {
+      "name": "কোমোরোস"
+    },
+    "kn": {
+      "name": "সেন্ট কিট্‌স ও নেভিস"
+    },
+    "kp": {
+      "name": "উত্তর কোরিয়া"
+    },
+    "kr": {
+      "name": "দক্ষিণ কোরিয়া"
+    },
+    "kw": {
+      "name": "কুয়েত"
+    },
+    "ky": {
+      "name": "কেইম্যান দ্বীপপুঞ্জএস"
+    },
+    "kz": {
+      "name": "কাজাখস্তান"
+    },
+    "la": {
+      "name": "লাওস"
+    },
+    "lb": {
+      "name": "লেবানন"
+    },
+    "lc": {
+      "name": "সেন্ট লুসিয়া"
+    },
+    "li": {
+      "name": "লিশটেনস্টাইন"
+    },
+    "lk": {
+      "name": "শ্রীলঙ্কা"
+    },
+    "lr": {
+      "name": "লাইবেরিয়া"
+    },
+    "ls": {
+      "name": "লেসোথো"
+    },
+    "lt": {
+      "name": "লিথুয়ানিয়া"
+    },
+    "lu": {
+      "name": "লুক্সেমবুর্গ"
+    },
+    "lv": {
+      "name": "লাতভিয়া"
+    },
+    "ly": {
+      "name": "লিবিয়া"
+    },
+    "ma": {
+      "name": "মরোক্কো"
+    },
+    "mc": {
+      "name": "মোনাকো"
+    },
+    "md": {
+      "name": "মলদোভা"
+    },
+    "me": {
+      "name": "মন্টিনিগ্রো"
+    },
+    "mf": {
+      "name": "সেন্ট মার্টিন (ফরাসি অংশ)"
+    },
+    "mg": {
+      "name": "মাদাগাস্কার"
+    },
+    "mh": {
+      "name": "মার্শাল দ্বীপপুঞ্জ"
+    },
+    "mk": {
+      "name": "ম্যাসেডোনিয়া প্রজাতন্ত্র"
+    },
+    "ml": {
+      "name": "মালি"
+    },
+    "mm": {
+      "name": "মায়ানমার"
+    },
+    "mn": {
+      "name": "মঙ্গোলিয়া"
+    },
+    "mo": {
+      "name": "ম্যাকাও"
+    },
+    "mp": {
+      "name": "উত্তরাঞ্চলীয় মারিয়ানা দ্বীপপুঞ্জ"
+    },
+    "mq": {
+      "name": "মার্তিনিক"
+    },
+    "mr": {
+      "name": "মৌরিতানিয়া"
+    },
+    "ms": {
+      "name": "মন্টসেরাট"
+    },
+    "mt": {
+      "name": "মাল্টা"
+    },
+    "mu": {
+      "name": "মরিশাস"
+    },
+    "mv": {
+      "name": "মালদ্বীপ"
+    },
+    "mw": {
+      "name": "মালাউই"
+    },
+    "mx": {
+      "name": "মেক্সিকো"
+    },
+    "my": {
+      "name": "মালয়েশিয়া"
+    },
+    "mz": {
+      "name": "মোজাম্বিক"
+    },
+    "na": {
+      "name": "নামিবিয়া"
+    },
+    "nc": {
+      "name": "নুভেল কালেদোনির ভাষা"
+    },
+    "ne": {
+      "name": "নাইজার"
+    },
+    "nf": {
+      "name": "নরফুক ভাষা"
+    },
+    "ng": {
+      "name": "নাইজেরিয়া"
+    },
+    "ni": {
+      "name": "নিকারাগুয়া"
+    },
+    "nl": {
+      "name": "নেদারল্যান্ডস"
+    },
+    "no": {
+      "name": "নরওয়ে"
+    },
+    "np": {
+      "name": "নেপাল"
+    },
+    "nr": {
+      "name": "নাউরু"
+    },
+    "nu": {
+      "name": "নিউয়ে"
+    },
+    "nz": {
+      "name": "নিউজিল্যান্ড"
+    },
+    "om": {
+      "name": "ওমান"
+    },
+    "pa": {
+      "name": "পানামা"
+    },
+    "pe": {
+      "name": "পেরু"
+    },
+    "pf": {
+      "name": "ফরাসি পলিনেশিয়া"
+    },
+    "pg": {
+      "name": "পাপুয়া নিউগিনি"
+    },
+    "ph": {
+      "name": "ফিলিপাইন"
+    },
+    "pk": {
+      "name": "পাকিস্তান"
+    },
+    "pl": {
+      "name": "পোল্যান্ড"
+    },
+    "pm": {
+      "name": "সাঁ পিয়ের ও মিক‌লোঁ"
+    },
+    "pn": {
+      "name": "পিটকেয়ার্ন"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "অ্যাগোরা কার্যক্রমের মধ্যে থাকা শিক্ষামূলক লক্ষ্য অর্জনে শ্রেষ্ঠত্বের জন্য পুরস্কার",
+        "title": "শিক্ষাগত পুরস্কার"
+      },
+      "social": {
+        "help": "আপনার সম্প্রদায়ে আপনার ইতিবাচক প্রভাবকে স্বীকৃতি দেয় এমন পুরস্কারগুলি",
+        "title": "সমাজে প্রভাবপ্রদানের জন্য পুরস্কার"
+      },
+      "operational": {
+        "help": "ক্লাব পরিচালনা ও সনদে শ্রেষ্ঠত্বের  জন্য পুরস্কার",
+        "title": "ক্লাব পরিচালনায় শ্রেষ্ঠত্ব"
+      },
+      "community": {
+        "help": "অ্যাগোরা সম্প্রদায়কে বৃদ্ধি এবং শক্তিশালীকরণে অবদানের জন্য পুরস্কার",
+        "title": "অ্যাগোরা সম্প্রদায় পুরস্কার"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "অনুসন্ধান",
+      "register": "নিবন্ধন করুন"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "সাফল্যের সাথে একটি অ্যাগোরা আঞ্চলিক বা আন্তর্জাতিক সম্মেলন আয়োজন করা",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "সম্মেলন সংগঠনকারী"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "যোগ্য নেতা"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "যোগ্যতাসম্পন্ন বক্তা"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "পরামর্শদাতার পুরস্কার"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "একটি অ্যাগোরা স্পিকার প্রতিযোগিতায় বিজয়ী হওয়া",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "প্রতিযোগিতার বিজয়ী"
+        },
+        "third": {
+          "help": "একটি অ্যাগোরা স্পিকার প্রতিযোগিতায় তৃতীয় স্থানে শেষ করা",
+          "image": "awards.individual.contest.third.svg",
+          "title": ""
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "সাফল্যের সাথে একটি অ্যাগোরা প্রতিযোগিতা আয়োজন করা",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "প্রতিযোগিতার আয়োজক"
+        },
+        "participant": {
+          "help": "একটি অ্যাগোরা স্পিকার প্রতিযোগিতায় অংশ নেওয়া",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "অংশগ্রহণের প্রমাণপত্র"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "একটি অ্যাগোরা স্পিকার প্রতিযোগিতায় দ্বিতীয় স্থানে শেষ করা",
+          "image": "awards.individual.contest.second.svg",
+          "title": "প্রতিযোগিতা,দ্বিতীয় স্থান"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "সর্বাধিক লক্ষণীয় উন্নয়ন",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "শিক্ষামূলক অগ্রগতি পুরস্কার"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "প্রচারের পুরস্কার"
+      },
+      "community": {
+        "leadership": {
+          "help": "সম্প্রদায় প্রকল্পগুলির অসাধারণ বাস্তবায়ন",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "সম্প্রদায় নেতৃত্ব পুরস্কার"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "অ্যাগোরা মিশনের প্রতি দক্ষতা এবং প্রতিশ্রুতি",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "রাষ্ট্রদূতের বিশিষ্ট সদস্য পুরস্কার"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "বিশেষ বিভাজন পুরস্কার"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "সুশিক্ষিত নেতা"
+        },
+        "communicator": "সুশিক্ষিত যোগাযোগকারী"
+      },
+      "help": {
+        "help": "ক্লাবের সাফল্যের প্রতি অবিচ্ছিন্ন প্রতিশ্রুতি",
+        "image": "awards.individual.help.svg",
+        "title": "ক্লাবের সাফল্যের প্রতি উত্সর্গকরণ পুরস্কার"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "মিডিয়া সম্প্রচারের সুশিক্ষিত বক্তা"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "সুশিক্ষিত প্রবর্তনাজনক বক্তা"
+              }
+            },
+            "pr": {
+              "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "সুশিক্ষিত জনসংযোগ বিশেষজ্ঞ"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "বিশেষ অনুষ্ঠানের জন্য সুশিক্ষিত বক্তা"
+              }
+            },
+            "storytelling": {
+              "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "সুশিক্ষিত গল্পকার"
+            },
+            "educational": {
+              "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "সুশিক্ষিত শিক্ষামূলক বক্তা"
+            },
+            "business": {
+              "contexts": {
+                "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "সুশিক্ষিত ব্যবসায়িক বক্তা"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "সুশিক্ষিত সমালোচক চিন্তাবিদ"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "সমস্ত মতভেদযুক্ত বক্তার বিরুদ্ধে সুশিক্ষিত"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "সুশিক্ষিত উদ্যোক্তামূলক বক্তা"
+            },
+            "project": {
+              "management": {
+                "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "সুশিক্ষিত প্রকল্প পরিচালক"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "সুশিক্ষিত অন্তর্বর্তী দক্ষতাপূর্ণ গুরু"
+              }
+            },
+            "dramatization": {
+              "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "সুশিক্ষিত নাটকীয় বক্তা"
+            },
+            "humorous": {
+              "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "সুশিক্ষিত কৌতুকপূর্ণ বক্তা"
+            },
+            "leadership": {
+              "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "সুশিক্ষিত নেতা"
+            },
+            "negotiation": {
+              "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "সুশিক্ষিত আপসকারী"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "সাফল্যের সাথে {{v0}} উন্নত শিক্ষামূলক পথটি সম্পূর্ণ করুন",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "সুশিক্ষিত ভিজ্যুয়াল গল্পকার"
+              }
+            }
+          },
+          "title": "সুশিক্ষিত বক্তা"
+        },
+        "communicator": {
+          "help": "সফলভাবে সম্পূর্ণ যোগাযোগ-স্থাপনের পদ্ধতিটি সমাপ্ত করছেন",
+          "image": "awards.individual.accomplished.communicator.svg"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "ক্লাবের নেতা"
+        },
+        "founder": {
+          "help": "সাফল্যের সাথে একটি অ্যাগোরা ক্লাব প্রতিষ্ঠা করা হচ্ছে",
+          "image": "awards.individual.club.founder.svg",
+          "title": "ক্লাবের প্রতিষ্ঠাতা"
+        },
+        "officer": {
+          "help": "এক বছরের ধরে সাফল্যের সাথে ক্লাবের নেতৃত্ব দেওয়া",
+          "image": "awards.individual.club.officer.svg",
+          "title": "ক্লাবের নেতৃত্ব"
+        },
+        "growth": {
+          "help": "দেশে ক্লাবকে পরামর্শ দেওয়ার এবং তৈরি করার ক্ষেত্রে শ্রেষ্ঠত্ব",
+          "image": "awards.individual.club.growth.svg",
+          "title": "ক্লাবের বিকাশ পুরস্কার"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "একটি ক্লাবে 5 বছরের ধরে অবিচ্ছিন্ন সদস্যপদ",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "বার্ষিকী পুরস্কার"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "মাসের সেরা সদস্যের পুরস্কার"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "সভাগুলির  অবিচ্ছিন্ন এবং সক্রিয় উপস্থিতি",
+        "image": "awards.individual.attendance.svg",
+        "title": "অঙ্গীকার  পুরস্কার"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "অ্যাগোরা সংস্কারক পুরস্কার"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "অ্যাগোরা  আলোকবর্তিকা"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "অ্যাগোরা সহায়তাকারক পুরস্কার"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "সম্মেলনের অতিথিসেবক পুরস্কার"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "দেশের অগ্রগামী পুরস্কার"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "শিক্ষাগত শ্রেষ্ঠত্ব পুরস্কার"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "শিক্ষাগত প্রচার পুরস্কার"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "শহর অগ্রগামী পুরস্কার"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "প্রচারে শ্রেষ্ঠত্ব পুরস্কার"
+        }
+      },
+      "media": {
+        "help": "মিডিয়াতে অ্যাগোরা মিশন এবং ক্রিয়াকলাপ প্রচারে শ্রেষ্ঠত্ব",
+        "image": "awards.club.media.svg",
+        "title": "মিডিয়া শ্রেষ্ঠত্ব পুরস্কার"
+      },
+      "membership": {
+        "growth": "সদস্যপদ বৃদ্ধি পুরস্কার",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "সদস্যতা ধরে রাখার জন্য পুরস্কার"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "সম্প্রদায় প্রকল্পগুলির অসাধারণ বাস্তবায়ন",
+          "image": "awards.club.community.leadership.svg",
+          "title": "সম্প্রদায় নেতৃত্ব পুরস্কার"
+        }
+      },
+      "content": {
+        "help": "অ্যাগোরা সম্প্রদায়ের জন্য অভিনব বিষয়বস্তু তৈরিতে শ্রেষ্ঠত্ব",
+        "image": "awards.club.content.svg",
+        "title": "কনটেন্ট তৈরির পুরস্কার"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "ক্লাব উদ্ভাবক পুরস্কার"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "বিশেষ বিভাজন পুরস্কার"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "রাষ্ট্রদূতের পুরস্কার"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "ক্লাব পরামর্শদাতা পুরস্কার"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "মাসের সেরা ক্লাবের পুরস্কার"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "ক্লাবের সাথে সদস্যতার সন্তুষ্টি ৯০% ছাড়িয়েছে",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "সভ্যপদ সন্তুষ্টি স্বর্ণ পুরস্কার"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "ক্লাবের সাথে সদস্যতার সন্তুষ্টি ৭৫% ছাড়িয়েছে",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "সভ্যপদ সন্তুষ্টি রৌপ্য পুরস্কার"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "ক্লাবের সদস্যপদ সন্তুষ্টি পুরস্কার"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "২০ সদস্যের বেশি সদস্যপদ বৃদ্ধি",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "স্বর্ণ সদস্যপদ বিকাশ পুরস্কার"
+          }
+        },
+        "anniversary": {
+          "help": "দশ বছরের ধরে ক্লাবটির সফল এবং অবিচ্ছিন্ন ক্রিয়াকলাপ",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "স্বর্ন বার্ষিকী পুরস্কার"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "মডেল ক্লাব পুরস্কার"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "১০ সদস্যের বেশি সদস্যপদ বৃদ্ধি",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "রৌপ্য সদস্যপদ বিকাশ পুরস্কার"
+          }
+        },
+        "anniversary": {
+          "help": "পাঁচ বছরের ধরে ক্লাবটির সফল এবং অবিচ্ছিন্ন ক্রিয়াকলাপ",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "রজত বার্ষিকী পুরস্কার"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "ক্লাব বার্ষিকী পুরস্কার - {{v0}} বছর"
+      }
+    },
+    "place": {
+      "participation": "অংশগ্রহণ"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "একটি মিটিং ক্রসফায়ারে সর্বাধিক জিজ্ঞাসাবাদী এবং ব্যঙ্গকারী প্রশ্নকর্তা হওয়া",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "সর্বাধিক অনুসন্ধানী ক্রসফায়ার অংশগ্রহণকারী"
+        },
+        "survivor": {
+          "help": "একটি সভায় ক্রসফায়ার বিভাগে উত্তরজীবী হওয়া",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "ক্রসফায়ার উত্তরজীবী"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "সেরা বক্তৃতা উপস্থাপক এবং প্রশ্নকর্তা রূপে",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "সেরা বক্তৃতা অংশগ্রহণকারী"
+        },
+        "role": {
+          "help": "সভার ভূমিকা চমত্কারভাবে পালন করা",
+          "image": "awards.meeting.best.role.svg",
+          "title": "সভার সেরা ভূমিকা"
+        },
+        "speaker": {
+          "help": "একটি ক্লাবের সভায় সেরা প্রস্তুত বক্তৃতা প্রদান করা",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "সভার সেরা বক্তা"
+        },
+        "hot": {
+          "response": {
+            "help": "ক্লাবের সভায় সেরা তাৎক্ষণিক বক্তৃতা প্রদান করা",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "সভার শ্রেষ্ঠ উপস্থিতমতসম্পন্ন বক্তা"
+          }
+        },
+        "speechwriter": {
+          "help": "একটি সভার সেরা বক্তৃতা তৈরি করা",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "সভার সেরা বক্তৃতা লেখক"
+        },
+        "evaluator": {
+          "help": "একটি ক্লাবের সভায় শ্রেষ্ঠ মূল্যায়ন প্রদান",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "সেরা সভা মূল্যায়নকারী"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "অ্যাগোরা স্পিকারস ইন্টারন্যাশনাল ফাউন্ডেশন হ\u0027ল একটি ইউরোপীয় ধর্মনিরপেক্ষ শিক্ষামূলক দানশীল সংস্থা যা মানুষদের উজ্জ্বল যোগাযোগকারী এবং আত্মবিশ্বাসী নেতা হয়ে উঠতে সক্ষম করে যারা সক্রিয়ভাবে একটি আরও ভাল বিশ্ব গড়ে তুলবেন।"
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "অন্যান্য"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "তারিখ",
+      "country": "দেশ",
+      "address": "ঠিকানা",
+      "city": "শহর",
+      "awards": "প্রাপ্ত পুরষ্কারসমূহ",
+      "state": "রাজ্য / প্রদেশ / ক্যান্টন / ইত্যাদি।",
+      "event": "ইভেন্ট",
+      "region": "অঞ্চল",
+      "points": {
+        "total": "অর্জিত পয়েন্ট (মোট)",
+        "year": "অর্জিত পয়েন্ট (এই বছর)",
+        "name": "পয়েন্টস"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "অনুগ্রহ করে ক্লাবটিতে যে ভাষা বা ভাষাসমূহ ব্যবহৃত হবে তা নির্দিষ্ট করুন (উদাঃ ইংরেজি)"
+      },
+      "charter": {
+        "date": "চার্টারিংয়ের তারিখ",
+        "help": "চার্টারিংয়ের তারিখটি অবশ্যই ভবিষ্যতকালের হবে, তবে ৩০ দিনের বেশি না।"
+      },
+      "founder": {
+        "name": "ক্লাবের প্রতিষ্ঠাতা (পুরো নাম)",
+        "email": "প্রতিষ্ঠাতার ইমেল"
+      },
+      "fee": {
+        "title": "ক্লাবের সদস্যপদ খরচ (যদি থাকে তবে)।"
+      },
+      "banner": "ব্যানার",
+      "restrictions": {
+        "guests": {
+          "input": "অতিথি হিসাবে ক্লাবে অংশ নেওয়ার জন্য কী ধরণের বিধিনিষেধ উপস্থিত থাকবে দয়া করে তা বর্ণনা করুন (যদি থাকে তবে)"
+        },
+        "membership": {
+          "input": "সদস্য হিসাবে ক্লাবটিতে যোগদানের জন্য কোন ধরণের বিধিনিষেধ উপস্থিতি থাকবে দয়া করে তা বর্ণনা করুন (যদি থাকে তবে)।আপনি যদি একটি যুব ক্লাবকে নিবন্ধভুক্ত করেন তবে দয়া করে বয়সসীমাটি উল্লেখ করুন"
+        }
+      },
+      "type": {
+        "help": "বিভিন্ন ক্লাবের ধরণ সম্পর্কে আরও তথ্য এখানে।",
+        "input": "ক্লাবের প্রকার"
+      },
+      "points": {
+        "date": "কার্যকলাপের তারিখ",
+        "action": "ক্লাবের কার্যকলাপ"
+      },
+      "token": "ক্লাবের সিক্রেট টোকেন",
+      "number": "ক্লাবের নম্বর",
+      "assets": "ক্লাবের সম্পদসমূহ",
+      "awards": "ক্লাবের পুরস্কারসমূহ",
+      "contact": {
+        "help": {
+          "1": "ক্লাবের জন্য যোগাযোগের তথ্য। অবশ্যই একটি ইমেল বা একটি ফোন নম্বর হতে হবে।",
+          "2": "ক্লাবে যোগাযোগের অতিরিক্ত তথ্য -অবশ্যই আগেরটির থেকে আলাদা হতে হবে এবং এটি অন্য ইমেল / ফোন, বা একটি ওয়েবপেজ, ফেসবুক গ্রুপ, মিটআপ গ্রুপ ইত্যাদি হতে পারে"
+        },
+        "title": "যোগাযোগের তথ্য"
+      },
+      "name": "ক্লাবের নাম",
+      "logo": {
+        "title": "আপনি নিজের প্রতীক আপলোড করতে পারেন, বা আপনার কাছে না থাকলে আমরা স্বয়ংক্রিয়ভাবে আপনার ক্লাবের জন্য একটি প্রতীক তৈরি করব।"
+      },
+      "meeting": {
+        "schedule": "সভার সময়সূচী",
+        "info": "অতিরিক্ত তথ্য"
+      }
+    },
+    "personal": {
+      "participation": {
+        "input": "আপনি কোন ধরনের অংশগ্রহণে আগ্রহী?",
+        "online": "অনলাইন সভাসমূহ",
+        "physical": "ভৌত সভাসমূহ"
+      },
+      "languages": {
+        "interested": "আপনি কোন ভাষায়গুলিতে আগ্রহী?"
+      },
+      "joined": "যোগদানের তারিখ",
+      "facebook": "ফেসবুক প্রোফাইলের লিঙ্ক",
+      "roles": {
+        "date": "তারিখ",
+        "role": "ভূমিকা",
+        "taken": "নেওয়া ভূমিকাসমুহ",
+        "club": "ক্লাব"
+      },
+      "speeches": {
+        "persuasive": "প্রবৃত্তিজনক বক্তৃতাসমূহ",
+        "general": "সাধারণ উদ্দেশ্যের জন্য বক্তৃতাসমূহ",
+        "storytelling": "গল্প বলা",
+        "educational": "শিক্ষামূলক",
+        "business": "ব্যবসায়িক উপস্থাপনাসমূহ",
+        "interested": "আপনি কোন ধরণের উপস্থাপনা / বক্তৃতাগুলি শিখতে আগ্রহী?",
+        "media": "ভ্লগিং এবং মিডিয়ার প্রযোজনা",
+        "sales": "বিক্রয়",
+        "humorous": "হাস্যকর বক্তৃতাসমূহ এবং কৌতুক/কমেডি"
+      },
+      "privacy": "আমি এই সাইটের শর্তাবলীসমূহ এবং অ্যাগোরা স্পিকারস ইন্টারন্যাশনালের গোপনীয়তা নীতির সাথে একমত",
+      "history": {
+        "date": "তারিখ",
+        "club": "ক্লাবের নাম",
+        "event": "ইভেন্ট"
+      },
+      "linkedin": "লিংকডিন প্রোফাইলের লিঙ্ক",
+      "skills": "নিম্নলিখিত দক্ষতাগুলির মধ্যে কোনটি আপনি উন্নত করতে আগ্রহী?",
+      "number": "সদস্য সংখ্যা",
+      "password": {
+        "input": "পাসওয়ার্ড",
+        "verify": "যাচাইকরণের জন্য পাসওয়ার্ডটি আবার দিন"
+      },
+      "clubs": {
+        "role": "ভূমিকা"
+      },
+      "name": {
+        "address": {
+          "help": "আমাদের যোগাযোগব্যবস্থাগুলিতে আপনাকে কীভাবে সম্বোধন করা উচিত (যেমন আপনাকে পাঠানো ইমেলগুলিতে)?",
+          "field": "যোগাযোগের জন্য পছন্দসই নাম:"
+        },
+        "certificates": {
+          "help": "আপনার উপার্জিত শংসাপত্রসমূহ এবং পুরষ্কারগুলিতে আপনার নামটি কীভাবে প্রদর্শিত হবে?",
+          "input": "শংসাপত্রগুলির জন্য পছন্দসই নাম"
+        },
+        "online": {
+          "help": "আপনার নামটি আমাদের অনলাইন সিস্টেম, ফোরাম, ইত্যাদিতে কীভাবে প্রদর্শিত হবে?",
+          "input": "পছন্দসই অনলাইন নাম"
+        },
+        "full": "পুরো নাম"
+      },
+      "principles": {
+        "agreement": "দয়া করে আমাদের মূল নীতিগুলি সহ আপনার চুক্তিটি উল্লেখ করুন"
+      },
+      "position": "ক্লাবে বর্তমান অবস্থান",
+      "interests": {
+        "11": {
+          "language": "আমি আমার বিদেশী ভাষার দক্ষতাগুলি উন্নত করতে আগ্রহী"
+        },
+        "01": {
+          "curious": "এই সংস্থা সম্পর্কে আমি শুধুমাত্র কৌতূহলী"
+        },
+        "12": {
+          "contests": "আমি অ্যাগোরা স্পিকারস ইন্টারন্যাশনাল দ্বারা আয়োজিত প্রতিযোগিতায় প্রতিদ্বন্দ্বিতা করতে আগ্রহী"
+        },
+        "02": {
+          "confidence": "আমি আমার আত্মবিশ্বাস উন্নত করতে চাই"
+        },
+        "13": {
+          "critical": "আমি জটিলভাবে চিন্তা করা শিখতে আগ্রহী"
+        },
+        "03": {
+          "communicate": "আমি আরও কার্যকরভাবে যোগাযোগ করতে শিখতে চাই"
+        },
+        "14": {
+          "friends": "আমি মানুষের সাথে দেখা করতে এবং নতুন বন্ধু বানাতে আগ্রহী"
+        },
+        "04": {
+          "speak": "আমি আমার জনসাধারণের সাথে কথা বলার দক্ষতাগুলি উন্নত করতে চাই"
+        },
+        "15": {
+          "cooperation": "আমি সাংস্কৃতিক বিনিময় এবং আন্তঃ-সাংস্কৃতিক সহযোগিতা কার্যক্রমে আগ্রহী"
+        },
+        "question": "অ্যাগোরা স্পিকারস ইন্টারন্যাশনালের প্রতি আপনার আগ্রহ কী?",
+        "05": {
+          "leadership": "আমি আমার নেতৃত্বের দক্ষতাগুলি উন্নত করতে চাই"
+        },
+        "16": {
+          "startclub": "আমি আমার শহরে একটি অ্যাগোরা ক্লাব শুরু করতে চাই"
+        },
+        "06": {
+          "networking": "আমি পেশাদার নেটওয়ার্কিং-এ আগ্রহী"
+        },
+        "17": {
+          "ambassador": "আমি আমার দেশের জন্য একটি অ্যাগোরা রাষ্ট্রদূত হতে চাই"
+        },
+        "07": {
+          "presentations": "আমি ব্যবসার উপস্থাপনা সরবরাহ করতে আগ্রহী"
+        },
+        "18": {
+          "partnership": "আমি আমার সংস্থা এবং অ্যাগোরা স্পিকার ইন্টারন্যাশনালের মধ্যে অংশীদার হতে আগ্রহী"
+        },
+        "08": {
+          "events": "আমি আপনার সংগঠিত কর্মশালা, সেমিনার এবং ইভেন্টগুলিতে আগ্রহী"
+        },
+        "09": {
+          "debating": "আমি বিতর্ক এবং যুক্তিপ্রদর্শনে আগ্রহী"
+        },
+        "10": {
+          "community": "আমি আমার সম্প্রদায়ের মধ্যে একটি পার্থক্য তৈরি করতে চাই"
+        }
+      },
+      "email": "ইমেল"
+    },
+    "meeting": {
+      "date": "সভার তারিখ",
+      "number": "সভার নম্বর",
+      "venue": {
+        "name": "স্থানের নাম"
+      },
+      "address": {
+        "input": "সভার স্থানের ঠিকানা"
+      },
+      "online": {
+        "software": "সভার সফটওয়্যার",
+        "link": "যোগদানের জন্য লিংক",
+        "id": "অনলাইন সভার আইডি",
+        "title": "অনলাইন সভার জন্য তথ্য",
+        "passowrd": "যোগদানের জন্য পাসওয়ার্ড"
+      },
+      "theme": "সভার থিম (যদি সেখানে থাকে)",
+      "time": "সভার সময়"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(C)কপিরাইট অ্যাগোরা স্পিকারস আন্তর্জাতিক। সমস্ত অধিকার সংরক্ষিত। অ্যাগোরা উপকরণ এবং সম্পদগুলি কেবলমাত্র আমাদের শর্তাবলি এবং পরিস্থিতি অনুযায়ী ব্যবহার করা যেতে পারে।"
+    },
+    "terms": "শর্তাবলি এবং পরিস্থিতি",
+    "legal": {
+      "notice": "আইনসংক্রান্ত তথ্য"
+    },
+    "privacy": {
+      "policy": "গোপনীয়তা নীতি"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "হিন্দি",
+      "ps": "পুশতু",
+      "pt": "পর্তুগীজ",
+      "hr": "ক্রোয়েশীয়",
+      "pt_br": "Brazilian",
+      "hu": "হাঙ্গেরীয়",
+      "yi": "ইয়েদ্দিশ",
+      "hy": "আর্মেনিয়",
+      "yo": "ইওরুবা",
+      "ia": "ইন্টারলিঙ্গুয়া",
+      "id": "ইন্দোনেশীয়",
+      "ig": "ইগ্‌বো",
+      "ii": "সিচুয়ান য়ি",
+      "qu": "কেচুয়া",
+      "af": "আফ্রিকান",
+      "ak": "আকান",
+      "is": "আইসল্যান্ডীয়",
+      "it": "ইতালিয়",
+      "am": "আমহারিক",
+      "zh": "চীনা",
+      "ar": "আরবী",
+      "as": "অসমীয়া",
+      "ja": "জাপানি",
+      "az": "আজারবাইজানী",
+      "rm": "রোমান্স",
+      "zu": "জুলু",
+      "rn": "রুন্দি",
+      "ro": "রোমানীয়",
+      "be": "বেলারুশিয়",
+      "ru": "রুশ",
+      "bg": "বুলগেরিয়",
+      "rw": "কিনয়ারোয়ান্ডা",
+      "bm": "বামবারা",
+      "bn": "বাংলা",
+      "jv": "জাভানিজ",
+      "bo": "তিব্বতি",
+      "sa": "সংস্কৃত",
+      "br": "ব্রেটন",
+      "bs": "বসনীয়ান",
+      "sd": "সিন্ধি",
+      "se": "উত্তরাঞ্চলীয় সামি",
+      "sg": "সাঙ্গো",
+      "sh": "সার্বো-ক্রোয়েশিয়",
+      "ka": "জর্জিয়ান",
+      "si": "সিংহলী",
+      "sk": "স্লোভাক",
+      "sl": "স্লোভেনীয়",
+      "sn": "শোনা",
+      "so": "সোমালি",
+      "ca": "কাতালান",
+      "ki": "কিকুয়ু",
+      "sq": "আলবেনীয়",
+      "sr": "সার্বীয়",
+      "kk": "কাজাখ",
+      "kl": "ক্যালাল্লিসুট",
+      "ce": "চেচেন",
+      "km": "খমের",
+      "su": "সুদানী",
+      "kn": "কন্নড়",
+      "sv": "সুইডিশ",
+      "ko": "কোরিয়ান",
+      "sw": "সোয়াহিলি",
+      "ks": "কাশ্মীরি",
+      "ku": "কুর্দিশ",
+      "kw": "কর্ণিশ",
+      "ta": "তামিল",
+      "ky": "কির্গিজ",
+      "cs": "চেক",
+      "te": "তেলুগু",
+      "tg": "তাজিক",
+      "th": "থাই",
+      "ti": "তিগরিনিয়া",
+      "cy": "ওয়েলশ",
+      "lb": "লুক্সেমবার্গীয়",
+      "tk": "তুর্কমেনী",
+      "tl": "তাগালগ",
+      "lg": "গান্ডা",
+      "to": "টোঙ্গান",
+      "da": "ডেনিশ",
+      "tr": "তুর্কী",
+      "tt": "তাতার",
+      "de": "জার্মান",
+      "ln": "লিঙ্গালা",
+      "lo": "লাও",
+      "lt": "লিথুয়েনীয়",
+      "lu": "লুবা-কাটাঙ্গা",
+      "lv": "লাত্‌ভীয়",
+      "ug": "উইঘুর",
+      "dz": "জোঙ্গা",
+      "uk": "ইউক্রেনীয়",
+      "mg": "মালাগাসি",
+      "mi": "মাওরি",
+      "ur": "উর্দু",
+      "mk": "ম্যাসিডোনীয়",
+      "ml": "মালায়ালাম",
+      "ee": "ইউয়ি",
+      "mn": "মঙ্গোলিয়",
+      "mr": "মারাঠি",
+      "uz": "উজবেকীয়",
+      "ms": "মালয়",
+      "el": "গ্রিক",
+      "mt": "মল্টিয়",
+      "en": "ইংরেজি",
+      "eo": "এস্পেরান্তো",
+      "my": "বর্মি",
+      "es": "স্প্যানিশ",
+      "et": "এস্তোনীয়",
+      "eu": "বাস্ক",
+      "vi": "ভিয়েতনামী",
+      "nb": "নরওয়েজিয়ান বোকমাল",
+      "nd": "উত্তর এন্দেবিলি",
+      "ne": "নেপালী",
+      "fa": "ফার্সি",
+      "nl": "ওলন্দাজ",
+      "ff": "ফুলাহ্",
+      "nn": "নরওয়েজিয়ান নিনর্স্ক",
+      "no": "নরওয়েজীয়",
+      "fi": "ফিনিশ",
+      "fo": "ফারোস",
+      "fr": "ফরাসি",
+      "fy": "পশ্চিম ফ্রিসিয়ান",
+      "wo": "উওলোফ",
+      "ga": "আইরিশ",
+      "gd": "স্কটস-গ্যেলিক",
+      "om": "অরোমো",
+      "or": "ওড়িয়া",
+      "os": "ওসেটিক",
+      "gl": "গ্যালিশিয়",
+      "gu": "গুজরাটি",
+      "gv": "ম্যাঙ্কস",
+      "xh": "জোসা",
+      "pa": "পাঞ্জাবী",
+      "ha": "হাউসা",
+      "pl": "পোলিশ",
+      "he": "হিব্রু"
+    },
+    "full": {
+      "hi": "হিন্দি (हिन्दी)",
+      "ps": "পুশতু (پښتو)",
+      "pt": "পর্তুগীজ (Português)",
+      "hr": "ক্রোয়েশীয় (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "হাঙ্গেরীয় (Magyar)",
+      "yi": "ইয়েদ্দিশ (ייִדיש)",
+      "hy": "আর্মেনিয় (Հայերեն)",
+      "yo": "ইওরুবা (Èdè Yorùbá)",
+      "ia": "ইন্টারলিঙ্গুয়া (Interlingua)",
+      "id": "ইন্দোনেশীয় (Indonesia)",
+      "ig": "ইগ্‌বো (Igbo)",
+      "ii": "সিচুয়ান য়ি (ꆈꌠꉙ)",
+      "qu": "কেচুয়া (Runasimi)",
+      "af": "আফ্রিকান (Afrikaans)",
+      "ak": "আকান (Akan)",
+      "is": "আইসল্যান্ডীয় (Íslenska)",
+      "it": "ইতালিয় (Italiano)",
+      "am": "আমহারিক (አማርኛ)",
+      "zh": "চীনা (中文)",
+      "ar": "আরবী (العربية)",
+      "as": "অসমীয়া (অসমীয়া)",
+      "ja": "জাপানি (日本語)",
+      "az": "আজারবাইজানী (Azərbaycan)",
+      "rm": "রোমান্স (Rumantsch)",
+      "zu": "জুলু (IsiZulu)",
+      "rn": "রুন্দি (Ikirundi)",
+      "ro": "রোমানীয় (Română)",
+      "be": "বেলারুশিয় (Беларуская)",
+      "ru": "রুশ (Русский)",
+      "bg": "বুলগেরিয় (Български)",
+      "rw": "কিনয়ারোয়ান্ডা (Kinyarwanda)",
+      "bm": "বামবারা (Bamanakan)",
+      "bn": "বাংলা (বাংলা)",
+      "jv": "জাভানিজ (Jawa)",
+      "bo": "তিব্বতি (བོད་སྐད་)",
+      "sa": "সংস্কৃত (संस्कृत भाषा)",
+      "br": "ব্রেটন (Brezhoneg)",
+      "bs": "বসনীয়ান (Bosanski)",
+      "sd": "সিন্ধি (سنڌي)",
+      "se": "উত্তরাঞ্চলীয় সামি (Davvisámegiella)",
+      "sg": "সাঙ্গো (Sängö)",
+      "sh": "সার্বো-ক্রোয়েশিয় (Srpskohrvatski)",
+      "ka": "জর্জিয়ান (ქართული)",
+      "si": "সিংহলী (සිංහල)",
+      "sk": "স্লোভাক (Slovenčina)",
+      "sl": "স্লোভেনীয় (Slovenščina)",
+      "sn": "শোনা (ChiShona)",
+      "so": "সোমালি (Soomaali)",
+      "ca": "কাতালান (Català)",
+      "ki": "কিকুয়ু (Gikuyu)",
+      "sq": "আলবেনীয় (Shqip)",
+      "sr": "সার্বীয় (Српски)",
+      "kk": "কাজাখ (Қазақ тілі)",
+      "kl": "ক্যালাল্লিসুট (Kalaallisut)",
+      "ce": "চেচেন (Нохчийн)",
+      "km": "খমের (ខ្មែរ)",
+      "su": "সুদানী (Basa Sunda)",
+      "kn": "কন্নড় (ಕನ್ನಡ)",
+      "sv": "সুইডিশ (Svenska)",
+      "ko": "কোরিয়ান (한국어)",
+      "sw": "সোয়াহিলি (Kiswahili)",
+      "ks": "কাশ্মীরি (کٲشُر)",
+      "ku": "কুর্দিশ (Kurdî)",
+      "kw": "কর্ণিশ (Kernewek)",
+      "ta": "তামিল (தமிழ்)",
+      "ky": "কির্গিজ (Кыргызча)",
+      "cs": "চেক (Čeština)",
+      "te": "তেলুগু (తెలుగు)",
+      "tg": "তাজিক (Тоҷикӣ)",
+      "th": "থাই (ไทย)",
+      "ti": "তিগরিনিয়া (ትግር)",
+      "cy": "ওয়েলশ (Cymraeg)",
+      "lb": "লুক্সেমবার্গীয় (Lëtzebuergesch)",
+      "tk": "তুর্কমেনী (Türkmen dili)",
+      "tl": "তাগালগ (Tagalog)",
+      "lg": "গান্ডা (Luganda)",
+      "to": "টোঙ্গান (Lea fakatonga)",
+      "da": "ডেনিশ (Dansk)",
+      "tr": "তুর্কী (Türkçe)",
+      "tt": "তাতার (Татар)",
+      "de": "জার্মান (Deutsch)",
+      "ln": "লিঙ্গালা (Lingála)",
+      "lo": "লাও (ລາວ)",
+      "lt": "লিথুয়েনীয় (Lietuvių)",
+      "lu": "লুবা-কাটাঙ্গা (Tshiluba)",
+      "lv": "লাত্‌ভীয় (Latviešu)",
+      "ug": "উইঘুর (ئۇيغۇرچە)",
+      "dz": "জোঙ্গা (རྫོང་ཁ)",
+      "uk": "ইউক্রেনীয় (Українська)",
+      "mg": "মালাগাসি (Malagasy)",
+      "mi": "মাওরি (Te reo Māori)",
+      "ur": "উর্দু (اردو)",
+      "mk": "ম্যাসিডোনীয় (Македонски)",
+      "ml": "মালায়ালাম (മലയാളം)",
+      "ee": "ইউয়ি (Eʋegbe)",
+      "mn": "মঙ্গোলিয় (Монгол)",
+      "mr": "মারাঠি (मराठी)",
+      "uz": "উজবেকীয় (O‘zbek)",
+      "ms": "মালয় (Melayu)",
+      "el": "গ্রিক (Ελληνικά)",
+      "mt": "মল্টিয় (Malti)",
+      "en": "ইংরেজি (English)",
+      "eo": "এস্পেরান্তো (Esperanto)",
+      "my": "বর্মি (မြန်မာ)",
+      "es": "স্প্যানিশ (Español)",
+      "et": "এস্তোনীয় (Eesti)",
+      "eu": "বাস্ক (Euskara)",
+      "vi": "ভিয়েতনামী (Tiếng Việt)",
+      "nb": "নরওয়েজিয়ান বোকমাল (Norsk bokmål)",
+      "nd": "উত্তর এন্দেবিলি (IsiNdebele)",
+      "ne": "নেপালী (नेपाली)",
+      "fa": "ফার্সি (فارسی)",
+      "nl": "ওলন্দাজ (Nederlands)",
+      "ff": "ফুলাহ্ (Pulaar)",
+      "nn": "নরওয়েজিয়ান নিনর্স্ক (Norsk nynorsk)",
+      "no": "নরওয়েজীয় (Norsk)",
+      "fi": "ফিনিশ (Suomi)",
+      "fo": "ফারোস (Føroyskt)",
+      "fr": "ফরাসি (Français)",
+      "fy": "পশ্চিম ফ্রিসিয়ান (Frysk)",
+      "wo": "উওলোফ (Wolof)",
+      "ga": "আইরিশ (Gaeilge)",
+      "gd": "স্কটস-গ্যেলিক (Gàidhlig)",
+      "om": "অরোমো (Oromoo)",
+      "or": "ওড়িয়া (ଓଡ଼ିଆ)",
+      "os": "ওসেটিক (Ирон)",
+      "gl": "গ্যালিশিয় (Galego)",
+      "gu": "গুজরাটি (ગુજરાતી)",
+      "gv": "ম্যাঙ্কস (Gaelg)",
+      "xh": "জোসা (IsiXhosa)",
+      "pa": "পাঞ্জাবী (ਪੰਜਾਬੀ)",
+      "ha": "হাউসা (Hausa)",
+      "pl": "পোলিশ (Polski)",
+      "he": "হিব্রু (עברית)"
+    }
+  }
+}

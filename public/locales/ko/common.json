@@ -1,0 +1,1992 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "모범 클럽",
+      "corporate": "기업 클럽",
+      "restricted": "비공개 클럽",
+      "term": "Agora 클럽",
+      "pic": "공익 클럽",
+      "open": "공개 클럽"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "푸에르토리코"
+    },
+    "ps": {
+      "name": "팔레스타인"
+    },
+    "pt": {
+      "name": "포르투갈"
+    },
+    "pw": {
+      "name": "팔라우"
+    },
+    "py": {
+      "name": "파라과이"
+    },
+    "qa": {
+      "name": "카타르"
+    },
+    "ad": {
+      "name": "안도라"
+    },
+    "ae": {
+      "name": "아랍에미리트"
+    },
+    "af": {
+      "name": "아프가니스탄"
+    },
+    "ag": {
+      "name": "앤티가 바부다"
+    },
+    "ai": {
+      "name": "안길라"
+    },
+    "al": {
+      "name": "알바니아"
+    },
+    "am": {
+      "name": "아르메니아"
+    },
+    "ao": {
+      "name": "앙골라"
+    },
+    "aq": {
+      "name": "남극"
+    },
+    "ar": {
+      "name": "아르헨티나"
+    },
+    "as": {
+      "name": "아메리칸 사모아"
+    },
+    "at": {
+      "name": "오스트리아"
+    },
+    "re": {
+      "name": "레위니옹"
+    },
+    "au": {
+      "name": "오스트레일리아"
+    },
+    "aw": {
+      "name": "아루바"
+    },
+    "ax": {
+      "name": "올란드 제도"
+    },
+    "az": {
+      "name": "아제르바이잔"
+    },
+    "ro": {
+      "name": "루마니아"
+    },
+    "ba": {
+      "name": "보스니아 헤르체고비나"
+    },
+    "bb": {
+      "name": "바베이도스"
+    },
+    "rs": {
+      "name": "세르비아"
+    },
+    "bd": {
+      "name": "방글라데시"
+    },
+    "be": {
+      "name": "벨기에"
+    },
+    "ru": {
+      "name": "러시아"
+    },
+    "bf": {
+      "name": "부르키나파소"
+    },
+    "bg": {
+      "name": "불가리아"
+    },
+    "rw": {
+      "name": "르완다"
+    },
+    "bh": {
+      "name": "바레인"
+    },
+    "bi": {
+      "name": "부룬디"
+    },
+    "bj": {
+      "name": "베냉"
+    },
+    "bl": {
+      "name": "생 바르텔르미"
+    },
+    "bm": {
+      "name": "버뮤다"
+    },
+    "bn": {
+      "name": "브루나이"
+    },
+    "bo": {
+      "name": "볼리비아"
+    },
+    "sa": {
+      "name": "사우디아라비아"
+    },
+    "bq": {
+      "name": "네덜란드령 카리브"
+    },
+    "sb": {
+      "name": "솔로몬 제도"
+    },
+    "br": {
+      "name": "브라질"
+    },
+    "sc": {
+      "name": "쉐이쉘"
+    },
+    "bs": {
+      "name": "바하마"
+    },
+    "sd": {
+      "name": "수단"
+    },
+    "bt": {
+      "name": "부탄"
+    },
+    "se": {
+      "name": "스웨덴"
+    },
+    "bv": {
+      "name": "부베 섬"
+    },
+    "sg": {
+      "name": "싱가포르"
+    },
+    "bw": {
+      "name": "보츠와나"
+    },
+    "sh": {
+      "name": "세인트헬레나"
+    },
+    "si": {
+      "name": "슬로베니아"
+    },
+    "by": {
+      "name": "벨라루스"
+    },
+    "sj": {
+      "name": "스발바르 얀마옌"
+    },
+    "bz": {
+      "name": "벨리즈"
+    },
+    "sk": {
+      "name": "슬로바키아"
+    },
+    "sl": {
+      "name": "시에라리온"
+    },
+    "sm": {
+      "name": "산마리노"
+    },
+    "sn": {
+      "name": "세네갈"
+    },
+    "so": {
+      "name": "소말리아"
+    },
+    "ca": {
+      "name": "캐나다"
+    },
+    "sr": {
+      "name": "수리남"
+    },
+    "cc": {
+      "name": "코코스제도"
+    },
+    "ss": {
+      "name": "남수단"
+    },
+    "cd": {
+      "name": "콩고 민주공화국"
+    },
+    "st": {
+      "name": "상투메 프린시페"
+    },
+    "cf": {
+      "name": "중앙 아프리카 공화국"
+    },
+    "sv": {
+      "name": "엘살바도르"
+    },
+    "cg": {
+      "name": "콩고 공화국"
+    },
+    "ch": {
+      "name": "스위스"
+    },
+    "sx": {
+      "name": "신트 마르텐 (네덜란드 령)"
+    },
+    "ci": {
+      "name": "코트디부아르"
+    },
+    "sy": {
+      "name": "시리아"
+    },
+    "sz": {
+      "name": "스와질랜드"
+    },
+    "ck": {
+      "name": "쿡제도"
+    },
+    "cl": {
+      "name": "칠레"
+    },
+    "cm": {
+      "name": "카메룬"
+    },
+    "cn": {
+      "name": "중국"
+    },
+    "co": {
+      "name": "콜롬비아"
+    },
+    "cr": {
+      "name": "코스타리카"
+    },
+    "tc": {
+      "name": "터크스케이커스제도"
+    },
+    "td": {
+      "name": "차드"
+    },
+    "cu": {
+      "name": "쿠바"
+    },
+    "tf": {
+      "name": "프랑스령 남방 및 남극"
+    },
+    "cv": {
+      "name": "까뽀베르데"
+    },
+    "tg": {
+      "name": "토고"
+    },
+    "cw": {
+      "name": "큐라 소"
+    },
+    "th": {
+      "name": "태국"
+    },
+    "cx": {
+      "name": "크리스마스섬"
+    },
+    "cy": {
+      "name": "키프로스"
+    },
+    "tj": {
+      "name": "타지키스탄"
+    },
+    "cz": {
+      "name": "체코"
+    },
+    "tk": {
+      "name": "토켈라우"
+    },
+    "tl": {
+      "name": "동티모르"
+    },
+    "tm": {
+      "name": "투르크메니스탄"
+    },
+    "tn": {
+      "name": "튀니지"
+    },
+    "to": {
+      "name": "통가"
+    },
+    "tr": {
+      "name": "터키"
+    },
+    "tt": {
+      "name": "트리니다드 토바고"
+    },
+    "de": {
+      "name": "독일"
+    },
+    "tv": {
+      "name": "투발루"
+    },
+    "tw": {
+      "name": "대만"
+    },
+    "dj": {
+      "name": "지부티"
+    },
+    "tz": {
+      "name": "탄자니아"
+    },
+    "dk": {
+      "name": "덴마크"
+    },
+    "dm": {
+      "name": "도미니카 연방"
+    },
+    "do": {
+      "name": "도미니카 공화국"
+    },
+    "ua": {
+      "name": "우크라이나"
+    },
+    "ug": {
+      "name": "우간다"
+    },
+    "dz": {
+      "name": "알제리"
+    },
+    "um": {
+      "name": "미국령 군소 제도"
+    },
+    "ec": {
+      "name": "에콰도르"
+    },
+    "us": {
+      "name": "미국"
+    },
+    "ee": {
+      "name": "에스토니아"
+    },
+    "eg": {
+      "name": "이집트"
+    },
+    "eh": {
+      "name": "서사하라"
+    },
+    "uy": {
+      "name": "우루과이"
+    },
+    "uz": {
+      "name": "우즈베키스탄"
+    },
+    "va": {
+      "name": "바티칸"
+    },
+    "er": {
+      "name": "에리트레아"
+    },
+    "vc": {
+      "name": "세인트빈센트그레나딘"
+    },
+    "es": {
+      "name": "스페인"
+    },
+    "et": {
+      "name": "에티오피아"
+    },
+    "ve": {
+      "name": "베네수엘라"
+    },
+    "vg": {
+      "name": "영국령 버진 아일랜드"
+    },
+    "vi": {
+      "name": "미국령 버진 아일랜드"
+    },
+    "vn": {
+      "name": "베트남"
+    },
+    "vu": {
+      "name": "바누아투"
+    },
+    "fi": {
+      "name": "핀란드"
+    },
+    "fj": {
+      "name": "피지"
+    },
+    "fk": {
+      "name": "포클랜드 제도"
+    },
+    "fm": {
+      "name": "미크로네시아 연방"
+    },
+    "fo": {
+      "name": "페로제도"
+    },
+    "fr": {
+      "name": "프랑스"
+    },
+    "wf": {
+      "name": "왈리스 퓌튀나"
+    },
+    "ga": {
+      "name": "가봉"
+    },
+    "gb": {
+      "name": "영국"
+    },
+    "ws": {
+      "name": "사모아"
+    },
+    "gd": {
+      "name": "그레나다"
+    },
+    "ge": {
+      "name": "조지아"
+    },
+    "gf": {
+      "name": "프랑스령 기아나"
+    },
+    "gg": {
+      "name": "건지"
+    },
+    "gh": {
+      "name": "가나"
+    },
+    "gi": {
+      "name": "지브롤터"
+    },
+    "gl": {
+      "name": "그린란드"
+    },
+    "gm": {
+      "name": "감비아"
+    },
+    "gn": {
+      "name": "기니"
+    },
+    "gp": {
+      "name": "과들루프"
+    },
+    "gq": {
+      "name": "적도 기니"
+    },
+    "gr": {
+      "name": "그리스"
+    },
+    "gs": {
+      "name": "사우스조지아 사우스샌드위치 제도"
+    },
+    "gt": {
+      "name": "과테말라"
+    },
+    "gu": {
+      "name": "괌"
+    },
+    "gw": {
+      "name": "기니비사우"
+    },
+    "gy": {
+      "name": "가이아나"
+    },
+    "hk": {
+      "name": "홍콩"
+    },
+    "hm": {
+      "name": "허드 맥도널드 제도"
+    },
+    "hn": {
+      "name": "온두라스"
+    },
+    "hr": {
+      "name": "크로아티아"
+    },
+    "ht": {
+      "name": "아이티"
+    },
+    "ye": {
+      "name": "예멘"
+    },
+    "hu": {
+      "name": "헝가리"
+    },
+    "id": {
+      "name": "인도네시아"
+    },
+    "yt": {
+      "name": "마요티"
+    },
+    "ie": {
+      "name": "아일랜드"
+    },
+    "il": {
+      "name": "이스라엘"
+    },
+    "im": {
+      "name": "맨 섬"
+    },
+    "in": {
+      "name": "인도"
+    },
+    "io": {
+      "name": "영국령 인도양 지역"
+    },
+    "za": {
+      "name": "남아프리카"
+    },
+    "iq": {
+      "name": "이라크"
+    },
+    "ir": {
+      "name": "이란"
+    },
+    "is": {
+      "name": "아이슬란드"
+    },
+    "it": {
+      "name": "이탈리아"
+    },
+    "zm": {
+      "name": "잠비아"
+    },
+    "je": {
+      "name": "저지"
+    },
+    "zw": {
+      "name": "짐바브웨"
+    },
+    "jm": {
+      "name": "자메이카"
+    },
+    "jo": {
+      "name": "요르단"
+    },
+    "jp": {
+      "name": "일본"
+    },
+    "ke": {
+      "name": "케냐"
+    },
+    "kg": {
+      "name": "키르기스스탄"
+    },
+    "kh": {
+      "name": "캄보디아"
+    },
+    "ki": {
+      "name": "키리바시"
+    },
+    "km": {
+      "name": "코모로스"
+    },
+    "kn": {
+      "name": "세인트키츠 네비스"
+    },
+    "kp": {
+      "name": "조선민주주의인민공화국"
+    },
+    "kr": {
+      "name": "대한민국"
+    },
+    "kw": {
+      "name": "쿠웨이트"
+    },
+    "ky": {
+      "name": "케이맨제도"
+    },
+    "kz": {
+      "name": "카자흐스탄"
+    },
+    "la": {
+      "name": "라오스"
+    },
+    "lb": {
+      "name": "레바논"
+    },
+    "lc": {
+      "name": "세인트루시아"
+    },
+    "li": {
+      "name": "리히텐슈타인"
+    },
+    "lk": {
+      "name": "스리랑카"
+    },
+    "lr": {
+      "name": "라이베리아"
+    },
+    "ls": {
+      "name": "레소토"
+    },
+    "lt": {
+      "name": "리투아니아"
+    },
+    "lu": {
+      "name": "룩셈부르크"
+    },
+    "lv": {
+      "name": "라트비아"
+    },
+    "ly": {
+      "name": "리비아"
+    },
+    "ma": {
+      "name": "모로코"
+    },
+    "mc": {
+      "name": "모나코"
+    },
+    "md": {
+      "name": "몰도바"
+    },
+    "me": {
+      "name": "몬테네그로"
+    },
+    "mf": {
+      "name": "생 마르탱"
+    },
+    "mg": {
+      "name": "마다가스카르"
+    },
+    "mh": {
+      "name": "마샬 군도"
+    },
+    "mk": {
+      "name": "마케도니아 공화국"
+    },
+    "ml": {
+      "name": "말리"
+    },
+    "mm": {
+      "name": "미얀마"
+    },
+    "mn": {
+      "name": "몽골"
+    },
+    "mo": {
+      "name": "마카오"
+    },
+    "mp": {
+      "name": "북마리아나 제도"
+    },
+    "mq": {
+      "name": "마르티니크"
+    },
+    "mr": {
+      "name": "모리타니"
+    },
+    "ms": {
+      "name": "몬트세랫"
+    },
+    "mt": {
+      "name": "몰타"
+    },
+    "mu": {
+      "name": "모리셔스"
+    },
+    "mv": {
+      "name": "몰디브"
+    },
+    "mw": {
+      "name": "말라위"
+    },
+    "mx": {
+      "name": "멕시코"
+    },
+    "my": {
+      "name": "말레이시아"
+    },
+    "mz": {
+      "name": "모잠비크"
+    },
+    "na": {
+      "name": "나미비아"
+    },
+    "nc": {
+      "name": "누벨칼레도니"
+    },
+    "ne": {
+      "name": "니제르"
+    },
+    "nf": {
+      "name": "노퍽섬"
+    },
+    "ng": {
+      "name": "나이지리아"
+    },
+    "ni": {
+      "name": "니카라과"
+    },
+    "nl": {
+      "name": "네덜란드"
+    },
+    "no": {
+      "name": "노르웨이"
+    },
+    "np": {
+      "name": "네팔"
+    },
+    "nr": {
+      "name": "나우루"
+    },
+    "nu": {
+      "name": "니우에"
+    },
+    "nz": {
+      "name": "뉴질랜드"
+    },
+    "om": {
+      "name": "오만"
+    },
+    "pa": {
+      "name": "파나마"
+    },
+    "pe": {
+      "name": "페루"
+    },
+    "pf": {
+      "name": "프랑스령 폴리네시아"
+    },
+    "pg": {
+      "name": "파푸아뉴기니"
+    },
+    "ph": {
+      "name": "필리핀"
+    },
+    "pk": {
+      "name": "파키스탄"
+    },
+    "pl": {
+      "name": "폴란드"
+    },
+    "pm": {
+      "name": "생피에르 미클롱"
+    },
+    "pn": {
+      "name": "핏케언 제도"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Agora 프로그램 교육 목표 달성 우수상",
+        "title": "교육 부문 상"
+      },
+      "social": {
+        "help": "지역사회에 대한 긍정적 영향을 기리는 상",
+        "title": "사회 영향력 상"
+      },
+      "operational": {
+        "help": "클럽 관리와 창설 우수상",
+        "title": "클럽 관리 우수"
+      },
+      "community": {
+        "help": "Agora 커뮤니티 성장 및 발전 기여 상",
+        "title": "Agora 커뮤니티 상"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "검색",
+      "register": "등록"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "Agora 지역 또는 국제 컨벤션을 성공적으로 조직",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "컨벤션 조직자"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "검증된 리더"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "인증된 연설가"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "멘토십 상"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "Agora 스피커스 대회에서 우승",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "대회 우승자"
+        },
+        "third": {
+          "help": "Agora 스피커스 대회를 3등으로 마침",
+          "image": "awards.individual.contest.third.svg",
+          "title": "대회, 3등"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "Agora 대회를 성공적으로 조직",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "대회 조직자"
+        },
+        "participant": {
+          "help": "Agora 스피커스 대회 참여",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "참여상"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "Agora 스피커스 대회를 2등으로 마침",
+          "image": "awards.individual.contest.second.svg",
+          "title": "대회, 2등"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "가장 눈에 띄게 발전",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "교육 발전 상"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "봉사상"
+      },
+      "community": {
+        "leadership": {
+          "help": "지역사회 프로젝트를 우수하게 수행",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "지역사회 리더십 상"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "Agora 사명 헌신 우수상",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "Agora 대사 우수 멤버 상"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "특상"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "훌륭한 리더"
+        },
+        "communicator": "훌륭한 소통가"
+      },
+      "help": {
+        "help": "클럽 성공에 대한 지속적 헌신",
+        "image": "awards.individual.help.svg",
+        "title": "클럽 성공 기여 상"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "훌륭한 방송매체 연설가"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "훌륭한 설득 연설가"
+              }
+            },
+            "pr": {
+              "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "훌륭한 PR 전문가"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "훌륭한 특별한 날 연설가"
+              }
+            },
+            "storytelling": {
+              "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "훌륭한 스토리텔러"
+            },
+            "educational": {
+              "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "훌륭한 교육 연설가"
+            },
+            "business": {
+              "contexts": {
+                "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "훌륭한 비즈니스 연설가"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "훌륭한 비판적 사고자"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "훌륭한 모든 역경을 딛고 연설가"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "훌륭한 기업 연설가"
+            },
+            "project": {
+              "management": {
+                "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "훌륭한 프로젝트 매니저"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "훌륭한 대인 관계 마스터"
+              }
+            },
+            "dramatization": {
+              "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "훌륭한 극 연설가"
+            },
+            "humorous": {
+              "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "훌륭한 유머 연설가"
+            },
+            "leadership": {
+              "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "훌륭한 리더"
+            },
+            "negotiation": {
+              "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "훌륭한 협상가"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "고급 교육 과정 {{v0}}개를 성공적으로 완료",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "훌륭한 시각적 스토리텔러"
+              }
+            }
+          },
+          "title": "훌륭한 연설가"
+        },
+        "communicator": {
+          "help": "소통 트랙 전체를 성공적으로 완료",
+          "image": "awards.individual.accomplished.communicator.svg"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "클럽 리더"
+        },
+        "founder": {
+          "help": "Agora 클럽을 성공적으로 창립",
+          "image": "awards.individual.club.founder.svg",
+          "title": "클럽 창립자"
+        },
+        "officer": {
+          "help": "한 해 동안 클럽을 성공적으로 이끎",
+          "image": "awards.individual.club.officer.svg",
+          "title": "클럽 리더십"
+        },
+        "growth": {
+          "help": "멘토링 및 국내 Agora 클럽 개설 우수상",
+          "image": "awards.individual.club.growth.svg",
+          "title": "클럽 성장 상"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "클럽 5년 연속 멤버",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "기념일 상"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "이 달의 멤버 상"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "지속적이고 적극적인 회의 참여",
+        "image": "awards.individual.attendance.svg",
+        "title": "헌신 상"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Agora 혁신가 상"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Agora 성화 봉송 주자"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "Agora 홍보자 상"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "컨벤션 주최 상"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "국가 개척자 상"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "교육 우수상"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "교육 봉사상"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "도시 개척자 상"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "봉사 우수상"
+        }
+      },
+      "media": {
+        "help": "Agora 사명과 활동을 대중매체에 홍보한 것을 기리는 우수상",
+        "image": "awards.club.media.svg",
+        "title": "대중매체 우수상"
+      },
+      "membership": {
+        "growth": "회원 수 성장 상",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "회원 수 유지 상"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "지역사회 프로젝트를 우수하게 수행",
+          "image": "awards.club.community.leadership.svg",
+          "title": "지역사회 리더십 상"
+        }
+      },
+      "content": {
+        "help": "Agora 커뮤니티에 기발한 콘텐츠를 만들어 준 것을 기리는 우수상",
+        "image": "awards.club.content.svg",
+        "title": "콘텐츠 창작 상"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "클럽 혁신가 상"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "특상"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "대사 상"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "클럽 멘토십 상"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "이 달의 클럽 상"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "회원 클럽 만족도 90% 이상",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "회원 만족도 금상"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "회원 클럽 만족도 75% 이상",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "회원 만족도 은상"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "클럽 회원 만족 상"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "회원 수 성장 20명",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "회원 수 성장 금상"
+          }
+        },
+        "anniversary": {
+          "help": "성공적이고 지속적인 클럽 운영 10주년",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "기념일 금상"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "모범 클럽 상"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "회원 수 성장 10명",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "회원 수 성장 은상"
+          }
+        },
+        "anniversary": {
+          "help": "성공적이고 지속적인 클럽 운영 5주년",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "기념일 은상"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "클럽 기념일 상 - {{v0}}주년"
+      }
+    },
+    "place": {
+      "participation": "참여"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "회의 집중 공격 시간 중 가장 잘 질문하고 예리한 질문을 던짐",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "가장 잘 질문한 집중 공격 참가자"
+        },
+        "survivor": {
+          "help": "회의 집중 공격 시간에 생존",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "집중 공격 생존자"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "가장 뛰어난 콜로퀴엄 발표자 및 질문자",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "가장 뛰어난 콜로퀴엄 참가자"
+        },
+        "role": {
+          "help": "회의 내 역할을 뛰어나게 수행",
+          "image": "awards.meeting.best.role.svg",
+          "title": "가장 뛰어난 회의 내 역할"
+        },
+        "speaker": {
+          "help": "클럽 회의에서 가장 뛰어난 준비된 연설을 수행",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "가장 뛰어난 회의 연설자"
+        },
+        "hot": {
+          "response": {
+            "help": "클럽 회의에서 가장 뛰어난 즉석연설을 수행",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "가장 뛰어난 회의 즉석연설가"
+          }
+        },
+        "speechwriter": {
+          "help": "회의에서 가장 뛰어난 연설문 작성",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "가장 뛰어난 회의 연설문 작성자"
+        },
+        "evaluator": {
+          "help": "클럽 회의에서 가장 뛰어난 평가를 수행",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "가장 뛰어난 회의 평가자"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "Agora 스피커스 인터내셔널 재단은 대중을 대상으로 한 유럽의 교육 자선 단체로, 사람들을 북돋아 훌륭한 소통가 및 자신감 있는 리더가 되어 적극적으로 더 나은 세상을 만들어갈 수 있도록 합니다."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "기타"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "날짜",
+      "country": "국가",
+      "address": "주소",
+      "city": "도시",
+      "awards": "수상 목록",
+      "state": "주/도/도시 등",
+      "event": "행사",
+      "region": "지역",
+      "points": {
+        "total": "획득 포인트 (총합)",
+        "year": "획득 포인트 (올해)",
+        "name": "포인트"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "클럽에서 사용할 언어를 지정해 주세요 (예시: 영어)"
+      },
+      "charter": {
+        "date": "창립 일자",
+        "help": "창립일은 미래여야 하되, 현재로부터 최대 30일 안이어야 합니다."
+      },
+      "founder": {
+        "name": "클럽 창립자 (성명)",
+        "email": "창립자 이메일"
+      },
+      "fee": {
+        "title": "클럽 회비 (있다면)"
+      },
+      "banner": "배너",
+      "restrictions": {
+        "guests": {
+          "input": "게스트의 클럽 참석에 어떤 종류의 제한 사항이 있는지 부디 설명해 주세요 (있다면)"
+        },
+        "membership": {
+          "input": "클럽 멤버로 가입할 때 어떤 종류의 제한 사항이 있는지 부디 설명해 주세요. (있다면) 유소년 클럽을 등록하려면 부디 가입 연령대를 지정해 주세요."
+        }
+      },
+      "type": {
+        "help": "클럽의 여러 종류에 대한 더 많은 정보는 여기에서 열람할 수 있습니다.",
+        "input": "클럽 종류"
+      },
+      "points": {
+        "date": "액션 날짜",
+        "action": "클럽 액션"
+      },
+      "token": "클럽 비공개 토큰",
+      "number": "클럽 번호",
+      "assets": "클럽 서식",
+      "awards": "클럽 수상",
+      "contact": {
+        "help": {
+          "1": "클럽 연락처 정보. 반드시 이메일이나 전화번호 중 하나여야 합니다.",
+          "2": "추가 클럽 연락처 정보 - 반드시 위에 제공한 것과 다른 것으로, 이메일/전화번호, 또는 웹페이지, Facebook 그룹, Meetup 그룹 등을 사용하실 수 있습니다."
+        },
+        "title": "연락처 정보"
+      },
+      "name": "클럽 이름",
+      "logo": {
+        "title": "자신만의 로고를 업로드해도 되며, 만약 없다면 자동적으로 로고가 생성됩니다."
+      },
+      "meeting": {
+        "schedule": "회의 일정",
+        "info": "추가 정보"
+      }
+    },
+    "personal": {
+      "participation": {
+        "input": "어떤 종류의 참여에 관심이 있나요?",
+        "online": "온라인 회의",
+        "physical": "오프라인 회의"
+      },
+      "languages": {
+        "interested": "어떤 언어에 관심이 있나요?"
+      },
+      "joined": "가입 일자",
+      "facebook": "Facebook 프로필 링크",
+      "roles": {
+        "date": "날짜",
+        "role": "역할",
+        "taken": "맡았던 역할",
+        "club": "클럽"
+      },
+      "speeches": {
+        "persuasive": "설득을 위한 연설",
+        "general": "일반적 목적 연설",
+        "storytelling": "스토리텔링 연설 대회",
+        "educational": "교육적",
+        "business": "비즈니스 프레젠테이션",
+        "interested": "어떤 종류의 발표/연설을 배우는 데에 관심을 갖고 있나요?",
+        "media": "브이로그와 매체 제작",
+        "sales": "영업 판매",
+        "humorous": "유머가 있는 연설과 코미디"
+      },
+      "privacy": "나는 이 사이트의 약관과 Agora 스피커스 인터내셔널의 개인 정보 보호 정책에 동의합니다",
+      "history": {
+        "date": "날짜",
+        "club": "클럽 이름",
+        "event": "행사"
+      },
+      "linkedin": "Linkedin 프로필 링크",
+      "skills": "다음 능력 중 어떤 것을 개선하고 싶은가요?",
+      "number": "멤버 번호",
+      "password": {
+        "input": "비밀번호",
+        "verify": "비밀번호 확인"
+      },
+      "clubs": {
+        "role": "역할"
+      },
+      "name": {
+        "address": {
+          "help": "소통 시 어떻게 불러드려야 할까요? (이메일에서 호칭 등)",
+          "field": "소통 시 선호하는 이름:"
+        },
+        "certificates": {
+          "help": "증명서나 상에 이름을 어떻게 표기해야 하나요?",
+          "input": "증명서에 선호하는 이름"
+        },
+        "online": {
+          "help": "온라인 시스템, 포럼 등에 이름을 어떻게 표기해야 하나요?",
+          "input": "온라인에서 선호하는 이름"
+        },
+        "full": "성명"
+      },
+      "principles": {
+        "agreement": "Agora 핵심 원칙에 동의함을 밝혀 주세요"
+      },
+      "position": "현재 클럽 내 직위",
+      "interests": {
+        "11": {
+          "language": "외국어 기술 향상에 관심이 있습니다"
+        },
+        "01": {
+          "curious": "그저 이 단체에 호기심이 있을 뿐입니다"
+        },
+        "12": {
+          "contests": "Agora 스피커스 인터내셔널에서 조직한 대회에서 경쟁하는 것에 관심이 있습니다"
+        },
+        "02": {
+          "confidence": "자신감을 향상시키고 싶습니다"
+        },
+        "13": {
+          "critical": "비판적으로 사고하는 법을 배우는 것에 관심이 있습니다"
+        },
+        "03": {
+          "communicate": "더 효율적으로 소통하는 법을 배우고 싶습니다"
+        },
+        "14": {
+          "friends": "사람을 만나고 새 친구를 사귀는 것에 관심이 있습니다"
+        },
+        "04": {
+          "speak": "공개연설 기술을 향상시키고 싶습니다"
+        },
+        "15": {
+          "cooperation": "문화 교류와 문화 간 협력 활동에 관심이 있습니다"
+        },
+        "question": "Agora 스피커스 인터내셔널에 어떤 목적을 갖고 오셨나요?",
+        "05": {
+          "leadership": "리더십 기술을 향상시키고 싶습니다"
+        },
+        "16": {
+          "startclub": "내가 사는 도시에 Agora 클럽을 만들고 싶습니다"
+        },
+        "06": {
+          "networking": "전문적인 대인관계를 맺는 것에 관심이 있습니다"
+        },
+        "17": {
+          "ambassador": "내가 사는 나라에서 Agora 대사가 되고 싶습니다"
+        },
+        "07": {
+          "presentations": "비즈니스 프레젠테이션 수행에 관심이 있습니다"
+        },
+        "18": {
+          "partnership": "내 단체와 Agora 스피커스 인터내셔널 간 파트너십을 맺는 데 관심이 있습니다"
+        },
+        "08": {
+          "events": "Agora의 워크숍, 세미나, 그리고 행사에 관심이 있습니다"
+        },
+        "09": {
+          "debating": "토론과 논증에 관심이 있습니다"
+        },
+        "10": {
+          "community": "지역사회에 변화를 만들고 싶습니다"
+        }
+      },
+      "email": "이메일"
+    },
+    "meeting": {
+      "date": "회의 날짜",
+      "number": "회의 번호",
+      "venue": {
+        "name": "회의장 이름"
+      },
+      "address": {
+        "input": "회의장 주소"
+      },
+      "online": {
+        "software": "회의 소프트웨어",
+        "link": "참여 링크",
+        "id": "온라인 회의 아이디",
+        "title": "온라인 회의 정보",
+        "passowrd": "참여 비밀번호"
+      },
+      "theme": "회의 주제 (있는 경우)",
+      "time": "회의 시간"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) Copyright Agora Speakers International. All rights reserved. Agora의 모든 자료와 서식은 이용 약관에 따라서만 사용할 수 있습니다."
+    },
+    "terms": "이용 약관",
+    "legal": {
+      "notice": "법률 정보"
+    },
+    "privacy": {
+      "policy": "개인 정보 보호 정책"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "힌디어",
+      "ps": "파슈토어",
+      "pt": "포르투갈어",
+      "hr": "크로아티아어",
+      "pt_br": "Brazilian",
+      "hu": "헝가리어",
+      "yi": "이디시어",
+      "hy": "아르메니아어",
+      "yo": "요루바어",
+      "ia": "인터링구아",
+      "id": "인도네시아어",
+      "ig": "이그보어",
+      "ii": "쓰촨 이어",
+      "qu": "케추아어",
+      "af": "아프리칸스어",
+      "ak": "아칸어",
+      "is": "아이슬란드어",
+      "it": "이탈리아어",
+      "am": "암하라어",
+      "zh": "중국어",
+      "ar": "아랍어",
+      "as": "아삼어",
+      "ja": "일본어",
+      "az": "아제르바이잔어",
+      "rm": "로만시어",
+      "zu": "줄루어",
+      "rn": "룬디어",
+      "ro": "루마니아어",
+      "be": "벨라루스어",
+      "ru": "러시아어",
+      "bg": "불가리아어",
+      "rw": "르완다어",
+      "bm": "밤바라어",
+      "bn": "벵골어",
+      "jv": "자바어",
+      "bo": "티베트어",
+      "sa": "산스크리트어",
+      "br": "브르타뉴어",
+      "bs": "보스니아어",
+      "sd": "신디어",
+      "se": "북부 사미어",
+      "sg": "산고어",
+      "sh": "세르비아-크로아티아어",
+      "ka": "조지아어",
+      "si": "싱할라어",
+      "sk": "슬로바키아어",
+      "sl": "슬로베니아어",
+      "sn": "쇼나어",
+      "so": "소말리아어",
+      "ca": "카탈로니아어",
+      "ki": "키쿠유어",
+      "sq": "알바니아어",
+      "sr": "세르비아어",
+      "kk": "카자흐어",
+      "kl": "그린란드어",
+      "ce": "체첸어",
+      "km": "크메르어",
+      "su": "순다어",
+      "kn": "칸나다어",
+      "sv": "스웨덴어",
+      "ko": "한국어",
+      "sw": "스와힐리어",
+      "ks": "카슈미르어",
+      "ku": "쿠르드어",
+      "kw": "콘월어",
+      "ta": "타밀어",
+      "ky": "키르기스어",
+      "cs": "체코어",
+      "te": "텔루구어",
+      "tg": "타지크어",
+      "th": "태국어",
+      "ti": "티그리냐어",
+      "cy": "웨일스어",
+      "lb": "룩셈부르크어",
+      "tk": "투르크멘어",
+      "tl": "타갈로그어",
+      "lg": "간다어",
+      "to": "통가어",
+      "da": "덴마크어",
+      "tr": "터키어",
+      "tt": "타타르어",
+      "de": "독일어",
+      "ln": "링갈라어",
+      "lo": "라오어",
+      "lt": "리투아니아어",
+      "lu": "루바-카탄가어",
+      "lv": "라트비아어",
+      "ug": "위구르어",
+      "dz": "종카어",
+      "uk": "우크라이나어",
+      "mg": "말라가시어",
+      "mi": "마오리어",
+      "ur": "우르두어",
+      "mk": "마케도니아어",
+      "ml": "말라얄람어",
+      "ee": "에웨어",
+      "mn": "몽골어",
+      "mr": "마라티어",
+      "uz": "우즈베크어",
+      "ms": "말레이어",
+      "el": "그리스어",
+      "mt": "몰타어",
+      "en": "영어",
+      "eo": "에스페란토어",
+      "my": "버마어",
+      "es": "스페인어",
+      "et": "에스토니아어",
+      "eu": "바스크어",
+      "vi": "베트남어",
+      "nb": "노르웨이어(보크말)",
+      "nd": "북부 은데벨레어",
+      "ne": "네팔어",
+      "fa": "페르시아어",
+      "nl": "네덜란드어",
+      "ff": "풀라어",
+      "nn": "노르웨이어(니노르스크)",
+      "no": "노르웨이어",
+      "fi": "핀란드어",
+      "fo": "페로어",
+      "fr": "프랑스어",
+      "fy": "서부 프리지아어",
+      "wo": "월로프어",
+      "ga": "아일랜드어",
+      "gd": "스코틀랜드 게일어",
+      "om": "오로모어",
+      "or": "오리야어",
+      "os": "오세트어",
+      "gl": "갈리시아어",
+      "gu": "구자라트어",
+      "gv": "맹크스어",
+      "xh": "코사어",
+      "pa": "펀잡어",
+      "ha": "하우사어",
+      "pl": "폴란드어",
+      "he": "히브리어"
+    },
+    "full": {
+      "hi": "힌디어 (हिन्दी)",
+      "ps": "파슈토어 (پښتو)",
+      "pt": "포르투갈어 (Português)",
+      "hr": "크로아티아어 (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "헝가리어 (Magyar)",
+      "yi": "이디시어 (ייִדיש)",
+      "hy": "아르메니아어 (Հայերեն)",
+      "yo": "요루바어 (Èdè Yorùbá)",
+      "ia": "인터링구아 (Interlingua)",
+      "id": "인도네시아어 (Indonesia)",
+      "ig": "이그보어 (Igbo)",
+      "ii": "쓰촨 이어 (ꆈꌠꉙ)",
+      "qu": "케추아어 (Runasimi)",
+      "af": "아프리칸스어 (Afrikaans)",
+      "ak": "아칸어 (Akan)",
+      "is": "아이슬란드어 (Íslenska)",
+      "it": "이탈리아어 (Italiano)",
+      "am": "암하라어 (አማርኛ)",
+      "zh": "중국어 (中文)",
+      "ar": "아랍어 (العربية)",
+      "as": "아삼어 (অসমীয়া)",
+      "ja": "일본어 (日本語)",
+      "az": "아제르바이잔어 (Azərbaycan)",
+      "rm": "로만시어 (Rumantsch)",
+      "zu": "줄루어 (IsiZulu)",
+      "rn": "룬디어 (Ikirundi)",
+      "ro": "루마니아어 (Română)",
+      "be": "벨라루스어 (Беларуская)",
+      "ru": "러시아어 (Русский)",
+      "bg": "불가리아어 (Български)",
+      "rw": "르완다어 (Kinyarwanda)",
+      "bm": "밤바라어 (Bamanakan)",
+      "bn": "벵골어 (বাংলা)",
+      "jv": "자바어 (Jawa)",
+      "bo": "티베트어 (བོད་སྐད་)",
+      "sa": "산스크리트어 (संस्कृत भाषा)",
+      "br": "브르타뉴어 (Brezhoneg)",
+      "bs": "보스니아어 (Bosanski)",
+      "sd": "신디어 (سنڌي)",
+      "se": "북부 사미어 (Davvisámegiella)",
+      "sg": "산고어 (Sängö)",
+      "sh": "세르비아-크로아티아어 (Srpskohrvatski)",
+      "ka": "조지아어 (ქართული)",
+      "si": "싱할라어 (සිංහල)",
+      "sk": "슬로바키아어 (Slovenčina)",
+      "sl": "슬로베니아어 (Slovenščina)",
+      "sn": "쇼나어 (ChiShona)",
+      "so": "소말리아어 (Soomaali)",
+      "ca": "카탈로니아어 (Català)",
+      "ki": "키쿠유어 (Gikuyu)",
+      "sq": "알바니아어 (Shqip)",
+      "sr": "세르비아어 (Српски)",
+      "kk": "카자흐어 (Қазақ тілі)",
+      "kl": "그린란드어 (Kalaallisut)",
+      "ce": "체첸어 (Нохчийн)",
+      "km": "크메르어 (ខ្មែរ)",
+      "su": "순다어 (Basa Sunda)",
+      "kn": "칸나다어 (ಕನ್ನಡ)",
+      "sv": "스웨덴어 (Svenska)",
+      "ko": "한국어 (한국어)",
+      "sw": "스와힐리어 (Kiswahili)",
+      "ks": "카슈미르어 (کٲشُر)",
+      "ku": "쿠르드어 (Kurdî)",
+      "kw": "콘월어 (Kernewek)",
+      "ta": "타밀어 (தமிழ்)",
+      "ky": "키르기스어 (Кыргызча)",
+      "cs": "체코어 (Čeština)",
+      "te": "텔루구어 (తెలుగు)",
+      "tg": "타지크어 (Тоҷикӣ)",
+      "th": "태국어 (ไทย)",
+      "ti": "티그리냐어 (ትግር)",
+      "cy": "웨일스어 (Cymraeg)",
+      "lb": "룩셈부르크어 (Lëtzebuergesch)",
+      "tk": "투르크멘어 (Türkmen dili)",
+      "tl": "타갈로그어 (Tagalog)",
+      "lg": "간다어 (Luganda)",
+      "to": "통가어 (Lea fakatonga)",
+      "da": "덴마크어 (Dansk)",
+      "tr": "터키어 (Türkçe)",
+      "tt": "타타르어 (Татар)",
+      "de": "독일어 (Deutsch)",
+      "ln": "링갈라어 (Lingála)",
+      "lo": "라오어 (ລາວ)",
+      "lt": "리투아니아어 (Lietuvių)",
+      "lu": "루바-카탄가어 (Tshiluba)",
+      "lv": "라트비아어 (Latviešu)",
+      "ug": "위구르어 (ئۇيغۇرچە)",
+      "dz": "종카어 (རྫོང་ཁ)",
+      "uk": "우크라이나어 (Українська)",
+      "mg": "말라가시어 (Malagasy)",
+      "mi": "마오리어 (Te reo Māori)",
+      "ur": "우르두어 (اردو)",
+      "mk": "마케도니아어 (Македонски)",
+      "ml": "말라얄람어 (മലയാളം)",
+      "ee": "에웨어 (Eʋegbe)",
+      "mn": "몽골어 (Монгол)",
+      "mr": "마라티어 (मराठी)",
+      "uz": "우즈베크어 (O‘zbek)",
+      "ms": "말레이어 (Melayu)",
+      "el": "그리스어 (Ελληνικά)",
+      "mt": "몰타어 (Malti)",
+      "en": "영어 (English)",
+      "eo": "에스페란토어 (Esperanto)",
+      "my": "버마어 (မြန်မာ)",
+      "es": "스페인어 (Español)",
+      "et": "에스토니아어 (Eesti)",
+      "eu": "바스크어 (Euskara)",
+      "vi": "베트남어 (Tiếng Việt)",
+      "nb": "노르웨이어(보크말) (Norsk bokmål)",
+      "nd": "북부 은데벨레어 (IsiNdebele)",
+      "ne": "네팔어 (नेपाली)",
+      "fa": "페르시아어 (فارسی)",
+      "nl": "네덜란드어 (Nederlands)",
+      "ff": "풀라어 (Pulaar)",
+      "nn": "노르웨이어(니노르스크) (Norsk nynorsk)",
+      "no": "노르웨이어 (Norsk)",
+      "fi": "핀란드어 (Suomi)",
+      "fo": "페로어 (Føroyskt)",
+      "fr": "프랑스어 (Français)",
+      "fy": "서부 프리지아어 (Frysk)",
+      "wo": "월로프어 (Wolof)",
+      "ga": "아일랜드어 (Gaeilge)",
+      "gd": "스코틀랜드 게일어 (Gàidhlig)",
+      "om": "오로모어 (Oromoo)",
+      "or": "오리야어 (ଓଡ଼ିଆ)",
+      "os": "오세트어 (Ирон)",
+      "gl": "갈리시아어 (Galego)",
+      "gu": "구자라트어 (ગુજરાતી)",
+      "gv": "맹크스어 (Gaelg)",
+      "xh": "코사어 (IsiXhosa)",
+      "pa": "펀잡어 (ਪੰਜਾਬੀ)",
+      "ha": "하우사어 (Hausa)",
+      "pl": "폴란드어 (Polski)",
+      "he": "히브리어 (עברית)"
+    }
+  }
+}

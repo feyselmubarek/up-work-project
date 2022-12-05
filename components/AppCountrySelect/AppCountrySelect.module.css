@@ -1,0 +1,28 @@
+.selectPlaceholder {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 0.7em;
+}
+
+.option {
+  font-size: 0.8em;
+  margin-left: -1px;
+  color: #666666;
+  padding-top: 0.65em;
+  font-size: 0.8em;
+}
+.countrySelect {
+  max-width: 22em;
+  height: 47px;
+  width: 100%;
+}
+
+.help {
+  font-size: 0.75em;
+  color: #ce3c17;
+}
+
+.errorBoder {
+  border-color: #ce3c17;
+}

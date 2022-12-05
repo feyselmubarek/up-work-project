@@ -1,0 +1,1993 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "สโมสรอ้างอิง",
+      "corporate": "สโมสรองค์กร",
+      "restricted": "สโมสรที่ถูกจำกัด",
+      "term": "สโมสร agora",
+      "pic": "สโมสรเพื่อสาธารณประโยชน์",
+      "open": "สโมสรสาธารณะ"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "เปอร์โตริโก"
+    },
+    "ps": {
+      "name": "ปาเลสไตน์"
+    },
+    "pt": {
+      "name": "โปรตุเกส"
+    },
+    "pw": {
+      "name": "ปาเลา"
+    },
+    "py": {
+      "name": "ปารากวัย"
+    },
+    "qa": {
+      "name": "กาตาร์"
+    },
+    "ad": {
+      "name": "อันดอร์รา"
+    },
+    "ae": {
+      "name": "สหรัฐอาหรับเอมิเรตส์"
+    },
+    "af": {
+      "name": "อัฟกานิสถาน"
+    },
+    "ag": {
+      "name": "แอนติกาและบาร์บูดา"
+    },
+    "ai": {
+      "name": "แองกวิลลา"
+    },
+    "al": {
+      "name": "แอลเบเนีย"
+    },
+    "am": {
+      "name": "อาร์เมเนีย"
+    },
+    "ao": {
+      "name": "แองโกลา"
+    },
+    "aq": {
+      "name": "แอนตาร์กติกา"
+    },
+    "ar": {
+      "name": "อาร์เจนตินา"
+    },
+    "as": {
+      "name": "อเมริกันซามัว"
+    },
+    "at": {
+      "name": "ออสเตรีย"
+    },
+    "re": {
+      "name": "เรอูนียง"
+    },
+    "au": {
+      "name": "ออสเตรเลีย"
+    },
+    "aw": {
+      "name": "อารูบา"
+    },
+    "ax": {
+      "name": "หมู่เกาะโอลันด์"
+    },
+    "az": {
+      "name": "อาเซอร์ไบจาน"
+    },
+    "ro": {
+      "name": "โรมาเนีย"
+    },
+    "ba": {
+      "name": "บอสเนียและเฮอร์เซโกวีนา"
+    },
+    "bb": {
+      "name": "บาร์เบโดส"
+    },
+    "rs": {
+      "name": "เซอร์เบีย"
+    },
+    "bd": {
+      "name": "บังกลาเทศ"
+    },
+    "be": {
+      "name": "เบลเยียม"
+    },
+    "ru": {
+      "name": "รัสเซีย"
+    },
+    "bf": {
+      "name": "บูร์กินาฟาโซ"
+    },
+    "bg": {
+      "name": "บัลแกเรีย"
+    },
+    "rw": {
+      "name": "รวันดา"
+    },
+    "bh": {
+      "name": "บาห์เรน"
+    },
+    "bi": {
+      "name": "บุรุนดี"
+    },
+    "bj": {
+      "name": "เบนิน"
+    },
+    "bl": {
+      "name": "เซนต์บาร์เธเลมี"
+    },
+    "bm": {
+      "name": "เบอร์มิวดา"
+    },
+    "bn": {
+      "name": "บรูไน"
+    },
+    "bo": {
+      "name": "โบลิเวีย"
+    },
+    "sa": {
+      "name": "ซาอุดีอาระเบีย"
+    },
+    "bq": {
+      "name": "โบแนร์, ซิงต์ Eustatius และสะบ้า"
+    },
+    "sb": {
+      "name": "หมู่เกาะโซโลมอน"
+    },
+    "br": {
+      "name": "บราซิล"
+    },
+    "sc": {
+      "name": "เซเชลส์"
+    },
+    "bs": {
+      "name": "บาฮามาส"
+    },
+    "sd": {
+      "name": "ซูดาน"
+    },
+    "bt": {
+      "name": "ภูฏาน"
+    },
+    "se": {
+      "name": "สวีเดน"
+    },
+    "bv": {
+      "name": "เกาะบูเวต"
+    },
+    "sg": {
+      "name": "สิงคโปร์"
+    },
+    "bw": {
+      "name": "บอตสวานา"
+    },
+    "sh": {
+      "name": "เซนต์เฮเลนา"
+    },
+    "si": {
+      "name": "สโลวีเนีย"
+    },
+    "by": {
+      "name": "เบลารุส"
+    },
+    "sj": {
+      "name": "สฟาลบาร์และยานไมเอน"
+    },
+    "bz": {
+      "name": "เบลีซ"
+    },
+    "sk": {
+      "name": "สโลวะเกีย"
+    },
+    "sl": {
+      "name": "เซียร์ราลีโอน"
+    },
+    "sm": {
+      "name": "ซานมารีโน"
+    },
+    "sn": {
+      "name": "เซเนกัล"
+    },
+    "so": {
+      "name": "โซมาเลีย"
+    },
+    "ca": {
+      "name": "แคนาดา"
+    },
+    "sr": {
+      "name": "ซูรินาเม"
+    },
+    "cc": {
+      "name": "หมู่เกาะโคโคส"
+    },
+    "ss": {
+      "name": "เซาท์ซูดาน"
+    },
+    "cd": {
+      "name": "คองโก-กินชาซา"
+    },
+    "st": {
+      "name": "เซาตูเมและปรินซิปี"
+    },
+    "cf": {
+      "name": "สาธารณรัฐแอฟริกากลาง"
+    },
+    "sv": {
+      "name": "เอลซัลวาดอร์"
+    },
+    "cg": {
+      "name": "คองโก-บราซซาวิล"
+    },
+    "ch": {
+      "name": "สวิตเซอร์แลนด์"
+    },
+    "sx": {
+      "name": "เกาะเซนต์มาร์ติน(ดัตช์)"
+    },
+    "ci": {
+      "name": "ไอวอรี่โคสต์"
+    },
+    "sy": {
+      "name": "ซีเรีย"
+    },
+    "sz": {
+      "name": "สวาซิแลนด์"
+    },
+    "ck": {
+      "name": "หมู่เกาะคุก"
+    },
+    "cl": {
+      "name": "ชิลี"
+    },
+    "cm": {
+      "name": "แคเมอรูน"
+    },
+    "cn": {
+      "name": "จีน"
+    },
+    "co": {
+      "name": "โคลอมเบีย"
+    },
+    "cr": {
+      "name": "คอสตาริกา"
+    },
+    "tc": {
+      "name": "หมู่เกาะเติกส์และหมู่เกาะเคคอส"
+    },
+    "td": {
+      "name": "ชาด"
+    },
+    "cu": {
+      "name": "คิวบา"
+    },
+    "tf": {
+      "name": "เฟรนช์เซาเทิร์นเทร์ริทอรีส์"
+    },
+    "cv": {
+      "name": "เคปเวิร์ด"
+    },
+    "tg": {
+      "name": "โตโก"
+    },
+    "cw": {
+      "name": "คูราเซา"
+    },
+    "th": {
+      "name": "ไทย"
+    },
+    "cx": {
+      "name": "เกาะคริสต์มาส"
+    },
+    "cy": {
+      "name": "ไซปรัส"
+    },
+    "tj": {
+      "name": "ทาจิกิสถาน"
+    },
+    "cz": {
+      "name": "สาธารณรัฐเช็ก"
+    },
+    "tk": {
+      "name": "โตเกเลา"
+    },
+    "tl": {
+      "name": "ติมอร์ตะวันออก"
+    },
+    "tm": {
+      "name": "เติร์กเมนิสถาน"
+    },
+    "tn": {
+      "name": "ตูนิเซีย"
+    },
+    "to": {
+      "name": "ตองกา"
+    },
+    "tr": {
+      "name": "ตุรกี"
+    },
+    "tt": {
+      "name": "ตรินิแดดและโตเบโก"
+    },
+    "de": {
+      "name": "เยอรมนี"
+    },
+    "tv": {
+      "name": "ตูวาลู"
+    },
+    "tw": {
+      "name": "ไต้หวัน"
+    },
+    "dj": {
+      "name": "จิบูตี"
+    },
+    "tz": {
+      "name": "แทนซาเนีย"
+    },
+    "dk": {
+      "name": "เดนมาร์ก"
+    },
+    "dm": {
+      "name": "โดมินิกา"
+    },
+    "do": {
+      "name": "สาธารณรัฐโดมินิกัน"
+    },
+    "ua": {
+      "name": "ยูเครน"
+    },
+    "ug": {
+      "name": "ยูกันดา"
+    },
+    "dz": {
+      "name": "แอลจีเรีย"
+    },
+    "um": {
+      "name": "หมู่เกาะสหรัฐไมเนอร์เอาต์ไลอิง"
+    },
+    "ec": {
+      "name": "เอกวาดอร์"
+    },
+    "us": {
+      "name": "สหรัฐอเมริกา"
+    },
+    "ee": {
+      "name": "เอสโตเนีย"
+    },
+    "eg": {
+      "name": "อียิปต์"
+    },
+    "eh": {
+      "name": "ซาฮาราตะวันตก"
+    },
+    "uy": {
+      "name": "อุรุกวัย"
+    },
+    "uz": {
+      "name": "อุซเบกิสถาน"
+    },
+    "va": {
+      "name": "วาติกัน"
+    },
+    "er": {
+      "name": "เอริเทรีย"
+    },
+    "vc": {
+      "name": "เซนต์วินเซนต์และเกรนาดีนส์"
+    },
+    "es": {
+      "name": "สเปน"
+    },
+    "et": {
+      "name": "เอธิโอเปีย"
+    },
+    "ve": {
+      "name": "เวเนซุเอลา"
+    },
+    "vg": {
+      "name": "หมู่เกาะบริติชเวอร์จิน"
+    },
+    "vi": {
+      "name": "หมู่เกาะยูเอสเวอร์จิน"
+    },
+    "vn": {
+      "name": "เวียดนาม"
+    },
+    "vu": {
+      "name": "วานูอาตู"
+    },
+    "fi": {
+      "name": "ฟินแลนด์"
+    },
+    "fj": {
+      "name": "ฟิจิ"
+    },
+    "fk": {
+      "name": "หมู่เกาะฟอล์กแลนด์"
+    },
+    "fm": {
+      "name": "ไมโครนีเซีย"
+    },
+    "fo": {
+      "name": "หมู่เกาะแฟโร"
+    },
+    "fr": {
+      "name": "ฝรั่งเศส"
+    },
+    "wf": {
+      "name": "วาลลิสและฟุตูนา"
+    },
+    "ga": {
+      "name": "กาบอง"
+    },
+    "gb": {
+      "name": "สหราชอาณาจักร"
+    },
+    "ws": {
+      "name": "ซามัว"
+    },
+    "gd": {
+      "name": "เกรเนดา"
+    },
+    "ge": {
+      "name": "จอร์เจีย"
+    },
+    "gf": {
+      "name": "เฟรนช์เกียนา"
+    },
+    "gg": {
+      "name": "เกิร์นซีย์"
+    },
+    "gh": {
+      "name": "กานา"
+    },
+    "gi": {
+      "name": "ยิบรอลตาร์"
+    },
+    "gl": {
+      "name": "กรีนแลนด์"
+    },
+    "gm": {
+      "name": "แกมเบีย"
+    },
+    "gn": {
+      "name": "กินี"
+    },
+    "gp": {
+      "name": "กวาเดอลูป"
+    },
+    "gq": {
+      "name": "อิเควทอเรียลกินี"
+    },
+    "gr": {
+      "name": "กรีซ"
+    },
+    "gs": {
+      "name": "เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช"
+    },
+    "gt": {
+      "name": "กัวเตมาลา"
+    },
+    "gu": {
+      "name": "กวม"
+    },
+    "gw": {
+      "name": "กินี-บิสเซา"
+    },
+    "gy": {
+      "name": "กายอานา"
+    },
+    "hk": {
+      "name": "ฮ่องกง เขตปกครองพิเศษประเทศจีน"
+    },
+    "hm": {
+      "name": "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์"
+    },
+    "hn": {
+      "name": "ฮอนดูรัส"
+    },
+    "hr": {
+      "name": "โครเอเชีย"
+    },
+    "ht": {
+      "name": "เฮติ"
+    },
+    "ye": {
+      "name": "เยเมน"
+    },
+    "hu": {
+      "name": "ฮังการี"
+    },
+    "id": {
+      "name": "อินโดนีเซีย"
+    },
+    "yt": {
+      "name": "มายอต"
+    },
+    "ie": {
+      "name": "ไอร์แลนด์"
+    },
+    "il": {
+      "name": "อิสราเอล"
+    },
+    "im": {
+      "name": "เกาะแมน"
+    },
+    "in": {
+      "name": "อินเดีย"
+    },
+    "io": {
+      "name": "บริติชอินเดียนโอเชียนเทร์ริทอรี"
+    },
+    "za": {
+      "name": "แอฟริกาใต้"
+    },
+    "iq": {
+      "name": "อิรัก"
+    },
+    "ir": {
+      "name": "อิหร่าน"
+    },
+    "is": {
+      "name": "ไอซ์แลนด์"
+    },
+    "it": {
+      "name": "อิตาลี"
+    },
+    "zm": {
+      "name": "แซมเบีย"
+    },
+    "je": {
+      "name": "เจอร์ซีย์"
+    },
+    "zw": {
+      "name": "ซิมบับเว"
+    },
+    "jm": {
+      "name": "จาเมกา"
+    },
+    "jo": {
+      "name": "จอร์แดน"
+    },
+    "jp": {
+      "name": "ญี่ปุ่น"
+    },
+    "ke": {
+      "name": "เคนยา"
+    },
+    "kg": {
+      "name": "คีร์กีซสถาน"
+    },
+    "kh": {
+      "name": "กัมพูชา"
+    },
+    "ki": {
+      "name": "คิริบาส"
+    },
+    "km": {
+      "name": "คอโมโรส"
+    },
+    "kn": {
+      "name": "เซนต์คิตส์และเนวิส"
+    },
+    "kp": {
+      "name": "เกาหลีเหนือ"
+    },
+    "kr": {
+      "name": "เกาหลีใต้"
+    },
+    "kw": {
+      "name": "คูเวต"
+    },
+    "ky": {
+      "name": "หมู่เกาะเคย์แมน"
+    },
+    "kz": {
+      "name": "คาซัคสถาน"
+    },
+    "la": {
+      "name": "ลาว"
+    },
+    "lb": {
+      "name": "เลบานอน"
+    },
+    "lc": {
+      "name": "เซนต์ลูเซีย"
+    },
+    "li": {
+      "name": "ลิกเตนสไตน์"
+    },
+    "lk": {
+      "name": "ศรีลังกา"
+    },
+    "lr": {
+      "name": "ไลบีเรีย"
+    },
+    "ls": {
+      "name": "เลโซโท"
+    },
+    "lt": {
+      "name": "ลิทัวเนีย"
+    },
+    "lu": {
+      "name": "ลักเซมเบิร์ก"
+    },
+    "lv": {
+      "name": "ลัตเวีย"
+    },
+    "ly": {
+      "name": "ลิเบีย"
+    },
+    "ma": {
+      "name": "โมร็อกโก"
+    },
+    "mc": {
+      "name": "โมนาโก"
+    },
+    "md": {
+      "name": "มอลโดวา"
+    },
+    "me": {
+      "name": "มอนเตเนโกร"
+    },
+    "mf": {
+      "name": "เซนต์มาติน"
+    },
+    "mg": {
+      "name": "มาดากัสการ์"
+    },
+    "mh": {
+      "name": "หมู่เกาะมาร์แชลล์"
+    },
+    "mk": {
+      "name": "มาซิโดเนีย"
+    },
+    "ml": {
+      "name": "มาลี"
+    },
+    "mm": {
+      "name": "พม่า"
+    },
+    "mn": {
+      "name": "มองโกเลีย"
+    },
+    "mo": {
+      "name": "มาเก๊า เขตปกครองพิเศษประเทศจีน"
+    },
+    "mp": {
+      "name": "หมู่เกาะนอร์เทิร์นมาเรียนา"
+    },
+    "mq": {
+      "name": "มาร์ตินีก"
+    },
+    "mr": {
+      "name": "มอริเตเนีย"
+    },
+    "ms": {
+      "name": "มอนต์เซอร์รัต"
+    },
+    "mt": {
+      "name": "มอลตา"
+    },
+    "mu": {
+      "name": "มอริเชียส"
+    },
+    "mv": {
+      "name": "มัลดีฟส์"
+    },
+    "mw": {
+      "name": "มาลาวี"
+    },
+    "mx": {
+      "name": "เม็กซิโก"
+    },
+    "my": {
+      "name": "มาเลเซีย"
+    },
+    "mz": {
+      "name": "โมซัมบิก"
+    },
+    "na": {
+      "name": "นามิเบีย"
+    },
+    "nc": {
+      "name": "นิวแคลิโดเนีย"
+    },
+    "ne": {
+      "name": "ไนเจอร์"
+    },
+    "nf": {
+      "name": "เกาะนอร์ฟอล์ก"
+    },
+    "ng": {
+      "name": "ไนจีเรีย"
+    },
+    "ni": {
+      "name": "นิการากัว"
+    },
+    "nl": {
+      "name": "เนเธอร์แลนด์"
+    },
+    "no": {
+      "name": "นอร์เวย์"
+    },
+    "np": {
+      "name": "เนปาล"
+    },
+    "nr": {
+      "name": "นาอูรู"
+    },
+    "nu": {
+      "name": "นีอูเอ"
+    },
+    "nz": {
+      "name": "นิวซีแลนด์"
+    },
+    "om": {
+      "name": "โอมาน"
+    },
+    "pa": {
+      "name": "ปานามา"
+    },
+    "pe": {
+      "name": "เปรู"
+    },
+    "pf": {
+      "name": "เฟรนช์โปลินีเซีย"
+    },
+    "pg": {
+      "name": "ปาปัวนิวกินี"
+    },
+    "ph": {
+      "name": "ฟิลิปปินส์"
+    },
+    "pk": {
+      "name": "ปากีสถาน"
+    },
+    "pl": {
+      "name": "โปแลนด์"
+    },
+    "pm": {
+      "name": "แซงปีแยร์และมีเกอลง"
+    },
+    "pn": {
+      "name": "พิตแคร์น"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "รางวัลเพื่อความเป็นเลิศในการบรรลุเป้าหมายการศึกษาภายในโปรแกรม agora",
+        "title": "รางวัลการศึกษา"
+      },
+      "social": {
+        "help": "รางวัลที่ตระหนักถึงผลกระทบเชิงบวกของคุณในชุมชนของคุณ",
+        "title": "รางวัลสำหรับผลกระทบในสังคม"
+      },
+      "operational": {
+        "help": "รางวัลเพื่อความเป็นเลิศในการจัดการและเช่าเหมาลำของสโมสร",
+        "title": "ความเป็นเลิศในการจัดการสโมสร"
+      },
+      "community": {
+        "help": "รางวัลสำหรับการมีส่วนร่วมในการเติบโตและเสริมสร้างชุมชน agora",
+        "title": "รางวัลชุมชน agora"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "ค้นหา",
+      "register": "ลงทะเบียน"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "ประสบความสำเร็จในการจัดระเบียบการอนุสัญญาภูมิภาคหรือระดับนานาชาติ",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "ผู้จัดประชุม"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "ผู้นำที่ผ่านการรับรอง"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "นักพูดที่ผ่านการรับรอง"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "รางวัลการให้คำปรึกษา"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "ชนะการประกวดนักพูด agora",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "ผู้ชนะการประกวด"
+        },
+        "third": {
+          "help": "เข้าเส้นชัยเป็นที่สามในการแข่งขันนักพูด agora",
+          "image": "awards.individual.contest.third.svg",
+          "title": "การประกวด อันดับ 3"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "การจัดการการประกวด agora ที่ประสบความสำเร็จ",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "ผู้จัดการการประกวด"
+        },
+        "participant": {
+          "help": "เข้าร่วมการแข่งขันนักพูด agora",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "ใบรับรองการมีส่วนร่วม"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "เข้าเส้นชัยเป็นที่สองในการแข่งขันนักพูด agora",
+          "image": "awards.individual.contest.second.svg",
+          "title": "การแข่งขั้น อันดับ 2"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "การปรับปรุงที่เห็นได้ชัดเจนที่สุด",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "รางวัลความก้าวหน้าทางการศึกษา"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "รางวัลประชาสัมพันธ์"
+      },
+      "community": {
+        "leadership": {
+          "help": "การดำเนินการที่โดดเด่นของโครงการชุมชน",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "รางวัลผู้นำชุมชน"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "ความเป็นเลิศและความมุ่งมั่นต่อภารกิจ agora",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "รางวัลสมาชิกที่โดดเด่นของเอกอัครราชทูต"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "รางวัลความแตกต่างพิเศษ"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "ผู้นำที่สำเร็จ"
+        },
+        "communicator": "ผู้สื่อสารที่ประสบความสำเร็จ"
+      },
+      "help": {
+        "help": "ความมุ่งมั่นอย่างต่อเนื่องต่อความสำเร็จของสโมสร",
+        "image": "awards.individual.help.svg",
+        "title": "การอุทิศตนเพื่อรางวัลความสำเร็จของสโมสร"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "นักพุดที่ออกสื่อกระสายเสียงที่ประสบความสำเร็จ"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "นักพูดโน้มน้าวใจที่ประสบความสำเร็จ"
+              }
+            },
+            "pr": {
+              "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "ผู้เชี่ยวชาญด้านประชาสัมพันธ์สำเร็จ"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "นักพูดที่ประสบความสำเร็จสำหรับโอกาสพิเศษ"
+              }
+            },
+            "storytelling": {
+              "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "นักเล่าเรื่องที่ประสบความสำเร็จ"
+            },
+            "educational": {
+              "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "นักพูดการศึกษาที่ประสบความสำเร็จ"
+            },
+            "business": {
+              "contexts": {
+                "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "นักพูดธุรกิจที่ประสบความสำเร็จ"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "นักคิดที่สำคัญที่ประสบความสำเร็จ"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "นักพูดที่เอาชนะอุปสรรค"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "ผู้ประกอบการที่ประสบความสำเร็จ"
+            },
+            "project": {
+              "management": {
+                "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "ผู้จัดการโครงการที่สำเร็จ"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "ผู้เชี่ยวชาญทางด้านทักษะมนุษยสัมพันธ์ที่ประสบความสำเร็จ"
+              }
+            },
+            "dramatization": {
+              "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "นักพูดที่น่าทึ่งที่ประสบความสำเร็จ"
+            },
+            "humorous": {
+              "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "นักพูดตลกที่ประสบความสำเร็จ"
+            },
+            "leadership": {
+              "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "ผู้นำที่สำเร็จ"
+            },
+            "negotiation": {
+              "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "ผู้เจรจาต่อรองที่ประสบความสำเร็จ"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "เส้นทางการศึกษาขั้นสูง {{v0}} ที่ประสบความสำเร็จแล้ว",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "ผู้เล่าเรื่องการแก้ปัญหาที่ประสบความสำเร็จ"
+              }
+            }
+          },
+          "title": "นักพูดที่ประสบความสำเร็จ"
+        },
+        "communicator": {
+          "help": "ประสบความสำเร็จในการติดตามการสื่อสารเต็มรูปแบบ",
+          "image": "awards.individual.accomplished.communicator.svg"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "ผู้นำสโมสร"
+        },
+        "founder": {
+          "help": "ประสบความสำเร็จในการก่อตั้ง agora club",
+          "image": "awards.individual.club.founder.svg",
+          "title": "ผู้ก่อตั้งสโมสร"
+        },
+        "officer": {
+          "help": "สโมสรขั้นนำที่ประสบความสำเร็จในช่วงหนึ่งปี",
+          "image": "awards.individual.club.officer.svg",
+          "title": "ผู้นำสโมสร"
+        },
+        "growth": {
+          "help": "ความเป็นเลิศในการให้คำปรึกษาและสร้างสโมสร agora ในประเทศ",
+          "image": "awards.individual.club.growth.svg",
+          "title": "รางวัลการเติบโตของสโมสร"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "การเป็นสมาชิกอย่างต่อเนื่องในสโมสรเป็นเวลา 5 ปี",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "รางวัลการครบรอบปี"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "รางวัลสมาชิกประจำเดือน"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "การเข้าร่วมประชุมอย่างต่อเนื่องและกระตือรือร้น",
+        "image": "awards.individual.attendance.svg",
+        "title": "รางวัลความมุ่งมั่น"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "รางวัลนักนวัตกรรม agora"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "ผู้ถือโคมไฟ agora"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "รางวัลโปรโมเตอร์ agora"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "รางวัลโฮสต์การประชุม"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "รางวัลผู้บุกเบิกประเทศ"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "รางวัลความเป็นเลิศทางการศึกษา"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "รางวัลการเผยแพร่การศึกษา"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "รางวัลเมืองไพโอเนียร์"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "รางวัลความเป็นเลิศ outreach excellence"
+        }
+      },
+      "media": {
+        "help": "ความเป็นเลิศในการส่งเสริมภารกิจและกิจกรรมของ agora ในสื่อ",
+        "image": "awards.club.media.svg",
+        "title": "รางวัล media excellence award"
+      },
+      "membership": {
+        "growth": "รางวัลการเติบโตของสมาชิก",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "รางวัลการเก็บข้อมูลสมาชิก"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "การดำเนินการที่โดดเด่นของโครงการชุมชน",
+          "image": "awards.club.community.leadership.svg",
+          "title": "รางวัลผู้นำชุมชน"
+        }
+      },
+      "content": {
+        "help": "ความเป็นเลิศในการสร้างเนื้อหาใหม่สำหรับชุมชน agora",
+        "image": "awards.club.content.svg",
+        "title": "รางวัลการสร้างเนื้อหา"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "รางวัล club innovator"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "รางวัลความแตกต่างพิเศษ"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "รางวัลของ ambassador"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "รางวัลการให้คำปรึกษาสโมสร"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "รางวัลสโมสรแห่งเดือน"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "ความพึงพอใจของสมาชิกกับสโมสรเกิน 90%",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "รางวัลความพึงพอใจของสมาชิก golden award"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "ความพึงพอใจของสมาชิกกับสโมสรเกิน 75%",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "รางวัลความพึงพอใจของสมาชิกเงินรางวัล"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "รางวัลความพึงพอใจของสมาชิกสโมสร"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "การเติบโตของสมาชิกมากกว่า 20 คน",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "รางวัลการเติบโตของสมาชิกสีทอง"
+          }
+        },
+        "anniversary": {
+          "help": "การดำเนินงานของสโมสรที่ประสบความสำเร็จและต่อเนื่องในช่วงสิบปี",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "รางวัลครบรอบสีทอง"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "รางวัล model club award"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "การเติบโตของสมาชิกมากกว่า 10 คน",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "รางวัลการเติบโตของสมาชิกเงิน"
+          }
+        },
+        "anniversary": {
+          "help": "การดำเนินงานที่ประสบความสำเร็จและต่อเนื่องของสโมสรในช่วงห้าปี",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "รางวัล silver anniversary"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "รางวัลสโมสรครบรอบ - {{v0}} ปี"
+      }
+    },
+    "place": {
+      "participation": "การมีส่วนร่วม"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "เป็นผู้ถามคำถามที่อยากรู้อยากเห็นมากที่สุดในการประชุม crossfire",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "ผู้เข้าร่วม crossfire ที่อยากรู้อยากเห็นมากที่สุด"
+        },
+        "survivor": {
+          "help": "รอดชีวิตจากส่วนของ crossfire ในที่ประชุม",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "ผู้รอดชีวิต crossfire"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "การเป็นพรีเซ็นเตอร์และผู้ถามการสนทนาที่ดีที่สุด",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "ผู้เข้าร่วมสนทนาที่ดีที่สุด"
+        },
+        "role": {
+          "help": "แสดงบทบาทการประชุมในทางที่ยอดเยี่ยม",
+          "image": "awards.meeting.best.role.svg",
+          "title": "บทบาทการประชุมที่ดีที่สุด"
+        },
+        "speaker": {
+          "help": "ส่งคำพูดที่เตรียมไว้ที่ดีที่สุดในการประชุมสโมสร",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "นักพูดประชุมที่ดีที่สุด"
+        },
+        "hot": {
+          "response": {
+            "help": "การกล่าวสุนทรพจน์อย่างกะทันหันที่ดีที่สุดในการประชุมสโมสร",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "วิทยากรการประชุมอย่างกะทันหันที่ดีที่สุด"
+          }
+        },
+        "speechwriter": {
+          "help": "การสร้างคำพูดที่ดีที่สุดในการประชุม",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "สุนทรพจน์การประชุมที่ดีที่สุด"
+        },
+        "evaluator": {
+          "help": "ส่งมอบการประเมินที่ดีที่สุดในการประชุมสโมสร",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "ผู้ประเมินการประชุมที่ดีที่สุด"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "มูลนิธิ agora speakers international foundation เป็นองค์กรการกุศลเพื่อการศึกษาทางโลกของยุโรปที่มอบอำนาจให้ผู้คนกลายเป็นนักสื่อสารที่เก่งกาจและเป็นผู้นำที่มีความมั่นใจซึ่งจะสร้างโลกที่ดีขึ้นอย่างแข็งขัน"
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "อื่นๆ"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "วันที่",
+      "country": "ประเทศ",
+      "address": "ที่อยู่",
+      "city": "เมือง",
+      "awards": "รางวัลที่ได้รับ",
+      "state": "รัฐ / จังหวัด / แคนตัน / ฯลฯ",
+      "event": "เหตุการณ์",
+      "region": "ภูมิภาค",
+      "points": {
+        "total": "คะแนนที่ได้รับ (ทั้งหมด)",
+        "year": "คะแนนที่ได้รับ (ปีนี้)",
+        "name": "คะแนน"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "โปรดระบุภาษาหรือภาษาที่จะใช้ในสโมสร (เช่น ภาษาอังกฤษ)"
+      },
+      "charter": {
+        "date": "วันที่เช่าเหมาลำ",
+        "help": "วันที่เช่าเหมาลำจะต้องอยู่ในอนาคต แต่ไม่ไกลกว่า 30 วัน"
+      },
+      "founder": {
+        "name": "สโมสรผู้ก่อตั้ง (ชื่อเต็ม)",
+        "email": "อีเมลของผู้ก่อตั้ง"
+      },
+      "fee": {
+        "title": "ค่าสมาชิกสโมสร (ถ้ามี)"
+      },
+      "banner": "แบนเนอร์",
+      "restrictions": {
+        "guests": {
+          "input": "โปรดอธิบายข้อ จำกัด ประเภทใดที่จะเข้าร่วมสโมสรในฐานะแขก (ถ้ามี)"
+        },
+        "membership": {
+          "input": "โปรดอธิบายถึงข้อจำกัดประเภทใดสำหรับการเข้าร่วมสโมสรในฐานะสมาชิก (ถ้ามี) หากคุณกำลังลงทะเบียนสโมสรเยาวชนโปรดระบุช่วงอายุ"
+        }
+      },
+      "type": {
+        "help": "ข้อมูลเพิ่มเติมเกี่ยวกับสโมสรต่าง ๆ ที่นี่",
+        "input": "ประเภทสโมสร"
+      },
+      "points": {
+        "date": "วันที่ดำเนินการ",
+        "action": "การกระทำของสโมสร"
+      },
+      "token": "โทเค็นลับคลับ",
+      "number": "หมายเลขสโมสร",
+      "assets": "สินทรัพย์สโมสร",
+      "awards": "รางวัลสโมสร",
+      "contact": {
+        "help": {
+          "1": "ข้อมูลการติดต่อสำหรับสโมสร ต้องเป็นทั้งอีเมลหรือโทรศัพท์",
+          "2": "ข้อมูลการติดต่อของสโมสรเพิ่มเติม - ต้องแตกต่างจากก่อนหน้านี้และสามารถเป็นอีเมล / โทรศัพท์หรือเว็บเพจกลุ่ม facebook การพบกับกลุ่ม ฯลฯ"
+        },
+        "title": "ข้อมูลติดต่อ"
+      },
+      "name": "ชื่อสโมสร",
+      "logo": {
+        "title": "คุณสามารถอัปโหลดโลโก้ของคุณเองหรือหากคุณไม่มีหนึ่งเราจะสร้างโลโก้สำหรับสโมสรของคุณโดยอัตโนมัติ"
+      },
+      "meeting": {
+        "schedule": "ตารางการประชุม",
+        "info": "ข้อมูลเพิ่มเติม"
+      },
+      "officers": "เจ้าหน้าที่สโมสร"
+    },
+    "personal": {
+      "participation": {
+        "input": "คุณมีส่วนร่วมประเภทใดที่คุณสนใจ",
+        "online": "การประชุมออนไลน์",
+        "physical": "การประชุมทางกายภาพ"
+      },
+      "languages": {
+        "interested": "คุณสนใจภาษาอะไร"
+      },
+      "joined": "วันที่เข้าร่วม",
+      "facebook": "เชื่อมโยงไปยังโปรไฟล์ facebook",
+      "roles": {
+        "date": "วันที่",
+        "role": "บทบาท",
+        "taken": "บทบาทที่รับไว้",
+        "club": "สโมสร"
+      },
+      "speeches": {
+        "persuasive": "สุนทรพจน์โน้มน้าวใจ",
+        "general": "สุนทรพจน์วัตถุประสงค์ทั่วไป",
+        "storytelling": "การเล่าเรื่อง",
+        "educational": "เกี่ยวกับการศึกษา",
+        "business": "งานนำเสนอทางธุรกิจ",
+        "interested": "คุณสนใจการเรียนรู้ / สุนทรพจน์ประเภทใด",
+        "media": "การผลิต vlogging และสื่อ",
+        "sales": "ฝ่ายขาย",
+        "humorous": "สุนทรพจน์และอารมณ์ขันขบขัน"
+      },
+      "privacy": "ฉันเห็นด้วยกับข้อกำหนดและเงื่อนไขของเว็บไซต์นี้และด้วยนโยบายความเป็นส่วนตัวของนักพูดนานาชาติ agora",
+      "history": {
+        "date": "วันที่",
+        "club": "ชื่อสโมสร",
+        "event": "เหตุการณ์"
+      },
+      "linkedin": "เชื่อมโยงไปยังโปรไฟล์ linkedin",
+      "skills": "ทักษะใดต่อไปนี้ที่คุณสนใจในการปรับปรุง",
+      "number": "หมายเลขสมาชิก",
+      "password": {
+        "input": "รหัสผ่าน",
+        "verify": "ทำซ้ำรหัสผ่านสำหรับการตรวจสอบ"
+      },
+      "clubs": {
+        "role": "บทบาท"
+      },
+      "name": {
+        "address": {
+          "help": "เราควรจัดการกับคุณในการสื่อสารของเราได้อย่างไร (เช่นอีเมลถึงคุณ)",
+          "field": "ชื่อที่ต้องการสำหรับการสื่อสาร:"
+        },
+        "certificates": {
+          "help": "ชื่อของคุณควรปรากฏบนใบรับรองและรางวัลที่คุณได้รับอย่างไร",
+          "input": "ชื่อที่ต้องการสำหรับใบรับรอง"
+        },
+        "online": {
+          "help": "ชื่อของคุณควรปรากฏในระบบออนไลน์ของเราฟอรัม ฯลฯ อย่างไร",
+          "input": "ชื่อออนไลน์ที่ต้องการ"
+        },
+        "full": "ชื่อเต็ม"
+      },
+      "principles": {
+        "agreement": "โปรดระบุข้อตกลงของคุณด้วยหลักการหลักของเรา"
+      },
+      "position": "ตำแหน่งปัจจุบันในสโมสร",
+      "interests": {
+        "11": {
+          "language": "ฉันสนใจที่จะพัฒนาทักษะภาษาต่างประเทศของฉัน"
+        },
+        "01": {
+          "curious": "ฉันแค่อยากรู้เกี่ยวกับองค์กร"
+        },
+        "12": {
+          "contests": "ฉันสนใจแข่งขันในการแข่งขันที่จัดโดยนักพูดระหว่างประเทศของ agora"
+        },
+        "02": {
+          "confidence": "ฉันต้องการปรับปรุงความมั่นใจในตนเอง"
+        },
+        "13": {
+          "critical": "ฉันสนใจที่จะเรียนรู้ที่จะคิดอย่างมีวิจารณญาณ"
+        },
+        "03": {
+          "communicate": "ฉันต้องการเรียนรู้ที่จะสื่อสารอย่างมีประสิทธิภาพมากขึ้น"
+        },
+        "14": {
+          "friends": "ฉันสนใจที่จะพบปะผู้คนและหาเพื่อนใหม่"
+        },
+        "04": {
+          "speak": "ฉันต้องการพัฒนาทักษะการพูดในที่สาธารณะของฉัน"
+        },
+        "15": {
+          "cooperation": "ฉันสนใจในการแลกเปลี่ยนวัฒนธรรมและกิจกรรมความร่วมมือข้ามวัฒนธรรม"
+        },
+        "question": "คุณสนใจอะไรในนักพูด agora ระหว่างประเทศ",
+        "05": {
+          "leadership": "ฉันต้องการพัฒนาทักษะความเป็นผู้นำของฉัน"
+        },
+        "16": {
+          "startclub": "ฉันต้องการเริ่มสโมสร agora ในเมืองของฉัน"
+        },
+        "06": {
+          "networking": "ฉันสนใจในเครือข่ายมืออาชีพ"
+        },
+        "17": {
+          "ambassador": "ฉันต้องการที่จะเป็นทูต agora สำหรับประเทศของฉัน"
+        },
+        "07": {
+          "presentations": "ฉันสนใจที่จะส่งงานนำเสนอธุรกิจ"
+        },
+        "18": {
+          "partnership": "ฉันสนใจหุ้นส่วนระหว่างองค์กรของฉันและนักพูด agora นานาชาติ"
+        },
+        "08": {
+          "events": "ฉันสนใจในการประชุมเชิงปฏิบัติการ สัมมนา และกิจกรรมที่คุณจัด"
+        },
+        "09": {
+          "debating": "ฉันสนใจที่จะโต้วาทีและโต้แย้ง"
+        },
+        "10": {
+          "community": "ฉันต้องการสร้างความแตกต่างในชุมชนของฉัน"
+        }
+      },
+      "email": "อีเมล"
+    },
+    "meeting": {
+      "date": "วันประชุม",
+      "number": "หมายเลขการประชุม",
+      "venue": {
+        "name": "ชื่อสถานที่"
+      },
+      "address": {
+        "input": "ที่อยู่ของสถานที่ประชุม"
+      },
+      "online": {
+        "software": "ซอฟต์แวร์การประชุม",
+        "link": "ลิงค์ที่จะเข้าร่วม",
+        "id": "id การประชุมออนไลน์",
+        "title": "ข้อมูลสำหรับการประชุมออนไลน์",
+        "passowrd": "รหัสผ่านเพื่อเข้าร่วม"
+      },
+      "theme": "ชุดรูปแบบของการประชุม (ถ้ามี)",
+      "time": "เวลาประชุม"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) copyright agora speakers international สงวนลิขสิทธิ์ เนื้อหาและทรัพย์สินของ agora อาจใช้งานได้เฉพาะตามข้อกำหนดและเงื่อนไขของเราเท่านั้น"
+    },
+    "terms": "ข้อกำหนดและเงื่อนไข",
+    "legal": {
+      "notice": "ข้อมูลทางกฎหมาย"
+    },
+    "privacy": {
+      "policy": "นโยบายความเป็นส่วนตัว"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "ฮินดี",
+      "ps": "พัชโต",
+      "pt": "โปรตุเกส",
+      "hr": "โครเอเชีย",
+      "pt_br": "Brazilian",
+      "hu": "ฮังการี",
+      "yi": "ยิดดิช",
+      "hy": "อาร์เมเนีย",
+      "yo": "โยรูบา",
+      "ia": "อินเตอร์ลิงกัว",
+      "id": "อินโดนีเซีย",
+      "ig": "อิกโบ",
+      "ii": "เสฉวนยี่",
+      "qu": "เคชวา",
+      "af": "แอฟริกานส์",
+      "ak": "อาคาน",
+      "is": "ไอซ์แลนด์",
+      "it": "อิตาลี",
+      "am": "อัมฮารา",
+      "zh": "จีน",
+      "ar": "อาหรับ",
+      "as": "อัสสัม",
+      "ja": "ญี่ปุ่น",
+      "az": "อาเซอร์ไบจาน",
+      "rm": "โรแมนซ์",
+      "zu": "ซูลู",
+      "rn": "บุรุนดี",
+      "ro": "โรมาเนีย",
+      "be": "เบลารุส",
+      "ru": "รัสเซีย",
+      "bg": "บัลแกเรีย",
+      "rw": "รวันดา",
+      "bm": "บัมบารา",
+      "bn": "บังกลา",
+      "jv": "ชวา",
+      "bo": "ทิเบต",
+      "sa": "สันสกฤต",
+      "br": "เบรตัน",
+      "bs": "บอสเนีย",
+      "sd": "สินธิ",
+      "se": "ซามิเหนือ",
+      "sg": "ซันโก",
+      "sh": "เซอร์โบ-โครเอเชีย",
+      "ka": "จอร์เจีย",
+      "si": "สิงหล",
+      "sk": "สโลวัก",
+      "sl": "สโลวีเนีย",
+      "sn": "โชนา",
+      "so": "โซมาลี",
+      "ca": "คาตาลัน",
+      "ki": "กีกูยู",
+      "sq": "แอลเบเนีย",
+      "sr": "เซอร์เบีย",
+      "kk": "คาซัค",
+      "kl": "กรีนแลนด์",
+      "ce": "เชเชน",
+      "km": "เขมร",
+      "su": "ซุนดา",
+      "kn": "กันนาดา",
+      "sv": "สวีเดน",
+      "ko": "เกาหลี",
+      "sw": "สวาฮีลี",
+      "ks": "แคชเมียร์",
+      "ku": "เคิร์ด",
+      "kw": "คอร์นิช",
+      "ta": "ทมิฬ",
+      "ky": "คีร์กีซ",
+      "cs": "เช็ก",
+      "te": "เตลูกู",
+      "tg": "ทาจิก",
+      "th": "ไทย",
+      "ti": "ติกริญญา",
+      "cy": "เวลส์",
+      "lb": "ลักเซมเบิร์ก",
+      "tk": "เติร์กเมน",
+      "tl": "ตากาล็อก",
+      "lg": "ยูกันดา",
+      "to": "ตองกา",
+      "da": "เดนมาร์ก",
+      "tr": "ตุรกี",
+      "tt": "ตาตาร์",
+      "de": "เยอรมัน",
+      "ln": "ลิงกาลา",
+      "lo": "ลาว",
+      "lt": "ลิทัวเนีย",
+      "lu": "ลูบา-กาตองกา",
+      "lv": "ลัตเวีย",
+      "ug": "อุยกูร์",
+      "dz": "ซองคา",
+      "uk": "ยูเครน",
+      "mg": "มาลากาซี",
+      "mi": "เมารี",
+      "ur": "อูรดู",
+      "mk": "มาซิโดเนีย",
+      "ml": "มาลายาลัม",
+      "ee": "เอเว",
+      "mn": "มองโกเลีย",
+      "mr": "มราฐี",
+      "uz": "อุซเบก",
+      "ms": "มาเลย์",
+      "el": "กรีก",
+      "mt": "มอลตา",
+      "en": "อังกฤษ",
+      "eo": "เอสเปรันโต",
+      "my": "พม่า",
+      "es": "สเปน",
+      "et": "เอสโตเนีย",
+      "eu": "บาสก์",
+      "vi": "เวียดนาม",
+      "nb": "นอร์เวย์บุคมอล",
+      "nd": "เอ็นเดเบเลเหนือ",
+      "ne": "เนปาล",
+      "fa": "เปอร์เซีย",
+      "nl": "ดัตช์",
+      "ff": "ฟูลาห์",
+      "nn": "นอร์เวย์นีนอสก์",
+      "no": "นอร์เวย์",
+      "fi": "ฟินแลนด์",
+      "fo": "แฟโร",
+      "fr": "ฝรั่งเศส",
+      "fy": "ฟริเซียนตะวันตก",
+      "wo": "โวลอฟ",
+      "ga": "ไอริช",
+      "gd": "เกลิกสกอต",
+      "om": "โอโรโม",
+      "or": "โอดิยา",
+      "os": "ออสเซเตีย",
+      "gl": "กาลิเซีย",
+      "gu": "คุชราต",
+      "gv": "มานซ์",
+      "xh": "คะห์โอซา",
+      "pa": "ปัญจาบ",
+      "ha": "เฮาซา",
+      "pl": "โปแลนด์",
+      "he": "ฮิบรู"
+    },
+    "full": {
+      "hi": "ฮินดี (हिन्दी)",
+      "ps": "พัชโต (پښتو)",
+      "pt": "โปรตุเกส (Português)",
+      "hr": "โครเอเชีย (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "ฮังการี (Magyar)",
+      "yi": "ยิดดิช (ייִדיש)",
+      "hy": "อาร์เมเนีย (Հայերեն)",
+      "yo": "โยรูบา (Èdè Yorùbá)",
+      "ia": "อินเตอร์ลิงกัว (Interlingua)",
+      "id": "อินโดนีเซีย (Indonesia)",
+      "ig": "อิกโบ (Igbo)",
+      "ii": "เสฉวนยี่ (ꆈꌠꉙ)",
+      "qu": "เคชวา (Runasimi)",
+      "af": "แอฟริกานส์ (Afrikaans)",
+      "ak": "อาคาน (Akan)",
+      "is": "ไอซ์แลนด์ (Íslenska)",
+      "it": "อิตาลี (Italiano)",
+      "am": "อัมฮารา (አማርኛ)",
+      "zh": "จีน (中文)",
+      "ar": "อาหรับ (العربية)",
+      "as": "อัสสัม (অসমীয়া)",
+      "ja": "ญี่ปุ่น (日本語)",
+      "az": "อาเซอร์ไบจาน (Azərbaycan)",
+      "rm": "โรแมนซ์ (Rumantsch)",
+      "zu": "ซูลู (IsiZulu)",
+      "rn": "บุรุนดี (Ikirundi)",
+      "ro": "โรมาเนีย (Română)",
+      "be": "เบลารุส (Беларуская)",
+      "ru": "รัสเซีย (Русский)",
+      "bg": "บัลแกเรีย (Български)",
+      "rw": "รวันดา (Kinyarwanda)",
+      "bm": "บัมบารา (Bamanakan)",
+      "bn": "บังกลา (বাংলা)",
+      "jv": "ชวา (Jawa)",
+      "bo": "ทิเบต (བོད་སྐད་)",
+      "sa": "สันสกฤต (संस्कृत भाषा)",
+      "br": "เบรตัน (Brezhoneg)",
+      "bs": "บอสเนีย (Bosanski)",
+      "sd": "สินธิ (سنڌي)",
+      "se": "ซามิเหนือ (Davvisámegiella)",
+      "sg": "ซันโก (Sängö)",
+      "sh": "เซอร์โบ-โครเอเชีย (Srpskohrvatski)",
+      "ka": "จอร์เจีย (ქართული)",
+      "si": "สิงหล (සිංහල)",
+      "sk": "สโลวัก (Slovenčina)",
+      "sl": "สโลวีเนีย (Slovenščina)",
+      "sn": "โชนา (ChiShona)",
+      "so": "โซมาลี (Soomaali)",
+      "ca": "คาตาลัน (Català)",
+      "ki": "กีกูยู (Gikuyu)",
+      "sq": "แอลเบเนีย (Shqip)",
+      "sr": "เซอร์เบีย (Српски)",
+      "kk": "คาซัค (Қазақ тілі)",
+      "kl": "กรีนแลนด์ (Kalaallisut)",
+      "ce": "เชเชน (Нохчийн)",
+      "km": "เขมร (ខ្មែរ)",
+      "su": "ซุนดา (Basa Sunda)",
+      "kn": "กันนาดา (ಕನ್ನಡ)",
+      "sv": "สวีเดน (Svenska)",
+      "ko": "เกาหลี (한국어)",
+      "sw": "สวาฮีลี (Kiswahili)",
+      "ks": "แคชเมียร์ (کٲشُر)",
+      "ku": "เคิร์ด (Kurdî)",
+      "kw": "คอร์นิช (Kernewek)",
+      "ta": "ทมิฬ (தமிழ்)",
+      "ky": "คีร์กีซ (Кыргызча)",
+      "cs": "เช็ก (Čeština)",
+      "te": "เตลูกู (తెలుగు)",
+      "tg": "ทาจิก (Тоҷикӣ)",
+      "th": "ไทย (ไทย)",
+      "ti": "ติกริญญา (ትግር)",
+      "cy": "เวลส์ (Cymraeg)",
+      "lb": "ลักเซมเบิร์ก (Lëtzebuergesch)",
+      "tk": "เติร์กเมน (Türkmen dili)",
+      "tl": "ตากาล็อก (Tagalog)",
+      "lg": "ยูกันดา (Luganda)",
+      "to": "ตองกา (Lea fakatonga)",
+      "da": "เดนมาร์ก (Dansk)",
+      "tr": "ตุรกี (Türkçe)",
+      "tt": "ตาตาร์ (Татар)",
+      "de": "เยอรมัน (Deutsch)",
+      "ln": "ลิงกาลา (Lingála)",
+      "lo": "ลาว (ລາວ)",
+      "lt": "ลิทัวเนีย (Lietuvių)",
+      "lu": "ลูบา-กาตองกา (Tshiluba)",
+      "lv": "ลัตเวีย (Latviešu)",
+      "ug": "อุยกูร์ (ئۇيغۇرچە)",
+      "dz": "ซองคา (རྫོང་ཁ)",
+      "uk": "ยูเครน (Українська)",
+      "mg": "มาลากาซี (Malagasy)",
+      "mi": "เมารี (Te reo Māori)",
+      "ur": "อูรดู (اردو)",
+      "mk": "มาซิโดเนีย (Македонски)",
+      "ml": "มาลายาลัม (മലയാളം)",
+      "ee": "เอเว (Eʋegbe)",
+      "mn": "มองโกเลีย (Монгол)",
+      "mr": "มราฐี (मराठी)",
+      "uz": "อุซเบก (O‘zbek)",
+      "ms": "มาเลย์ (Melayu)",
+      "el": "กรีก (Ελληνικά)",
+      "mt": "มอลตา (Malti)",
+      "en": "อังกฤษ (English)",
+      "eo": "เอสเปรันโต (Esperanto)",
+      "my": "พม่า (မြန်မာ)",
+      "es": "สเปน (Español)",
+      "et": "เอสโตเนีย (Eesti)",
+      "eu": "บาสก์ (Euskara)",
+      "vi": "เวียดนาม (Tiếng Việt)",
+      "nb": "นอร์เวย์บุคมอล (Norsk bokmål)",
+      "nd": "เอ็นเดเบเลเหนือ (IsiNdebele)",
+      "ne": "เนปาล (नेपाली)",
+      "fa": "เปอร์เซีย (فارسی)",
+      "nl": "ดัตช์ (Nederlands)",
+      "ff": "ฟูลาห์ (Pulaar)",
+      "nn": "นอร์เวย์นีนอสก์ (Norsk nynorsk)",
+      "no": "นอร์เวย์ (Norsk)",
+      "fi": "ฟินแลนด์ (Suomi)",
+      "fo": "แฟโร (Føroyskt)",
+      "fr": "ฝรั่งเศส (Français)",
+      "fy": "ฟริเซียนตะวันตก (Frysk)",
+      "wo": "โวลอฟ (Wolof)",
+      "ga": "ไอริช (Gaeilge)",
+      "gd": "เกลิกสกอต (Gàidhlig)",
+      "om": "โอโรโม (Oromoo)",
+      "or": "โอดิยา (ଓଡ଼ିଆ)",
+      "os": "ออสเซเตีย (Ирон)",
+      "gl": "กาลิเซีย (Galego)",
+      "gu": "คุชราต (ગુજરાતી)",
+      "gv": "มานซ์ (Gaelg)",
+      "xh": "คะห์โอซา (IsiXhosa)",
+      "pa": "ปัญจาบ (ਪੰਜਾਬੀ)",
+      "ha": "เฮาซา (Hausa)",
+      "pl": "โปแลนด์ (Polski)",
+      "he": "ฮิบรู (עברית)"
+    }
+  }
+}

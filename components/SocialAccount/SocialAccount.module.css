@@ -1,0 +1,35 @@
+.help {
+  color: #767676;
+  font-size: 0.75em;
+}
+
+.subtitle {
+  color: #767676;
+  font-size: 0.85em;
+  margin-bottom: 1em;
+}
+
+.formItem {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.heading {
+  font-size: 1.5em !important;
+}
+
+.bodyTemplate {
+  display: flex;
+  align-items: center;
+}
+
+.socialContainer {
+  max-width: 800px;
+  width: 100%;
+}
+
+.body {
+  vertical-align: middle;
+  text-align: center;
+}

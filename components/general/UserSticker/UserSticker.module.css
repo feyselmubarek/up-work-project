@@ -1,0 +1,14 @@
+/*
+ * Copyright (c) 2022. Agora Speakers International.  All rights reserved.
+ * This file is subject to the terms and conditions defined in the  'LICENSE.txt' file which is part of this source code package.
+ *
+ * Author: Alexander Hristov
+ */
+.userSticker {
+    padding: 5px;
+    pading-left:5px;
+    padding-right:1em;
+    font-weight:bold;
+    text-decoration: none;
+    color: var(--agora-teal-3)
+}

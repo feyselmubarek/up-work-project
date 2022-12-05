@@ -1,0 +1,14 @@
+.container {
+  max-width: 35em;
+  width: 100%;
+  padding: 0.5em;
+  border-radius: 5px;
+  max-height: 15em;
+  overflow-y: scroll;
+}
+
+.subtitle {
+  color: #767676;
+  font-size: 0.85em;
+  margin-bottom: 1em;
+}

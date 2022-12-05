@@ -1,0 +1,51 @@
+.subtitle {
+  color: #767676;
+  font-size: 0.85em;
+  margin-bottom: 1em;
+}
+
+.help {
+  color: #767676;
+  font-size: 0.75em;
+  max-width: 27.5em;
+  width: 100%;
+}
+
+.formItem {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.btnHelper {
+  max-width: 345px;
+  width: 100%;
+}
+
+.btn {
+  max-width: 20em;
+  width: 100%;
+  text-decoration: none !important;
+}
+
+.customPanel {
+  max-width: 22em;
+  width: 100%;
+  position: relative;
+}
+
+.urlPrefix {
+  width: 60% !important;
+  background-color: #152050;
+  border-radius: 5px;
+  overflow: hidden;
+  padding-right: 0em;
+}
+
+.customUrl {
+  width: 40% !important;
+}
+
+.header {
+  text-transform: capitalize;
+}

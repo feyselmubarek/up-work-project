@@ -1,0 +1,53 @@
+.hiddenInput {
+  visibility: hidden;
+}
+
+.imagePanel {
+  max-width: 250px;
+  max-height: 250px;
+  position: relative;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.img {
+  max-width: 250px;
+  max-height: 250px;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.cancelBtn {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: white !important;
+}
+
+.uploadBtn {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  background: white !important;
+}
+
+.help {
+  font-size: 0.7em;
+  color: #ce3c17;
+  text-align: left;
+}
+
+.imgContainer {
+  display: flex;
+  flex-direction: column;
+  max-width: 700px;
+}
+
+.chooseBtn {
+  max-width: 250px;
+}
+
+.errorBorder {
+  border: 1px solid #ce3c17;
+}

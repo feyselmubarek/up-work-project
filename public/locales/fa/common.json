@@ -1,0 +1,1997 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "انجمن مرجع",
+      "corporate": "انجمن مشارکتی",
+      "restricted": "انجمن محدود",
+      "term": "انجمن Agora",
+      "pic": "انجمن خیریه",
+      "open": "انجمن عمومی"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "پورتو ریکو"
+    },
+    "ps": {
+      "name": "فلسطین"
+    },
+    "pt": {
+      "name": "پرتغال"
+    },
+    "pw": {
+      "name": "پالائو"
+    },
+    "py": {
+      "name": "پاراگوئه"
+    },
+    "qa": {
+      "name": "قطر"
+    },
+    "ad": {
+      "name": "آندورا"
+    },
+    "ae": {
+      "name": "امارات متحدهٔ عربی"
+    },
+    "af": {
+      "name": "افغانستان"
+    },
+    "ag": {
+      "name": "آنتیگوا و باربودا"
+    },
+    "ai": {
+      "name": "آنگیل"
+    },
+    "al": {
+      "name": "آلبانی"
+    },
+    "am": {
+      "name": "ارمنستان"
+    },
+    "ao": {
+      "name": "آنگولا"
+    },
+    "aq": {
+      "name": "جنوبگان"
+    },
+    "ar": {
+      "name": "آرژانتین"
+    },
+    "as": {
+      "name": "ساموای امریکا"
+    },
+    "at": {
+      "name": "اتریش"
+    },
+    "re": {
+      "name": "ریونیون"
+    },
+    "au": {
+      "name": "استرالیا"
+    },
+    "aw": {
+      "name": "آروبا"
+    },
+    "ax": {
+      "name": "جزایر آلاند"
+    },
+    "az": {
+      "name": "جمهوری آذربایجان"
+    },
+    "ro": {
+      "name": "رومانی"
+    },
+    "ba": {
+      "name": "بوسنی و هرزگوین"
+    },
+    "bb": {
+      "name": "باربادوس"
+    },
+    "rs": {
+      "name": "صربستان"
+    },
+    "bd": {
+      "name": "بنگلادش"
+    },
+    "be": {
+      "name": "بلژیک"
+    },
+    "ru": {
+      "name": "روسیه"
+    },
+    "bf": {
+      "name": "بورکینافاسو"
+    },
+    "bg": {
+      "name": "بلغارستان"
+    },
+    "rw": {
+      "name": "رواندا"
+    },
+    "bh": {
+      "name": "بحرین"
+    },
+    "bi": {
+      "name": "بوروندی"
+    },
+    "bj": {
+      "name": "بنین"
+    },
+    "bl": {
+      "name": "سنت بارتلیمی"
+    },
+    "bm": {
+      "name": "برمودا"
+    },
+    "bn": {
+      "name": "برونئی"
+    },
+    "bo": {
+      "name": "بولیوی"
+    },
+    "sa": {
+      "name": "عربستان سعودی"
+    },
+    "bq": {
+      "name": "سابا سینت یوستیشس بونیر"
+    },
+    "sb": {
+      "name": "جزایر سلیمان"
+    },
+    "br": {
+      "name": "برزیل"
+    },
+    "sc": {
+      "name": "سیشل"
+    },
+    "bs": {
+      "name": "باهاما"
+    },
+    "sd": {
+      "name": "سودان"
+    },
+    "bt": {
+      "name": "بوتان"
+    },
+    "se": {
+      "name": "سوئد"
+    },
+    "bv": {
+      "name": "جزیرهٔ بووت"
+    },
+    "sg": {
+      "name": "سنگاپور"
+    },
+    "bw": {
+      "name": "بوتسوانا"
+    },
+    "sh": {
+      "name": "سنت هلن"
+    },
+    "si": {
+      "name": "اسلوونی"
+    },
+    "by": {
+      "name": "بیلوروسی"
+    },
+    "sj": {
+      "name": "اسوالبارد و جان ماین"
+    },
+    "bz": {
+      "name": "بلیز"
+    },
+    "sk": {
+      "name": "اسلواکی"
+    },
+    "sl": {
+      "name": "سیرالئون"
+    },
+    "sm": {
+      "name": "سان مارینو"
+    },
+    "sn": {
+      "name": "سنگال"
+    },
+    "so": {
+      "name": "سومالی"
+    },
+    "ca": {
+      "name": "کانادا"
+    },
+    "sr": {
+      "name": "سورینام"
+    },
+    "cc": {
+      "name": "جزایر کوکوس"
+    },
+    "ss": {
+      "name": "سودان جنوبی"
+    },
+    "cd": {
+      "name": "جمهوری دموکراتیک کنگو"
+    },
+    "st": {
+      "name": "سائو تومه و پرینسیپه"
+    },
+    "cf": {
+      "name": "جمهوری آفریقای مرکزی"
+    },
+    "sv": {
+      "name": "السالوادور"
+    },
+    "cg": {
+      "name": "جمهوری کنگو"
+    },
+    "ch": {
+      "name": "سوئیس"
+    },
+    "sx": {
+      "name": "سنت مارتن بخش هلندی "
+    },
+    "ci": {
+      "name": "ساحل عاج"
+    },
+    "sy": {
+      "name": "سوریه"
+    },
+    "sz": {
+      "name": "سوازیلند"
+    },
+    "ck": {
+      "name": "جزایر کوک"
+    },
+    "cl": {
+      "name": "شیلی"
+    },
+    "cm": {
+      "name": "کامرون"
+    },
+    "cn": {
+      "name": "چین"
+    },
+    "co": {
+      "name": "کلمبیا"
+    },
+    "cr": {
+      "name": "کاستاریکا"
+    },
+    "tc": {
+      "name": "جزایر ترک و کایکوس"
+    },
+    "td": {
+      "name": "چاد"
+    },
+    "cu": {
+      "name": "کوبا"
+    },
+    "tf": {
+      "name": "سرزمین‌های جنوبی و جنوبگانی فرانسه"
+    },
+    "cv": {
+      "name": "کیپ ورد"
+    },
+    "tg": {
+      "name": "توگو"
+    },
+    "cw": {
+      "name": "کوراسائو"
+    },
+    "th": {
+      "name": "تایلند"
+    },
+    "cx": {
+      "name": "جزیرهٔ کریسمس"
+    },
+    "cy": {
+      "name": "قبرس"
+    },
+    "tj": {
+      "name": "تاجیکستان"
+    },
+    "cz": {
+      "name": "جمهوری چک"
+    },
+    "tk": {
+      "name": "توکلائو"
+    },
+    "tl": {
+      "name": "تیمور شرقی"
+    },
+    "tm": {
+      "name": "ترکمنستان"
+    },
+    "tn": {
+      "name": "تونس"
+    },
+    "to": {
+      "name": "تونگا"
+    },
+    "tr": {
+      "name": "ترکیه"
+    },
+    "tt": {
+      "name": "ترینیداد و توباگو"
+    },
+    "de": {
+      "name": "آلمان"
+    },
+    "tv": {
+      "name": "تووالو"
+    },
+    "tw": {
+      "name": "تایوان"
+    },
+    "dj": {
+      "name": "جیبوتی"
+    },
+    "tz": {
+      "name": "تانزانیا"
+    },
+    "dk": {
+      "name": "دانمارک"
+    },
+    "dm": {
+      "name": "دومینیک"
+    },
+    "do": {
+      "name": "جمهوری دومینیکن"
+    },
+    "ua": {
+      "name": "اوکراین"
+    },
+    "ug": {
+      "name": "اوگاندا"
+    },
+    "dz": {
+      "name": "الجزایر"
+    },
+    "um": {
+      "name": "جزایر کوچک دورافتادهٔ ایالات متحده"
+    },
+    "ec": {
+      "name": "اکوادر"
+    },
+    "us": {
+      "name": "ایالات متحدهٔ امریکا"
+    },
+    "ee": {
+      "name": "استونی"
+    },
+    "eg": {
+      "name": "مصر"
+    },
+    "eh": {
+      "name": "صحرای غربی"
+    },
+    "uy": {
+      "name": "اوروگوئه"
+    },
+    "uz": {
+      "name": "ازبکستان"
+    },
+    "va": {
+      "name": "واتیکان"
+    },
+    "er": {
+      "name": "اریتره"
+    },
+    "vc": {
+      "name": "سنت وینسنت و گرنادین‌ها"
+    },
+    "es": {
+      "name": "اسپانیا"
+    },
+    "et": {
+      "name": "اتیوپی"
+    },
+    "ve": {
+      "name": "ونزوئلا"
+    },
+    "vg": {
+      "name": "جزایر ویرجین بریتانیا"
+    },
+    "vi": {
+      "name": "جزایر ویرجین ایالات متحده"
+    },
+    "vn": {
+      "name": "ویتنام"
+    },
+    "vu": {
+      "name": "وانواتو"
+    },
+    "fi": {
+      "name": "فنلاند"
+    },
+    "fj": {
+      "name": "فیجی"
+    },
+    "fk": {
+      "name": "جزایر فالکلند"
+    },
+    "fm": {
+      "name": "ایالات فدرال میکرونزی"
+    },
+    "fo": {
+      "name": "جزایر فارو"
+    },
+    "fr": {
+      "name": "فرانسه"
+    },
+    "wf": {
+      "name": "والیس و فیوتونا"
+    },
+    "ga": {
+      "name": "گابون"
+    },
+    "gb": {
+      "name": "بریتانیا"
+    },
+    "ws": {
+      "name": "ساموا"
+    },
+    "gd": {
+      "name": "گرانادا"
+    },
+    "ge": {
+      "name": "گرجستان"
+    },
+    "gf": {
+      "name": "گویان فرانسه"
+    },
+    "gg": {
+      "name": "گرنزی"
+    },
+    "gh": {
+      "name": "غنا"
+    },
+    "gi": {
+      "name": "جبل‌الطارق"
+    },
+    "gl": {
+      "name": "گروئنلند"
+    },
+    "gm": {
+      "name": "گامبیا"
+    },
+    "gn": {
+      "name": "گینه"
+    },
+    "gp": {
+      "name": "گوادلوپ"
+    },
+    "gq": {
+      "name": "گینهٔ استوایی"
+    },
+    "gr": {
+      "name": "یونان"
+    },
+    "gs": {
+      "name": "جورجیای جنوبی و جزایر ساندویچ جنوبی"
+    },
+    "gt": {
+      "name": "گواتمالا"
+    },
+    "gu": {
+      "name": "گوام"
+    },
+    "gw": {
+      "name": "گینهٔ بیسائو"
+    },
+    "gy": {
+      "name": "گویان"
+    },
+    "hk": {
+      "name": "هنگ کنگ"
+    },
+    "hm": {
+      "name": "جزیرهٔ هرد و جزایر مک‌دونالد"
+    },
+    "hn": {
+      "name": "هندوراس"
+    },
+    "hr": {
+      "name": "کرواسی"
+    },
+    "ht": {
+      "name": "هاییتی"
+    },
+    "ye": {
+      "name": "یمن"
+    },
+    "hu": {
+      "name": "مجارستان"
+    },
+    "id": {
+      "name": "اندونزی"
+    },
+    "yt": {
+      "name": "مایوت"
+    },
+    "ie": {
+      "name": "ایرلند"
+    },
+    "il": {
+      "name": "اسرائیل"
+    },
+    "im": {
+      "name": "جزیرهٔ مان"
+    },
+    "in": {
+      "name": "هند"
+    },
+    "io": {
+      "name": "قلمرو بریتانیا در اقیانوس هند"
+    },
+    "za": {
+      "name": "افریقای جنوبی"
+    },
+    "iq": {
+      "name": "عراق"
+    },
+    "ir": {
+      "name": "ایران"
+    },
+    "is": {
+      "name": "ایسلند"
+    },
+    "it": {
+      "name": "ایتالیا"
+    },
+    "zm": {
+      "name": "زامبیا"
+    },
+    "je": {
+      "name": "جرسی"
+    },
+    "zw": {
+      "name": "زیمبابوه"
+    },
+    "jm": {
+      "name": "جامائیکا"
+    },
+    "jo": {
+      "name": "اردن"
+    },
+    "jp": {
+      "name": "ژاپن"
+    },
+    "ke": {
+      "name": "کنیا"
+    },
+    "kg": {
+      "name": "قرقیزستان"
+    },
+    "kh": {
+      "name": "کامبوج"
+    },
+    "ki": {
+      "name": "کیریباتی"
+    },
+    "km": {
+      "name": "کومورو"
+    },
+    "kn": {
+      "name": "سنت کیتس و نویس"
+    },
+    "kp": {
+      "name": "کرهٔ شمالی"
+    },
+    "kr": {
+      "name": "کرهٔ جنوبی"
+    },
+    "kw": {
+      "name": "کویت"
+    },
+    "ky": {
+      "name": "جزایر کِیمن"
+    },
+    "kz": {
+      "name": "قزاقستان"
+    },
+    "la": {
+      "name": "لائوس"
+    },
+    "lb": {
+      "name": "لبنان"
+    },
+    "lc": {
+      "name": "سنت لوسیا"
+    },
+    "li": {
+      "name": "لیختن‌اشتاین"
+    },
+    "lk": {
+      "name": "سری‌لانکا"
+    },
+    "lr": {
+      "name": "لیبریا"
+    },
+    "ls": {
+      "name": "لسوتو"
+    },
+    "lt": {
+      "name": "لیتوانی"
+    },
+    "lu": {
+      "name": "لوکزامبورگ"
+    },
+    "lv": {
+      "name": "لتونی"
+    },
+    "ly": {
+      "name": "لیبی"
+    },
+    "ma": {
+      "name": "مراکش"
+    },
+    "mc": {
+      "name": "موناکو"
+    },
+    "md": {
+      "name": "مولداوی"
+    },
+    "me": {
+      "name": "مونته‌نگرو"
+    },
+    "mf": {
+      "name": "سنت مارتین"
+    },
+    "mg": {
+      "name": "ماداگاسکار"
+    },
+    "mh": {
+      "name": "جزایر مارشال"
+    },
+    "mk": {
+      "name": "مقدونیه"
+    },
+    "ml": {
+      "name": "مالی"
+    },
+    "mm": {
+      "name": "میانمار"
+    },
+    "mn": {
+      "name": "مغولستان"
+    },
+    "mo": {
+      "name": "ماکائو"
+    },
+    "mp": {
+      "name": "جزایر ماریانای شمالی"
+    },
+    "mq": {
+      "name": "مارتینیک"
+    },
+    "mr": {
+      "name": "موریتانی"
+    },
+    "ms": {
+      "name": "مونت‌سرات"
+    },
+    "mt": {
+      "name": "مالت"
+    },
+    "mu": {
+      "name": "موریس"
+    },
+    "mv": {
+      "name": "مالدیو"
+    },
+    "mw": {
+      "name": "مالاوی"
+    },
+    "mx": {
+      "name": "مکزیک"
+    },
+    "my": {
+      "name": "مالزی"
+    },
+    "mz": {
+      "name": "موزامبیک"
+    },
+    "na": {
+      "name": "نامیبیا"
+    },
+    "nc": {
+      "name": "کالدونیای جدید"
+    },
+    "ne": {
+      "name": "نیجر"
+    },
+    "nf": {
+      "name": "جزیرهٔ نورفولک"
+    },
+    "ng": {
+      "name": "نیجریه"
+    },
+    "ni": {
+      "name": "نیکاراگوئه"
+    },
+    "nl": {
+      "name": "هلند"
+    },
+    "no": {
+      "name": "نروژ"
+    },
+    "np": {
+      "name": "نپال"
+    },
+    "nr": {
+      "name": "نائورو"
+    },
+    "nu": {
+      "name": "نیوئه"
+    },
+    "nz": {
+      "name": "زلاند نو"
+    },
+    "om": {
+      "name": "عمان"
+    },
+    "pa": {
+      "name": "پاناما"
+    },
+    "pe": {
+      "name": "پرو"
+    },
+    "pf": {
+      "name": "پلی‌نزی فرانسه"
+    },
+    "pg": {
+      "name": "پاپوا گینهٔ نو"
+    },
+    "ph": {
+      "name": "فیلیپین"
+    },
+    "pk": {
+      "name": "پاکستان"
+    },
+    "pl": {
+      "name": "لهستان"
+    },
+    "pm": {
+      "name": "سنت پیر و میکلون"
+    },
+    "pn": {
+      "name": "پیتکایرن"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "جوایز برای دستیابی به اهداف آموزشی در برنامه Agora",
+        "title": "جوایز آموزشی"
+      },
+      "social": {
+        "help": "جوایزی برای تشخیص تاثیر مثبت خود در جامعه",
+        "title": "جوایز برای تاثیرگذاری در جامعه"
+      },
+      "operational": {
+        "help": "جوایز برای مهارت در مدیریت و دسته‌بندی انجمن‌ها",
+        "title": "مهارت در مدیریت انجمن"
+      },
+      "community": {
+        "help": "جوایز برای کمک به رشد و تقویت انجمن Agora",
+        "title": "جوایز انجمن Agora"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "جستجو",
+      "register": "ثبت نام"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "سازمان‌دهی موفق همایش ملی یا منطقه‌ای Agora",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "سازمان‌دهنده همایش"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "رهبر شایسته"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "سخنران شایسته"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "جایزه مربی‌گری"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "برنده رقابت Agora Speakers",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "برنده رقابت"
+        },
+        "third": {
+          "help": "سوم شدن در رقابت Agora Speakers",
+          "image": "awards.individual.contest.third.svg",
+          "title": "رقابت، جایگاه سوم"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "سازمان‌دهی موفقیت‌آمیز یک رقابت Agora",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "سازمان‌دهنده رقابت"
+        },
+        "participant": {
+          "help": "شرکت در یک رقابت Agora Speakers",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "گواهینامه شرکت"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "دوم شدن در رقابت Agora Speakers",
+          "image": "awards.individual.contest.second.svg",
+          "title": "رقابت، جایگاه دوم"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "قابل توجه‌ترین پیشرفت",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "جایزه پیشرفت آموزشی"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "جایزه رسانه"
+      },
+      "community": {
+        "leadership": {
+          "help": "اجرای عالی پروژه‌های انجمن",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "جایزه رهبری انجمن"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "مهارت و تعهد به ماموریت Agora",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "جایزه عضو متمایز در میان سفیران"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "جایزه تمایزی خاص"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "رهبر دارای دستاورد"
+        },
+        "communicator": "مکاتب دارای دستاورد"
+      },
+      "help": {
+        "help": "تعهد مداوم به موفقیت انجمن",
+        "image": "awards.individual.help.svg",
+        "title": "جایزه فعالیت در راستای موفقیت انجمن"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "سخنران رسانه جمعی دارای دستاورد"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "سخنران ترغیب‌کننده دارای دستاورد"
+              }
+            },
+            "pr": {
+              "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "متخصص PR دارای دستاورد"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "سخنران دارای دستاورد برای موقعیت‌های خاص"
+              }
+            },
+            "storytelling": {
+              "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "داستان‌سرای دارای دستاورد"
+            },
+            "educational": {
+              "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "سخنران آموزشی دارای دستاورد"
+            },
+            "business": {
+              "contexts": {
+                "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "سخنران تجاری دارای دستاورد"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "متفکر انتقادی دارای دستاورد"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "سخنران دارای دستاورد با وجود همه مشکلات"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "سخنران کارآفرین دارای دستاورد"
+            },
+            "project": {
+              "management": {
+                "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "مدیر پروژه دارای دستاورد"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "استاد مهارت‌های میان فردی دارای دستاورد"
+              }
+            },
+            "dramatization": {
+              "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "سخنران دراماتیک دارای دستاورد"
+            },
+            "humorous": {
+              "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "سخنران طنزآمیز دارای دستاورد"
+            },
+            "leadership": {
+              "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "رهبر دارای دستاورد"
+            },
+            "negotiation": {
+              "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "مذاکره‌کننده دارای دستاورد"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "تکمیل موفقیت‌آمیز {{v0}} مسیر آموزشی پیشرفته",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "داستان‌سرای بصری دارای دستاورد"
+              }
+            }
+          },
+          "title": "سخنران دارای دستاورد"
+        },
+        "speakeractivities": {
+          "analytical": {
+            "introduction": "معرفی گروه تحلیلی"
+          }
+        },
+        "communicator": {
+          "help": "تکمیل موفقیت‌آمیز کل سابقه ارتباطی‎‌‌",
+          "image": "awards.individual.accomplished.communicator.svg"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "رهبر انجمن"
+        },
+        "founder": {
+          "help": "یافتن موفقت‌آمیز یک انجمن Agora",
+          "image": "awards.individual.club.founder.svg",
+          "title": "موسس انجمن"
+        },
+        "officer": {
+          "help": "رهبری موفقیت‌آمیز انجمن در طول یک سال",
+          "image": "awards.individual.club.officer.svg",
+          "title": "رهبری انجمن"
+        },
+        "growth": {
+          "help": "مهارت در رهبری کردن و ایجاد انجمن‌های Agora در کشور",
+          "image": "awards.individual.club.growth.svg",
+          "title": "جایزه رشد انجمن"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "عضویت مداوم در انجمن به مدت 5 سال",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "جایزه سالانه"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "جایزه عضو ماه"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "شرکت مداوم و فعال در جلسات",
+        "image": "awards.individual.attendance.svg",
+        "title": "جایزه تعهد"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "دارای نوآور Agora"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "مشعل‌دار Agora"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "جایزه ارتقادهنده Agora"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "جایزه میزبانی همایش"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "جایزه تاسیس در کشور"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "جایزه مهارت آموزشی"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "جایزه دستاورد آموزشی"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "جایزه تاسیس انجمن"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "جایزه مهارت در تبلیغ"
+        }
+      },
+      "media": {
+        "help": "مهارت در ارتقای هدف و فعالیت‌های Agora در رسانه",
+        "image": "awards.club.media.svg",
+        "title": "جایزه مهارت در رسانه"
+      },
+      "membership": {
+        "growth": "جایزه رشد اعضا",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "جایزه تمدید عضویت"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "اجرای عالی پروژه‌های انجمن",
+          "image": "awards.club.community.leadership.svg",
+          "title": "جایزه رهبری انجمن"
+        }
+      },
+      "content": {
+        "help": "مهارت در تولید محتوای جدید برای انجمن Agora",
+        "image": "awards.club.content.svg",
+        "title": "جایزه تولید محتوا"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "جایزه نوآور انجمن"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "جایزه تمایزی خاص"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "جایزه سفیر"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "جایزه رهبری انجمن"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "جایزه انجمن ماه"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "رضایت‌مندی عضو از انجمن بیش از 90%",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "جایزه طلایی عضویت"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "رضایت‌مندی عضو از انجمن بیش از 75%",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "جایزه نقره رضایت‌مندی عضو"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "جایزه رضایت‌مندی عضو از انجمن"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "رشد اعضا بیش از 20 عضو",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "جایزه رشد عضویت انجمن"
+          }
+        },
+        "anniversary": {
+          "help": "فعالیت مداوم و موفق انجمن در طی ده سال",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "جایزه سالانه طلایی"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "جایزه انجمن نمونه"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "رشد اعضا به بیش از 10 عضو",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "جایزه نقره‌ای رشد اعضا"
+          }
+        },
+        "anniversary": {
+          "help": "فعالیت مداوم و موفق انجمن طی پنج سال",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "جایزه سالانه نقره‌ای"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "جایزه سالانه انجمن - {{v0}} سال"
+      }
+    },
+    "place": {
+      "participation": "مشارکت"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "بهترین پرسشگر سوال در آتشبار جلسه",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "بهترین عضو آتشبار"
+        },
+        "survivor": {
+          "help": "نظارت بر بخش آتشبار در جلسه",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "ناظر آتشبار"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "بهترین ارائه‌دهنده یا پرسشگر سوال در مکالمه",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "بهترین فرد در گفتگو"
+        },
+        "role": {
+          "help": "ایفای نقش در جلسه به بهترین شکل",
+          "image": "awards.meeting.best.role.svg",
+          "title": "بهترین نقش جلسه"
+        },
+        "speaker": {
+          "help": "ارائه بهترین سخنرانی آماده در جلسه انجمن",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "بهترین سخنران جلسه"
+        },
+        "hot": {
+          "response": {
+            "help": "ارائه بهترین سخنرانی در جلسه انجمن",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "بهترین سخنران جلسه"
+          }
+        },
+        "speechwriter": {
+          "help": "ایجاد بهترین سخنرانی در جلسه",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "بهترین سخنران‌نویس جلسه"
+        },
+        "evaluator": {
+          "help": "ارائه بهترین ارزیابی در جلسه انجمن",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "بهترین ارزیاب جلسه"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "موسسه Agora Speakers International یک خیریه تحصیلی اروپایی است که افراد را قادر می‌سازد تبدیل به رهبرانی برجسته و با اعتماد به نفس شوند که فعالانه دنیایی بهتر می‌ساند."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "موارد دیگر."
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "تاریخ",
+      "country": "کشور",
+      "address": "آدرس",
+      "city": "شهر",
+      "awards": "جوایز دریافتی",
+      "state": "کشور/ ایالت/ شهرستان/ غیره.",
+      "event": "رویداد",
+      "region": "منطقه",
+      "points": {
+        "total": "امتیازهای دریافتی (کل)",
+        "year": "امتیازهای دریافتی (امسال)",
+        "name": "امتیازها"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "لطفا زبان یا زبان‌هایی که در انجمن استفاده خواهند شد را مشخص کنید (مثلا: انگلیسی)"
+      },
+      "charter": {
+        "date": "تاریخ ثبت",
+        "help": "تاریخ ثبت باید در آینده باشد اما بیش از 30 روز نباشد."
+      },
+      "founder": {
+        "name": "موسس انجمن (نام کامل)",
+        "email": "ایمیل موسس"
+      },
+      "fee": {
+        "title": "هزینه عضویت انجمن (در صورت وجود)"
+      },
+      "banner": "بنر",
+      "restrictions": {
+        "guests": {
+          "input": "لطفا شرح دهید چه نوع محدودیت‌هایی برای شرکت در انجمن به عنوان مهمان وجود خواهد داشت (در صورت وجود)"
+        },
+        "membership": {
+          "input": "لطفا شرح دهید چه نوع محدودیت‌هایی برای پیوستن به انجمن به عنوان عضو وجود خواهد داشت (در صورت وجود). اگر در انجمن جوانان ثبت نام می‌کنید، لطفا محدوده سنی را مشخص کنید."
+        }
+      },
+      "type": {
+        "help": "اطلاعات بیشتر درباره انواع مختلف انجمن اینجا هستند.",
+        "input": "نوع انجمن"
+      },
+      "points": {
+        "date": "تاریخ فعالیت",
+        "action": "فعالیت انجمن"
+      },
+      "token": "توکن امنیتی انجمن",
+      "number": "شماره انجمن",
+      "assets": "وسایل انجمن",
+      "awards": "جوایز انجمن",
+      "contact": {
+        "help": {
+          "1": "اطلاعات تماس انجمن. باید ایمیل یا تلفن باشد.",
+          "2": "موارد دیگر برای اطلاعات تماس انجمن - باید با بخش قبلی متفاوت باشد و ایمیل/ تلفن دیگر، یا وبسایت، گروه فیسبوک، گروه جلسه و غیره باشد."
+        },
+        "title": "اطلاعات تماس"
+      },
+      "name": "نام انجمن",
+      "logo": {
+        "title": "می‌توانید لوگوی خود را بارگذاری کنید یا اگر لوگویی ندارید به صورت اتوماتیک برای انجمن شما لوگویی ایجاد می‌کنیم."
+      },
+      "meeting": {
+        "schedule": "برنامه جلسه",
+        "info": "اطلاعات دیگر"
+      }
+    },
+    "personal": {
+      "participation": {
+        "input": "به چه نوع مشارکتی علاقه‌مند هستید؟",
+        "online": "جلسات آنلاین",
+        "physical": "جلسات حضوری"
+      },
+      "languages": {
+        "interested": "به چه زبان‌هایی علاقه‌مند هستید؟"
+      },
+      "joined": "تاریخ عضویت",
+      "facebook": "لینک نمایه فیسبوک",
+      "roles": {
+        "date": "تاریخ",
+        "role": "نقش",
+        "taken": "نقش‌های دریافت‌شده",
+        "club": "انجمن"
+      },
+      "speeches": {
+        "persuasive": "سخنرانی‌های ترغیب‌کننده",
+        "general": "سخنرانی‌های دارای اهداف عمومی",
+        "storytelling": "رقابت برای سخنرانی داستان‌سرایی",
+        "educational": "آموزشی",
+        "business": "ارائه‌های کاری",
+        "interested": "علاقه‌مند هستید چه نوع ارائه یا سخنرانی را بیاموزید؟",
+        "media": "ویلاگ درست کردن و ایجاد محتوا برای رسانه",
+        "sales": "فروش‌ها",
+        "humorous": "سخنرانی‌های طنزآمیز و کمدی"
+      },
+      "privacy": "با شرایط و ضوابط این سایت، و با قوانین Agora Speakers International موافق هستم.",
+      "history": {
+        "date": "تاریخ",
+        "club": "نام انجمن",
+        "event": "رویداد"
+      },
+      "linkedin": "لینک نمایه لینکدین",
+      "skills": "علاقه‌مند هستید کدام یک از فعالیت‌های زیر را تقویت کنید؟",
+      "number": "شماره عضو",
+      "password": {
+        "input": "رمز عبور",
+        "verify": "تکرار رمز عبور برای تایید"
+      },
+      "clubs": {
+        "role": "نقش"
+      },
+      "name": {
+        "address": {
+          "help": "چگونه باید شما را مطلع سازیم (مثل ایمیل به شما)؟",
+          "field": "نام مورد نظر برای ارتباط:"
+        },
+        "certificates": {
+          "help": "نام شما باید چگونه در گواهینامه‌ها و روی جوایزی که کسب می‌کنید قرار گیرد.",
+          "input": "نام مورد نظر برای گواهینامه‌ها"
+        },
+        "online": {
+          "help": "نام شما چگونه در سیستم‌های آنلاین، همایش‌ها و غیره قرار گیرد؟",
+          "input": "نام آنلاین مورد نظر"
+        },
+        "full": "نام کامل"
+      },
+      "principles": {
+        "agreement": "لطفا موافقت خود با اصول اصلی انجمن را نشان دهید."
+      },
+      "position": "جایگاه کنونی در انجمن",
+      "interests": {
+        "11": {
+          "language": "علاقه‌مند به پیشرفت در مهارت‌های زبان خارجی خود هستم."
+        },
+        "01": {
+          "curious": "فقط درباره سازمان کنجکاو هستم."
+        },
+        "12": {
+          "contests": "علاقه‌مند به شرکت در رقابت‌هایی هستم که Agora Speakers International برگزار می‌کند."
+        },
+        "02": {
+          "confidence": "می‌خواهم اعتماد به نفس خود را بهبود ببخشم"
+        },
+        "13": {
+          "critical": "به یادگیری تفکر انتقادی علاقه‌مند هستم."
+        },
+        "03": {
+          "communicate": "می‌خواهم بیاموزم که ارتباط موثر برقرار کنم."
+        },
+        "14": {
+          "friends": "به ملاقات با افراد و یافتن دوست‌های جدید علاقه‌مند هستم."
+        },
+        "04": {
+          "speak": "می‌خواهم مهارت‌های سخنرانی در جمع خود را بهبود ببخشم."
+        },
+        "15": {
+          "cooperation": "به تبادل فرهنگی و فعالیت‌های مشارکتی میان فرهنگی علاقه‌مند هستم."
+        },
+        "question": "به چه چیزی در Agora Speakers International علاقه دارید؟",
+        "05": {
+          "leadership": "می‌خواهم مهارت‌های رهبری خود را بهبود ببخشم."
+        },
+        "16": {
+          "startclub": "می‌خواهم یک انجمن Agora در شهر خود آغاز کنم."
+        },
+        "06": {
+          "networking": "به شبکه‌بندی حرفه‌ای علاقه‌مند هستم."
+        },
+        "17": {
+          "ambassador": "می‌خواهم تبدیل به سفیر Agora برای کشور خود شوم."
+        },
+        "07": {
+          "presentations": "به ارائه‌های سخنرانی‌های کاری علاقه‌مند هستم."
+        },
+        "18": {
+          "partnership": "به همکاری میان سازمان خود و Agora Speakers International علاقه‌مند هستم."
+        },
+        "08": {
+          "events": "به کارگاه‌های عملی، سمینارها و رویدادهایی که برنامه‌ریزی می‌کنید علاقه‌مند هستم."
+        },
+        "09": {
+          "debating": "به بحث و گفتگو علاقه‌مند هستم."
+        },
+        "10": {
+          "community": "می‌خواهم در جامعه خود تفاوتی ایجاد کنم."
+        }
+      },
+      "email": "ایمیل"
+    },
+    "meeting": {
+      "date": "تاریخ جلسه",
+      "number": "شماره جلسه",
+      "venue": {
+        "name": "نام مکان جلسه"
+      },
+      "address": {
+        "input": "آدرس مکان جلسه"
+      },
+      "online": {
+        "software": "نرم‌افزار جلسه",
+        "link": "لینک برای پیوستن",
+        "id": "آی دی جلسه آنلاین",
+        "title": "اطلاعات جلسات آنلاین",
+        "passowrd": "رمز عبور برای ورود"
+      },
+      "theme": "موضوع جلسه (در صورت وجود)",
+      "time": "زمان جلسه"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) حق کپی Agora Speakers International. همه حقوق محفوظ هستند. موارد مربوط به Agora را فقط می‌توان در راستای ضوابط و شرایط ما استفاده کرد."
+    },
+    "terms": "شرایط و ضوابط",
+    "legal": {
+      "notice": "اطلاعات قانونی"
+    },
+    "privacy": {
+      "policy": "قوانین محرمانه"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "هندی",
+      "ps": "پشتو",
+      "pt": "پرتغالی",
+      "hr": "کروات",
+      "pt_br": "Brazilian",
+      "hu": "مجاری",
+      "yi": "یدی",
+      "hy": "ارمنی",
+      "yo": "یوروبایی",
+      "ia": "اینترلینگوا",
+      "id": "اندونزیایی",
+      "ig": "ایگبویی",
+      "ii": "یی سیچوان",
+      "qu": "کچوایی",
+      "af": "آفریکانس",
+      "ak": "آکان",
+      "is": "ایسلندی",
+      "it": "ایتالیایی",
+      "am": "امهری",
+      "zh": "چینی",
+      "ar": "عربی",
+      "as": "آسامی",
+      "ja": "ژاپنی",
+      "az": "ترکی آذربایجانی",
+      "rm": "رومانش",
+      "zu": "زولویی",
+      "rn": "روندیایی",
+      "ro": "رومانیایی",
+      "be": "بلاروسی",
+      "ru": "روسی",
+      "bg": "بلغاری",
+      "rw": "کینیارواندایی",
+      "bm": "بامبارایی",
+      "bn": "بنگالی",
+      "jv": "جاوه‌ای",
+      "bo": "تبتی",
+      "sa": "سانسکریت",
+      "br": "برتون",
+      "bs": "بوسنیایی",
+      "sd": "سندی",
+      "se": "سامی شمالی",
+      "sg": "سانگو",
+      "sh": "صرب و کرواتی",
+      "ka": "گرجی",
+      "si": "سینهالی",
+      "sk": "اسلواکی",
+      "sl": "اسلوونیایی",
+      "sn": "شونایی",
+      "so": "سومالیایی",
+      "ca": "کاتالان",
+      "ki": "کیکویویی",
+      "sq": "آلبانیایی",
+      "sr": "صربی",
+      "kk": "قزاقی",
+      "kl": "گرینلندی",
+      "ce": "چچنی",
+      "km": "خمری",
+      "su": "سوندایی",
+      "kn": "کانارا",
+      "sv": "سوئدی",
+      "ko": "کره‌ای",
+      "sw": "سواحیلی",
+      "ks": "کشمیری",
+      "ku": "کردی",
+      "kw": "کورنی",
+      "ta": "تامیلی",
+      "ky": "قرقیزی",
+      "cs": "چکی",
+      "te": "تلوگویی",
+      "tg": "تاجیکی",
+      "th": "تایلندی",
+      "ti": "تیگرینیایی",
+      "cy": "ولزی",
+      "lb": "لوگزامبورگی",
+      "tk": "ترکمنی",
+      "tl": "تاگالوگی",
+      "lg": "گاندایی",
+      "to": "تونگایی",
+      "da": "دانمارکی",
+      "tr": "ترکی استانبولی",
+      "tt": "تاتاری",
+      "de": "آلمانی",
+      "ln": "لینگالا",
+      "lo": "لائوسی",
+      "lt": "لیتوانیایی",
+      "lu": "لوبایی‐کاتانگا",
+      "lv": "لتونیایی",
+      "ug": "اویغوری",
+      "dz": "دزونگخا",
+      "uk": "اوکراینی",
+      "mg": "مالاگاسی",
+      "mi": "مائوری",
+      "ur": "اردو",
+      "mk": "مقدونی",
+      "ml": "مالایالامی",
+      "ee": "اوه‌ای",
+      "mn": "مغولی",
+      "mr": "مراتی",
+      "uz": "ازبکی",
+      "ms": "مالایی",
+      "el": "یونانی",
+      "mt": "مالتی",
+      "en": "انگلیسی",
+      "eo": "اسپرانتو",
+      "my": "برمه‌ای",
+      "es": "اسپانیایی",
+      "et": "استونیایی",
+      "eu": "باسکی",
+      "vi": "ویتنامی",
+      "nb": "نروژی بوک‌مُل",
+      "nd": "انده‌بله‌ای شمالی",
+      "ne": "نپالی",
+      "fa": "فارسی",
+      "nl": "هلندی",
+      "ff": "فولانی",
+      "nn": "نروژی نی‌نُشک",
+      "no": "نروژی",
+      "fi": "فنلاندی",
+      "fo": "فارویی",
+      "fr": "فرانسوی",
+      "fy": "فریسی غربی",
+      "wo": "ولوفی",
+      "ga": "ایرلندی",
+      "gd": "گیلی اسکاتلندی",
+      "om": "اورومویی",
+      "or": "اوریه‌ای",
+      "os": "آسی",
+      "gl": "گالیسیایی",
+      "gu": "گجراتی",
+      "gv": "مانی",
+      "xh": "خوسایی",
+      "pa": "پنجابی",
+      "ha": "هوسایی",
+      "pl": "لهستانی",
+      "he": "عبری"
+    },
+    "full": {
+      "hi": "هندی (हिन्दी)",
+      "ps": "پشتو (پښتو)",
+      "pt": "پرتغالی (Português)",
+      "hr": "کروات (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "مجاری (Magyar)",
+      "yi": "یدی (ייִדיש)",
+      "hy": "ارمنی (Հայերեն)",
+      "yo": "یوروبایی (Èdè Yorùbá)",
+      "ia": "اینترلینگوا (Interlingua)",
+      "id": "اندونزیایی (Indonesia)",
+      "ig": "ایگبویی (Igbo)",
+      "ii": "یی سیچوان (ꆈꌠꉙ)",
+      "qu": "کچوایی (Runasimi)",
+      "af": "آفریکانس (Afrikaans)",
+      "ak": "آکان (Akan)",
+      "is": "ایسلندی (Íslenska)",
+      "it": "ایتالیایی (Italiano)",
+      "am": "امهری (አማርኛ)",
+      "zh": "چینی (中文)",
+      "ar": "عربی (العربية)",
+      "as": "آسامی (অসমীয়া)",
+      "ja": "ژاپنی (日本語)",
+      "az": "ترکی آذربایجانی (Azərbaycan)",
+      "rm": "رومانش (Rumantsch)",
+      "zu": "زولویی (IsiZulu)",
+      "rn": "روندیایی (Ikirundi)",
+      "ro": "رومانیایی (Română)",
+      "be": "بلاروسی (Беларуская)",
+      "ru": "روسی (Русский)",
+      "bg": "بلغاری (Български)",
+      "rw": "کینیارواندایی (Kinyarwanda)",
+      "bm": "بامبارایی (Bamanakan)",
+      "bn": "بنگالی (বাংলা)",
+      "jv": "جاوه‌ای (Jawa)",
+      "bo": "تبتی (བོད་སྐད་)",
+      "sa": "سانسکریت (संस्कृत भाषा)",
+      "br": "برتون (Brezhoneg)",
+      "bs": "بوسنیایی (Bosanski)",
+      "sd": "سندی (سنڌي)",
+      "se": "سامی شمالی (Davvisámegiella)",
+      "sg": "سانگو (Sängö)",
+      "sh": "صرب و کرواتی (Srpskohrvatski)",
+      "ka": "گرجی (ქართული)",
+      "si": "سینهالی (සිංහල)",
+      "sk": "اسلواکی (Slovenčina)",
+      "sl": "اسلوونیایی (Slovenščina)",
+      "sn": "شونایی (ChiShona)",
+      "so": "سومالیایی (Soomaali)",
+      "ca": "کاتالان (Català)",
+      "ki": "کیکویویی (Gikuyu)",
+      "sq": "آلبانیایی (Shqip)",
+      "sr": "صربی (Српски)",
+      "kk": "قزاقی (Қазақ тілі)",
+      "kl": "گرینلندی (Kalaallisut)",
+      "ce": "چچنی (Нохчийн)",
+      "km": "خمری (ខ្មែរ)",
+      "su": "سوندایی (Basa Sunda)",
+      "kn": "کانارا (ಕನ್ನಡ)",
+      "sv": "سوئدی (Svenska)",
+      "ko": "کره‌ای (한국어)",
+      "sw": "سواحیلی (Kiswahili)",
+      "ks": "کشمیری (کٲشُر)",
+      "ku": "کردی (Kurdî)",
+      "kw": "کورنی (Kernewek)",
+      "ta": "تامیلی (தமிழ்)",
+      "ky": "قرقیزی (Кыргызча)",
+      "cs": "چکی (Čeština)",
+      "te": "تلوگویی (తెలుగు)",
+      "tg": "تاجیکی (Тоҷикӣ)",
+      "th": "تایلندی (ไทย)",
+      "ti": "تیگرینیایی (ትግር)",
+      "cy": "ولزی (Cymraeg)",
+      "lb": "لوگزامبورگی (Lëtzebuergesch)",
+      "tk": "ترکمنی (Türkmen dili)",
+      "tl": "تاگالوگی (Tagalog)",
+      "lg": "گاندایی (Luganda)",
+      "to": "تونگایی (Lea fakatonga)",
+      "da": "دانمارکی (Dansk)",
+      "tr": "ترکی استانبولی (Türkçe)",
+      "tt": "تاتاری (Татар)",
+      "de": "آلمانی (Deutsch)",
+      "ln": "لینگالا (Lingála)",
+      "lo": "لائوسی (ລາວ)",
+      "lt": "لیتوانیایی (Lietuvių)",
+      "lu": "لوبایی‐کاتانگا (Tshiluba)",
+      "lv": "لتونیایی (Latviešu)",
+      "ug": "اویغوری (ئۇيغۇرچە)",
+      "dz": "دزونگخا (རྫོང་ཁ)",
+      "uk": "اوکراینی (Українська)",
+      "mg": "مالاگاسی (Malagasy)",
+      "mi": "مائوری (Te reo Māori)",
+      "ur": "اردو (اردو)",
+      "mk": "مقدونی (Македонски)",
+      "ml": "مالایالامی (മലയാളം)",
+      "ee": "اوه‌ای (Eʋegbe)",
+      "mn": "مغولی (Монгол)",
+      "mr": "مراتی (मराठी)",
+      "uz": "ازبکی (O‘zbek)",
+      "ms": "مالایی (Melayu)",
+      "el": "یونانی (Ελληνικά)",
+      "mt": "مالتی (Malti)",
+      "en": "انگلیسی (English)",
+      "eo": "اسپرانتو (Esperanto)",
+      "my": "برمه‌ای (မြန်မာ)",
+      "es": "اسپانیایی (Español)",
+      "et": "استونیایی (Eesti)",
+      "eu": "باسکی (Euskara)",
+      "vi": "ویتنامی (Tiếng Việt)",
+      "nb": "نروژی بوک‌مُل (Norsk bokmål)",
+      "nd": "انده‌بله‌ای شمالی (IsiNdebele)",
+      "ne": "نپالی (नेपाली)",
+      "fa": "فارسی (فارسی)",
+      "nl": "هلندی (Nederlands)",
+      "ff": "فولانی (Pulaar)",
+      "nn": "نروژی نی‌نُشک (Norsk nynorsk)",
+      "no": "نروژی (Norsk)",
+      "fi": "فنلاندی (Suomi)",
+      "fo": "فارویی (Føroyskt)",
+      "fr": "فرانسوی (Français)",
+      "fy": "فریسی غربی (Frysk)",
+      "wo": "ولوفی (Wolof)",
+      "ga": "ایرلندی (Gaeilge)",
+      "gd": "گیلی اسکاتلندی (Gàidhlig)",
+      "om": "اورومویی (Oromoo)",
+      "or": "اوریه‌ای (ଓଡ଼ିଆ)",
+      "os": "آسی (Ирон)",
+      "gl": "گالیسیایی (Galego)",
+      "gu": "گجراتی (ગુજરાતી)",
+      "gv": "مانی (Gaelg)",
+      "xh": "خوسایی (IsiXhosa)",
+      "pa": "پنجابی (ਪੰਜਾਬੀ)",
+      "ha": "هوسایی (Hausa)",
+      "pl": "لهستانی (Polski)",
+      "he": "عبری (עברית)"
+    }
+  }
+}

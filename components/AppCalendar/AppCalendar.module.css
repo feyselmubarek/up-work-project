@@ -1,0 +1,15 @@
+.customInput {
+  padding-top: 2em;
+  padding-bottom: 0.25em;
+  font-size: 0.8em;
+  padding-left: 10px;
+}
+
+.customLabel {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 0.7em;
+  text-transform: capitalize;
+  z-index: 1;
+}

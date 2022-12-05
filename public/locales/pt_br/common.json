@@ -1,0 +1,1273 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "Clube de Referência",
+      "corporate": "Clube Corporativo",
+      "restricted": "Clube Restrito",
+      "term": "Clube Ágora",
+      "pic": "Clube de Interesse Público",
+      "open": "Clube Aberto ao Público"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Prêmios pela excelência em alcançar objetivos educacionais no programa Ágora",
+        "title": "Prêmios Educacionais"
+      },
+      "social": {
+        "help": "Prêmios que reconhecem seu impacto positivo em sua comunidade",
+        "title": "Prêmios por Impacto Social"
+      },
+      "operational": {
+        "help": "Prêmios por excelência na gerência e fundação de clubes",
+        "title": "Excelência na Gestão do Clube"
+      },
+      "community": {
+        "help": "Prêmios pela contribuição para o crescimento e fortalecimento da comunidade Ágora",
+        "title": "Prêmios Comunidade Ágora"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "Procurar",
+      "register": "Registrar-se"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "Organizar exitosamente uma Convenção Regional ou Internacional Ágora",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "Organizador de Convenção"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "Líder Qualificado"
+        },
+        "speaker": {
+          "help": "Completar de forma exitosa o Percurso Formativo Básico",
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "Orador Qualificado"
+        }
+      },
+      "mentor": {
+        "help": "Mentoria exitosa de um novo membro",
+        "image": "awards.individual.mentor.svg",
+        "title": "Prêmio de Mentoria"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "Vencer uma Competição de Oradores Ágora",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "Vencedor de Competição"
+        },
+        "third": {
+          "help": "Terminar Competição de Oradores Ágora em terceiro lugar",
+          "image": "awards.individual.contest.third.svg",
+          "title": "Competição, 3º lugar"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "Organizar exitosamente uma competição Ágora",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "Organizador de Competição"
+        },
+        "participant": {
+          "help": "Participação em uma Competição de Oradores Ágora",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "Certificado de Participação"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "Terminar Competição de Oradores Ágora em segundo lugar",
+          "image": "awards.individual.contest.second.svg",
+          "title": "Competição, 3° lugar"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "Aprimoramento muito marcante",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "Prêmio de Progresso Educacional"
+        }
+      },
+      "outreach": {
+        "help": "Excelência em projeção na comunidade",
+        "image": "awards.individual.outreach.svg",
+        "title": "Prêmio de Projeção"
+      },
+      "community": {
+        "leadership": {
+          "help": "Execução excepcional de projetos da comunidade",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "Prêmio Gerente de Comunidade"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "Excelência e compromisso com a missão Ágora",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "Prêmio do Embaixador de Membro Distinto"
+        }
+      },
+      "special": {
+        "distinction": {
+          "help": "Excelência no apoio à comunidade Ágora",
+          "image": "awards.individual.special.distinction.svg",
+          "title": "Prêmio de Distinção Especial"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "help": "Completar de forma exitosa um Programa de Liderança",
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "Líder Talentoso"
+        },
+        "communicator": "Comunicador Talentoso"
+      },
+      "help": {
+        "help": "Dedicação contínua pelo sucesso do clube",
+        "image": "awards.individual.help.svg",
+        "title": "Prêmio por Dedicação ao Sucesso do Clube"
+      },
+      "accomplished": {
+        "leader": {
+          "help": "Completar de forma exitosa um Programa de Liderança"
+        },
+        "speaker": {
+          "help": "Completar de forma exitosa um Percurso Educacional Avançado",
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "Orador Talentoso para a Transmissão em Mídias"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "Orador Persuasivo Talentoso"
+              }
+            },
+            "pr": {
+              "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "Especialista em Relações Públicas Talentoso"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "Orador para Ocasiões Especiais Talentoso"
+              }
+            },
+            "storytelling": {
+              "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "Narrador Talentoso"
+            },
+            "educational": {
+              "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "Orador Educacional Talentoso"
+            },
+            "business": {
+              "contexts": {
+                "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "Orador de Negócios Talentoso"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "Talento em Pensamento Crítico"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "Orador Talentoso do Contra Todas as Expectativas"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "Orador Empresarial Talentoso"
+            },
+            "project": {
+              "management": {
+                "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "Gerenciador de Projetos Talentoso"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "Mestre em Habilidades Interpessoais Talentoso"
+              }
+            },
+            "dramatization": {
+              "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "Orador Dramático Talentoso"
+            },
+            "humorous": {
+              "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "Orador Humorístico Talentoso"
+            },
+            "leadership": {
+              "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "Líder Talentoso"
+            },
+            "negotiation": {
+              "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "Negociador Talentoso"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "Completar com Êxito o {{v0}} Percurso Formativo Avançado",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "Narrador Visual Talentoso"
+              }
+            }
+          },
+          "title": "Orador Talentoso"
+        },
+        "communicator": {
+          "help": "Completar exitosamente um Percurso de Comunicação",
+          "image": "awards.individual.accomplished.communicator.svg",
+          "title": "Comunicador Talentoso"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "Líder do Clube"
+        },
+        "founder": {
+          "help": "Fundar de maneira bem-sucedida um Clube Ágora",
+          "image": "awards.individual.club.founder.svg",
+          "title": "Fundador do Clube"
+        },
+        "officer": {
+          "help": "Liderar exitosamente o clube por um ano",
+          "image": "awards.individual.club.officer.svg",
+          "title": "Liderança de Clube"
+        },
+        "growth": {
+          "help": "Excelência na mentoria e criação de clubes Ágora no país",
+          "image": "awards.individual.club.growth.svg",
+          "title": "Prêmio Expansão do Clube"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "Membro de um clube por 5 anos ininterruptos",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "Prêmio de Aniversário"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "help": "Excelência em participação e dedicação",
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "Prêmio Membro do Mês"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "Presença contínua e ativa nas reuniões",
+        "image": "awards.individual.attendance.svg",
+        "title": "Prêmio de Dedicação"
+      },
+      "agora": {
+        "innovator": {
+          "help": "Criar e implementar de forma exitosa uma atividade educacional",
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Prêmio Ágora de Inovação"
+        },
+        "torchbearer": {
+          "help": "Excelência na comunicação e promoção da missão Ágora",
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Exemplo Ágora"
+        }
+      },
+      "promotion": {
+        "help": "Excelência na comunicação e promoção da missão Ágora",
+        "image": "awards.individual.promotion.svg",
+        "title": "Prêmio Promotor Ágora"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "help": "Ser Co-Anfritrião de uma Convenção Internacional Ágora",
+          "image": "awards.club.convention.host.svg",
+          "title": "Prêmio Apresentação de Convenção"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "help": "Fundação do primeiro clube do país",
+          "image": "awards.club.country.pioneer.svg",
+          "title": "Prêmio Pioneiro do País"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "help": "Excelência no treinamento educacional de novos membros",
+          "image": "awards.club.educational.excellence.svg",
+          "title": "Prêmio Excelência Educacional"
+        },
+        "outreach": {
+          "help": "Excelência nas atividades educacionais dentro da comunidade do clube",
+          "image": "awards.club.educational.outreach.svg",
+          "title": "Prêmio Projeção Educacional"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "help": "Fundação do primeiro clube da cidade",
+          "image": "awards.club.city.pioneer.svg",
+          "title": "Prêmio Pioneiro da Cidade"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "help": "Excelência na comunicação e promoção da missão Ágora no país do clube",
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "Prêmio Projeção de Excelência"
+        }
+      },
+      "media": {
+        "help": "Excelência na promoção da missão e atividades da Ágora na mídia",
+        "image": "awards.club.media.svg",
+        "title": "Prêmio Excelência de Mídia"
+      },
+      "membership": {
+        "growth": "Prêmio Aumento de Afiliações",
+        "retention": {
+          "help": "Retenção de afiliações acima de 80%",
+          "image": "awards.club.membership.retention.svg",
+          "title": "Prêmio Retenção de Afiliações"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "Execução excepcional de projetos comunitários",
+          "image": "awards.club.community.leadership.svg",
+          "title": "Prêmio Gerente de Comunidade"
+        }
+      },
+      "content": {
+        "help": "Excelência na criação de novos conteúdos para a comunidade Ágora",
+        "image": "awards.club.content.svg",
+        "title": "Prêmio Criação de Conteúdo"
+      },
+      "innovator": {
+        "help": "Definição e execução bem sucedida de uma nova atividade educacional",
+        "image": "awards.club.innovator.svg",
+        "title": "Prêmio Inovador do Clube"
+      },
+      "special": {
+        "distinction": {
+          "help": "Excelência na operação do clube",
+          "image": "awards.club.special.distinction.svg",
+          "title": "Prêmio Distinção Especial"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "help": "Excelência na operação do clube",
+          "image": "awards.club.ambassador.award.svg",
+          "title": "Prêmio Embaixador"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "help": "Excelência na Mentoria de Novos Membros",
+          "image": "awards.club.club.mentorship.svg",
+          "title": "Prêmio Mentoria de Clube"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "help": "Excelência nos serviços prestados aos membros e na realização do programa Ágora",
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "Prêmio Clube do Mês"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "Satisfação com o pertencimento ao clube excedendo 90%",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "Prêmio de Satisfação de Membros Ouro"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "Satisfação com pertencimento ao clube excedendo 75%",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "Prêmio de Satisfação de Membros Prata"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "Prêmio Satisfação por Afiliação em Clubes"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "Aumento do número de membros para mais de 20",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "Prêmio Aumento de Afiliações Ouro"
+          }
+        },
+        "anniversary": {
+          "help": "Operação contínua e bem-sucedida do clube durante dez anos",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "Prêmio de Aniversário Ouro"
+        }
+      },
+      "model": {
+        "club": {
+          "help": "Excelência no acompanhamento do programa operacional Ágora",
+          "image": "awards.club.model.club.svg",
+          "title": "Prêmio Clube Modelo"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "Aumento do número de membros para mais de 10",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "Prêmio Aumento de Afiliações Prata"
+          }
+        },
+        "anniversary": {
+          "help": "Operação contínua e bem-sucedida do clube durante cinco anos",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "Prêmio de Aniversário Prata"
+        }
+      },
+      "anniversary": {
+        "help": "Operação contínua e bem-sucedida do clube durante um ano",
+        "image": "awards.club.anniversary.svg",
+        "title": "Prêmio Aniversário do Clube - {{v1}} anos"
+      }
+    },
+    "place": {
+      "participation": "Participação"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "Ser o interrogador mais inquisitivo e incisivo na seção Fogo Cruzado em uma reunião",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "Participante mais interrogador no Fogo Cruzado"
+        },
+        "survivor": {
+          "help": "Sobreviver a uma seção de fogo cruzado em uma reunião",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "Sobrevivente do Fogo Cruzado"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "Ser o melhor apresentador e interrogador em um colóquio",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "Melhor Participante em Colóquio"
+        },
+        "role": {
+          "help": "Desempenhar uma função na reunião de maneira excepcional",
+          "image": "awards.meeting.best.role.svg",
+          "title": "Melhor Função da Reunião"
+        },
+        "speaker": {
+          "help": "Proferir o discurso mais preparado em uma reunião do clube",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "Melhor Orador da Reunião"
+        },
+        "hot": {
+          "response": {
+            "help": "Apresentar o melhor discurso improvisado em uma reunião do clube",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "Melhor Orador Improvisado da Reunião"
+          }
+        },
+        "speechwriter": {
+          "help": "Criação do melhor discurso de uma reunião",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "Melhor Escritor de Discurso da Reunião"
+        },
+        "evaluator": {
+          "help": "Apresentar a melhor avaliação em uma reunião do clube",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "Melhor Avaliador de Reunião"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "A Fundação Agora Speakers International  é uma instituição beneficente e secular europeia que trabalha para capacitar as pessoas a transformarem-se em comunicadores brilhantes e líderes confiantes que irão trabalhar ativamente para construir um mundo melhor."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "Outro:"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "Data",
+      "country": "País",
+      "address": "Endereço",
+      "city": "Cidade",
+      "awards": "Prêmios Recebidos",
+      "state": "Estado/Província",
+      "event": "Evento",
+      "region": "Região",
+      "points": {
+        "total": "Pontos Recebidos (total)",
+        "year": "Pontos Recebidos (esse ano)",
+        "name": "Pontos"
+      }
+    },
+    "club": {
+      "date": "Data da Ação",
+      "languages": {
+        "input": "Por favor, especifique a língua ou línguas que serão utilizadas no clube (p.ex.  Inglês)"
+      },
+      "year": "Pontos do Clube (esse ano)",
+      "charter": {
+        "date": "Data de Fundação",
+        "help": "A data de fundação precisa ser no futuro e dentro de no máximo 30 dias."
+      },
+      "founder": {
+        "name": "Fundador do Clube",
+        "email": "E-mail do fundador"
+      },
+      "fee": {
+        "title": "Taxa para inscrever-se no clube (se aplicável)."
+      },
+      "banner": "Banner",
+      "restrictions": {
+        "guests": {
+          "input": "Por favor descreva as restrições que existem para os convidados que frequentam o clube (se aplicável)."
+        },
+        "membership": {
+          "input": "Por favor, descreva as restrições existentes para pessoas que querem se filiar ao clube (se aplicável). Se você está registrando um Clube da Juventude, por favor indique os limites de idade."
+        }
+      },
+      "type": {
+        "help": "Mais informações sobre os diferentes tipos de clube aqui.",
+        "input": "Tipo de Clube"
+      },
+      "points": "Pontos Ganhos",
+      "token": "Código Secreto do Clube",
+      "number": "Número do Clube",
+      "assets": "Recursos do Clube",
+      "awards": "Prêmios do Clube",
+      "contact": {
+        "help": {
+          "1": "Informações de contato para o clube. Deve ser ou um e-mail ou um número de telefone.",
+          "2": "Outras informações de contato do clube – devem ser diferentes da informação dada previamente; pode ser outro e-mail/telefone, página de internet, grupo de Facebook, grupo de discussão etc."
+        },
+        "title": "Informações para Contato"
+      },
+      "name": "Nome do Clube",
+      "logo": {
+        "title": "É possível fazer o upload de seu próprio logo; caso um logo ainda não tenha sido feito, vamos gerar automaticamente um logo para seu clube."
+      },
+      "action": "Ação do Clube",
+      "meeting": {
+        "schedule": "Agenda de Reuniões",
+        "info": "Informações Adicionais"
+      },
+      "officers": "Fundadores do Clube"
+    },
+    "personal": {
+      "participation": {
+        "input": "Em que tipo de participação você está interessado?",
+        "online": "Reuniões Online",
+        "physical": "Reuniões presenciais"
+      },
+      "languages": {
+        "interested": "Por quais línguas você se interessa?"
+      },
+      "joined": "Data de Associação",
+      "facebook": "Link para o perfil Facebook",
+      "roles": {
+        "date": "Data",
+        "role": "Função",
+        "taken": "Funções Executadas",
+        "club": "Clube"
+      },
+      "speeches": {
+        "persuasive": "Discursos persuasivos",
+        "general": "Discursos com objetivos gerais",
+        "storytelling": "Narração de Histórias",
+        "educational": "Educacional",
+        "business": "Apresentações de negócios",
+        "interested": "Que tipo de apresentação/discurso você gostaria de aprender?",
+        "media": "Produção de Vlogs e mídias",
+        "sales": "Vendas",
+        "humorous": "Discursos humorísticos e comédia"
+      },
+      "privacy": "Eu concordo com os termos e condições deste site e com a Política de Privacidade da Ágora Speakers International",
+      "history": {
+        "date": "Data",
+        "club": "Nome do Clube",
+        "event": "Evento"
+      },
+      "linkedin": "Link para o perfil Linkedin",
+      "skills": "Quais das seguintes habilidades você gostaria de aprimorar?",
+      "number": "Número do Membro",
+      "password": {
+        "input": "Senha",
+        "verify": "Repita a senha para verificação"
+      },
+      "awards": "Prêmios Recebidos",
+      "clubs": {
+        "role": "Função"
+      },
+      "name": {
+        "address": {
+          "help": "Como devemos nos dirigir a você em nossa comunicação (como Emails)?",
+          "field": "Nome preferido para comunicação:"
+        },
+        "certificates": {
+          "help": "Como seu nome deve aparecer nos certificados e prêmios que você receber?",
+          "input": "Nome preferido para os certificados"
+        },
+        "online": {
+          "help": "Como o seu nome deve aparecer em nossos sistemas online, fóruns etc?",
+          "input": "Nome preferido online"
+        },
+        "full": "Nome Completo"
+      },
+      "principles": {
+        "agreement": "Por favor, indique seu acordo com nossos princípios fundamentais"
+      },
+      "position": "Posição atual no Clube",
+      "interests": {
+        "11": {
+          "language": "Estou interessado em melhorar minhas habilidades em língua estrangeira"
+        },
+        "01": {
+          "curious": "Estou apenas curioso em relação à organização"
+        },
+        "12": {
+          "contests": "Estou interessado em participar nas competições organizados pela Ágora Speakers International"
+        },
+        "02": {
+          "confidence": "Eu quero melhorar minha autoconfiança"
+        },
+        "13": {
+          "critical": "Estou interessado em aprender a pensar criticamente"
+        },
+        "03": {
+          "communicate": "Eu quero aprender a me comunicar de forma mais eficiente"
+        },
+        "14": {
+          "friends": "Estou interessado em encontrar pessoas e fazer novas amizades"
+        },
+        "04": {
+          "speak": "Eu quero aprimorar minha habilidade de falar em público"
+        },
+        "15": {
+          "cooperation": "Estou interessado na troca cultural e em atividades de cooperação multicultural"
+        },
+        "question": "Qual o seu interesse na Ágora Speakers International?",
+        "05": {
+          "leadership": "Eu quero melhorar minhas habilidades de liderança"
+        },
+        "16": {
+          "startclub": "Quero iniciar um Clube Ágora na minha cidade"
+        },
+        "06": {
+          "networking": "Estou interessado no networking professional"
+        },
+        "17": {
+          "ambassador": "Quero me tornar um Embaixador Ágora do meu país"
+        },
+        "07": {
+          "presentations": "Estou interessado na realização de apresentações de negócios"
+        },
+        "18": {
+          "partnership": "Estou interessado em uma parceria entre a minha organização e a Ágora Speakers International"
+        },
+        "08": {
+          "events": "Estou interessado nos workshops, seminários e eventos que vocês organizam"
+        },
+        "09": {
+          "debating": "Estou interessado no debate e na argumentação"
+        },
+        "10": {
+          "community": "Quero fazer diferença em minha comunidade"
+        }
+      },
+      "email": "Email"
+    },
+    "meeting": {
+      "date": "Data da Reunião",
+      "number": "Número da Reunião",
+      "venue": {
+        "name": "Nome do local"
+      },
+      "address": {
+        "input": "Endereço do local da reunião"
+      },
+      "online": {
+        "software": "Software para a Reunião",
+        "link": "Link para acessar",
+        "id": "ID da Reunião Online",
+        "title": "Informações sobre reuniões online",
+        "passowrd": "Senha para acessar"
+      },
+      "theme": "Tema da reunião (se houver um)",
+      "time": "Horário da Reunião"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) Copyright Agora Speakers International. Todos os direitos reservados. Os materiais e recursos Ágora podem ser utilizados apenas de acordo com nossos termos e condições."
+    },
+    "terms": "Termos e Condições",
+    "legal": {
+      "notice": "Informações Legais"
+    },
+    "privacy": {
+      "policy": "Política de Privacidade"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "Híndi",
+      "ps": "Pashto",
+      "pt": "Português",
+      "hr": "Croata",
+      "pt_br": "Brazilian",
+      "hu": "Húngaro",
+      "yi": "Iídiche",
+      "hy": "Armênio",
+      "yo": "Iorubá",
+      "ia": "Interlíngua",
+      "id": "Indonésio",
+      "ig": "Igbo",
+      "ii": "Sichuan yi",
+      "qu": "Quíchua",
+      "af": "Africâner",
+      "ak": "Akan",
+      "is": "Islandês",
+      "it": "Italiano",
+      "am": "Amárico",
+      "zh": "Chinês",
+      "ar": "Árabe",
+      "as": "Assamês",
+      "ja": "Japonês",
+      "az": "Azerbaijano",
+      "rm": "Romanche",
+      "zu": "Zulu",
+      "rn": "Rundi",
+      "ro": "Romeno",
+      "be": "Bielorrusso",
+      "ru": "Russo",
+      "bg": "Búlgaro",
+      "rw": "Quiniaruanda",
+      "bm": "Bambara",
+      "bn": "Bengali",
+      "jv": "Javanês",
+      "bo": "Tibetano",
+      "sa": "Sânscrito",
+      "br": "Bretão",
+      "bs": "Bósnio",
+      "sd": "Sindi",
+      "se": "Sami setentrional",
+      "sg": "Sango",
+      "sh": "Servo-croata",
+      "ka": "Georgiano",
+      "si": "Cingalês",
+      "sk": "Eslovaco",
+      "sl": "Esloveno",
+      "sn": "Xona",
+      "so": "Somali",
+      "ca": "Catalão",
+      "ki": "Quicuio",
+      "sq": "Albanês",
+      "sr": "Sérvio",
+      "kk": "Cazaque",
+      "kl": "Groenlandês",
+      "ce": "Checheno",
+      "km": "Khmer",
+      "su": "Sundanês",
+      "kn": "Canarim",
+      "sv": "Sueco",
+      "ko": "Coreano",
+      "sw": "Suaíli",
+      "ks": "Caxemira",
+      "ku": "Curdo",
+      "kw": "Córnico",
+      "ta": "Tâmil",
+      "ky": "Quirguiz",
+      "cs": "Tcheco",
+      "te": "Télugo",
+      "tg": "Tadjique",
+      "th": "Tailandês",
+      "ti": "Tigrínia",
+      "cy": "Galês",
+      "lb": "Luxemburguês",
+      "tk": "Turcomeno",
+      "tl": "Tagalo",
+      "lg": "Luganda",
+      "to": "Tonganês",
+      "da": "Dinamarquês",
+      "tr": "Turco",
+      "tt": "Tártaro",
+      "de": "Alemão",
+      "ln": "Lingala",
+      "lo": "Laosiano",
+      "lt": "Lituano",
+      "lu": "Luba-catanga",
+      "lv": "Letão",
+      "ug": "Uigur",
+      "dz": "Dzonga",
+      "uk": "Ucraniano",
+      "mg": "Malgaxe",
+      "mi": "Maori",
+      "ur": "Urdu",
+      "mk": "Macedônio",
+      "ml": "Malaiala",
+      "ee": "Ewe",
+      "mn": "Mongol",
+      "mr": "Marati",
+      "uz": "Uzbeque",
+      "ms": "Malaio",
+      "el": "Grego",
+      "mt": "Maltês",
+      "en": "Inglês",
+      "eo": "Esperanto",
+      "my": "Birmanês",
+      "es": "Espanhol",
+      "et": "Estoniano",
+      "eu": "Basco",
+      "vi": "Vietnamita",
+      "nb": "Bokmål norueguês",
+      "nd": "Ndebele do norte",
+      "ne": "Nepalês",
+      "fa": "Persa",
+      "nl": "Holandês",
+      "ff": "Fula",
+      "nn": "Nynorsk norueguês",
+      "no": "Norueguês",
+      "fi": "Finlandês",
+      "fo": "Feroês",
+      "fr": "Francês",
+      "fy": "Frísio ocidental",
+      "wo": "Uolofe",
+      "ga": "Irlandês",
+      "gd": "Gaélico escocês",
+      "om": "Oromo",
+      "or": "Oriá",
+      "os": "Osseto",
+      "gl": "Galego",
+      "gu": "Guzerate",
+      "gv": "Manx",
+      "xh": "Xhosa",
+      "pa": "Panjabi",
+      "ha": "Hauçá",
+      "pl": "Polonês",
+      "he": "Hebraico"
+    },
+    "full": {
+      "hi": "Híndi (हिन्दी)",
+      "ps": "Pashto (پښتو)",
+      "pt": "Português (Português)",
+      "hr": "Croata (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "Húngaro (Magyar)",
+      "yi": "Iídiche (ייִדיש)",
+      "hy": "Armênio (Հայերեն)",
+      "yo": "Iorubá (Èdè Yorùbá)",
+      "ia": "Interlíngua (Interlingua)",
+      "id": "Indonésio (Indonesia)",
+      "ig": "Igbo (Igbo)",
+      "ii": "Sichuan yi (ꆈꌠꉙ)",
+      "qu": "Quíchua (Runasimi)",
+      "af": "Africâner (Afrikaans)",
+      "ak": "Akan (Akan)",
+      "is": "Islandês (Íslenska)",
+      "it": "Italiano (Italiano)",
+      "am": "Amárico (አማርኛ)",
+      "zh": "Chinês (中文)",
+      "ar": "Árabe (العربية)",
+      "as": "Assamês (অসমীয়া)",
+      "ja": "Japonês (日本語)",
+      "az": "Azerbaijano (Azərbaycan)",
+      "rm": "Romanche (Rumantsch)",
+      "zu": "Zulu (IsiZulu)",
+      "rn": "Rundi (Ikirundi)",
+      "ro": "Romeno (Română)",
+      "be": "Bielorrusso (Беларуская)",
+      "ru": "Russo (Русский)",
+      "bg": "Búlgaro (Български)",
+      "rw": "Quiniaruanda (Kinyarwanda)",
+      "bm": "Bambara (Bamanakan)",
+      "bn": "Bengali (বাংলা)",
+      "jv": "Javanês (Jawa)",
+      "bo": "Tibetano (བོད་སྐད་)",
+      "sa": "Sânscrito (संस्कृत भाषा)",
+      "br": "Bretão (Brezhoneg)",
+      "bs": "Bósnio (Bosanski)",
+      "sd": "Sindi (سنڌي)",
+      "se": "Sami setentrional (Davvisámegiella)",
+      "sg": "Sango (Sängö)",
+      "sh": "Servo-croata (Srpskohrvatski)",
+      "ka": "Georgiano (ქართული)",
+      "si": "Cingalês (සිංහල)",
+      "sk": "Eslovaco (Slovenčina)",
+      "sl": "Esloveno (Slovenščina)",
+      "sn": "Xona (ChiShona)",
+      "so": "Somali (Soomaali)",
+      "ca": "Catalão (Català)",
+      "ki": "Quicuio (Gikuyu)",
+      "sq": "Albanês (Shqip)",
+      "sr": "Sérvio (Српски)",
+      "kk": "Cazaque (Қазақ тілі)",
+      "kl": "Groenlandês (Kalaallisut)",
+      "ce": "Checheno (Нохчийн)",
+      "km": "Khmer (ខ្មែរ)",
+      "su": "Sundanês (Basa Sunda)",
+      "kn": "Canarim (ಕನ್ನಡ)",
+      "sv": "Sueco (Svenska)",
+      "ko": "Coreano (한국어)",
+      "sw": "Suaíli (Kiswahili)",
+      "ks": "Caxemira (کٲشُر)",
+      "ku": "Curdo (Kurdî)",
+      "kw": "Córnico (Kernewek)",
+      "ta": "Tâmil (தமிழ்)",
+      "ky": "Quirguiz (Кыргызча)",
+      "cs": "Tcheco (Čeština)",
+      "te": "Télugo (తెలుగు)",
+      "tg": "Tadjique (Тоҷикӣ)",
+      "th": "Tailandês (ไทย)",
+      "ti": "Tigrínia (ትግር)",
+      "cy": "Galês (Cymraeg)",
+      "lb": "Luxemburguês (Lëtzebuergesch)",
+      "tk": "Turcomeno (Türkmen dili)",
+      "tl": "Tagalo (Tagalog)",
+      "lg": "Luganda (Luganda)",
+      "to": "Tonganês (Lea fakatonga)",
+      "da": "Dinamarquês (Dansk)",
+      "tr": "Turco (Türkçe)",
+      "tt": "Tártaro (Татар)",
+      "de": "Alemão (Deutsch)",
+      "ln": "Lingala (Lingála)",
+      "lo": "Laosiano (ລາວ)",
+      "lt": "Lituano (Lietuvių)",
+      "lu": "Luba-catanga (Tshiluba)",
+      "lv": "Letão (Latviešu)",
+      "ug": "Uigur (ئۇيغۇرچە)",
+      "dz": "Dzonga (རྫོང་ཁ)",
+      "uk": "Ucraniano (Українська)",
+      "mg": "Malgaxe (Malagasy)",
+      "mi": "Maori (Te reo Māori)",
+      "ur": "Urdu (اردو)",
+      "mk": "Macedônio (Македонски)",
+      "ml": "Malaiala (മലയാളം)",
+      "ee": "Ewe (Eʋegbe)",
+      "mn": "Mongol (Монгол)",
+      "mr": "Marati (मराठी)",
+      "uz": "Uzbeque (O‘zbek)",
+      "ms": "Malaio (Melayu)",
+      "el": "Grego (Ελληνικά)",
+      "mt": "Maltês (Malti)",
+      "en": "Inglês (English)",
+      "eo": "Esperanto (Esperanto)",
+      "my": "Birmanês (မြန်မာ)",
+      "es": "Espanhol (Español)",
+      "et": "Estoniano (Eesti)",
+      "eu": "Basco (Euskara)",
+      "vi": "Vietnamita (Tiếng Việt)",
+      "nb": "Bokmål norueguês (Norsk bokmål)",
+      "nd": "Ndebele do norte (IsiNdebele)",
+      "ne": "Nepalês (नेपाली)",
+      "fa": "Persa (فارسی)",
+      "nl": "Holandês (Nederlands)",
+      "ff": "Fula (Pulaar)",
+      "nn": "Nynorsk norueguês (Norsk nynorsk)",
+      "no": "Norueguês (Norsk)",
+      "fi": "Finlandês (Suomi)",
+      "fo": "Feroês (Føroyskt)",
+      "fr": "Francês (Français)",
+      "fy": "Frísio ocidental (Frysk)",
+      "wo": "Uolofe (Wolof)",
+      "ga": "Irlandês (Gaeilge)",
+      "gd": "Gaélico escocês (Gàidhlig)",
+      "om": "Oromo (Oromoo)",
+      "or": "Oriá (ଓଡ଼ିଆ)",
+      "os": "Osseto (Ирон)",
+      "gl": "Galego (Galego)",
+      "gu": "Guzerate (ગુજરાતી)",
+      "gv": "Manx (Gaelg)",
+      "xh": "Xhosa (IsiXhosa)",
+      "pa": "Panjabi (ਪੰਜਾਬੀ)",
+      "ha": "Hauçá (Hausa)",
+      "pl": "Polonês (Polski)",
+      "he": "Hebraico (עברית)"
+    }
+  }
+}

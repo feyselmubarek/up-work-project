@@ -1,0 +1,26 @@
+.label {
+  font-size: 0.7em;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  text-transform: capitalize;
+}
+
+.input {
+  width: 100%;
+  padding-top: 2em;
+  padding-bottom: 0.5em;
+  padding-left: 10px;
+  font-size: 0.8em;
+}
+
+.help {
+  /* color: #767676; */
+  font-size: 0.75em;
+  color: #ce3c17;
+}
+
+.wrapper {
+  max-width: 22em;
+  width: 100%;
+}

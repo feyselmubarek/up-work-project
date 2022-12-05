@@ -1,0 +1,2017 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "Klub Acuan",
+      "corporate": "Klub Korporat",
+      "restricted": "Klub Terbatas",
+      "term": "Klub Agora",
+      "pic": "Klub Minat Umum",
+      "open": "Klub Umum"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "Puerto Riko"
+    },
+    "ps": {
+      "name": "Palestina"
+    },
+    "pt": {
+      "name": "Portugal"
+    },
+    "pw": {
+      "name": "Palau"
+    },
+    "py": {
+      "name": "Paraguay"
+    },
+    "qa": {
+      "name": "Qatar"
+    },
+    "ad": {
+      "name": "Andorra"
+    },
+    "ae": {
+      "name": "Uni Emirat Arab"
+    },
+    "af": {
+      "name": "Afganistan"
+    },
+    "ag": {
+      "name": "Antigua dan Barbuda"
+    },
+    "ai": {
+      "name": "Anguilla"
+    },
+    "al": {
+      "name": "Albania"
+    },
+    "am": {
+      "name": "Armenia"
+    },
+    "ao": {
+      "name": "Angola"
+    },
+    "aq": {
+      "name": "Antarktika"
+    },
+    "ar": {
+      "name": "Argentina"
+    },
+    "as": {
+      "name": "Samoa Amerika"
+    },
+    "at": {
+      "name": "Austria"
+    },
+    "re": {
+      "name": "Réunion"
+    },
+    "au": {
+      "name": "Australia"
+    },
+    "aw": {
+      "name": "Aruba"
+    },
+    "ax": {
+      "name": "Ãland, Kepulauan"
+    },
+    "az": {
+      "name": "Azerbaijan"
+    },
+    "ro": {
+      "name": "Rumania"
+    },
+    "ba": {
+      "name": "Bosnia dan Herzegovina"
+    },
+    "bb": {
+      "name": "Barbados"
+    },
+    "rs": {
+      "name": "Serbia"
+    },
+    "bd": {
+      "name": "Bangladesh"
+    },
+    "be": {
+      "name": "Belgia"
+    },
+    "ru": {
+      "name": "Rusia"
+    },
+    "bf": {
+      "name": "Burkina Faso"
+    },
+    "bg": {
+      "name": "Bulgaria"
+    },
+    "rw": {
+      "name": "Rwanda"
+    },
+    "bh": {
+      "name": "Bahrain"
+    },
+    "bi": {
+      "name": "Burundi"
+    },
+    "bj": {
+      "name": "Benin"
+    },
+    "bl": {
+      "name": "Saint-BarthÃ©lemy"
+    },
+    "bm": {
+      "name": "Bermuda"
+    },
+    "bn": {
+      "name": "Brunei"
+    },
+    "bo": {
+      "name": "Bolivia"
+    },
+    "sa": {
+      "name": "Arab Saudi"
+    },
+    "bq": {
+      "name": "Bonaire, Sint Eustatius dan Saba"
+    },
+    "sb": {
+      "name": "Solomon, Kepulauan"
+    },
+    "br": {
+      "name": "Brasil"
+    },
+    "sc": {
+      "name": "Seychelles"
+    },
+    "bs": {
+      "name": "Bahama"
+    },
+    "sd": {
+      "name": "Sudan"
+    },
+    "bt": {
+      "name": "Bhutan"
+    },
+    "se": {
+      "name": "Swedia"
+    },
+    "bv": {
+      "name": "Bouvet, Pulau"
+    },
+    "sg": {
+      "name": "Singapura"
+    },
+    "bw": {
+      "name": "Botswana"
+    },
+    "sh": {
+      "name": "Saint Helena, Ascension, dan Tristan da Cunha"
+    },
+    "si": {
+      "name": "Slovenia"
+    },
+    "by": {
+      "name": "Belarus"
+    },
+    "sj": {
+      "name": "Svalbard dan Jan Mayen"
+    },
+    "bz": {
+      "name": "Belize"
+    },
+    "sk": {
+      "name": "Slowakia"
+    },
+    "sl": {
+      "name": "Sierra Leone"
+    },
+    "sm": {
+      "name": "San Marino"
+    },
+    "sn": {
+      "name": "Senegal"
+    },
+    "so": {
+      "name": "Somalia"
+    },
+    "ca": {
+      "name": "Kanada"
+    },
+    "sr": {
+      "name": "Suriname"
+    },
+    "cc": {
+      "name": "Cocos (Keeling), Kepulauan"
+    },
+    "ss": {
+      "name": "Sudan Selatan"
+    },
+    "cd": {
+      "name": "Kongo, Republik Demokratik"
+    },
+    "st": {
+      "name": "Sao Tome dan Principe"
+    },
+    "cf": {
+      "name": "Afrika Tengah, Republik"
+    },
+    "sv": {
+      "name": "El Salvador"
+    },
+    "cg": {
+      "name": "Kongo, Republik"
+    },
+    "ch": {
+      "name": "Swiss"
+    },
+    "sx": {
+      "name": "Sint Maarten (Belanda Bagian)"
+    },
+    "ci": {
+      "name": "Pantai Gading"
+    },
+    "sy": {
+      "name": "Suriah"
+    },
+    "sz": {
+      "name": "Swaziland"
+    },
+    "ck": {
+      "name": "Cook, Kepulauan"
+    },
+    "cl": {
+      "name": "Chili"
+    },
+    "cm": {
+      "name": "Kamerun"
+    },
+    "cn": {
+      "name": "Tiongkok, Republik Rakyat"
+    },
+    "co": {
+      "name": "Kolombia"
+    },
+    "cr": {
+      "name": "Kosta Rika"
+    },
+    "tc": {
+      "name": "Turks dan Caicos, Kepulauan"
+    },
+    "td": {
+      "name": "Chad"
+    },
+    "cu": {
+      "name": "Kuba"
+    },
+    "tf": {
+      "name": "Perancis Selatan, Teritori"
+    },
+    "cv": {
+      "name": "Tanjung Verde"
+    },
+    "tg": {
+      "name": "Togo"
+    },
+    "cw": {
+      "name": "Curacao"
+    },
+    "th": {
+      "name": "Thailand"
+    },
+    "cx": {
+      "name": "Natal, Pulau"
+    },
+    "cy": {
+      "name": "Siprus"
+    },
+    "tj": {
+      "name": "Tajikistan"
+    },
+    "cz": {
+      "name": "Ceko, Republik"
+    },
+    "tk": {
+      "name": "Tokelau"
+    },
+    "tl": {
+      "name": "Timor Leste"
+    },
+    "tm": {
+      "name": "Turkmenistan"
+    },
+    "tn": {
+      "name": "Tunisia"
+    },
+    "to": {
+      "name": "Tonga"
+    },
+    "tr": {
+      "name": "Turki"
+    },
+    "tt": {
+      "name": "Trinidad dan Tobago"
+    },
+    "de": {
+      "name": "Jerman"
+    },
+    "tv": {
+      "name": "Tuvalu"
+    },
+    "tw": {
+      "name": "Taiwan"
+    },
+    "dj": {
+      "name": "Djibouti"
+    },
+    "tz": {
+      "name": "Tanzania"
+    },
+    "dk": {
+      "name": "Denmark"
+    },
+    "dm": {
+      "name": "Dominika"
+    },
+    "do": {
+      "name": "Dominika, Republik"
+    },
+    "ua": {
+      "name": "Ukraina"
+    },
+    "ug": {
+      "name": "Uganda"
+    },
+    "dz": {
+      "name": "Aljazair"
+    },
+    "um": {
+      "name": "Kepulauan Terluar Kecil Amerika Serikat"
+    },
+    "ec": {
+      "name": "Ekuador"
+    },
+    "us": {
+      "name": "Amerika Serikat"
+    },
+    "ee": {
+      "name": "Estonia"
+    },
+    "eg": {
+      "name": "Mesir"
+    },
+    "eh": {
+      "name": "Sahara Barat"
+    },
+    "uy": {
+      "name": "Uruguay"
+    },
+    "uz": {
+      "name": "Uzbekistan"
+    },
+    "va": {
+      "name": "Vatikan"
+    },
+    "er": {
+      "name": "Eritrea"
+    },
+    "vc": {
+      "name": "Saint Vincent dan Grenadines"
+    },
+    "es": {
+      "name": "Spanyol"
+    },
+    "et": {
+      "name": "Ethiopia"
+    },
+    "ve": {
+      "name": "Venezuela"
+    },
+    "vg": {
+      "name": "Virgin Britania Raya, Kepulauan"
+    },
+    "vi": {
+      "name": "Virgin Amerika Serikat, Kepulauan"
+    },
+    "vn": {
+      "name": "Vietnam"
+    },
+    "vu": {
+      "name": "Vanuatu"
+    },
+    "fi": {
+      "name": "Finlandia"
+    },
+    "fj": {
+      "name": "Fiji"
+    },
+    "fk": {
+      "name": "Falkland, Kepulauan"
+    },
+    "fm": {
+      "name": "Mikronesia, Federasi"
+    },
+    "fo": {
+      "name": "Faroe, Kepulauan"
+    },
+    "fr": {
+      "name": "Perancis"
+    },
+    "wf": {
+      "name": "Wallis dan Futuna"
+    },
+    "ga": {
+      "name": "Gabon"
+    },
+    "gb": {
+      "name": "Britania Raya"
+    },
+    "ws": {
+      "name": "Samoa"
+    },
+    "gd": {
+      "name": "Grenada"
+    },
+    "ge": {
+      "name": "Georgia"
+    },
+    "gf": {
+      "name": "Guyana Perancis"
+    },
+    "gg": {
+      "name": "Guernsey"
+    },
+    "gh": {
+      "name": "Ghana"
+    },
+    "gi": {
+      "name": "Gibraltar"
+    },
+    "gl": {
+      "name": "Greenland"
+    },
+    "gm": {
+      "name": "Gambia"
+    },
+    "gn": {
+      "name": "Guinea"
+    },
+    "gp": {
+      "name": "Guadeloupe"
+    },
+    "gq": {
+      "name": "Guinea Khatulistiwa"
+    },
+    "gr": {
+      "name": "Yunani"
+    },
+    "gs": {
+      "name": "Georgia Selatan dan Kepulauan Sandwich Selatan"
+    },
+    "gt": {
+      "name": "Guatemala"
+    },
+    "gu": {
+      "name": "Guam"
+    },
+    "gw": {
+      "name": "Guinea-Bissau"
+    },
+    "gy": {
+      "name": "Guyana"
+    },
+    "hk": {
+      "name": "Hong Kong"
+    },
+    "hm": {
+      "name": "Heard dan Kepulauan McDonald, Pulau"
+    },
+    "hn": {
+      "name": "Honduras"
+    },
+    "hr": {
+      "name": "Kroasia"
+    },
+    "ht": {
+      "name": "Haiti"
+    },
+    "ye": {
+      "name": "Yaman"
+    },
+    "hu": {
+      "name": "Hongaria"
+    },
+    "id": {
+      "name": "Indonesia"
+    },
+    "yt": {
+      "name": "Mayotte"
+    },
+    "ie": {
+      "name": "Irlandia, Republik"
+    },
+    "il": {
+      "name": "Israel"
+    },
+    "im": {
+      "name": "Man, Pulau"
+    },
+    "in": {
+      "name": "India"
+    },
+    "io": {
+      "name": "Samudra Hindia Britania, Teritori"
+    },
+    "za": {
+      "name": "Afrika Selatan"
+    },
+    "iq": {
+      "name": "Irak"
+    },
+    "ir": {
+      "name": "Iran"
+    },
+    "is": {
+      "name": "Islandia"
+    },
+    "it": {
+      "name": "Italia"
+    },
+    "zm": {
+      "name": "Zambia"
+    },
+    "je": {
+      "name": "Jersey"
+    },
+    "zw": {
+      "name": "Zimbabwe"
+    },
+    "jm": {
+      "name": "Jamaika"
+    },
+    "jo": {
+      "name": "Yordania"
+    },
+    "jp": {
+      "name": "Jepang"
+    },
+    "ke": {
+      "name": "Kenya"
+    },
+    "kg": {
+      "name": "Kirgizstan"
+    },
+    "kh": {
+      "name": "Kamboja"
+    },
+    "ki": {
+      "name": "Kiribati"
+    },
+    "km": {
+      "name": "Komoro"
+    },
+    "kn": {
+      "name": "Saint Kitts dan Nevis"
+    },
+    "kp": {
+      "name": "Korea, Republik Rakyat Demokratik"
+    },
+    "kr": {
+      "name": "Korea, Republik"
+    },
+    "kw": {
+      "name": "Kuwait"
+    },
+    "ky": {
+      "name": "Cayman, Kepulauan"
+    },
+    "kz": {
+      "name": "Kazakhstan"
+    },
+    "la": {
+      "name": "Laos"
+    },
+    "lb": {
+      "name": "Lebanon"
+    },
+    "lc": {
+      "name": "Saint Lucia"
+    },
+    "li": {
+      "name": "Liechtenstein"
+    },
+    "lk": {
+      "name": "Sri Lanka"
+    },
+    "lr": {
+      "name": "Liberia"
+    },
+    "ls": {
+      "name": "Lesotho"
+    },
+    "lt": {
+      "name": "Lituania"
+    },
+    "lu": {
+      "name": "Luksemburg"
+    },
+    "lv": {
+      "name": "Latvia"
+    },
+    "ly": {
+      "name": "Libya"
+    },
+    "ma": {
+      "name": "Maroko"
+    },
+    "mc": {
+      "name": "Monako"
+    },
+    "md": {
+      "name": "Moldova"
+    },
+    "me": {
+      "name": "Montenegro"
+    },
+    "mf": {
+      "name": "Saint Martin (Perancis)"
+    },
+    "mg": {
+      "name": "Madagaskar"
+    },
+    "mh": {
+      "name": "Marshall, Kepulauan"
+    },
+    "mk": {
+      "name": "Makedonia, Republik"
+    },
+    "ml": {
+      "name": "Mali"
+    },
+    "mm": {
+      "name": "Myanmar"
+    },
+    "mn": {
+      "name": "Mongolia"
+    },
+    "mo": {
+      "name": "Makau"
+    },
+    "mp": {
+      "name": "Mariana Utara, Kepulauan"
+    },
+    "mq": {
+      "name": "Martinik"
+    },
+    "mr": {
+      "name": "Mauritania"
+    },
+    "ms": {
+      "name": "Montserrat"
+    },
+    "mt": {
+      "name": "Malta"
+    },
+    "mu": {
+      "name": "Mauritius"
+    },
+    "mv": {
+      "name": "Maladewa"
+    },
+    "mw": {
+      "name": "Malawi"
+    },
+    "mx": {
+      "name": "Meksiko"
+    },
+    "my": {
+      "name": "Malaysia"
+    },
+    "mz": {
+      "name": "Mozambik"
+    },
+    "na": {
+      "name": "Namibia"
+    },
+    "nc": {
+      "name": "Kaledonia Baru"
+    },
+    "ne": {
+      "name": "Niger"
+    },
+    "nf": {
+      "name": "Norfolk, Pulau"
+    },
+    "ng": {
+      "name": "Nigeria"
+    },
+    "ni": {
+      "name": "Nikaragua"
+    },
+    "nl": {
+      "name": "Belanda"
+    },
+    "no": {
+      "name": "Norwegia"
+    },
+    "np": {
+      "name": "Nepal"
+    },
+    "nr": {
+      "name": "Nauru"
+    },
+    "nu": {
+      "name": "Niue"
+    },
+    "nz": {
+      "name": "Selandia Baru"
+    },
+    "om": {
+      "name": "Oman"
+    },
+    "pa": {
+      "name": "Panama"
+    },
+    "pe": {
+      "name": "Peru"
+    },
+    "pf": {
+      "name": "Polinesia Perancis"
+    },
+    "pg": {
+      "name": "Papua Nugini"
+    },
+    "ph": {
+      "name": "Filipina"
+    },
+    "pk": {
+      "name": "Pakistan"
+    },
+    "pl": {
+      "name": "Polandia"
+    },
+    "pm": {
+      "name": "Saint Pierre dan Miquelon"
+    },
+    "pn": {
+      "name": "Pitcairn, Kepulauan"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Penghargaan atas keunggulan dalam mencapai tujuan pendidikan di program Agora",
+        "title": "Penghargaan Pendidikan"
+      },
+      "social": {
+        "help": "Penghargaan yang mengakui dampak positif yang Anda berikan kepada masyarakat",
+        "title": "Penghargaan atas Dampak di Masyarakat"
+      },
+      "operational": {
+        "help": "Penghargaan atas keunggulan dalam manajemen dan pendirian klub",
+        "title": "Keunggulan dalam Manajemen Klub"
+      },
+      "community": {
+        "help": "Penghargaan atas kontribusi dalam mengembangkan dan memperkuat masyarakat Agora",
+        "title": "Penghargaan Masyarakat Agora"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "Cari",
+      "register": "Mendaftar"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "Berhasil menyelenggarakan satu Konvensi Regional atau Internasional Agora",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "Penyelenggara Konvensi"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "Pemimpin Berkualitas"
+        },
+        "speaker": {
+          "help": "Berhasil menyelesaikan Jalur Pendidikan Dasar",
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "Pembicara Berkualitas"
+        }
+      },
+      "mentor": {
+        "help": "Berhasil membimbing seorang anggota baru",
+        "image": "awards.individual.mentor.svg",
+        "title": "Penghargaan Pembimbingan"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "Memenangkan Kontes Pembicara Agora",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "Pemenang Kontes"
+        },
+        "third": {
+          "help": "Peringkat ke-3 dalam Kontes Pembicara Agora",
+          "image": "awards.individual.contest.third.svg",
+          "title": "Kontes, Posisi ke-3"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "Berhasil menyelenggarakan Kontes Agora",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "Penyelenggara Kontes"
+        },
+        "participant": {
+          "help": "Berpartisipasi dalam suatu Kontes Pembicara Agora",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "Sertifikat Partisipasi"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "Peringkat ke-2 dalam Kontes Pembicara Agora",
+          "image": "awards.individual.contest.second.svg",
+          "title": "Kontes, Posisi ke-2"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "Kemajuan paling nyata",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "Penghargaan Kemajuan Pendidikan"
+        }
+      },
+      "outreach": {
+        "help": "Keunggulan dalam penjangkauan masyarakat",
+        "image": "awards.individual.outreach.svg",
+        "title": "Penghargaan Penjangkauan"
+      },
+      "community": {
+        "leadership": {
+          "help": "Eksekusi luar biasa atas proyek-proyek masyarakat",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "Penghargaan Kepemimpinan Masyarakat"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "Keunggulan dan komitmen terhadap misi Agora",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "Penghargaan Anggota Terhormat sebagai Duta"
+        }
+      },
+      "special": {
+        "distinction": {
+          "help": "Keunggulan dalam membantu masyarakat Agora",
+          "image": "awards.individual.special.distinction.svg",
+          "title": "Penghargaan Karakteristik Spesial"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "help": "Berhasil menyelesaikan Program Kepemimpinan",
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "Pemimpin Berbakat"
+        },
+        "communicator": "Komunikator Berhasil"
+      },
+      "help": {
+        "help": "Komitmen berkelanjutan untuk kesuksesan klub",
+        "image": "awards.individual.help.svg",
+        "title": "Penghargaan atas dedikasi untuk kesuksesan klub"
+      },
+      "accomplished": {
+        "speaker": {
+          "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "Pembicara Media Siaran Berbakat"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "Pembicara Persuasif Berbakat"
+              }
+            },
+            "pr": {
+              "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "Spesialis Humas Berbakat"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "Pembicara Berbakat untuk Kesempatan Khusus"
+              }
+            },
+            "storytelling": {
+              "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "Pencerita Berbakat"
+            },
+            "educational": {
+              "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "Pembicara Pendidikan Berbakat"
+            },
+            "business": {
+              "contexts": {
+                "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "Pembicara Bisnis Berbakat"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "Pemikir Kritis Berbakat"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "Pembicara Menghadapi Segala Kemungkinan Berbakat"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "Pembicara Wirausaha Berbakat"
+            },
+            "project": {
+              "management": {
+                "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "Manajer Proyek Berbakat"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "Pemimpin Kecakapan Interpersonal Berbakat"
+              }
+            },
+            "dramatization": {
+              "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "Pembicara Dramatis Berbakat"
+            },
+            "humorous": {
+              "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "Pembicara Humor Berbakat"
+            },
+            "leadership": {
+              "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "Pemimpin Berbakat"
+            },
+            "negotiation": {
+              "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "Negosiator Berbakat"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "Berhasil menyelesaikan {{v0}} Jalur Pendidikan Lanjutan",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "Pencerita Visual Berbakat"
+              }
+            }
+          },
+          "title": "Pembicara Berbakat"
+        },
+        "communicator": {
+          "help": "Keberhasilan menyelesaikan Jalur Komunikasi",
+          "image": "awards.individual.accomplished.communicator.svg",
+          "title": "Komunikator Berhasil"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "Pemimpin Klub"
+        },
+        "founder": {
+          "help": "Sukses mendirikan Klub Agora",
+          "image": "awards.individual.club.founder.svg",
+          "title": "Pendiri Klub"
+        },
+        "officer": {
+          "help": "Berhasil memimpin klub selama satu tahun",
+          "image": "awards.individual.club.officer.svg",
+          "title": "Kepemimpinan Klub"
+        },
+        "growth": {
+          "help": "Keunggulan dalam membimbing dan membentuk klub Agora di negara",
+          "image": "awards.individual.club.growth.svg",
+          "title": "Penghargaan Pengembangan Klub"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "Keanggotaan berkelanjutan di satu klub selama 5 tahun",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "Penghargaan Hari Jadi"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "help": "Keunggulan dalam partisipasi dan komitmen",
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "Anggota Bulan Ini"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "Terus dan aktif menghadiri pertemuan",
+        "image": "awards.individual.attendance.svg",
+        "title": "Penghargaan Komitmen"
+      },
+      "agora": {
+        "innovator": {
+          "help": "Merancang dan menerapkan aktivitas pendidikan yang berhasil",
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Inovator Agora"
+        },
+        "torchbearer": {
+          "help": "Keunggulan dalam mengkomunikasikan dan mempromosikan misi Agora",
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Pembawa Obor Agora"
+        }
+      },
+      "promotion": {
+        "help": "Keunggulan dalam mengkomunikasikan dan mempromosikan misi Agora",
+        "image": "awards.individual.promotion.svg",
+        "title": "Penghargaan Promosi Agora"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "help": "Rekan penyelenggara Konvensi Agora International",
+          "image": "awards.club.convention.host.svg",
+          "title": "Tuan Rumah Konvensi"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "help": "Pendirian klub pertama di satu negara",
+          "image": "awards.club.country.pioneer.svg",
+          "title": "Pelopor Negara"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "help": "Keunggulan dalam pelatihan pendidikan bagi para anggota",
+          "image": "awards.club.educational.excellence.svg",
+          "title": "Penghargaan Keunggulan Pendidikan"
+        },
+        "outreach": {
+          "help": "Keunggulan dalam aktivitas pendidikan di masyarakat klub",
+          "image": "awards.club.educational.outreach.svg",
+          "title": "Penghargaan Penjangkauan Pendidikan"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "help": "Pendirian klub pertama di satu kota",
+          "image": "awards.club.city.pioneer.svg",
+          "title": "Pelopor Kota"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "help": "Keunggulan dalam mengkomunikasikan dan mempromosikan misi Agora di klub negara",
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "Penghargaan Penjangkauan"
+        }
+      },
+      "media": {
+        "help": "Keunggulan dalam mempromosikan misi dan aktivitas Agora di media",
+        "image": "awards.club.media.svg",
+        "title": "Penghargaan Keunggulan Media"
+      },
+      "membership": {
+        "growth": "Penghargaan Perkembangan Keanggotaan",
+        "retention": {
+          "help": "Retensi keanggotaan melebihi 80%",
+          "image": "awards.club.membership.retention.svg",
+          "title": "Penghargaan Retensi Keanggotaan"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "Eksekusi luar biasa atas proyek-proyek masyarakat",
+          "image": "awards.club.community.leadership.svg",
+          "title": "Penghargaan Kepemimpinan Masyarakat"
+        }
+      },
+      "content": {
+        "help": "Keunggulan dalam menciptakan konten baru bagi masyarakat Agora",
+        "image": "awards.club.content.svg",
+        "title": "Penghargaan Kreasi Konten"
+      },
+      "innovator": {
+        "help": "Definisi dan eksekusi yang sukses atas suatu aktivitas pendidikan baru",
+        "image": "awards.club.innovator.svg",
+        "title": "Penghargaan Inovasi"
+      },
+      "special": {
+        "distinction": {
+          "help": "Keunggulan dalam pengoperasian klub",
+          "image": "awards.club.special.distinction.svg",
+          "title": "Penghargaan Karakteristik Spesial"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "help": "Keunggulan dalam pengoperasian klub",
+          "image": "awards.club.ambassador.award.svg",
+          "title": "Penghargaan Duta"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "help": "Keunggulan dalam membimbing para anggota baru",
+          "image": "awards.club.club.mentorship.svg",
+          "title": "Penghargaan Pembimbingan"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "help": "Keunggulan dalam melayani anggota dan memenuhi program Agora",
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "Klub Bulan Ini"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "Kepuasan keanggotaan klub yang melebihi 90%",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "Penghargaan Emas atas Kepuasan Keanggotaan"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "Kepuasan keanggotaan klub yang melebihi 75%",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "Penghargaan Perak atas Kepuasan Keanggotaan"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "Penghargaan Kepuasan Keanggotaan Klub"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "Keanggotaan berkembang dengan lebih dari 20 anggota",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "Penghargaan Pengembangan Keanggotaan Emas"
+          }
+        },
+        "anniversary": {
+          "help": "Pengoperasian klub yang sukses dan berkelanjutan selama sepuluh tahun",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "Penghargaan Hari Jadi Emas"
+        }
+      },
+      "model": {
+        "club": {
+          "help": "Keunggulan dalam mengikuti program operasional Agora",
+          "image": "awards.club.model.club.svg",
+          "title": "Penghargaan Referensi Klub"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "Keanggotaan berkembang lebih dari 10 anggota",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "Penghargaan Pengembangan Keanggotaan Perak"
+          }
+        },
+        "anniversary": {
+          "help": "Pengoperasian klub yang sukses dan berkelanjutan selama lima tahun",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "Penghargaan Hari Jadi Perak"
+        }
+      },
+      "anniversary": {
+        "help": "Pengoperasian klub yang sukses dan berkelanjutan selama satu tahun",
+        "image": "awards.club.anniversary.svg",
+        "title": "Penghargaan Hari Jadi"
+      }
+    },
+    "place": {
+      "participation": "Partisipasi"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "Menjadi penanya paling ingin tahu dan tajam dalam suatu pertemuan tanya jawab",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "Peserta Tanya Jawab Paling Ingin Tahu"
+        },
+        "survivor": {
+          "help": "Berhasil bertahan di sesi tanya jawab dalam suatu pertemuan",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "Penyintas Tanya Jawab"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "Menjadi pembicara dan penanya seminar terbaik",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "Peserta Seminar Terbaik"
+        },
+        "role": {
+          "help": "Melaksanakan peran pertemuan dengan cara yang luar biasa",
+          "image": "awards.meeting.best.role.svg",
+          "title": "Peran Pertemuan Terbaik"
+        },
+        "speaker": {
+          "help": "Menyampaikan pidato dengan persiapan terbaik di suatu pertemuan klub",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "Pembicara Pertemuan Terbaik"
+        },
+        "hot": {
+          "response": {
+            "help": "Menyampaikan pidato improvisasi terbaik di pertemuan klub",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "Pembicara Improvisasi Pertemuan Terbaik"
+          }
+        },
+        "speechwriter": {
+          "help": "Menyusun pidato terbaik dalam suatu pertemuan",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "Penulis Pidato Pértemuan Terbaik"
+        },
+        "evaluator": {
+          "help": "Menyampaikan evaluasi terbaik di pertemuan klub",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "Evaluator Pertemuan Terbaik"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "Lembaga Agora Speakers International merupakan suatu badan amal pendidikan sekuler yang memberdayakan orang untuk menjadi komunikator brilian dan pemimpin percaya diri yang aktif membangun dunia yang lebih baik."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "Tanggal",
+      "country": "Negara",
+      "address": "Alamat",
+      "city": "Kota",
+      "awards": "Penghargaan Didapat",
+      "state": "Negara Bagian/Provinsi/Daerah/dsb.",
+      "event": "Acara",
+      "region": "Wilayah",
+      "points": {
+        "total": "Poin Didapat (Total)",
+        "year": "Poin Didapat (Tahun Ini)",
+        "name": "Poin"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "Silakan tentukan satu bahasa atau lebih yang akan digunakan dalam klub (misalnya: Indonesia)"
+      },
+      "charter": {
+        "date": "Tanggal Pendirian",
+        "help": "Tanggal pendirian harus di masa depan, tetapi tidak melebihi 30 hari."
+      },
+      "founder": {
+        "name": "Pendiri Klub",
+        "email": "Surel Pendiri"
+      },
+      "fee": {
+        "title": "Biaya keanggotaan klub (jika ada)."
+      },
+      "banner": "Spanduk",
+      "restrictions": {
+        "guests": {
+          "input": "Silakan deskripsikan jenis batasan yang akan diberlakukan untuk menghadiri kegiatan klub sebagai seorang tamu (jika ada)"
+        },
+        "membership": {
+          "input": "Silakan deskripsikan jenis batasan yang akan diberlakukan untuk bergabung dengan klub sebagai seorang anggota (jika ada). Jika Anda mendaftar dalam Klub Pemuda, mohon indikasikan rentang usia."
+        }
+      },
+      "type": {
+        "help": "Informasi lebih banyak mengenai berbagai tipe klub ada di sini.",
+        "input": "Jenis Klub"
+      },
+      "points": {
+        "date": "Tanggal Aksi",
+        "action": "Aksi Klub"
+      },
+      "token": "Token Rahasia Klub",
+      "number": "Nomor Klub",
+      "assets": "Aset Klub",
+      "awards": "Penghargaan Klub",
+      "contact": {
+        "help": {
+          "1": "Informasi kontak untuk klub. Harus melalui Surel atau telepon.",
+          "2": "Informasi kontak klub tambahan - harus berbeda dari yang sebelumnya dan dapat berupa Surel/telepon lain, atau situs web, grup Facebook, grup pertemuan, dll."
+        },
+        "title": "Informasi Kontak"
+      },
+      "name": "Nama Klub",
+      "logo": {
+        "title": "Anda dapat mengunggah logo Anda sendiri atau jika Anda tidak memilikinya, kami akan menyediakan satu logo untuk klub Anda secara otomatis."
+      },
+      "meeting": {
+        "schedule": "Jadwal Pertemuan",
+        "info": "Informasi Tambahan"
+      },
+      "officers": "Petugas Klub"
+    },
+    "personal": {
+      "participation": {
+        "input": "Anda tertarik berpartisipasi dalam hal apa?",
+        "online": "Pertemuan Daring",
+        "physical": "Pertemuan fisik"
+      },
+      "languages": {
+        "interested": "Anda tertarik akan bahasa apa?"
+      },
+      "joined": "Tanggal Bergabung",
+      "facebook": "Tautan ke profil Facebook",
+      "roles": {
+        "date": "Tanggal",
+        "role": "Peran",
+        "taken": "Peran Yang Diambil",
+        "club": "Klub"
+      },
+      "speeches": {
+        "persuasive": "Pidato persuasif",
+        "general": "Pidato tujuan umum",
+        "storytelling": "Penceritaan",
+        "educational": "Pendidikan",
+        "business": "Presentasi bisnis",
+        "interested": "Presentasi/pidato seperti apa yang ingin Anda pelajari?",
+        "media": "Produksi vlogging dan media",
+        "sales": "Penjualan",
+        "humorous": "Pidato humor dan komedi"
+      },
+      "privacy": "Saya setuju akan persyaratan dan ketentuan di situs ini serta Kebijakan Privasi Agora Speakers International.",
+      "history": {
+        "date": "Tanggal",
+        "club": "Nama Klub",
+        "event": "Acara"
+      },
+      "linkedin": "Tautan ke profil Linkedin",
+      "skills": "Manakan dari kecakapan di bawah ini yang ingin Anda tingkatkan?",
+      "number": "Nomor Anggota",
+      "password": {
+        "input": "Kata Sandi",
+        "verify": "Ulangi kata sandi untuk verifikasi"
+      },
+      "clubs": {
+        "role": "Peran"
+      },
+      "name": {
+        "address": {
+          "help": "Bagaimana kami dapat menghubungi Anda untuk berkomunikasi (misalnya Surel untuk Anda)?",
+          "field": "Nama yang dipilih untuk berkomunikasi:"
+        },
+        "certificates": {
+          "help": "Bagaimana seharusnya nama Anda ditulis di sertifikat dan penghargaan yang Anda terima?",
+          "input": "Nama yang dipilih untuk sertifikat"
+        },
+        "online": {
+          "help": "Bagaimana seharusnya nama Anda muncul di sistem daring kami, forum, dll.?",
+          "input": "Nama daring yang dipilih"
+        },
+        "full": "Nama Lengkap"
+      },
+      "principles": {
+        "agreement": "Silakan nyatakan persetujuan Anda akan prinsip-prinsip inti kami."
+      },
+      "position": "Posisi saat ini di klub",
+      "interests": {
+        "11": {
+          "language": "Saya tertarik untuk meningkatkan kecakapan bahasa asing saya."
+        },
+        "01": {
+          "curious": "Saya hanya penasaran mengenai organisasi ini."
+        },
+        "12": {
+          "contests": "Saya tertarik untuk bersaing di berbagai kontes yang diadakan oleh Agora Speakers International."
+        },
+        "02": {
+          "confidence": "Saya ingin meningkatkan kepercayaan diri saya."
+        },
+        "13": {
+          "critical": "Saya tertarik untuk belajar bagaimana berpikir secara kritis."
+        },
+        "03": {
+          "communicate": "Saya ingin belajar berkomunikasi lebih efektif."
+        },
+        "14": {
+          "friends": "Saya tertarik bertemu orang-orang dan mendapat teman-teman baru."
+        },
+        "04": {
+          "speak": "Saya ingin meningkatkan kecakapan pidato umum saya."
+        },
+        "15": {
+          "cooperation": "Saya tertarik dalam pertukaran budaya dan berbagai aktivitas kerja sama lintas budaya."
+        },
+        "question": "Apa ketertarikan Anda terhadap Agora Speakers International?",
+        "05": {
+          "leadership": "Saya ingin meningkatkan kecakapan kepemimpinan saya."
+        },
+        "16": {
+          "startclub": "Saya ingin mendirikan satu Klub Agora di kota saya."
+        },
+        "06": {
+          "networking": "Saya tertarik mengembangkan jaringan profesional."
+        },
+        "17": {
+          "ambassador": "Saya ingin menjadi Duta Agora untuk negara saya."
+        },
+        "07": {
+          "presentations": "Saya tertarik akan penyampaian presentasi bisnis."
+        },
+        "18": {
+          "partnership": "Saya tertarik untuk mengadakan kemitraan antara organisasi saya dan Agora Speakers International."
+        },
+        "08": {
+          "events": "Saya tertarik akan lokakarya, seminar, dan berbagai acara yang Anda adakan."
+        },
+        "09": {
+          "debating": "Saya tertarik akan kegiatan berdebat dan berargumentasi."
+        },
+        "10": {
+          "community": "Saya ingin membuat suatu perubahan di komunitas saya."
+        }
+      },
+      "email": "Surel"
+    },
+    "meeting": {
+      "date": "Tanggal Pertemuan",
+      "number": "Nomor Pertemuan",
+      "venue": {
+        "name": "Nama Tempat Pertemuan"
+      },
+      "address": {
+        "input": "Alamat tempat pertemuan"
+      },
+      "online": {
+        "software": "Perangkat lunak pertemuan",
+        "link": "Tautan untuk bergabung",
+        "id": "Id Pertemuan Daring",
+        "title": "Informasi untuk pertemuan daring",
+        "passowrd": "Kata sandi untuk bergabung"
+      },
+      "theme": "Tema pertemuan (jika ada)",
+      "time": "Waktu Pertemuan"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) Hak cipta Agora Speakers International. Semua hak dilindungi. Material dan aset Agora hanya boleh digunakan menurut persyaratan dan ketentuan kami."
+    },
+    "terms": "Persyaratan dan Ketentuan",
+    "legal": {
+      "notice": "Informasi legal"
+    },
+    "privacy": {
+      "policy": "Kebijakan privasi"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "Hindi",
+      "ps": "Pashto",
+      "pt": "Portugis",
+      "hr": "Kroasia",
+      "pt_br": "Brazilian",
+      "hu": "Hungaria",
+      "yi": "Yiddish",
+      "hy": "Armenia",
+      "yo": "Yoruba",
+      "ia": "Interlingua",
+      "id": "Indonesia",
+      "ig": "Igbo",
+      "ii": "Sichuan Yi",
+      "qu": "Quechua",
+      "af": "Afrikaans",
+      "ak": "Akan",
+      "is": "Islandia",
+      "it": "Italia",
+      "am": "Amharik",
+      "zh": "Tionghoa",
+      "ar": "Arab",
+      "as": "Assam",
+      "ja": "Jepang",
+      "az": "Azerbaijani",
+      "rm": "Reto-Roman",
+      "zu": "Zulu",
+      "rn": "Rundi",
+      "ro": "Rumania",
+      "be": "Belarusia",
+      "ru": "Rusia",
+      "bg": "Bulgaria",
+      "rw": "Kinyarwanda",
+      "bm": "Bambara",
+      "bn": "Bengali",
+      "jv": "Jawa",
+      "bo": "Tibet",
+      "sa": "Sanskerta",
+      "br": "Breton",
+      "bs": "Bosnia",
+      "sd": "Sindhi",
+      "se": "Sami Utara",
+      "sg": "Sango",
+      "sh": "Serbo-Kroasia",
+      "ka": "Georgia",
+      "si": "Sinhala",
+      "sk": "Slovak",
+      "sl": "Sloven",
+      "sn": "Shona",
+      "so": "Somalia",
+      "ca": "Katalan",
+      "ki": "Kikuyu",
+      "sq": "Albania",
+      "sr": "Serbia",
+      "kk": "Kazakh",
+      "kl": "Kalaallisut",
+      "ce": "Chechen",
+      "km": "Khmer",
+      "su": "Sunda",
+      "kn": "Kannada",
+      "sv": "Swedia",
+      "ko": "Korea",
+      "sw": "Swahili",
+      "ks": "Kashmir",
+      "ku": "Kurdi",
+      "kw": "Kornish",
+      "ta": "Tamil",
+      "ky": "Kirgiz",
+      "cs": "Cheska",
+      "te": "Telugu",
+      "tg": "Tajik",
+      "th": "Thai",
+      "ti": "Tigrinya",
+      "cy": "Welsh",
+      "lb": "Luksemburg",
+      "tk": "Turkmen",
+      "tl": "Tagalog",
+      "lg": "Ganda",
+      "to": "Tonga",
+      "da": "Dansk",
+      "tr": "Turki",
+      "tt": "Tatar",
+      "de": "Jerman",
+      "ln": "Lingala",
+      "lo": "Lao",
+      "lt": "Lituavi",
+      "lu": "Luba-Katanga",
+      "lv": "Latvi",
+      "ug": "Uyghur",
+      "dz": "Dzongkha",
+      "uk": "Ukraina",
+      "mg": "Malagasi",
+      "mi": "Maori",
+      "ur": "Urdu",
+      "mk": "Makedonia",
+      "ml": "Malayalam",
+      "ee": "Ewe",
+      "mn": "Mongolia",
+      "mr": "Marathi",
+      "uz": "Uzbek",
+      "ms": "Melayu",
+      "el": "Yunani",
+      "mt": "Malta",
+      "en": "Inggris",
+      "eo": "Esperanto",
+      "my": "Burma",
+      "es": "Spanyol",
+      "et": "Esti",
+      "eu": "Basque",
+      "vi": "Vietnam",
+      "nb": "Bokmål Norwegia",
+      "nd": "Ndebele Utara",
+      "ne": "Nepali",
+      "fa": "Persia",
+      "nl": "Belanda",
+      "ff": "Fula",
+      "nn": "Nynorsk Norwegia",
+      "no": "Norwegia",
+      "fi": "Suomi",
+      "fo": "Faroe",
+      "fr": "Prancis",
+      "fy": "Frisia Barat",
+      "wo": "Wolof",
+      "ga": "Irlandia",
+      "gd": "Gaelik Skotlandia",
+      "om": "Oromo",
+      "or": "Oriya",
+      "os": "Ossetia",
+      "gl": "Galisia",
+      "gu": "Gujarat",
+      "gv": "Manx",
+      "xh": "Xhosa",
+      "pa": "Punjabi",
+      "ha": "Hausa",
+      "pl": "Polski",
+      "he": "Ibrani"
+    },
+    "full": {
+      "hi": "Hindi (हिन्दी)",
+      "ps": "Pashto (پښتو)",
+      "pt": "Portugis (Português)",
+      "hr": "Kroasia (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "Hungaria (Magyar)",
+      "yi": "Yiddish (ייִדיש)",
+      "hy": "Armenia (Հայերեն)",
+      "yo": "Yoruba (Èdè Yorùbá)",
+      "ia": "Interlingua (Interlingua)",
+      "id": "Indonesia (Indonesia)",
+      "ig": "Igbo (Igbo)",
+      "ii": "Sichuan Yi (ꆈꌠꉙ)",
+      "qu": "Quechua (Runasimi)",
+      "af": "Afrikaans (Afrikaans)",
+      "ak": "Akan (Akan)",
+      "is": "Islandia (Íslenska)",
+      "it": "Italia (Italiano)",
+      "am": "Amharik (አማርኛ)",
+      "zh": "Tionghoa (中文)",
+      "ar": "Arab (العربية)",
+      "as": "Assam (অসমীয়া)",
+      "ja": "Jepang (日本語)",
+      "az": "Azerbaijani (Azərbaycan)",
+      "rm": "Reto-Roman (Rumantsch)",
+      "zu": "Zulu (IsiZulu)",
+      "rn": "Rundi (Ikirundi)",
+      "ro": "Rumania (Română)",
+      "be": "Belarusia (Беларуская)",
+      "ru": "Rusia (Русский)",
+      "bg": "Bulgaria (Български)",
+      "rw": "Kinyarwanda (Kinyarwanda)",
+      "bm": "Bambara (Bamanakan)",
+      "bn": "Bengali (বাংলা)",
+      "jv": "Jawa (Jawa)",
+      "bo": "Tibet (བོད་སྐད་)",
+      "sa": "Sanskerta (संस्कृत भाषा)",
+      "br": "Breton (Brezhoneg)",
+      "bs": "Bosnia (Bosanski)",
+      "sd": "Sindhi (سنڌي)",
+      "se": "Sami Utara (Davvisámegiella)",
+      "sg": "Sango (Sängö)",
+      "sh": "Serbo-Kroasia (Srpskohrvatski)",
+      "ka": "Georgia (ქართული)",
+      "si": "Sinhala (සිංහල)",
+      "sk": "Slovak (Slovenčina)",
+      "sl": "Sloven (Slovenščina)",
+      "sn": "Shona (ChiShona)",
+      "so": "Somalia (Soomaali)",
+      "ca": "Katalan (Català)",
+      "ki": "Kikuyu (Gikuyu)",
+      "sq": "Albania (Shqip)",
+      "sr": "Serbia (Српски)",
+      "kk": "Kazakh (Қазақ тілі)",
+      "kl": "Kalaallisut (Kalaallisut)",
+      "ce": "Chechen (Нохчийн)",
+      "km": "Khmer (ខ្មែរ)",
+      "su": "Sunda (Basa Sunda)",
+      "kn": "Kannada (ಕನ್ನಡ)",
+      "sv": "Swedia (Svenska)",
+      "ko": "Korea (한국어)",
+      "sw": "Swahili (Kiswahili)",
+      "ks": "Kashmir (کٲشُر)",
+      "ku": "Kurdi (Kurdî)",
+      "kw": "Kornish (Kernewek)",
+      "ta": "Tamil (தமிழ்)",
+      "ky": "Kirgiz (Кыргызча)",
+      "cs": "Cheska (Čeština)",
+      "te": "Telugu (తెలుగు)",
+      "tg": "Tajik (Тоҷикӣ)",
+      "th": "Thai (ไทย)",
+      "ti": "Tigrinya (ትግር)",
+      "cy": "Welsh (Cymraeg)",
+      "lb": "Luksemburg (Lëtzebuergesch)",
+      "tk": "Turkmen (Türkmen dili)",
+      "tl": "Tagalog (Tagalog)",
+      "lg": "Ganda (Luganda)",
+      "to": "Tonga (Lea fakatonga)",
+      "da": "Dansk (Dansk)",
+      "tr": "Turki (Türkçe)",
+      "tt": "Tatar (Татар)",
+      "de": "Jerman (Deutsch)",
+      "ln": "Lingala (Lingála)",
+      "lo": "Lao (ລາວ)",
+      "lt": "Lituavi (Lietuvių)",
+      "lu": "Luba-Katanga (Tshiluba)",
+      "lv": "Latvi (Latviešu)",
+      "ug": "Uyghur (ئۇيغۇرچە)",
+      "dz": "Dzongkha (རྫོང་ཁ)",
+      "uk": "Ukraina (Українська)",
+      "mg": "Malagasi (Malagasy)",
+      "mi": "Maori (Te reo Māori)",
+      "ur": "Urdu (اردو)",
+      "mk": "Makedonia (Македонски)",
+      "ml": "Malayalam (മലയാളം)",
+      "ee": "Ewe (Eʋegbe)",
+      "mn": "Mongolia (Монгол)",
+      "mr": "Marathi (मराठी)",
+      "uz": "Uzbek (O‘zbek)",
+      "ms": "Melayu (Melayu)",
+      "el": "Yunani (Ελληνικά)",
+      "mt": "Malta (Malti)",
+      "en": "Inggris (English)",
+      "eo": "Esperanto (Esperanto)",
+      "my": "Burma (မြန်မာ)",
+      "es": "Spanyol (Español)",
+      "et": "Esti (Eesti)",
+      "eu": "Basque (Euskara)",
+      "vi": "Vietnam (Tiếng Việt)",
+      "nb": "Bokmål Norwegia (Norsk bokmål)",
+      "nd": "Ndebele Utara (IsiNdebele)",
+      "ne": "Nepali (नेपाली)",
+      "fa": "Persia (فارسی)",
+      "nl": "Belanda (Nederlands)",
+      "ff": "Fula (Pulaar)",
+      "nn": "Nynorsk Norwegia (Norsk nynorsk)",
+      "no": "Norwegia (Norsk)",
+      "fi": "Suomi (Suomi)",
+      "fo": "Faroe (Føroyskt)",
+      "fr": "Prancis (Français)",
+      "fy": "Frisia Barat (Frysk)",
+      "wo": "Wolof (Wolof)",
+      "ga": "Irlandia (Gaeilge)",
+      "gd": "Gaelik Skotlandia (Gàidhlig)",
+      "om": "Oromo (Oromoo)",
+      "or": "Oriya (ଓଡ଼ିଆ)",
+      "os": "Ossetia (Ирон)",
+      "gl": "Galisia (Galego)",
+      "gu": "Gujarat (ગુજરાતી)",
+      "gv": "Manx (Gaelg)",
+      "xh": "Xhosa (IsiXhosa)",
+      "pa": "Punjabi (ਪੰਜਾਬੀ)",
+      "ha": "Hausa (Hausa)",
+      "pl": "Polski (Polski)",
+      "he": "Ibrani (עברית)"
+    }
+  }
+}

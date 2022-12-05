@@ -1,0 +1,27 @@
+.label {
+  font-size: 0.7em;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  text-transform: capitalize;
+  z-index: 1;
+}
+
+.input {
+  width: 100%;
+  font-size: 0.8em !important;
+  height: 47px;
+}
+
+.value {
+  position: absolute;
+  bottom: 5px;
+  font-size: 0.8em;
+  left: 10px;
+  text-transform: capitalize;
+}
+
+.dialog {
+  max-width: 25em;
+  width: 100%;
+}

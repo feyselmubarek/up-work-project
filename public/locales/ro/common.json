@@ -1,0 +1,2018 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "Club de Referinta",
+      "corporate": "Club corporatist",
+      "restricted": "Club restrâns",
+      "term": "Club Agora",
+      "pic": "Club de interes public",
+      "open": "Club public deschis"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "Porto Rico"
+    },
+    "ps": {
+      "name": "Teritoriul Palestinian"
+    },
+    "pt": {
+      "name": "Portugalia"
+    },
+    "pw": {
+      "name": "Palau"
+    },
+    "py": {
+      "name": "Paraguay"
+    },
+    "qa": {
+      "name": "Qatar"
+    },
+    "ad": {
+      "name": "Andorra"
+    },
+    "ae": {
+      "name": "Emiratele Arabe Unite"
+    },
+    "af": {
+      "name": "Afganistan"
+    },
+    "ag": {
+      "name": "Antigua și Barbuda"
+    },
+    "ai": {
+      "name": "Anguilla"
+    },
+    "al": {
+      "name": "Albania"
+    },
+    "am": {
+      "name": "Армения"
+    },
+    "ao": {
+      "name": "Angola"
+    },
+    "aq": {
+      "name": "Antarctica"
+    },
+    "ar": {
+      "name": "Argentina"
+    },
+    "as": {
+      "name": "Samoa Americană"
+    },
+    "at": {
+      "name": "Austria"
+    },
+    "re": {
+      "name": "Reunion"
+    },
+    "au": {
+      "name": "Australia"
+    },
+    "aw": {
+      "name": "Aruba"
+    },
+    "ax": {
+      "name": "Insulele Aland"
+    },
+    "az": {
+      "name": "Azerbaidjan"
+    },
+    "ro": {
+      "name": "România"
+    },
+    "ba": {
+      "name": "Bosnia și Herțegovina"
+    },
+    "bb": {
+      "name": "Barbados"
+    },
+    "rs": {
+      "name": "Serbia"
+    },
+    "bd": {
+      "name": "Bangladesh"
+    },
+    "be": {
+      "name": "Belgia"
+    },
+    "ru": {
+      "name": "Rusia"
+    },
+    "bf": {
+      "name": "Burkina Faso"
+    },
+    "bg": {
+      "name": "Bulgaria"
+    },
+    "rw": {
+      "name": "Rwanda"
+    },
+    "bh": {
+      "name": "Bahrain"
+    },
+    "bi": {
+      "name": "Burundi"
+    },
+    "bj": {
+      "name": "Benin"
+    },
+    "bl": {
+      "name": "Sfântul Bartolomeu"
+    },
+    "bm": {
+      "name": "Bermuda"
+    },
+    "bn": {
+      "name": "Brunei"
+    },
+    "bo": {
+      "name": "Bolivia"
+    },
+    "sa": {
+      "name": "Arabia Saudită"
+    },
+    "bq": {
+      "name": "Bonaire, Sint Eustatius și Saba"
+    },
+    "sb": {
+      "name": "Insulele Solomon"
+    },
+    "br": {
+      "name": "Brazilia"
+    },
+    "sc": {
+      "name": "Seychelles"
+    },
+    "bs": {
+      "name": "Bahamas"
+    },
+    "sd": {
+      "name": "Sudan"
+    },
+    "bt": {
+      "name": "Bhutan"
+    },
+    "se": {
+      "name": "Suedia"
+    },
+    "bv": {
+      "name": "Insula Bouvet"
+    },
+    "sg": {
+      "name": "Singapore"
+    },
+    "bw": {
+      "name": "Botswana"
+    },
+    "sh": {
+      "name": "Sfânta Elena"
+    },
+    "si": {
+      "name": "Slovenia"
+    },
+    "by": {
+      "name": "Bielorusia"
+    },
+    "sj": {
+      "name": "Svalbard și Jan Mayen"
+    },
+    "bz": {
+      "name": "Belize"
+    },
+    "sk": {
+      "name": "Slovacia"
+    },
+    "sl": {
+      "name": "Sierra Leone"
+    },
+    "sm": {
+      "name": "San Marino"
+    },
+    "sn": {
+      "name": "Senegal"
+    },
+    "so": {
+      "name": "Somalia"
+    },
+    "ca": {
+      "name": "Canada"
+    },
+    "sr": {
+      "name": "Surinam"
+    },
+    "cc": {
+      "name": "Insulele Cocos"
+    },
+    "ss": {
+      "name": "Sudanul de Sud"
+    },
+    "cd": {
+      "name": "Republica Democrată Congo"
+    },
+    "st": {
+      "name": "Sao Tome și Principe"
+    },
+    "cf": {
+      "name": "Republica Centrafricană"
+    },
+    "sv": {
+      "name": "El Salvador"
+    },
+    "cg": {
+      "name": "Congo"
+    },
+    "ch": {
+      "name": "Eleveția"
+    },
+    "sx": {
+      "name": "Sint Maarten (Partea Olandeză)"
+    },
+    "ci": {
+      "name": "Coasta de Fildeș"
+    },
+    "sy": {
+      "name": "Siria"
+    },
+    "sz": {
+      "name": "Swaziland"
+    },
+    "ck": {
+      "name": "Insulele Cook"
+    },
+    "cl": {
+      "name": "Chile"
+    },
+    "cm": {
+      "name": "Camerun"
+    },
+    "cn": {
+      "name": "China"
+    },
+    "co": {
+      "name": "Columbia"
+    },
+    "cr": {
+      "name": "Costa Rica"
+    },
+    "tc": {
+      "name": "Insulele Turks și Caicos"
+    },
+    "td": {
+      "name": "Ciad"
+    },
+    "cu": {
+      "name": "Cuba"
+    },
+    "tf": {
+      "name": "Teritoriile Australe și Antarctice Franceze"
+    },
+    "cv": {
+      "name": "Capul Verde"
+    },
+    "tg": {
+      "name": "Togo"
+    },
+    "cw": {
+      "name": "Curacao"
+    },
+    "th": {
+      "name": "Thailanda"
+    },
+    "cx": {
+      "name": "Insula Christmas"
+    },
+    "cy": {
+      "name": "Cipru"
+    },
+    "tj": {
+      "name": "Tadjikistan"
+    },
+    "cz": {
+      "name": "Republica Cehă"
+    },
+    "tk": {
+      "name": "Tokelau"
+    },
+    "tl": {
+      "name": "Timorul de Est"
+    },
+    "tm": {
+      "name": "Turkmenia"
+    },
+    "tn": {
+      "name": "Tunisia"
+    },
+    "to": {
+      "name": "Tonga"
+    },
+    "tr": {
+      "name": "Turcia"
+    },
+    "tt": {
+      "name": "Trinidad-Tobago"
+    },
+    "de": {
+      "name": "Germania"
+    },
+    "tv": {
+      "name": "Tuvalu"
+    },
+    "tw": {
+      "name": "Taiwan"
+    },
+    "dj": {
+      "name": "Djibouti"
+    },
+    "tz": {
+      "name": "Tanzania"
+    },
+    "dk": {
+      "name": "Danemarca"
+    },
+    "dm": {
+      "name": "Dominica"
+    },
+    "do": {
+      "name": "Republica Dominicană"
+    },
+    "ua": {
+      "name": "Ucraina"
+    },
+    "ug": {
+      "name": "Uganda"
+    },
+    "dz": {
+      "name": "Algeria"
+    },
+    "um": {
+      "name": "Insulele mici îndepărtate ale Statelor Unite ale Americii"
+    },
+    "ec": {
+      "name": "Ecuador"
+    },
+    "us": {
+      "name": "Statele Unite ale Americii"
+    },
+    "ee": {
+      "name": "Естония"
+    },
+    "eg": {
+      "name": "Egipt"
+    },
+    "eh": {
+      "name": "Sahara Occidentală"
+    },
+    "uy": {
+      "name": "Uruguay"
+    },
+    "uz": {
+      "name": "Uzbekistan"
+    },
+    "va": {
+      "name": "Vatican"
+    },
+    "er": {
+      "name": "Eritreea"
+    },
+    "vc": {
+      "name": "Sfântul Vincent și Grenadine"
+    },
+    "es": {
+      "name": "Spania"
+    },
+    "et": {
+      "name": "Etiopia"
+    },
+    "ve": {
+      "name": "Venezuela"
+    },
+    "vg": {
+      "name": "Insulele Virgine Britanice"
+    },
+    "vi": {
+      "name": "Insulele Virgine S.U.A."
+    },
+    "vn": {
+      "name": "Vietnam"
+    },
+    "vu": {
+      "name": "Vanuatu"
+    },
+    "fi": {
+      "name": "Finlanda"
+    },
+    "fj": {
+      "name": "Fiji"
+    },
+    "fk": {
+      "name": "Insulele Falkland"
+    },
+    "fm": {
+      "name": "Micronezia"
+    },
+    "fo": {
+      "name": "Insulele Feroe"
+    },
+    "fr": {
+      "name": "Franța"
+    },
+    "wf": {
+      "name": "Wallis și Futuna"
+    },
+    "ga": {
+      "name": "Gabon"
+    },
+    "gb": {
+      "name": "Marea Britanie"
+    },
+    "ws": {
+      "name": "Samoa"
+    },
+    "gd": {
+      "name": "Grenada"
+    },
+    "ge": {
+      "name": "Georgia"
+    },
+    "gf": {
+      "name": "Guyana Franceză"
+    },
+    "gg": {
+      "name": "Guernsey"
+    },
+    "gh": {
+      "name": "Ghana"
+    },
+    "gi": {
+      "name": "Gibraltar"
+    },
+    "gl": {
+      "name": "Groenlanda"
+    },
+    "gm": {
+      "name": "Gambia"
+    },
+    "gn": {
+      "name": "Guineea"
+    },
+    "gp": {
+      "name": "Guadelupa"
+    },
+    "gq": {
+      "name": "Guineea Ecuatorială"
+    },
+    "gr": {
+      "name": "Grecia"
+    },
+    "gs": {
+      "name": "Insulele Georgia de Sud și Sandwich de Sud"
+    },
+    "gt": {
+      "name": "Guatemala"
+    },
+    "gu": {
+      "name": "Guam"
+    },
+    "gw": {
+      "name": "Guineea-Bissau"
+    },
+    "gy": {
+      "name": "Guiana"
+    },
+    "hk": {
+      "name": "R.A.S. Hong Kong a Chinei"
+    },
+    "hm": {
+      "name": "Insula Heard și Insulele McDonald"
+    },
+    "hn": {
+      "name": "Honduras"
+    },
+    "hr": {
+      "name": "Croația"
+    },
+    "ht": {
+      "name": "Haiti"
+    },
+    "ye": {
+      "name": "Yemen"
+    },
+    "hu": {
+      "name": "Ungaria"
+    },
+    "id": {
+      "name": "Indonezia"
+    },
+    "yt": {
+      "name": "Mayotte"
+    },
+    "ie": {
+      "name": "Irlanda"
+    },
+    "il": {
+      "name": "Israel"
+    },
+    "im": {
+      "name": "Insula Man"
+    },
+    "in": {
+      "name": "Индия"
+    },
+    "io": {
+      "name": "Teritoriul Britanic din Oceanul Indian"
+    },
+    "za": {
+      "name": "Africa de Sud"
+    },
+    "iq": {
+      "name": "Irak"
+    },
+    "ir": {
+      "name": "Iran"
+    },
+    "is": {
+      "name": "Islanda"
+    },
+    "it": {
+      "name": "Italia"
+    },
+    "zm": {
+      "name": "Zambia"
+    },
+    "je": {
+      "name": "Jersey"
+    },
+    "zw": {
+      "name": "Zimbabwe"
+    },
+    "jm": {
+      "name": "Jamaica"
+    },
+    "jo": {
+      "name": "Iordania"
+    },
+    "jp": {
+      "name": "Japonia"
+    },
+    "ke": {
+      "name": "Kenya"
+    },
+    "kg": {
+      "name": "Kârgâzstan"
+    },
+    "kh": {
+      "name": "Cambodgia"
+    },
+    "ki": {
+      "name": "Kiribati"
+    },
+    "km": {
+      "name": "Comore"
+    },
+    "kn": {
+      "name": "Sfântul Kitts și Nevis"
+    },
+    "kp": {
+      "name": "Coreea de Nord"
+    },
+    "kr": {
+      "name": "Coreea de Sud"
+    },
+    "kw": {
+      "name": "Kuweit"
+    },
+    "ky": {
+      "name": "Insulele Cayman"
+    },
+    "kz": {
+      "name": "Kazahstan"
+    },
+    "la": {
+      "name": "Laos"
+    },
+    "lb": {
+      "name": "Liban"
+    },
+    "lc": {
+      "name": "Sfânta Lucia"
+    },
+    "li": {
+      "name": "Liechtenstein"
+    },
+    "lk": {
+      "name": "Sri Lanka"
+    },
+    "lr": {
+      "name": "Liberia"
+    },
+    "ls": {
+      "name": "Lesotho"
+    },
+    "lt": {
+      "name": "Lituania"
+    },
+    "lu": {
+      "name": "Luxemburg"
+    },
+    "lv": {
+      "name": "Letonia"
+    },
+    "ly": {
+      "name": "Libia"
+    },
+    "ma": {
+      "name": "Maroc"
+    },
+    "mc": {
+      "name": "Monaco"
+    },
+    "md": {
+      "name": "Republica Moldova"
+    },
+    "me": {
+      "name": "Muntenegru"
+    },
+    "mf": {
+      "name": "Sfântul Martin"
+    },
+    "mg": {
+      "name": "Madagascar"
+    },
+    "mh": {
+      "name": "Insulele Marshall"
+    },
+    "mk": {
+      "name": "Macedonia"
+    },
+    "ml": {
+      "name": "Mali"
+    },
+    "mm": {
+      "name": "Myanmar"
+    },
+    "mn": {
+      "name": "Монголия"
+    },
+    "mo": {
+      "name": "R.A.S. Macao a Chinei"
+    },
+    "mp": {
+      "name": "Insulele Mariane de Nord"
+    },
+    "mq": {
+      "name": "Martinica"
+    },
+    "mr": {
+      "name": "Mauritania"
+    },
+    "ms": {
+      "name": "Montserrat"
+    },
+    "mt": {
+      "name": "Malta"
+    },
+    "mu": {
+      "name": "Mauritius"
+    },
+    "mv": {
+      "name": "Maldive"
+    },
+    "mw": {
+      "name": "Malawi"
+    },
+    "mx": {
+      "name": "Mexic"
+    },
+    "my": {
+      "name": "Malaezia"
+    },
+    "mz": {
+      "name": "Mozambic"
+    },
+    "na": {
+      "name": "Namibia"
+    },
+    "nc": {
+      "name": "Noua Caledonie"
+    },
+    "ne": {
+      "name": "Niger"
+    },
+    "nf": {
+      "name": "Insulele Norfolk"
+    },
+    "ng": {
+      "name": "Nigeria"
+    },
+    "ni": {
+      "name": "Nicaragua"
+    },
+    "nl": {
+      "name": "Olanda"
+    },
+    "no": {
+      "name": "Norvegia"
+    },
+    "np": {
+      "name": "Nepal"
+    },
+    "nr": {
+      "name": "Nauru"
+    },
+    "nu": {
+      "name": "Niue"
+    },
+    "nz": {
+      "name": "Noua Zeelandă"
+    },
+    "om": {
+      "name": "Oman"
+    },
+    "pa": {
+      "name": "Panama"
+    },
+    "pe": {
+      "name": "Peru"
+    },
+    "pf": {
+      "name": "Polinezia Franceză"
+    },
+    "pg": {
+      "name": "Papua Noua Guinee"
+    },
+    "ph": {
+      "name": "Filipine"
+    },
+    "pk": {
+      "name": "Pakistan"
+    },
+    "pl": {
+      "name": "Polonia"
+    },
+    "pm": {
+      "name": "Sfântul Pierre și Miquelon"
+    },
+    "pn": {
+      "name": "Pitcairn"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Premii pentru excelenţă în îndeplinirea obiectivelor educaţionale din cadrul programului Agora",
+        "title": "Premii Educaţionale"
+      },
+      "social": {
+        "help": "Premii care recunosc meritul impactului tău pozitiv asupra comunităţii tele.",
+        "title": "Premii pentru Impact asupra Societăţii"
+      },
+      "operational": {
+        "help": "Premii pentru excelenţă în managementul şi iniţierea de cluburi",
+        "title": "Excelenţă în Managementul Clubului"
+      },
+      "community": {
+        "help": "Premii pentru contributorii la creşterea şi dezvoltarea comunităţii Agora",
+        "title": "Premiile Comunităţii Agora"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "Cauta",
+      "register": "Inregistreaza-te"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "Organizarea cu succes a unei Conferinţe Agora Regionale sau Internaţionale",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "Organizator de Conferinţă"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "Lider Calificat"
+        },
+        "speaker": {
+          "help": "Parcurgerea cu succes a Nivelului Educaţional de Bază",
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "Vorbitor Calificat"
+        }
+      },
+      "mentor": {
+        "help": "Succes în mentorarea unui nou membru",
+        "image": "awards.individual.mentor.svg",
+        "title": "Premiul pentru Mentorat"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "Câştigarea unui Concurs al Vorbitorilor Agora",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "Câştigător de Concurs"
+        },
+        "third": {
+          "help": "Clasarea pe locul trei într-un Concurs al Vorbitorilor Agora",
+          "image": "awards.individual.contest.third.svg",
+          "title": "Premiul al III-lea pentru Concurs"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "Organizarea cu succes a unui Concurs Agora",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "Organizator de Concurs"
+        },
+        "participant": {
+          "help": "Participarea la un Concurs al Vorbitorilor Agora",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "Certificat de Participare"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "Clasarea pe locul doi într-un Concurs al Vorbitorilor Agora",
+          "image": "awards.individual.contest.second.svg",
+          "title": "Premiul al II-lea pentru Concurs"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "Progres Notabil",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "Premiu pentru Progres Educaţional"
+        }
+      },
+      "outreach": {
+        "help": "Excelenţă în mobilizare comunitară",
+        "image": "awards.individual.outreach.svg",
+        "title": "Premiul pentru Mobilizare"
+      },
+      "community": {
+        "leadership": {
+          "help": "Realizarea excelenta a proiectelor comunitare",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "Premiul pentru Leadership Comunitar"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "Excelenţă şi implicare în misiunea Agora",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "Premiul de Membru de Vază al Ambasadorilor"
+        }
+      },
+      "special": {
+        "distinction": {
+          "help": "Excelenţă în ajutarea comunităţii Agora",
+          "image": "awards.individual.special.distinction.svg",
+          "title": "Premiul de Menţiune Specială"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "help": "Parcurgerea cu succes a Programului de Leadership",
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "Lider Meritoriu"
+        },
+        "communicator": "Comunicator Meritoriu"
+      },
+      "help": {
+        "help": "Implicarea continuă pentru succesul clubului",
+        "image": "awards.individual.help.svg",
+        "title": "Premiul pentru Implicarea în Succesul Clubului"
+      },
+      "accomplished": {
+        "speaker": {
+          "help": "Parcurgerea cu succes a Nivelului Educaţional Avansat {{v0}}",
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "Vorbitor Meritoriu în cadrul Mass Media Difuzată"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "Vorbitor Persuasiv Meritoriu"
+              }
+            },
+            "pr": {
+              "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "Specialist Meritoriu în Relaţiile cu Publicul"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "Vorbitor Meritoriu în cadrul Ocaziilor Speciale"
+              }
+            },
+            "storytelling": {
+              "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "Povestitor Meritoriu"
+            },
+            "educational": {
+              "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "Vorbitor Educaţional Meritoriu"
+            },
+            "business": {
+              "contexts": {
+                "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "Vorbitor Meritoriu în contextul de Afaceri"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "Gânditor Critic Meritoriu"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "Vorbitor Cutezător Meritoriu"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "Vorbitor Meritoriu în contextul Antreprenoral"
+            },
+            "project": {
+              "management": {
+                "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "Manager de Proiect Meritoriu"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "Maestru Meritoriu al Abilităţilor Interpersonale"
+              }
+            },
+            "dramatization": {
+              "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "Vorbitor Meritoriu în contextul Dramatic"
+            },
+            "humorous": {
+              "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "Vorbitor Haios Meritoriu"
+            },
+            "leadership": {
+              "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "Lider Meritoriu"
+            },
+            "negotiation": {
+              "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "Negociator Meritoriu"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "Parcurgerea cu succes a Nivelului Educational Avansat {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "Povestitor Meritoriu în contextul Vizual"
+              }
+            }
+          },
+          "title": "Vorbitor Meritoriu"
+        },
+        "communicator": {
+          "help": "Parcurgerea cu succes a întregului Circuit de Comunicarea",
+          "image": "awards.individual.accomplished.communicator.svg",
+          "title": "Comunicator Meritoriu"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "Liderul Clubului"
+        },
+        "founder": {
+          "help": "Fondarea unui Club Agora",
+          "image": "awards.individual.club.founder.svg",
+          "title": "Fondatorul Clubului"
+        },
+        "officer": {
+          "help": "Lider de succes al clubului timp de un an",
+          "image": "awards.individual.club.officer.svg",
+          "title": "Leadership al Clubului"
+        },
+        "growth": {
+          "help": "Excelenţă în mentorarea şi crearea de cluburi Agora în ţară",
+          "image": "awards.individual.club.growth.svg",
+          "title": "Premiul pentru Dezvoltarea Clubului"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "Calitate de membru pentru cinci ani consecutivi",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "Premiu Aniversar"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "help": "Excelenţă în participare şi implicare",
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "Premiul Membrul Lunii"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "Participarea continuă şi acitvă la întâlniri",
+        "image": "awards.individual.attendance.svg",
+        "title": "Premiul pentru Implicare"
+      },
+      "agora": {
+        "innovator": {
+          "help": "Crearea şi implementarea cu succes a unei activităţi educaţionale",
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Premiul Agora pentru Inovaţie"
+        },
+        "torchbearer": {
+          "help": "Excelenţă în comunicarea şi promovarea misiunii Agora",
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Purtător al Torţei Agora"
+        }
+      },
+      "promotion": {
+        "help": "Excelenţă în comunicarea şi promovarea misiunii Agora",
+        "image": "awards.individual.promotion.svg",
+        "title": "Premiul Agora pentru Promovare"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "help": "Organizarea unei Convenţii Agora International",
+          "image": "awards.club.convention.host.svg",
+          "title": "Premiul pentru Gazda Conferinţei"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "help": "Iniţierea primului club din ţară",
+          "image": "awards.club.country.pioneer.svg",
+          "title": "Premiul Pionierul Naţional"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "help": "Excelenţă în pregătirea educaţională a membrilor",
+          "image": "awards.club.educational.excellence.svg",
+          "title": "Premiul pentru Excelenţă în Educaţie"
+        },
+        "outreach": {
+          "help": "Excelenţă în activităţi educaţionale în cadrul comunităţii clubului",
+          "image": "awards.club.educational.outreach.svg",
+          "title": "Premiul pentru Mobilizare Educaţională"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "help": "Iniţierea primului club din oraş",
+          "image": "awards.club.city.pioneer.svg",
+          "title": "Premiul Pionierul Local"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "help": "Excelenţă în comunicarea şi promovarea misiunii Agora în ţara de origine a clubului",
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "Premiul pentru Excelenţă în Mobilizare"
+        }
+      },
+      "media": {
+        "help": "Excelenţă în promovarea misiunii şi a activităţilor Agora în mass media",
+        "image": "awards.club.media.svg",
+        "title": "Premiul de Excelenţă pentru Mass Media"
+      },
+      "membership": {
+        "growth": "Premiul pentru Dezvoltare",
+        "retention": {
+          "help": "Menţinerea a peste 80% dintre membrii",
+          "image": "awards.club.membership.retention.svg",
+          "title": "Premiul pentru Menţinerea Membrilor"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "Execuţie de excepţie pentru proiectele comunitare",
+          "image": "awards.club.community.leadership.svg",
+          "title": "Premiul pentru Leadership Comunitar"
+        }
+      },
+      "content": {
+        "help": "Excelenţă în crearea de conţinut nou pentru comunitatea Agora",
+        "image": "awards.club.content.svg",
+        "title": "Premiul pentru Crearea de Conţinut"
+      },
+      "innovator": {
+        "help": "Definirea şi executarea de succes a unei noi activităţi educaţionale",
+        "image": "awards.club.innovator.svg",
+        "title": "Premiul Clubului pentru Inovaţie"
+      },
+      "special": {
+        "distinction": {
+          "help": "Excelenţă în operaţiunile de club",
+          "image": "awards.club.special.distinction.svg",
+          "title": "Premiul de Menţiune Specială"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "help": "Excelenţă în operaţiunile de club",
+          "image": "awards.club.ambassador.award.svg",
+          "title": "Premiul pentru Ambasador"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "help": "Excelenţă în mentoratul noilor membrii",
+          "image": "awards.club.club.mentorship.svg",
+          "title": "Premiul Clubului pentru Mentorat"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "help": "Excelenţă în servirea membrilor şi urmarea programului Agora",
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "Premiul pentru Clubul Lunii"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "Satisfacţia membrilor în legătură cu clubul este peste 90%",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "Premiul de Aur pentru Satisfacţia Membrilor"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "Satisfacţia membrilor în legătură cu clubul este peste 75%",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "Premiul de Argint pentru Satisfacţia Membrilor"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "Premiul Clubului pentru Satisfacţia Membrilor"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "Numărul de membrii a crescut cu peste 20",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "Premiul de Aur pentru Creşterea Numărului Membrilor"
+          }
+        },
+        "anniversary": {
+          "help": "Activitate continuă şi de succes a clublui timp de zece ani",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "Premiul Aniversar de Aur"
+        }
+      },
+      "model": {
+        "club": {
+          "help": "Excelenţă în urmarea programului operaţional Agora",
+          "image": "awards.club.model.club.svg",
+          "title": "Premiul Clubului Model"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "Numărul de membrii a crescut cu peste 10",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "Premiul de Argint pentru Creşterea Numărului Membrilor"
+          }
+        },
+        "anniversary": {
+          "help": "Activitate continuă şi de succes a clubului timp de cinci ani",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "Premiul Aniversar de Argint"
+        }
+      },
+      "anniversary": {
+        "help": "Activitate continuă şi de succes a clubului timp de un an",
+        "image": "awards.club.anniversary.svg",
+        "title": "Premiul Aniversar al Clubului - {{v0}} ani"
+      }
+    },
+    "place": {
+      "participation": "Participare"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "Cel mai curios şi incisiv intervievator din cadrul unei secţiuni de “Luat în Vizor” din cadrul unei întâlniri",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "Cel Mai Curios Participant al secţiunii “Luat în Vizor”"
+        },
+        "survivor": {
+          "help": "Supravieţuirea unei secţiuni “Luat în Vizor” din cadrul unei întâlniri",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "Supravieţuitor al secţiunii “Luat în Vizor”"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "Cel mai bun prezentator şi intervievator de la colocviu",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "Cel Mai Bun Participant la Colocviu"
+        },
+        "role": {
+          "help": "Prestaţie superbă în cadrul rolului din cadrul întâlnirii",
+          "image": "awards.meeting.best.role.svg",
+          "title": "Cel Mai Bun Rol de la Întâlnire"
+        },
+        "speaker": {
+          "help": "Prezentarea celui mai bun discurs pregătit din cadrul unei întâlniri de club",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "Cel Mai Bun Vorbitor de la Întâlnire"
+        },
+        "hot": {
+          "response": {
+            "help": "Prezentarea celui mai bun discurs spontan de la întâlnirea de club",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "Cel Mai Bun Vorbitor Spontan de la Întâlnire"
+          }
+        },
+        "speechwriter": {
+          "help": "Crearea celui mai bun discurs din cadrul unei întâlniri",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "Cel Mai Bun Scriitor de Discursuri din cadrul Întâlnirii"
+        },
+        "evaluator": {
+          "help": "Prezentarea celei mai bune evaluări de la întâlnirea de club",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "Cel Mai Bun Evaluator de la Întâlnire"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "Fundatia Agora Speakers International este o organizatie seculara de binefacere europeana care încurajeaza oamenii sa devina comunicatori excelenti si lideri încrezatori care vor contribui activ la construirea unei lumi mai bune."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "Altele"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "Dată",
+      "country": "Ţară",
+      "address": "Adresă",
+      "city": "Oraş",
+      "awards": "Premii Câştigate",
+      "state": "Stat/Provincie/Judeţ/etc.",
+      "event": "Eveniment",
+      "region": "Regiune",
+      "points": {
+        "total": "Puncte Câştigate (Total)",
+        "year": "Puncte Câştigate (În acest an)",
+        "name": "Puncte"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "Te rugam sa precizezi în ce limba sau limbi se va vorbi în cadrul clubului (spre exemplu: engleza)"
+      },
+      "charter": {
+        "date": "Data Iniţierii",
+        "help": "Data de revervare trebuie sa fie una viitoare, dar nu mai îndepartata de 30 de zile."
+      },
+      "founder": {
+        "name": "Fondatorul Clubului",
+        "email": "Emailul Fondatorului"
+      },
+      "fee": {
+        "title": "Taxa de membru de club (daca exista)."
+      },
+      "banner": "Banner",
+      "restrictions": {
+        "guests": {
+          "input": "Te rugam sa descrii ce fel de restrictii vor exista pentru cei ce participa la întâlnirile de club în calitate de invitati (daca exista)."
+        },
+        "membership": {
+          "input": "Te rugam sa descrii ce fel de restrictii vor exista pentru alaturarea la club în calitate de membru (daca exista). Daca înregistrezi un Club de Tineret, te rugam sa precizezi segmentul de vârsta."
+        }
+      },
+      "type": {
+        "help": "Gasesti aici mai multe informatii despre diferitele tipuri de cluburi.",
+        "input": "Tip Club"
+      },
+      "points": {
+        "date": "Daca Activităţii",
+        "action": "Activitate de Club"
+      },
+      "token": "Tokenul Secret al Clubului",
+      "number": "Numărul Clubului",
+      "assets": "Bunurile Clubului",
+      "awards": "Premii ale Clubului",
+      "contact": {
+        "help": {
+          "1": "Informatii de contact pentru club. Trebuie sa fie contact prin email sau telefonic.",
+          "2": "Informatii aditionale de contact pentru club – trebuie sa fie diferite de cele precedente, spre exemplu o alta adresa de email/alt numar de telefon, pagina web, grup Facebook, grup meetup etc."
+        },
+        "title": "Date de Contact"
+      },
+      "name": "Numele Clubului",
+      "logo": {
+        "title": "Poti încarca logoul tau, sau, daca nu ai unul, putem genera noi unul automat pentru clubul tau."
+      },
+      "meeting": {
+        "schedule": "Programul Întâlnirii",
+        "info": "Informaţii Adiţionale"
+      },
+      "officers": "Funcţionarii Clubului"
+    },
+    "personal": {
+      "participation": {
+        "input": "În ce fel îţi doreşti să participi?",
+        "online": "Întâlniri Online",
+        "physical": "Întâlniri faţă în faţă"
+      },
+      "languages": {
+        "interested": "De ce limbi străine eşti interesat?"
+      },
+      "joined": "Data Alăturării",
+      "facebook": "Link către profilul Facebook",
+      "roles": {
+        "date": "Dată",
+        "role": "Rol",
+        "taken": "Roluri Deţinute",
+        "club": "Club"
+      },
+      "speeches": {
+        "persuasive": "Discursuri persuasive",
+        "general": "Discursuri de interest general",
+        "storytelling": "Narare",
+        "educational": "Educaţionale",
+        "business": "Prezentări pentru mediul de afaceri",
+        "interested": "Despre ce feluri de prezentări/discursuri doreşti să afli mai multe?",
+        "media": "Vlogging şi producţia de Media",
+        "sales": "Vânzări",
+        "humorous": "Discursuri haioase şi comice"
+      },
+      "privacy": "Sunt de acord cu termenii şi condiţiile acestui site, şi cu politica Agora Speakers International cu privire la datele mele personale.",
+      "history": {
+        "date": "Dată",
+        "club": "Numele Clubului",
+        "event": "Eveniment"
+      },
+      "linkedin": "Link către profilul Linkedin",
+      "skills": "Care dintre următoarele deprinderi doreşti să le îmbunătăţeşti?",
+      "number": "Numele Membrului",
+      "password": {
+        "input": "Parola",
+        "verify": "Repetă parola pentru verificare"
+      },
+      "clubs": {
+        "role": "Rol"
+      },
+      "name": {
+        "address": {
+          "help": "Cum să ne adresăm când comunicăm cu tine (spre exemplu în emailurile către tine)?",
+          "field": "Nume preferat pentru când eşti contactat:"
+        },
+        "certificates": {
+          "help": "Cum să figureze numele tău pe certificatele şi premiile pe care le dobândeşti?",
+          "input": "Numele care să figureze pe certificate"
+        },
+        "online": {
+          "help": "Cum doreşti să figureze numele tău în sistemele noastre online, pe forumuri etc?",
+          "input": "Numele online preferat"
+        },
+        "full": "Numele Întreg"
+      },
+      "principles": {
+        "agreement": "Te rugăm să ne indici acordul tău cu principiile noastre de bază"
+      },
+      "position": "Funcţia deţinută în cadrul clubului în prezent",
+      "interests": {
+        "11": {
+          "language": "Sunt interesat să îmi îmbunătăţesc cunoaşterea de limbi străine"
+        },
+        "01": {
+          "curious": "Sunt doar curios în legătură cu organizaţia"
+        },
+        "12": {
+          "contests": "Mă interesează participarea la concursurile organizate de Agora Speakers International"
+        },
+        "02": {
+          "confidence": "Doresc să îmi îmbunătăţesc încrederea în sine"
+        },
+        "13": {
+          "critical": "Sunt interesat să învăţ să utilizez gândirea critică"
+        },
+        "03": {
+          "communicate": "Doresc să comunci mai eficient"
+        },
+        "14": {
+          "friends": "Sunt interesat să cunosc oameni şi să îmi fac prieteni"
+        },
+        "04": {
+          "speak": "Doresc să îmi îmbunătăţesc abilitatea de a mă adresa unui public"
+        },
+        "15": {
+          "cooperation": "Sunt interesat de schimburile culturale şi de activităţi de cooperate interculturale"
+        },
+        "question": "Ce te interesează în legătură cu Agora Speakers International?",
+        "05": {
+          "leadership": "Doresc să îmi îmbunătăţesc abilităţile de lider"
+        },
+        "16": {
+          "startclub": "Doresc să creez un Club Agora în oraşul meu"
+        },
+        "06": {
+          "networking": "Sunt interesat să creez legături în domeniul profesional"
+        },
+        "17": {
+          "ambassador": "Doresc să devin un Ambasador Agora pentru ţara mea"
+        },
+        "07": {
+          "presentations": "Sunt interesat să susţin prezentări pentru mediul de afaceri"
+        },
+        "18": {
+          "partnership": "Mă interesează un parteneriat între organizaţia mea şi Agora Speakers International"
+        },
+        "08": {
+          "events": "Mă interesează workshopuri, seminarii şi evenimente organizate de voi"
+        },
+        "09": {
+          "debating": "Sunt interesat de dezbateri şi argumentare"
+        },
+        "10": {
+          "community": "Doresc să schimb ceva în comunitatea mea"
+        }
+      },
+      "email": "Email"
+    },
+    "meeting": {
+      "date": "Data Întâlnirii",
+      "number": "Numărul Întâlnirii",
+      "venue": {
+        "name": "Denumirea locaţiei"
+      },
+      "address": {
+        "input": "Adresa locaţiei întâlnirii"
+      },
+      "online": {
+        "software": "Program pentru întâlniri",
+        "link": "Link pentru a te înscrie",
+        "id": "Număr de identificare al Întâlnirii Online",
+        "title": "Informaţii pentru întâlnirile online",
+        "passowrd": "Parola pentru a te alătura"
+      },
+      "theme": "Tema întâlnirii (dacă există una)",
+      "time": "Ora Întâlnirii"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) Drepturi de proprietate intelectuală Agora Speakers International. Materialele Agora pot fi utilizate doar respectându-ne termenii şi condiţiile."
+    },
+    "terms": "Termeni şi Condiţii",
+    "legal": {
+      "notice": "Informaţii de natură legală"
+    },
+    "privacy": {
+      "policy": "Politica privind informaţiile personale"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "Hindi",
+      "ps": "Paștună",
+      "pt": "Portugheză",
+      "hr": "Croată",
+      "pt_br": "Brazilian",
+      "hu": "Maghiară",
+      "yi": "Idiș",
+      "hy": "Armeană",
+      "yo": "Yoruba",
+      "ia": "Interlingua",
+      "id": "Indoneziană",
+      "ig": "Igbo",
+      "ii": "Yi din Sichuan",
+      "qu": "Quechua",
+      "af": "Afrikaans",
+      "ak": "Akan",
+      "is": "Islandeză",
+      "it": "Italiană",
+      "am": "Amharică",
+      "zh": "Chineză",
+      "ar": "Arabă",
+      "as": "Asameză",
+      "ja": "Japoneză",
+      "az": "Azeră",
+      "rm": "Romanșă",
+      "zu": "Zulu",
+      "rn": "Kirundi",
+      "ro": "Română",
+      "be": "Belarusă",
+      "ru": "Rusă",
+      "bg": "Bulgară",
+      "rw": "Kinyarwanda",
+      "bm": "Bambara",
+      "bn": "Bengaleză",
+      "jv": "Javaneză",
+      "bo": "Tibetană",
+      "sa": "Sanscrită",
+      "br": "Bretonă",
+      "bs": "Bosniacă",
+      "sd": "Sindhi",
+      "se": "Sami de nord",
+      "sg": "Sango",
+      "sh": "Sârbo-croată",
+      "ka": "Georgiană",
+      "si": "Singhaleză",
+      "sk": "Slovacă",
+      "sl": "Slovenă",
+      "sn": "Shona",
+      "so": "Somaleză",
+      "ca": "Catalană",
+      "ki": "Kikuyu",
+      "sq": "Albaneză",
+      "sr": "Sârbă",
+      "kk": "Kazahă",
+      "kl": "Kalaallisut",
+      "ce": "Cecenă",
+      "km": "Khmeră",
+      "su": "Sundaneză",
+      "kn": "Kannada",
+      "sv": "Suedeză",
+      "ko": "Coreeană",
+      "sw": "Swahili",
+      "ks": "Cașmiră",
+      "ku": "Kurdă",
+      "kw": "Cornică",
+      "ta": "Tamilă",
+      "ky": "Kârgâză",
+      "cs": "Cehă",
+      "te": "Telugu",
+      "tg": "Tadjică",
+      "th": "Thailandeză",
+      "ti": "Tigrină",
+      "cy": "Galeză",
+      "lb": "Luxemburgheză",
+      "tk": "Turkmenă",
+      "tl": "Tagalog",
+      "lg": "Ganda",
+      "to": "Tongană",
+      "da": "Daneză",
+      "tr": "Turcă",
+      "tt": "Tătară",
+      "de": "Germană",
+      "ln": "Lingala",
+      "lo": "Laoțiană",
+      "lt": "Lituaniană",
+      "lu": "Luba-katanga",
+      "lv": "Letonă",
+      "ug": "Uigură",
+      "dz": "Dzongkha",
+      "uk": "Ucraineană",
+      "mg": "Malgașă",
+      "mi": "Maori",
+      "ur": "Urdu",
+      "mk": "Macedoneană",
+      "ml": "Malayalam",
+      "ee": "Ewe",
+      "mn": "Mongolă",
+      "mr": "Marathi",
+      "uz": "Uzbecă",
+      "ms": "Malaeză",
+      "el": "Greacă",
+      "mt": "Malteză",
+      "en": "Engleză",
+      "eo": "Esperanto",
+      "my": "Birmană",
+      "es": "Spaniolă",
+      "et": "Estonă",
+      "eu": "Bască",
+      "vi": "Vietnameză",
+      "nb": "Norvegiană bokmål",
+      "nd": "Ndebele de nord",
+      "ne": "Nepaleză",
+      "fa": "Persană",
+      "nl": "Neerlandeză",
+      "ff": "Fulah",
+      "nn": "Norvegiană nynorsk",
+      "no": "Norvegiană",
+      "fi": "Finlandeză",
+      "fo": "Feroeză",
+      "fr": "Franceză",
+      "fy": "Frizonă occidentală",
+      "wo": "Wolof",
+      "ga": "Irlandeză",
+      "gd": "Gaelică scoțiană",
+      "om": "Oromo",
+      "or": "Odia",
+      "os": "Osetă",
+      "gl": "Galiciană",
+      "gu": "Gujarati",
+      "gv": "Manx",
+      "xh": "Xhosa",
+      "pa": "Punjabi",
+      "ha": "Hausa",
+      "pl": "Poloneză",
+      "he": "Ebraică"
+    },
+    "full": {
+      "hi": "Hindi (हिन्दी)",
+      "ps": "Paștună (پښتو)",
+      "pt": "Portugheză (Português)",
+      "hr": "Croată (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "Maghiară (Magyar)",
+      "yi": "Idiș (ייִדיש)",
+      "hy": "Armeană (Հայերեն)",
+      "yo": "Yoruba (Èdè Yorùbá)",
+      "ia": "Interlingua (Interlingua)",
+      "id": "Indoneziană (Indonesia)",
+      "ig": "Igbo (Igbo)",
+      "ii": "Yi din Sichuan (ꆈꌠꉙ)",
+      "qu": "Quechua (Runasimi)",
+      "af": "Afrikaans (Afrikaans)",
+      "ak": "Akan (Akan)",
+      "is": "Islandeză (Íslenska)",
+      "it": "Italiană (Italiano)",
+      "am": "Amharică (አማርኛ)",
+      "zh": "Chineză (中文)",
+      "ar": "Arabă (العربية)",
+      "as": "Asameză (অসমীয়া)",
+      "ja": "Japoneză (日本語)",
+      "az": "Azeră (Azərbaycan)",
+      "rm": "Romanșă (Rumantsch)",
+      "zu": "Zulu (IsiZulu)",
+      "rn": "Kirundi (Ikirundi)",
+      "ro": "Română (Română)",
+      "be": "Belarusă (Беларуская)",
+      "ru": "Rusă (Русский)",
+      "bg": "Bulgară (Български)",
+      "rw": "Kinyarwanda (Kinyarwanda)",
+      "bm": "Bambara (Bamanakan)",
+      "bn": "Bengaleză (বাংলা)",
+      "jv": "Javaneză (Jawa)",
+      "bo": "Tibetană (བོད་སྐད་)",
+      "sa": "Sanscrită (संस्कृत भाषा)",
+      "br": "Bretonă (Brezhoneg)",
+      "bs": "Bosniacă (Bosanski)",
+      "sd": "Sindhi (سنڌي)",
+      "se": "Sami de nord (Davvisámegiella)",
+      "sg": "Sango (Sängö)",
+      "sh": "Sârbo-croată (Srpskohrvatski)",
+      "ka": "Georgiană (ქართული)",
+      "si": "Singhaleză (සිංහල)",
+      "sk": "Slovacă (Slovenčina)",
+      "sl": "Slovenă (Slovenščina)",
+      "sn": "Shona (ChiShona)",
+      "so": "Somaleză (Soomaali)",
+      "ca": "Catalană (Català)",
+      "ki": "Kikuyu (Gikuyu)",
+      "sq": "Albaneză (Shqip)",
+      "sr": "Sârbă (Српски)",
+      "kk": "Kazahă (Қазақ тілі)",
+      "kl": "Kalaallisut (Kalaallisut)",
+      "ce": "Cecenă (Нохчийн)",
+      "km": "Khmeră (ខ្មែរ)",
+      "su": "Sundaneză (Basa Sunda)",
+      "kn": "Kannada (ಕನ್ನಡ)",
+      "sv": "Suedeză (Svenska)",
+      "ko": "Coreeană (한국어)",
+      "sw": "Swahili (Kiswahili)",
+      "ks": "Cașmiră (کٲشُر)",
+      "ku": "Kurdă (Kurdî)",
+      "kw": "Cornică (Kernewek)",
+      "ta": "Tamilă (தமிழ்)",
+      "ky": "Kârgâză (Кыргызча)",
+      "cs": "Cehă (Čeština)",
+      "te": "Telugu (తెలుగు)",
+      "tg": "Tadjică (Тоҷикӣ)",
+      "th": "Thailandeză (ไทย)",
+      "ti": "Tigrină (ትግር)",
+      "cy": "Galeză (Cymraeg)",
+      "lb": "Luxemburgheză (Lëtzebuergesch)",
+      "tk": "Turkmenă (Türkmen dili)",
+      "tl": "Tagalog (Tagalog)",
+      "lg": "Ganda (Luganda)",
+      "to": "Tongană (Lea fakatonga)",
+      "da": "Daneză (Dansk)",
+      "tr": "Turcă (Türkçe)",
+      "tt": "Tătară (Татар)",
+      "de": "Germană (Deutsch)",
+      "ln": "Lingala (Lingála)",
+      "lo": "Laoțiană (ລາວ)",
+      "lt": "Lituaniană (Lietuvių)",
+      "lu": "Luba-katanga (Tshiluba)",
+      "lv": "Letonă (Latviešu)",
+      "ug": "Uigură (ئۇيغۇرچە)",
+      "dz": "Dzongkha (རྫོང་ཁ)",
+      "uk": "Ucraineană (Українська)",
+      "mg": "Malgașă (Malagasy)",
+      "mi": "Maori (Te reo Māori)",
+      "ur": "Urdu (اردو)",
+      "mk": "Macedoneană (Македонски)",
+      "ml": "Malayalam (മലയാളം)",
+      "ee": "Ewe (Eʋegbe)",
+      "mn": "Mongolă (Монгол)",
+      "mr": "Marathi (मराठी)",
+      "uz": "Uzbecă (O‘zbek)",
+      "ms": "Malaeză (Melayu)",
+      "el": "Greacă (Ελληνικά)",
+      "mt": "Malteză (Malti)",
+      "en": "Engleză (English)",
+      "eo": "Esperanto (Esperanto)",
+      "my": "Birmană (မြန်မာ)",
+      "es": "Spaniolă (Español)",
+      "et": "Estonă (Eesti)",
+      "eu": "Bască (Euskara)",
+      "vi": "Vietnameză (Tiếng Việt)",
+      "nb": "Norvegiană bokmål (Norsk bokmål)",
+      "nd": "Ndebele de nord (IsiNdebele)",
+      "ne": "Nepaleză (नेपाली)",
+      "fa": "Persană (فارسی)",
+      "nl": "Neerlandeză (Nederlands)",
+      "ff": "Fulah (Pulaar)",
+      "nn": "Norvegiană nynorsk (Norsk nynorsk)",
+      "no": "Norvegiană (Norsk)",
+      "fi": "Finlandeză (Suomi)",
+      "fo": "Feroeză (Føroyskt)",
+      "fr": "Franceză (Français)",
+      "fy": "Frizonă occidentală (Frysk)",
+      "wo": "Wolof (Wolof)",
+      "ga": "Irlandeză (Gaeilge)",
+      "gd": "Gaelică scoțiană (Gàidhlig)",
+      "om": "Oromo (Oromoo)",
+      "or": "Odia (ଓଡ଼ିଆ)",
+      "os": "Osetă (Ирон)",
+      "gl": "Galiciană (Galego)",
+      "gu": "Gujarati (ગુજરાતી)",
+      "gv": "Manx (Gaelg)",
+      "xh": "Xhosa (IsiXhosa)",
+      "pa": "Punjabi (ਪੰਜਾਬੀ)",
+      "ha": "Hausa (Hausa)",
+      "pl": "Poloneză (Polski)",
+      "he": "Ebraică (עברית)"
+    }
+  }
+}

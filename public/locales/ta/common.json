@@ -1,0 +1,1992 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "முன்னோடி கிளப்",
+      "corporate": "கார்ப்பரேட் கிளப்",
+      "restricted": "நிபந்தனைகள் உடைய கிளப்",
+      "term": "Agora கிளப்",
+      "pic": "பொது நலன் கிளப்",
+      "open": "பொது கிளப்"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "போர்த்த ரிக்கோ"
+    },
+    "ps": {
+      "name": "பாலஸ்தீனியன் மாஹாணம்"
+    },
+    "pt": {
+      "name": "போர்ச்சுக்கல்"
+    },
+    "pw": {
+      "name": "பலவ்"
+    },
+    "py": {
+      "name": "பாரகுவே"
+    },
+    "qa": {
+      "name": "காடார்"
+    },
+    "ad": {
+      "name": "அன்டோரா"
+    },
+    "ae": {
+      "name": "ஐக்கிய அரபு கூட்டாட்சி"
+    },
+    "af": {
+      "name": "ஆப்கானிஸ்தான்"
+    },
+    "ag": {
+      "name": "ஆன்டிகுவா மற்றும் பார்புடா"
+    },
+    "ai": {
+      "name": "அங்குய்லா"
+    },
+    "al": {
+      "name": "அல்பேனியா"
+    },
+    "am": {
+      "name": "ஆர்மேனியா"
+    },
+    "ao": {
+      "name": "அங்கோலா"
+    },
+    "aq": {
+      "name": "அன்டார்டிகா"
+    },
+    "ar": {
+      "name": "அர்ஜெண்டினா"
+    },
+    "as": {
+      "name": "அமெரிக்க சமோவா"
+    },
+    "at": {
+      "name": "ஆஸ்திரியா"
+    },
+    "re": {
+      "name": "ரீயூனியன்"
+    },
+    "au": {
+      "name": "ஆஸ்திரேலியா"
+    },
+    "aw": {
+      "name": "அரூபா"
+    },
+    "ax": {
+      "name": "ஆலந்து தீவுகள்"
+    },
+    "az": {
+      "name": "அஜர்பைஜான்"
+    },
+    "ro": {
+      "name": "ருமேனியா"
+    },
+    "ba": {
+      "name": "போஸ்னியா மற்றும் ஹெர்ஸிகோவினா"
+    },
+    "bb": {
+      "name": "பார்படோஸ்"
+    },
+    "rs": {
+      "name": "செர்பியா"
+    },
+    "bd": {
+      "name": "பங்களாதேஷ்"
+    },
+    "be": {
+      "name": "பெல்ஜியம்"
+    },
+    "ru": {
+      "name": "ரஷ்யா"
+    },
+    "bf": {
+      "name": "புர்கினா ஃபாஸோ"
+    },
+    "bg": {
+      "name": "பல்கேரியா"
+    },
+    "rw": {
+      "name": "ருவான்டா"
+    },
+    "bh": {
+      "name": "பஹ்ரைன்"
+    },
+    "bi": {
+      "name": "புருண்டி"
+    },
+    "bj": {
+      "name": "பெனின்"
+    },
+    "bl": {
+      "name": "செயின்ட் பார்தேலெமி"
+    },
+    "bm": {
+      "name": "பெர்முடா"
+    },
+    "bn": {
+      "name": "புரூனேய்"
+    },
+    "bo": {
+      "name": "பொலிவியா"
+    },
+    "sa": {
+      "name": "சவூதி அரேபியா"
+    },
+    "bq": {
+      "name": "பொனெய்ர், ஸின்ட் யூஸ்டேஸியஸ், சேபா"
+    },
+    "sb": {
+      "name": "சாலமன் தீவுகள்"
+    },
+    "br": {
+      "name": "பிரேஸில்"
+    },
+    "sc": {
+      "name": "செஷெல்ஸ்"
+    },
+    "bs": {
+      "name": "பஹமாஸ்"
+    },
+    "sd": {
+      "name": "சூடான்"
+    },
+    "bt": {
+      "name": "பூடான்"
+    },
+    "se": {
+      "name": "ஸ்வீடன்"
+    },
+    "bv": {
+      "name": "பொவேட் தீவுகள்"
+    },
+    "sg": {
+      "name": "சிங்கப்பூர்"
+    },
+    "bw": {
+      "name": "போட்ஸ்வானா"
+    },
+    "sh": {
+      "name": "செயின்ட் ஹெலெனா"
+    },
+    "si": {
+      "name": "ஸ்லோவேனியா"
+    },
+    "by": {
+      "name": "பெலாரூஸ்"
+    },
+    "sj": {
+      "name": "ஸ்வல்பார்டு மற்றும் ஜான் மேயன்"
+    },
+    "bz": {
+      "name": "பெலிஸ்"
+    },
+    "sk": {
+      "name": "ஸ்லோவாகியா"
+    },
+    "sl": {
+      "name": "சியேரா லியோன்"
+    },
+    "sm": {
+      "name": "சான் மெரினோ"
+    },
+    "sn": {
+      "name": "செனெகல்"
+    },
+    "so": {
+      "name": "சொமாலியா"
+    },
+    "ca": {
+      "name": "கனடா"
+    },
+    "sr": {
+      "name": "சூரினாம்"
+    },
+    "cc": {
+      "name": "காகோஸ் தீவுகள்"
+    },
+    "ss": {
+      "name": "தெற்கு சூடான்"
+    },
+    "cd": {
+      "name": "காங்கோ - கின்சாசா"
+    },
+    "st": {
+      "name": "சாவ் தோம் மற்றும் ப்ரின்சிபி"
+    },
+    "cf": {
+      "name": "மத்திய ஆப்ரிக்கக் குடியரசு"
+    },
+    "sv": {
+      "name": "எல் சால்வடார்"
+    },
+    "cg": {
+      "name": "காங்கோ - ப்ராஸாவில்லே"
+    },
+    "ch": {
+      "name": "ஸ்விட்சர்லாந்து"
+    },
+    "sx": {
+      "name": "செயிண்ட் மார்டென் (டச்சு பகுதி)"
+    },
+    "ci": {
+      "name": "ஐவரி கோஸ்ட்"
+    },
+    "sy": {
+      "name": "சிரியா"
+    },
+    "sz": {
+      "name": "ஸ்வாஸிலாண்ட்"
+    },
+    "ck": {
+      "name": "குக் தீவுகள்"
+    },
+    "cl": {
+      "name": "சிலி"
+    },
+    "cm": {
+      "name": "கேமரூன்"
+    },
+    "cn": {
+      "name": "சீனா"
+    },
+    "co": {
+      "name": "கொலம்பியா"
+    },
+    "cr": {
+      "name": "கோஸ்டாரிகா"
+    },
+    "tc": {
+      "name": "டர்க்ஸ் மற்றும் கைகோஸ் தீவுகள்"
+    },
+    "td": {
+      "name": "சாட்"
+    },
+    "cu": {
+      "name": "கியூபா"
+    },
+    "tf": {
+      "name": "ஃப்ரென்ச் தெற்கு மாஹாணங்கள்"
+    },
+    "cv": {
+      "name": "கேப் வெர்டே"
+    },
+    "tg": {
+      "name": "டோகோ"
+    },
+    "cw": {
+      "name": "குராசோ"
+    },
+    "th": {
+      "name": "தாய்லாந்து"
+    },
+    "cx": {
+      "name": "கிறிஸ்துமஸ் தீவு"
+    },
+    "cy": {
+      "name": "சைப்ரஸ்"
+    },
+    "tj": {
+      "name": "தாஜிகிஸ்தான்"
+    },
+    "cz": {
+      "name": "செக் குடியரசு"
+    },
+    "tk": {
+      "name": "டோகேலோ"
+    },
+    "tl": {
+      "name": "கிழக்கு திமோர்"
+    },
+    "tm": {
+      "name": "துர்க்மெனிஸ்தான்"
+    },
+    "tn": {
+      "name": "டுனிசியா"
+    },
+    "to": {
+      "name": "டோங்கா"
+    },
+    "tr": {
+      "name": "துருக்கி"
+    },
+    "tt": {
+      "name": "திரினிடாட் மற்றும் தொபாகோ"
+    },
+    "de": {
+      "name": "ஜெர்மன்"
+    },
+    "tv": {
+      "name": "துவாலூ"
+    },
+    "tw": {
+      "name": "தைவான்"
+    },
+    "dj": {
+      "name": "ஜிபௌடி"
+    },
+    "tz": {
+      "name": "டான்சானியா"
+    },
+    "dk": {
+      "name": "டென்மார்க்"
+    },
+    "dm": {
+      "name": "டொமினிகா"
+    },
+    "do": {
+      "name": "டொமினிகன் குடியரசு"
+    },
+    "ua": {
+      "name": "உக்ரைன்"
+    },
+    "ug": {
+      "name": "உகாண்டா"
+    },
+    "dz": {
+      "name": "அல்ஜீரியா"
+    },
+    "um": {
+      "name": "யுனைட்டட் ஸ்டேட்ஸும் சிறிய அவுட்லைன் தீவுகளும்"
+    },
+    "ec": {
+      "name": "ஈக்வடார்"
+    },
+    "us": {
+      "name": "ஐக்கிய அமெரிக்க குடியரசு"
+    },
+    "ee": {
+      "name": "எஸ்டோனியா"
+    },
+    "eg": {
+      "name": "எகிப்து"
+    },
+    "eh": {
+      "name": "மேற்கு சஹாரா"
+    },
+    "uy": {
+      "name": "உருகுவே"
+    },
+    "uz": {
+      "name": "உஸ்பெகிஸ்தான்"
+    },
+    "va": {
+      "name": "வாடிகன்"
+    },
+    "er": {
+      "name": "எரிட்ரியா"
+    },
+    "vc": {
+      "name": "செயின் வின்சன்ட் மற்றும் கிரெனடைன்ஸ்"
+    },
+    "es": {
+      "name": "ஸ்பெயின்"
+    },
+    "et": {
+      "name": "எதியோப்பியா"
+    },
+    "ve": {
+      "name": "வெனஜுவேலா"
+    },
+    "vg": {
+      "name": "பிரிட்டீஷ் கன்னித் தீவுகள்"
+    },
+    "vi": {
+      "name": "யூ.எஸ் கன்னித் தீவுகள்"
+    },
+    "vn": {
+      "name": "வியட்நாம்"
+    },
+    "vu": {
+      "name": "வனுவாட்டு"
+    },
+    "fi": {
+      "name": "பின்லாந்து"
+    },
+    "fj": {
+      "name": "ஃபிஜி"
+    },
+    "fk": {
+      "name": "ஃபாக்லான்ட் தீவுகள்"
+    },
+    "fm": {
+      "name": "மைக்ரோனேஷியா"
+    },
+    "fo": {
+      "name": "ஃபெரௌ தீவுகள்"
+    },
+    "fr": {
+      "name": "பிரான்ஸ்"
+    },
+    "wf": {
+      "name": "வாலிஸ் மற்றும் ஃப்யூசுனா"
+    },
+    "ga": {
+      "name": "கேபான்"
+    },
+    "gb": {
+      "name": "பிரிடிஷ் கூட்டரசு"
+    },
+    "ws": {
+      "name": "சமோவா"
+    },
+    "gd": {
+      "name": "கிரனெடா"
+    },
+    "ge": {
+      "name": "ஜார்ஜியா"
+    },
+    "gf": {
+      "name": "ஃப்ரென்ச் கயானா"
+    },
+    "gg": {
+      "name": "கெர்ன்சி"
+    },
+    "gh": {
+      "name": "கானா"
+    },
+    "gi": {
+      "name": "ஜிப்ரால்டர்"
+    },
+    "gl": {
+      "name": "கிரீன்லாண்ட்"
+    },
+    "gm": {
+      "name": "காம்பியா"
+    },
+    "gn": {
+      "name": "கினி"
+    },
+    "gp": {
+      "name": "க்வாதேலோப்"
+    },
+    "gq": {
+      "name": "ஈக்குவாடோரியல் கினி"
+    },
+    "gr": {
+      "name": "கிரீஸ்"
+    },
+    "gs": {
+      "name": "தென் ஜியார்ஜியா மற்றும் தென் சான்ட்விச் தீவுகள்"
+    },
+    "gt": {
+      "name": "குவாத்தாமாலா"
+    },
+    "gu": {
+      "name": "குவாம்"
+    },
+    "gw": {
+      "name": "கினி-பிஸ்ஸாவ்"
+    },
+    "gy": {
+      "name": "கயானா"
+    },
+    "hk": {
+      "name": "ஹாங் காங் எஸ்.ஏ.ஆர் சைனா"
+    },
+    "hm": {
+      "name": "ஹேர்ட் மற்றும் மெக்டொனால்டு"
+    },
+    "hn": {
+      "name": "ஹாண்டுராஸ்"
+    },
+    "hr": {
+      "name": "குரோசியா"
+    },
+    "ht": {
+      "name": "ஹெய்தி"
+    },
+    "ye": {
+      "name": "யேமன்"
+    },
+    "hu": {
+      "name": "ஹங்கேரி"
+    },
+    "id": {
+      "name": "இந்தோனேஷியா"
+    },
+    "yt": {
+      "name": "மயோத்"
+    },
+    "ie": {
+      "name": "அயர்லாந்து"
+    },
+    "il": {
+      "name": "இஸ்ரேல்"
+    },
+    "im": {
+      "name": "ஐல் ஆஃப் மேன்"
+    },
+    "in": {
+      "name": "இந்தியா"
+    },
+    "io": {
+      "name": "பிரிட்டிஷ் இந்தியப் பெருங்கடல் மாஹாணம்"
+    },
+    "za": {
+      "name": "தென் ஆப்ரிக்கா"
+    },
+    "iq": {
+      "name": "இராக்"
+    },
+    "ir": {
+      "name": "ஈரான்"
+    },
+    "is": {
+      "name": "ஐஸ்லாந்து"
+    },
+    "it": {
+      "name": "இத்தாலி"
+    },
+    "zm": {
+      "name": "சாம்பியா"
+    },
+    "je": {
+      "name": "ஜெர்சி"
+    },
+    "zw": {
+      "name": "ஜிம்பாப்வே"
+    },
+    "jm": {
+      "name": "ஜமாய்க்கா"
+    },
+    "jo": {
+      "name": "ஜொர்டான்"
+    },
+    "jp": {
+      "name": "ஜப்பான்"
+    },
+    "ke": {
+      "name": "கென்யா"
+    },
+    "kg": {
+      "name": "கிர்கிஸ்தான்"
+    },
+    "kh": {
+      "name": "கம்போடியா"
+    },
+    "ki": {
+      "name": "கிரிபடி"
+    },
+    "km": {
+      "name": "கோமரோஸ்"
+    },
+    "kn": {
+      "name": "செயின்ட் கிட்ஸ் மற்றும் நெவிஸ்"
+    },
+    "kp": {
+      "name": "வட கொரியா"
+    },
+    "kr": {
+      "name": "தென் கொரியா"
+    },
+    "kw": {
+      "name": "குவைத்து"
+    },
+    "ky": {
+      "name": "கேமென் தீவுகள்"
+    },
+    "kz": {
+      "name": "கஜகஸ்தான்"
+    },
+    "la": {
+      "name": "லாவோஸ்"
+    },
+    "lb": {
+      "name": "லெபனான்"
+    },
+    "lc": {
+      "name": "செயின்ட் லூசியா"
+    },
+    "li": {
+      "name": "லிச்செண்ஸ்டெய்ன்"
+    },
+    "lk": {
+      "name": "இலங்கை"
+    },
+    "lr": {
+      "name": "லைபேரியா"
+    },
+    "ls": {
+      "name": "லெசோதோ"
+    },
+    "lt": {
+      "name": "லிதுவேனியா"
+    },
+    "lu": {
+      "name": "லக்ஸ்சம்பர்க்"
+    },
+    "lv": {
+      "name": "லாட்வியா"
+    },
+    "ly": {
+      "name": "லிப்யா"
+    },
+    "ma": {
+      "name": "மொரோக்கோ"
+    },
+    "mc": {
+      "name": "மொனாக்கோ"
+    },
+    "md": {
+      "name": "மால்டோவா"
+    },
+    "me": {
+      "name": "மான்டேனெக்ரோ"
+    },
+    "mf": {
+      "name": "செயின் மார்டீன்"
+    },
+    "mg": {
+      "name": "மடகாஸ்கர்"
+    },
+    "mh": {
+      "name": "மார்ஷல் தீவுகள்"
+    },
+    "mk": {
+      "name": "மசெடோணியா"
+    },
+    "ml": {
+      "name": "மாலீ"
+    },
+    "mm": {
+      "name": "மியான்மார்"
+    },
+    "mn": {
+      "name": "மங்கோலியா"
+    },
+    "mo": {
+      "name": "மெக்கௌ"
+    },
+    "mp": {
+      "name": "வடக்கு மரியானா தீவுகள்"
+    },
+    "mq": {
+      "name": "மார்டினிக்"
+    },
+    "mr": {
+      "name": "மௌரிடானியா"
+    },
+    "ms": {
+      "name": "மௌன்ட்செராட்"
+    },
+    "mt": {
+      "name": "மால்டா"
+    },
+    "mu": {
+      "name": "மொரிசியஸ்"
+    },
+    "mv": {
+      "name": "மாலத்தீவு"
+    },
+    "mw": {
+      "name": "மலாவீ"
+    },
+    "mx": {
+      "name": "மெக்சிகோ"
+    },
+    "my": {
+      "name": "மலேஷியா"
+    },
+    "mz": {
+      "name": "மொசாம்பிக்"
+    },
+    "na": {
+      "name": "நமீபியா"
+    },
+    "nc": {
+      "name": "புதிய கலிடோன்யா"
+    },
+    "ne": {
+      "name": "நைஜர்"
+    },
+    "nf": {
+      "name": "நார்ஃபாக் தீவுகள்"
+    },
+    "ng": {
+      "name": "நைஜீரியா"
+    },
+    "ni": {
+      "name": "நிகாராகுவா"
+    },
+    "nl": {
+      "name": "நெதர்லாந்து"
+    },
+    "no": {
+      "name": "நார்வே"
+    },
+    "np": {
+      "name": "நேபாளம்"
+    },
+    "nr": {
+      "name": "நௌரு"
+    },
+    "nu": {
+      "name": "நியூ"
+    },
+    "nz": {
+      "name": "நியூசிலாந்து"
+    },
+    "om": {
+      "name": "ஓமான்"
+    },
+    "pa": {
+      "name": "பனாமா"
+    },
+    "pe": {
+      "name": "பெரு"
+    },
+    "pf": {
+      "name": "ஃப்ரென்ச் பாலினேஷியா"
+    },
+    "pg": {
+      "name": "பாப்புவா நியூ கினி"
+    },
+    "ph": {
+      "name": "பிலிப்பைன்ஸ்"
+    },
+    "pk": {
+      "name": "பாகிஸ்தான்"
+    },
+    "pl": {
+      "name": "போலந்து"
+    },
+    "pm": {
+      "name": "செயின்ட் பியர் மற்றும் மிக்வேலான்"
+    },
+    "pn": {
+      "name": "பிட்கேன்"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Agora திட்டத்தில் உள்ள கல்வி இலக்குகளை அடைவதில் சிறந்து விளங்குவதற்கான விருதுகள்",
+        "title": "கல்விக்கான விருதுகள்"
+      },
+      "social": {
+        "help": "உங்கள் சமூகத்தில் நீங்கள் ஏற்படுத்தும் நேர்மறை தாக்கத்தை அங்கீகரிக்கும் விருதுகள்",
+        "title": "சமூகத்தில் ஏற்படுத்தும் நேர்மறை தாக்கத்திற்கான விருதுகள்"
+      },
+      "operational": {
+        "help": "கிளப்புகளின் மேலாண்மை மற்றும் சாசனத்தில் சிறந்து விளங்குவதற்கான விருதுகள்",
+        "title": "கிளப் நிர்வாகத்தில் சிறந்து விளங்குவது"
+      },
+      "community": {
+        "help": "Agora சமூகத்தை விரிவுப்படுத்தவும் பலப்படுத்தவும் பங்களித்ததற்கான விருதுகள்",
+        "title": "Agora சமூக விருதுகள்"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "தேடல்",
+      "register": "பதிவு செய்யவும்"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "Agora உடைய பிராந்திய அல்லது சர்வதேச மாநாட்டை வெற்றிகரமாக ஏற்பாடு செய்தல்",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "மாநாட்டு ஏற்பாட்டாளர்"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "தகுதிவாய்ந்த தலைவர்"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "தகுதிவாய்ந்த பேச்சாளர்"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "வழிகாட்டல் விருது"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "Agora Speakers போட்டியில் வெற்றி பெறுவது",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "போட்டியின் வெற்றியாளர்"
+        },
+        "third": {
+          "help": "Agora Speakers போட்டியில் மூன்றாவதாக நிறைவு செய்தல்",
+          "image": "awards.individual.contest.third.svg",
+          "title": "போட்டி, 3 வது இடம்"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "Agora போட்டியை வெற்றிகரமாக ஏற்பாடு செய்வது",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "போட்டி ஏற்பாட்டாளர்"
+        },
+        "participant": {
+          "help": "Agora Speakers போட்டியில் பங்கேற்பது",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "பங்கேற்பு சான்றிதழ்"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "Agora Speakers போட்டியில் இரண்டாவதாக நிறைவு செய்தல்",
+          "image": "awards.individual.contest.second.svg",
+          "title": "போட்டி, 2 வது இடம்"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "மிகவும் குறிப்பிடத்தக்க முன்னேற்றம்",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "கல்வி முன்னேற்ற விருது"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "அவுட்ரீச் விருது"
+      },
+      "community": {
+        "leadership": {
+          "help": "சமூக செயல்திட்டங்களை சிறந்த முறையில் செயல்படுத்துதல்",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "சமூக தலைமைத்துவத்திற்கான விருது"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "Agora குறிக்கோளை அடைவதில் தனிச்சிறப்பும் அர்ப்பணிப்பும்",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "தூதரின் சிறப்பு உறுப்பினர் விருது"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "சிறப்பு தனித்தன்மை விருது"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "வழிநடத்துபவராக சாதித்தவர்"
+        },
+        "communicator": "தகவல் தொடர்பாளராக சாதித்தவர்"
+      },
+      "help": {
+        "help": "கிளப்பின் வெற்றிக்கு தொடர்ச்சியான அர்ப்பணிப்பு",
+        "image": "awards.individual.help.svg",
+        "title": "கிளப் வெற்றி விருதுக்கான அர்ப்பணிப்பு"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "ஒளிபரப்பு ஊடக பேச்சாளராக சாதித்தவர்"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "உத்வேக பேச்சாளராக சாதித்தவர்"
+              }
+            },
+            "pr": {
+              "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "PR வல்லுனராக சாதித்தவர்"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "சிறப்பு நிகழ்ச்சிகளுக்கான பேச்சாளராக சாதித்தவர்"
+              }
+            },
+            "storytelling": {
+              "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "கதைசொல்லியாக சாதித்தவர்"
+            },
+            "educational": {
+              "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "கல்வி ரீதியான பேச்சாளராக சாதித்தவர்"
+            },
+            "business": {
+              "contexts": {
+                "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "வணிக பேச்சாளராக சாதித்தவர்"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "விமர்சன சிந்தனையாளராக சாதித்தவர்"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "முரண்படும் பேச்சாளர்கள் அனைவருக்கும் எதிராக சாதித்தவர்"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "தொழில்முனைவோர் பேச்சாளராக சாதித்தவர்"
+            },
+            "project": {
+              "management": {
+                "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "செயல்திட்ட மேலாளராக சாதித்தவர்"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "தனிப்பட்ட திறன்களில் வல்லுனராக சாதித்தவர்"
+              }
+            },
+            "dramatization": {
+              "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "நாடக பேச்சாளராக சாதித்தவர்"
+            },
+            "humorous": {
+              "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "நகைச்சுவை பேச்சாளராக சாதித்தவர்"
+            },
+            "leadership": {
+              "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "வழிநடத்துபவராக சாதித்தவர்"
+            },
+            "negotiation": {
+              "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "பேச்சுவார்த்தையாளராக சாதித்தவர்"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "{{v0}} மேம்பட்ட கல்வி ரீதியான வரிசை அமைப்பை வெற்றிகரமாக நிறைவு செய்தல்",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "காட்சி கதைசொல்லியாக சாதித்தவர்"
+              }
+            }
+          },
+          "title": "சாதித்த பேச்சாளர்"
+        },
+        "communicator": {
+          "help": "முழு தகவல்தொடர்பு தடத்தை வெற்றிகரமாக நிறைவு செய்தல்",
+          "image": "awards.individual.accomplished.communicator.svg"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "கிளப்பின் தலைவர்"
+        },
+        "founder": {
+          "help": "Agora கிளப்பை வெற்றிகரமாக நிறுவுதல்",
+          "image": "awards.individual.club.founder.svg",
+          "title": "கிளப் நிறுவனர்"
+        },
+        "officer": {
+          "help": "ஒரு வருட காலம் வெற்றிகரமாக கிளப்பை வழிநடத்துவது",
+          "image": "awards.individual.club.officer.svg",
+          "title": "கிளப் தலைமைத்துவம்"
+        },
+        "growth": {
+          "help": "நாட்டில் Agora கிளப்புகளை வழிநடத்துவதிலும் உருவாக்குவதிலும் சிறந்து விளங்குவது",
+          "image": "awards.individual.club.growth.svg",
+          "title": "கிளப் வளர்ச்சி விருது"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "5 ஆண்டுகளாக ஒரு கிளப்பில் தொடர்ச்சியான உறுப்பினருரிமை",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "ஆண்டுவிழா விருது"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "இந்த மாத உறுப்பினர் விருது"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "சந்திப்புகளுக்கு தொடர்ச்சியான மற்றும் சுறுசுறுப்பான வருகை",
+        "image": "awards.individual.attendance.svg",
+        "title": "அர்ப்பணிப்பு விருது"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Agora கண்டுபிடிப்பாளர் விருது"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Agora பந்தமேந்தி"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "Agora விளம்பரதாரர் விருது"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "மாநாட்டு தொகுப்பாளர் விருது"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "நாட்டின் முன்னோடி விருது"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "கல்வியில் சிறந்து விளங்குவதற்கான விருது"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "கல்விக்கான அவுட்ரீச் விருது"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "நகர முன்னோடி விருது"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "அவுட்ரீச் தனிச்சிறப்பு விருது"
+        }
+      },
+      "media": {
+        "help": "ஊடகங்களில் Agora பணி மற்றும் செயல்பாடுகளை மேம்படுத்துவதில் சிறந்து விளங்குவதற்கான விருது",
+        "image": "awards.club.media.svg",
+        "title": "ஊடக தனிச்சிறப்பு விருது"
+      },
+      "membership": {
+        "growth": "உறுப்பினருரிமை வளர்ச்சி விருது",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "உறுப்பினருரிமை தக்கவைத்திருப்பதற்கான விருது"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "சமூக செயல்திட்டங்களை சிறந்த முறையில் செயல்படுத்துதல்",
+          "image": "awards.club.community.leadership.svg",
+          "title": "சமூக தலைமைத்துவத்திற்கான விருது"
+        }
+      },
+      "content": {
+        "help": "Agora சமூகத்திற்கான புதிய உள்ளடக்கத்தை உருவாக்குவதில் சிறந்து விளங்குவது",
+        "image": "awards.club.content.svg",
+        "title": "உள்ளடக்க உருவாக்கத்திற்கான விருது"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "கிளப் கண்டுபிடிப்பாளர் விருது"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "சிறப்பு தனித்தன்மை விருது"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "தூதர் விருது"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "கிளப் வழிகாட்டல் விருது"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "இந்த மாத கிளப் விருது"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "90% க்கும் அதிமான உறுப்பினர்களின் திருப்தியினை பெற்ற கிளப்",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "உறுப்பினர் திருப்திக்கான கோல்டன் விருது"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "75% க்கும் அதிமான உறுப்பினர்களின் திருப்தியினை பெற்ற கிளப்",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "கிளப் உறுப்பினர் திருப்திக்கான வெள்ளி விருது"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "கிளப் உறுப்பினர் திருப்திக்கான கோல்டன் விருது"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "20 க்கும் மேற்பட்ட உறுப்பினர்களின் உறுப்பினருரிமை வளர்ச்சி",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "பொன்விழா உறுப்பினருரிமை வளர்ச்சி விருது"
+          }
+        },
+        "anniversary": {
+          "help": "பத்து ஆண்டுகளில் கிளப்பின் வெற்றிகரமான மற்றும் தொடர்ச்சியான செயல்பாட்டுக்கான விருது",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "பொன்விழா ஆண்டு விருது"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "மாதிரி கிளப் விருது"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "10 க்கும் மேற்பட்ட உறுப்பினர்களின் உறுப்பினருரிமை வளர்ச்சி",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "வெள்ளி விழா உறுப்பினருரிமை வளர்ச்சி விருது"
+          }
+        },
+        "anniversary": {
+          "help": "ஐந்து ஆண்டுகளில் கிளப்பின் வெற்றிகரமான மற்றும் தொடர்ச்சியான செயல்பாட்டுக்கான விருது",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "வெள்ளி விழா ஆண்டு விருது"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "கிளப் ஆண்டுவிழா விருது - {{v0}} ஆண்டுகள்"
+      }
+    },
+    "place": {
+      "participation": "பங்கேற்பு"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "குறுக்குக் கேள்வி கேட்கும் சந்திப்பில் மிகவும் ஆர்வமான மற்றும் கூர்மையான கேள்வித் தொடுப்பாளராக இருப்பது",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "மிகவும் ஆர்வமாக குறுக்குக் கேள்வி கேட்கும் பங்கேற்பாளர்"
+        },
+        "survivor": {
+          "help": "சந்திப்பில் குறுக்குக் கேள்வி பிரிவை சமாளித்துக் கடந்து வருபவர்",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "குறுக்குக் கேள்விகளைச் சமாளிப்பவர்"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "சிறந்த கருத்தரங்கு தொகுப்பாளர் மற்றும் கேள்வி கேட்பவராக விளங்குதல்",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "சிறந்த கருத்தரங்கு பங்கேற்பாளர்"
+        },
+        "role": {
+          "help": "சிறந்த முறையில் சந்திப்புப் பாத்திரத்தை வகித்தல்",
+          "image": "awards.meeting.best.role.svg",
+          "title": "சந்திப்பின் சிறந்த பாத்திரம்"
+        },
+        "speaker": {
+          "help": "கிளப் சந்திப்பில் சிறந்த முறையில் தயார் செய்த சொற்பொழிவை வழங்குதல்",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "சந்திப்பின் சிறந்த பேச்சாளர்"
+        },
+        "hot": {
+          "response": {
+            "help": "கிளப் சந்திப்பில் உடனடித் தலைப்பின் கீழ் சிறந்த சொற்பொழிவை வழங்குதல்",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "உடனடித் தலைப்பு சொற்பொழிவின் சிறந்த பேச்சாளர்"
+          }
+        },
+        "speechwriter": {
+          "help": "சந்திப்பில் சிறந்த சொற்பொழிவு உருவாக்கம்",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "சந்திப்பின் சிறந்த சொற்பொழிவு எழுத்தாளர்"
+        },
+        "evaluator": {
+          "help": "கிளப் சந்திப்பில் சிறந்த மதிப்பீட்டை வழங்குதல்",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "சிறந்த சந்திப்பு மதிப்பீட்டாளர்"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "Agora Speakers International ஃபவுண்டேஷன் என்பது மதச்சார்பற்ற கல்வி ரீதியான ஐரோப்பிய தொண்டு நிறுவனம் ஆகும், இது தலைச்சிறந்த உலகத்தை தீவிரமாக உருவாக்கும் புதிய தகவல்தொடர்பாளர்களாகவும் நம்பிக்கையுள்ள தலைவர்களாகவும் ஆக்குவதற்கு மக்களை மேம்படுத்துகிறது."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "மற்றவை"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "தேதி",
+      "country": "நாடு",
+      "address": "முகவரி",
+      "city": "நகரம்",
+      "awards": "வென்ற விருதுகள்",
+      "state": "மாநிலம்/மாகாணம்/நாட்டில் உள்ள பிரிவு/போன்றவை.",
+      "event": "நிகழ்ச்சி",
+      "region": "பிராந்தியம் அல்லது பகுதி",
+      "points": {
+        "total": "வென்ற புள்ளிகள் (மொத்தம்)",
+        "year": "வென்ற புள்ளிகள் (இந்த ஆண்டு)",
+        "name": "புள்ளிகள்"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "கிளப்பில் பயன்படுத்தப்படும் மொழி அல்லது மொழிகளைக் குறிப்பிடவும் (எ.கா.: ஆங்கிலம்)"
+      },
+      "charter": {
+        "date": "சாசன தேதி",
+        "help": "சாசன தேதி வரவிருக்கும் தேதியாக இருக்க வேண்டும், ஆனால் 30 நாட்களுக்கு மேல் தள்ளி இருக்கக்கூடாது."
+      },
+      "founder": {
+        "name": "கிளப்பின் நிறுவனர் (முழு பெயர்)",
+        "email": "நிறுவனரின் மின்னஞ்சல் முகவரி"
+      },
+      "fee": {
+        "title": "கிளப் உறுப்பினருரிமை கட்டணம் (ஏதேனும் இருந்தால்)."
+      },
+      "banner": "பேனர்",
+      "restrictions": {
+        "guests": {
+          "input": "கிளப்பில் விருந்தினராக கலந்துகொள்ள என்ன வகையான கட்டுப்பாடுகள் அல்லது நிபந்தனைகள் இருக்கும் என்பதை விவரிக்கவும் (ஏதேனும் இருந்தால்)"
+        },
+        "membership": {
+          "input": "கிளப்பில் உறுப்பினராக சேர எந்த வகையான நிபந்தனைகள் இருக்கும் என்பதை விவரிக்கவும் (ஏதேனும் இருந்தால்). நீங்கள் இளைஞருக்கான கிளப் ஒன்றை பதிவு செய்கிறீர்கள் என்றால், தயவுசெய்து வயது வரம்பைக் குறிப்பிடவும்"
+        }
+      },
+      "type": {
+        "help": "வெவ்வேறு கிளப் வகைகளைப் பற்றிய கூடுதல் தகவல்கள் இதோ இங்கே.",
+        "input": "கிளப் வகை"
+      },
+      "points": {
+        "date": "செயல்பாட்டு தேதி",
+        "action": "கிளப்பின் செயல்பாடு"
+      },
+      "token": "கிளப்பின் ரகசிய டோக்கன்",
+      "number": "கிளப் எண்",
+      "assets": "கிளப் பலனளிக்கும் உடைமைகள்",
+      "awards": "கிளப் விருதுகள்",
+      "contact": {
+        "help": {
+          "1": "கிளப்பிற்கான தொடர்புத் தகவல். மின்னஞ்சல் அல்லது தொலைபேசி எண்ணாக இருக்க வேண்டும்.",
+          "2": "கூடுதல் கிளப் தொடர்புத் தகவல் - முந்தையதுக்கு வேறுபட்டதாக இருக்க வேண்டும், மேலும் இது மற்றொரு மின்னஞ்சல்/தொலைபேசி எண் அல்லது வலைப்பக்கம், முகநூல் குழு, மீட்அப் குழு போன்றவையாக இருக்கலாம்."
+        },
+        "title": "தொடர்பு தகவல்"
+      },
+      "name": "கிளப்பின் பெயர்",
+      "logo": {
+        "title": "நீங்கள் உங்கள் சொந்த லோகோவைப் பதிவேற்றலாம், அல்லது உங்களிடம் லோகோ இல்லையென்றால் நாங்கள் உங்கள் கிளப்பிற்கான லோகோவை தானாக உருவாக்குவோம்."
+      },
+      "meeting": {
+        "schedule": "சந்திப்பு அட்டவணை",
+        "info": "கூடுதல் தகவல்"
+      }
+    },
+    "personal": {
+      "participation": {
+        "input": "நீங்கள் எந்த வகையான பங்கேற்பில் ஆர்வமாக உள்ளீர்கள்?",
+        "online": "ஆன்லைன் சந்திப்புகள்",
+        "physical": "நேரடி சந்திப்புகள்"
+      },
+      "languages": {
+        "interested": "நீங்கள் எந்த மொழிகளில் ஆர்வமாக உள்ளீர்கள்?"
+      },
+      "joined": "சேரும் தேதி",
+      "facebook": "முகநூல் சுயவிவரத்திற்கான இணைப்பு",
+      "roles": {
+        "date": "தேதி",
+        "role": "பாத்திரம்",
+        "taken": "ஏற்கனவே தேர்வு செய்யப்பட்டுவிட்ட பாத்திரங்கள்",
+        "club": "கிளப்"
+      },
+      "speeches": {
+        "persuasive": "தூண்டக்கூடிய அல்லது இணங்கச் செய்யக்கூடிய சொற்பொழிவுகள்",
+        "general": "பொது நோக்கத்திற்கான சொற்பொழிவுகள்",
+        "storytelling": "கதை சொல்லும் சொற்பொழிவு போட்டி",
+        "educational": "கல்வி ரீதியிலானவை",
+        "business": "வணிக விளக்கக்காட்சிகள்",
+        "interested": "நீங்கள் எந்த வகையான விளக்கக்காட்சிகள்/சொற்பொழிவுகளை கற்றுக்கொள்ள ஆர்வமாக இருக்கிறீர்கள்?",
+        "media": "வீடியோ வலைப்பதிவு மற்றும் மீடியா தயாரிப்பு",
+        "sales": "விற்பனை",
+        "humorous": "நகைச்சுவையான சொற்பொழிவுகள் மற்றும் நகைச்சுவை"
+      },
+      "privacy": "இந்த தளத்தின் விதிமுறைகள் மற்றும் நிபந்தனைகள் மற்றும் Agora Speakers International உடைய தனியுரிமைக் கொள்கையுடன் நான் உடன்படுகிறேன்",
+      "history": {
+        "date": "தேதி",
+        "club": "கிளப்பின் பெயர்",
+        "event": "நிகழ்ச்சி"
+      },
+      "linkedin": "லிங்டின் சுயவிவரத்திற்கான இணைப்பு",
+      "skills": "பின்வரும் எந்த திறன்களை மேம்படுத்த நீங்கள் விரும்புகிறீர்கள்?",
+      "number": "உறுப்பினர் எண்",
+      "password": {
+        "input": "கடவுச்சொல்",
+        "verify": "சரிபார்ப்புக்கு கடவுச்சொல்லை மீண்டும் உள்ளிடவும்"
+      },
+      "clubs": {
+        "role": "பாத்திரம்"
+      },
+      "name": {
+        "address": {
+          "help": "எங்கள் தகவல்தொடர்புகளில் (உங்களுக்கு மின்னஞ்சல்கள் அனுப்புவது போன்றவற்றில்) நாங்கள் உங்களை எவ்வாறு அழைக்க வேண்டும்?",
+          "field": "தகவல்தொடர்புக்கு விருப்பமான பெயர்:"
+        },
+        "certificates": {
+          "help": "நீங்கள் வெல்லும் சான்றிதழ்கள் மற்றும் விருதுகளில் உங்கள் பெயர் எவ்வாறு இடம்பெற வேண்டும்?",
+          "input": "சான்றிதழ்களுக்கு விருப்பமான பெயர்"
+        },
+        "online": {
+          "help": "எங்கள் ஆன்லைன் அமைப்புகள், மன்றங்கள் போன்றவற்றில் உங்கள் பெயர் எவ்வாறு இடம்பெற வேண்டும்?",
+          "input": "விருப்பமான ஆன்லைன் பெயர்"
+        },
+        "full": "முழு பெயர்"
+      },
+      "principles": {
+        "agreement": "எங்கள் முக்கிய கொள்கைகளுடனான உங்கள் உடன்பாட்டைக் குறிப்பிடவும்"
+      },
+      "position": "கிளப்பில் தற்போது வகிக்கும் பதவி",
+      "interests": {
+        "11": {
+          "language": "எனது வெளிநாட்டு மொழி திறன்களை வளர்த்துக் கொள்ள ஆர்வமாக உள்ளேன்"
+        },
+        "01": {
+          "curious": "நான் அந்த அமைப்பு பற்றி ஆர்வமாக உள்ளேன்"
+        },
+        "12": {
+          "contests": "Agora Speakers International ஏற்பாடு செய்யும் போட்டிகளில் போட்டியிட ஆர்வமாக உள்ளேன்"
+        },
+        "02": {
+          "confidence": "எனது தன்னம்பிக்கையை மேம்படுத்த விரும்புகிறேன்"
+        },
+        "13": {
+          "critical": "நூதனமாக சிந்திக்க கற்றுக்கொள்ள ஆர்வமாக உள்ளேன்"
+        },
+        "03": {
+          "communicate": "நான் மிகவும் திறம்பட தொடர்பு கொள்வதற்கு கற்றுக்கொள்ள விரும்புகிறேன்"
+        },
+        "14": {
+          "friends": "நான் மக்களைச் சந்திப்பதிலும் புதிய நண்பர்களை பெறுவதிலும் ஆர்வமாக உள்ளேன்"
+        },
+        "04": {
+          "speak": "எனது பொது சொற்பொழிவாற்றும் திறன்களை மேம்படுத்த விரும்புகிறேன்"
+        },
+        "15": {
+          "cooperation": "கலாச்சார பரிமாற்றம் மற்றும் கலாச்சாரங்களுக்கு இடையேயான ஒத்துழைப்பு நடவடிக்கைகளில் நான் ஆர்வமாக உள்ளேன்"
+        },
+        "question": "Agora Speakers International குறித்து உங்களுக்கு இருக்கும் ஆர்வம் என்ன?",
+        "05": {
+          "leadership": "எனது தலைமைத்துவ திறன்களை வளர்த்துக் கொள்ள விரும்புகிறேன்"
+        },
+        "16": {
+          "startclub": "எனது நகரத்தில் Agora கிளப் ஒன்றைத் தொடங்க விரும்புகிறேன்"
+        },
+        "06": {
+          "networking": "நான் தொழில் ரீதியான நெட்வொர்க்கிங்கில் ஆர்வமாக உள்ளேன்"
+        },
+        "17": {
+          "ambassador": "எனது நாட்டிற்கான Agora தூதராக நான் இருக்க விரும்புகிறேன்"
+        },
+        "07": {
+          "presentations": "வணிக விளக்கக்காட்சிகளை வழங்குவதில் நான் ஆர்வமாக உள்ளேன்"
+        },
+        "18": {
+          "partnership": "எனது அமைப்புக்கும் Agora Speakers International -க்கும் இடையில் கூட்டாண்மை ஏற்படுத்துவது குறித்து நான் ஆர்வமாக உள்ளேன்"
+        },
+        "08": {
+          "events": "நீங்கள் ஏற்பாடு செய்யும் பயிற்சி பட்டறைகள், கருத்தரங்குகள் மற்றும் நிகழ்ச்சிகளில் பங்கேற்க நான் ஆர்வமாக உள்ளேன்"
+        },
+        "09": {
+          "debating": "நான் விவாதம் மற்றும் வாதத்தில் ஆர்வமாக உள்ளேன்"
+        },
+        "10": {
+          "community": "எனது சமூகத்தில் ஒரு மாற்றத்தை ஏற்படுத்த விரும்புகிறேன்"
+        }
+      },
+      "email": "மின்னஞ்சல்"
+    },
+    "meeting": {
+      "date": "சந்திப்பு தேதி",
+      "number": "சந்திப்பு எண்",
+      "venue": {
+        "name": "இடத்தின் அல்லது வளாகத்தின் பெயர்"
+      },
+      "address": {
+        "input": "சந்திப்பு நடைபெறும் இடத்தின் முகவரி"
+      },
+      "online": {
+        "software": "சந்திப்பு மென்பொருள்",
+        "link": "சேருவதற்கான இணைப்பு",
+        "id": "ஆன்லைன் சந்திப்பு ஐடி",
+        "title": "ஆன்லைன் சந்திப்புகளுக்கான தகவல்",
+        "passowrd": "சேருவதற்கான கடவுச்சொல்"
+      },
+      "theme": "சந்திப்பின் கருப்பொருள் (அப்படி ஒன்று இருந்தால்)",
+      "time": "சந்திப்பு நேரம்"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) பதிப்புரிமை Agora Speakers International. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை. Agora மெட்டீரியல்கள் மற்றும் பலனளிக்கும் உடைமைகள் எங்களது விதிமுறைகள் மற்றும் நிபந்தனைகளுக்கு ஏற்ப மட்டுமே பயன்படுத்தப்பட வேண்டும்."
+    },
+    "terms": "விதிமுறைகள் மற்றும் நிபந்தனைகள்",
+    "legal": {
+      "notice": "சட்ட ரீதியான தகவல்"
+    },
+    "privacy": {
+      "policy": "தனியுரிமைக் கொள்கை"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "இந்தி",
+      "ps": "பஷ்தோ",
+      "pt": "போர்ச்சுக்கீஸ்",
+      "hr": "குரோஷியன்",
+      "pt_br": "Brazilian",
+      "hu": "ஹங்கேரியன்",
+      "yi": "யெட்டிஷ்",
+      "hy": "ஆர்மேனியன்",
+      "yo": "யோருபா",
+      "ia": "இன்டர்லிங்வா",
+      "id": "இந்தோனேஷியன்",
+      "ig": "இக்போ",
+      "ii": "சிசுவான் ஈ",
+      "qu": "க்வெச்சுவா",
+      "af": "ஆஃப்ரிகான்ஸ்",
+      "ak": "அகான்",
+      "is": "ஐஸ்லேண்டிக்",
+      "it": "இத்தாலியன்",
+      "am": "அம்ஹாரிக்",
+      "zh": "சீனம்",
+      "ar": "அரபிக்",
+      "as": "அஸ்ஸாமீஸ்",
+      "ja": "ஜப்பானியம்",
+      "az": "அசர்பைஜானி",
+      "rm": "ரோமான்ஷ்",
+      "zu": "ஜுலு",
+      "rn": "ருண்டி",
+      "ro": "ரோமேனியன்",
+      "be": "பெலாருஷியன்",
+      "ru": "ரஷியன்",
+      "bg": "பல்கேரியன்",
+      "rw": "கின்யாருவான்டா",
+      "bm": "பம்பாரா",
+      "bn": "வங்காளம்",
+      "jv": "ஜாவனீஸ்",
+      "bo": "திபெத்தியன்",
+      "sa": "சமஸ்கிருதம்",
+      "br": "பிரெட்டன்",
+      "bs": "போஸ்னியன்",
+      "sd": "சிந்தி",
+      "se": "வடக்கு சமி",
+      "sg": "சாங்கோ",
+      "sh": "செர்போ-குரோஷியன்",
+      "ka": "ஜார்ஜியன்",
+      "si": "சிங்களம்",
+      "sk": "ஸ்லோவாக்",
+      "sl": "ஸ்லோவேனியன்",
+      "sn": "ஷோனா",
+      "so": "சோமாலி",
+      "ca": "கேட்டலான்",
+      "ki": "கிகுயூ",
+      "sq": "அல்பேனியன்",
+      "sr": "செர்பியன்",
+      "kk": "கசாக்",
+      "kl": "கலாலிசூட்",
+      "ce": "செச்சென்",
+      "km": "கெமெர்",
+      "su": "சுண்டானீஸ்",
+      "kn": "கன்னடம்",
+      "sv": "ஸ்வீடிஷ்",
+      "ko": "கொரியன்",
+      "sw": "ஸ்வாஹிலி",
+      "ks": "காஷ்மிரி",
+      "ku": "குர்திஷ்",
+      "kw": "கார்னிஷ்",
+      "ta": "தமிழ்",
+      "ky": "கிர்கிஸ்",
+      "cs": "செக்",
+      "te": "தெலுங்கு",
+      "tg": "தஜிக்",
+      "th": "தாய்",
+      "ti": "டிக்ரின்யா",
+      "cy": "வேல்ஷ்",
+      "lb": "லக்ஸம்போர்கிஷ்",
+      "tk": "துருக்மென்",
+      "tl": "டாகாலோக்",
+      "lg": "கான்டா",
+      "to": "டோங்கான்",
+      "da": "டேனிஷ்",
+      "tr": "துருக்கிஷ்",
+      "tt": "டாடர்",
+      "de": "ஜெர்மன்",
+      "ln": "லிங்காலா",
+      "lo": "லாவோ",
+      "lt": "லிதுவேனியன்",
+      "lu": "லுபா-கடாங்கா",
+      "lv": "லாட்வியன்",
+      "ug": "உய்குர்",
+      "dz": "பூடானி",
+      "uk": "உக்ரைனியன்",
+      "mg": "மலகாஸி",
+      "mi": "மௌரி",
+      "ur": "உருது",
+      "mk": "மாஸிடோனியன்",
+      "ml": "மலையாளம்",
+      "ee": "ஈவ்",
+      "mn": "மங்கோலியன்",
+      "mr": "மராத்தி",
+      "uz": "உஸ்பெக்",
+      "ms": "மலாய்",
+      "el": "கிரேக்கம்",
+      "mt": "மால்டிஸ்",
+      "en": "ஆங்கிலம்",
+      "eo": "எஸ்பரேன்டோ",
+      "my": "பர்மீஸ்",
+      "es": "ஸ்பானிஷ்",
+      "et": "எஸ்டோனியன்",
+      "eu": "பாஸ்க்",
+      "vi": "வியட்நாமீஸ்",
+      "nb": "நார்வேஜியன் பொக்மால்",
+      "nd": "வடக்கு தெபெலே",
+      "ne": "நேபாளி",
+      "fa": "பெர்ஷியன்",
+      "nl": "டச்சு",
+      "ff": "ஃபுலா",
+      "nn": "நார்வேஜியன் நியூநார்ஸ்க்",
+      "no": "நார்வேஜியன்",
+      "fi": "ஃபின்னிஷ்",
+      "fo": "ஃபரோயிஸ்",
+      "fr": "பிரெஞ்சு",
+      "fy": "மேற்கு ஃப்ரிஷியன்",
+      "wo": "ஓலோஃப்",
+      "ga": "ஐரிஷ்",
+      "gd": "ஸ்காட்ஸ் கேலிக்",
+      "om": "ஒரோமோ",
+      "or": "ஒடியா",
+      "os": "ஒசெட்டிக்",
+      "gl": "காலிஸியன்",
+      "gu": "குஜராத்தி",
+      "gv": "மேங்க்ஸ்",
+      "xh": "ஹோசா",
+      "pa": "பஞ்சாபி",
+      "ha": "ஹௌஸா",
+      "pl": "போலிஷ்",
+      "he": "ஹீப்ரூ"
+    },
+    "full": {
+      "hi": "இந்தி (हिन्दी)",
+      "ps": "பஷ்தோ (پښتو)",
+      "pt": "போர்ச்சுக்கீஸ் (Português)",
+      "hr": "குரோஷியன் (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "ஹங்கேரியன் (Magyar)",
+      "yi": "யெட்டிஷ் (ייִדיש)",
+      "hy": "ஆர்மேனியன் (Հայերեն)",
+      "yo": "யோருபா (Èdè Yorùbá)",
+      "ia": "இன்டர்லிங்வா (Interlingua)",
+      "id": "இந்தோனேஷியன் (Indonesia)",
+      "ig": "இக்போ (Igbo)",
+      "ii": "சிசுவான் ஈ (ꆈꌠꉙ)",
+      "qu": "க்வெச்சுவா (Runasimi)",
+      "af": "ஆஃப்ரிகான்ஸ் (Afrikaans)",
+      "ak": "அகான் (Akan)",
+      "is": "ஐஸ்லேண்டிக் (Íslenska)",
+      "it": "இத்தாலியன் (Italiano)",
+      "am": "அம்ஹாரிக் (አማርኛ)",
+      "zh": "சீனம் (中文)",
+      "ar": "அரபிக் (العربية)",
+      "as": "அஸ்ஸாமீஸ் (অসমীয়া)",
+      "ja": "ஜப்பானியம் (日本語)",
+      "az": "அசர்பைஜானி (Azərbaycan)",
+      "rm": "ரோமான்ஷ் (Rumantsch)",
+      "zu": "ஜுலு (IsiZulu)",
+      "rn": "ருண்டி (Ikirundi)",
+      "ro": "ரோமேனியன் (Română)",
+      "be": "பெலாருஷியன் (Беларуская)",
+      "ru": "ரஷியன் (Русский)",
+      "bg": "பல்கேரியன் (Български)",
+      "rw": "கின்யாருவான்டா (Kinyarwanda)",
+      "bm": "பம்பாரா (Bamanakan)",
+      "bn": "வங்காளம் (বাংলা)",
+      "jv": "ஜாவனீஸ் (Jawa)",
+      "bo": "திபெத்தியன் (བོད་སྐད་)",
+      "sa": "சமஸ்கிருதம் (संस्कृत भाषा)",
+      "br": "பிரெட்டன் (Brezhoneg)",
+      "bs": "போஸ்னியன் (Bosanski)",
+      "sd": "சிந்தி (سنڌي)",
+      "se": "வடக்கு சமி (Davvisámegiella)",
+      "sg": "சாங்கோ (Sängö)",
+      "sh": "செர்போ-குரோஷியன் (Srpskohrvatski)",
+      "ka": "ஜார்ஜியன் (ქართული)",
+      "si": "சிங்களம் (සිංහල)",
+      "sk": "ஸ்லோவாக் (Slovenčina)",
+      "sl": "ஸ்லோவேனியன் (Slovenščina)",
+      "sn": "ஷோனா (ChiShona)",
+      "so": "சோமாலி (Soomaali)",
+      "ca": "கேட்டலான் (Català)",
+      "ki": "கிகுயூ (Gikuyu)",
+      "sq": "அல்பேனியன் (Shqip)",
+      "sr": "செர்பியன் (Српски)",
+      "kk": "கசாக் (Қазақ тілі)",
+      "kl": "கலாலிசூட் (Kalaallisut)",
+      "ce": "செச்சென் (Нохчийн)",
+      "km": "கெமெர் (ខ្មែរ)",
+      "su": "சுண்டானீஸ் (Basa Sunda)",
+      "kn": "கன்னடம் (ಕನ್ನಡ)",
+      "sv": "ஸ்வீடிஷ் (Svenska)",
+      "ko": "கொரியன் (한국어)",
+      "sw": "ஸ்வாஹிலி (Kiswahili)",
+      "ks": "காஷ்மிரி (کٲشُر)",
+      "ku": "குர்திஷ் (Kurdî)",
+      "kw": "கார்னிஷ் (Kernewek)",
+      "ta": "தமிழ் (தமிழ்)",
+      "ky": "கிர்கிஸ் (Кыргызча)",
+      "cs": "செக் (Čeština)",
+      "te": "தெலுங்கு (తెలుగు)",
+      "tg": "தஜிக் (Тоҷикӣ)",
+      "th": "தாய் (ไทย)",
+      "ti": "டிக்ரின்யா (ትግር)",
+      "cy": "வேல்ஷ் (Cymraeg)",
+      "lb": "லக்ஸம்போர்கிஷ் (Lëtzebuergesch)",
+      "tk": "துருக்மென் (Türkmen dili)",
+      "tl": "டாகாலோக் (Tagalog)",
+      "lg": "கான்டா (Luganda)",
+      "to": "டோங்கான் (Lea fakatonga)",
+      "da": "டேனிஷ் (Dansk)",
+      "tr": "துருக்கிஷ் (Türkçe)",
+      "tt": "டாடர் (Татар)",
+      "de": "ஜெர்மன் (Deutsch)",
+      "ln": "லிங்காலா (Lingála)",
+      "lo": "லாவோ (ລາວ)",
+      "lt": "லிதுவேனியன் (Lietuvių)",
+      "lu": "லுபா-கடாங்கா (Tshiluba)",
+      "lv": "லாட்வியன் (Latviešu)",
+      "ug": "உய்குர் (ئۇيغۇرچە)",
+      "dz": "பூடானி (རྫོང་ཁ)",
+      "uk": "உக்ரைனியன் (Українська)",
+      "mg": "மலகாஸி (Malagasy)",
+      "mi": "மௌரி (Te reo Māori)",
+      "ur": "உருது (اردو)",
+      "mk": "மாஸிடோனியன் (Македонски)",
+      "ml": "மலையாளம் (മലയാളം)",
+      "ee": "ஈவ் (Eʋegbe)",
+      "mn": "மங்கோலியன் (Монгол)",
+      "mr": "மராத்தி (मराठी)",
+      "uz": "உஸ்பெக் (O‘zbek)",
+      "ms": "மலாய் (Melayu)",
+      "el": "கிரேக்கம் (Ελληνικά)",
+      "mt": "மால்டிஸ் (Malti)",
+      "en": "ஆங்கிலம் (English)",
+      "eo": "எஸ்பரேன்டோ (Esperanto)",
+      "my": "பர்மீஸ் (မြန်မာ)",
+      "es": "ஸ்பானிஷ் (Español)",
+      "et": "எஸ்டோனியன் (Eesti)",
+      "eu": "பாஸ்க் (Euskara)",
+      "vi": "வியட்நாமீஸ் (Tiếng Việt)",
+      "nb": "நார்வேஜியன் பொக்மால் (Norsk bokmål)",
+      "nd": "வடக்கு தெபெலே (IsiNdebele)",
+      "ne": "நேபாளி (नेपाली)",
+      "fa": "பெர்ஷியன் (فارسی)",
+      "nl": "டச்சு (Nederlands)",
+      "ff": "ஃபுலா (Pulaar)",
+      "nn": "நார்வேஜியன் நியூநார்ஸ்க் (Norsk nynorsk)",
+      "no": "நார்வேஜியன் (Norsk)",
+      "fi": "ஃபின்னிஷ் (Suomi)",
+      "fo": "ஃபரோயிஸ் (Føroyskt)",
+      "fr": "பிரெஞ்சு (Français)",
+      "fy": "மேற்கு ஃப்ரிஷியன் (Frysk)",
+      "wo": "ஓலோஃப் (Wolof)",
+      "ga": "ஐரிஷ் (Gaeilge)",
+      "gd": "ஸ்காட்ஸ் கேலிக் (Gàidhlig)",
+      "om": "ஒரோமோ (Oromoo)",
+      "or": "ஒடியா (ଓଡ଼ିଆ)",
+      "os": "ஒசெட்டிக் (Ирон)",
+      "gl": "காலிஸியன் (Galego)",
+      "gu": "குஜராத்தி (ગુજરાતી)",
+      "gv": "மேங்க்ஸ் (Gaelg)",
+      "xh": "ஹோசா (IsiXhosa)",
+      "pa": "பஞ்சாபி (ਪੰਜਾਬੀ)",
+      "ha": "ஹௌஸா (Hausa)",
+      "pl": "போலிஷ் (Polski)",
+      "he": "ஹீப்ரூ (עברית)"
+    }
+  }
+}

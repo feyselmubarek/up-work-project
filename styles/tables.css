@@ -1,0 +1,81 @@
+@import 'common.css';
+:root {
+    --table-indent: 1em;
+}
+
+
+table.tableskin1 {
+    border: 2px solid var(--agora-blue-0);
+    border-radius: 0.3em;
+    box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.1);
+    max-width: calc(100% - 2em);
+    margin: 1em auto;
+    overflow: hidden;
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 0.95em;
+}
+
+table.tableskin1 th {
+    vertical-align: middle;
+    height:2.5em;
+    text-align: left;
+    padding-left:var(--table-indent);
+}
+
+table.tableskin1 > thead > tr > th{
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,76,168,1) 83%, rgba(2,54,122,1) 100%);
+    color: white;
+    font-size: 1.1em;
+    text-transform: uppercase;
+}
+
+table.tableskin1 thead td {
+    height:1.5em;
+    width:100%;
+    margin: 0px;
+    border-collapse: collapse;
+}
+
+table.tableskin1 tbody th {
+    background-color: #daeff1;
+    font-weight: 300;
+    font-weight:bold;
+}
+
+.tableskin1 tbody td {
+    vertical-align: middle;
+}
+
+/* Regular rows */
+table.tableskin1 tbody tr {
+    height:2em;
+    border-left:solid 1px black;
+}
+table.tableskin1 tbody td {
+    padding-left: var(--table-indent);
+}
+
+table.tableskin1 tbody tr:nth-child(2n) {
+    background-color: white;
+}
+table.tableskin1 tbody tr:nth-child(2n+1) {
+    background-color: var(--agora-blue-3);
+}
+
+/* Footers */
+table.tableskin1 tfoot tr {
+    height:3em;
+    font-size:0.8em;
+
+}
+table.tableskin1 tfoot td {
+    padding-top:0.7em;
+    background-color: var(--agora-teal-3);
+    border-top:solid 1px var(--agora-blue-0);
+}
+table.tableskin1 tfoot td:first-child {
+    padding-left: var(--table-indent);
+}

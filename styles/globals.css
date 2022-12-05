@@ -1,0 +1,280 @@
+@import 'reset.css';
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+
+:root {
+  --agora-red: #CE3C17;
+  --agora-yellow: #F7AF0F;
+  --agora-purple: #560F3B;
+
+  --agora-red-3: #F9D7CF;
+  --agora-red-2: #F47C60;
+  --agora-red-1: #A43114;
+  --agora-red-0: #8E2B12;
+
+  --agora-yellow-3: #F4F2D4;
+  --agora-yellow-2: #F7E99A;
+  --agora-yellow-1 :#D1952A;
+  --agora-yellow-0: #976B1E;
+
+  --agora-purple-3: #F1DBF9;
+  --agora-purple-2: #CCB2D6;
+  --agora-purple-1: #765285;
+  --agora-purple-0: #4F2D5D;
+
+  --agora-blue-3: #D7F1F9;
+  --agora-blue-2: #4866EB;
+  --agora-blue-1: #2B3F97;
+  --agora-blue-0: #152050;
+
+  --agora-teal-3: #9FE9DD;
+  --agora-teal-2: #00B294;
+  --agora-teal-1: #008272;
+  --agora-teal-0: #004B50;
+
+
+  --agora-green-3:#E9F1BE;
+  --agora-green-2:#BAD80A;
+  --agora-green-1:#107C10;
+  --agora-green-0:#004B1C;
+
+
+  --agora-gray-C: #212121;
+  --agora-gray-B: #333333;
+  --agora-gray-A: #3C3C3C;
+  --agora-gray-9: #666666;
+  --agora-gray-8: #767676;
+  --agora-gray-7: #A6A6A6;
+  --agora-gray-6: #C8C8C8;
+  --agora-gray-5: #DODODO;
+  --agora-gray-4: #DADADA;
+  --agora-gray-3: #EAEAEA;
+  --agora-gray-2: #F4F4F4;
+  --agora-gray-1: #F8F8F8;
+
+
+  --progress-0: var(--agora-red-1);
+  --progress-1: var(--agora-yellow);
+  --progress-2: var(--agora-green-2);
+  --progress-3: var(--agora-green-1);
+
+  --font: 'Monserrat', sans-serif;
+
+  --field-height: 3.5em;
+  --placeholder: var(--agora-gray-6);
+  --error: var(--agora-red);
+  --focused-state: var(--agora-blue-1);
+  --default-state: var(--agora-gray-9);
+  --disabled-state: var(--agora-gray-9);
+  --valid: var(--agora-teal-2);
+  --label: var(--agora-gray-6);
+}
+
+html {
+  font-family: var(--font);
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.error, .ko {
+  color: var(--agora-red);
+}
+
+.info {
+  color: var(--agora-blue-2);
+}
+.warning {
+  color: var(--agora-yellow);
+}
+.ok {
+  color: var(--agora-green-1);
+}
+* {
+  box-sizing: border-box;
+}
+
+
+.page {
+  margin-left:auto;
+  margin-right:auto;
+  width:95%;
+
+}
+
+.page h1 {
+  font-weight:bold;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2em;
+  margin-bottom:0.5em;
+  color:var(--agora-teal-1);
+}
+
+.page h2 {
+  font-weight:bold;
+  font-size:22pt;
+  margin-bottom:0.5em;
+  margin-top:0.3em;
+}
+
+.page h3 {
+  font-weight:bold;
+  font-size:22pt;
+  margin-bottom:0.3em;
+}
+
+.field {
+  position:relative;
+  width:fit-content;
+}
+
+.field *[disabled] {
+  color:var(--disabled-state)
+}
+
+.field input[type=text] + label,
+.field input[type=password] + label,
+.field input[type=email] + label,
+.field input[type=file] + label,
+.field input[type=date] + label,
+.field input[type=datetime-local] + label,
+.field input[type=month] + label,
+.field input[type=number] + label,
+.field input[type=range] + label,
+.field input[type=search] + label,
+.field input[type=tel] + label,
+.field input[type=time] + label,
+.field input[type=url] + label,
+.field textarea + label
+{
+  font-size:0.7em;
+  letter-spacing: 0.03em;
+  color: var(--default-state);
+  text-transform: uppercase;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  transition: color 0.4s ease, background-color 0.1s ease-in-out;
+}
+
+.field input[type=text],
+.field input[type=password],
+.field input[type=email],
+.field input[type=file],
+.field input[type=date],
+.field input[type=datetime-local],
+.field input[type=month],
+.field input[type=number],
+.field input[type=range],
+.field input[type=search],
+.field input[type=tel],
+.field input[type=time],
+.field input[type=url],
+.field textarea
+{
+  transition: color 0.4s ease, background-color 0.1s ease-in-out;
+  border:2px solid var(--default-state);
+  border-radius:4px;
+  outline:none;
+  box-sizing:border-box;
+  height: var(--field-height);
+  line-height: var(--field-height);
+  padding-top: 2em;
+  padding-left: 10px;
+}
+
+.field input[type=text]:focus,
+.field input[type=password]:focus,
+.field input[type=email]:focus,
+.field input[type=file]:focus,
+.field input[type=date]:focus,
+.field input[type=datetime-local]:focus,
+.field input[type=month]:focus,
+.field input[type=number]:focus,
+.field input[type=range]:focus,
+.field input[type=search]:focus,
+.field input[type=tel]:focus,
+.field input[type=time]:focus,
+.field input[type=url]:focus,
+.field textarea:focus
+{
+  border-color:var(--focused-state);
+  box-shadow:0 0 8px 0 var(--focused-state);
+  background-color: var(--agora-gray-2);
+}
+
+.field input[type=text]:focus + label,
+.field input[type=password]:focus + label,
+.field input[type=email]:focus + label,
+.field input[type=file]:focus + label,
+.field input[type=date]:focus + label,
+.field input[type=datetime-local]:focus + label,
+.field input[type=month]:focus + label,
+.field input[type=number]:focus + label,
+.field input[type=range]:focus + label,
+.field input[type=search]:focus + label,
+.field input[type=tel]:focus + label,
+.field input[type=time]:focus + label,
+.field input[type=url]:focus + label,
+.field textarea:focus + label
+{
+  color: var(--focused-state);
+}
+.field .error  {
+  visibility:hidden;
+  padding-left: 10px;
+  font-size: 0.8em;
+  padding-top:  0.3em;
+}
+
+/* Case with error message */
+.field[data-check="error"]  input {
+  border-color: var(--error);
+}
+.field[data-check="error"]  .error {
+  visibility: visible;
+}
+
+.field .iconArea {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display:flex;
+  flexDirection:row;
+  align-items: flex-end;
+}
+
+.field img {
+  width:1.5em;
+  display:inline;
+  z-index:5
+}
+
+
+/* Valid data */
+.field[data-check="valid"]  input {
+  border-color: var(--valid);
+}
+.field[data-check="valid"]  .error {
+  visibility: hidden;
+}
+
+
+
+
+.lang-list-box .p-listbox-list .p-listbox-item{
+  margin-bottom: 2px !important;
+  border-radius: 5px !important;
+}
+
+.lang-list-box .p-listbox-list .p-listbox-item.p-highlight {
+  color: white !important;
+  background: #3B82F6 !important;
+}
+

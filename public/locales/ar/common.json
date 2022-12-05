@@ -1,0 +1,1992 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "نادي مرجعي",
+      "corporate": "نادي تعاوني",
+      "restricted": "نادي غير مفتوح للعموم",
+      "term": "نادي Agora",
+      "pic": "نادي اهتمامات مشتركة",
+      "open": "نادي مفتوح للعموم"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "بورتوريكو"
+    },
+    "ps": {
+      "name": "فلسطين"
+    },
+    "pt": {
+      "name": "البرتغال"
+    },
+    "pw": {
+      "name": "بالاو"
+    },
+    "py": {
+      "name": "باراجواي"
+    },
+    "qa": {
+      "name": "قطر"
+    },
+    "ad": {
+      "name": "أندورا"
+    },
+    "ae": {
+      "name": "الامارات العربية المتحدة"
+    },
+    "af": {
+      "name": "أفغانستان"
+    },
+    "ag": {
+      "name": "أنتيغوا وباربودا"
+    },
+    "ai": {
+      "name": "أنجويلا"
+    },
+    "al": {
+      "name": "ألبانيا"
+    },
+    "am": {
+      "name": "أرمينيا"
+    },
+    "ao": {
+      "name": "أنجولا"
+    },
+    "aq": {
+      "name": "القارة القطبية الجنوبية"
+    },
+    "ar": {
+      "name": "الأرجنتين"
+    },
+    "as": {
+      "name": "ساموا الأمريكية"
+    },
+    "at": {
+      "name": "النمسا"
+    },
+    "re": {
+      "name": "روينيون"
+    },
+    "au": {
+      "name": "أستراليا"
+    },
+    "aw": {
+      "name": "آروبا"
+    },
+    "ax": {
+      "name": "جزر أولان"
+    },
+    "az": {
+      "name": "أذربيجان"
+    },
+    "ro": {
+      "name": "رومانيا"
+    },
+    "ba": {
+      "name": "البوسنة والهرسك"
+    },
+    "bb": {
+      "name": "بربادوس"
+    },
+    "rs": {
+      "name": "صربيا"
+    },
+    "bd": {
+      "name": "بنجلاديش"
+    },
+    "be": {
+      "name": "بلجيكا"
+    },
+    "ru": {
+      "name": "روسيا"
+    },
+    "bf": {
+      "name": "بوركينا فاسو"
+    },
+    "bg": {
+      "name": "بلغاريا"
+    },
+    "rw": {
+      "name": "رواندا"
+    },
+    "bh": {
+      "name": "البحرين"
+    },
+    "bi": {
+      "name": "بوروندي"
+    },
+    "bj": {
+      "name": "بنين"
+    },
+    "bl": {
+      "name": "سان بارتيلمي"
+    },
+    "bm": {
+      "name": "برمودا"
+    },
+    "bn": {
+      "name": "بروناي"
+    },
+    "bo": {
+      "name": "بوليفيا"
+    },
+    "sa": {
+      "name": "السعودية"
+    },
+    "bq": {
+      "name": "الجزر الكاريبية الهولندية"
+    },
+    "sb": {
+      "name": "جزر سليمان"
+    },
+    "br": {
+      "name": "البرازيل"
+    },
+    "sc": {
+      "name": "سيشل"
+    },
+    "bs": {
+      "name": "الباهاما"
+    },
+    "sd": {
+      "name": "السودان"
+    },
+    "bt": {
+      "name": "بوتان"
+    },
+    "se": {
+      "name": "السويد"
+    },
+    "bv": {
+      "name": "جزيرة بوفيه"
+    },
+    "sg": {
+      "name": "سنغافورة"
+    },
+    "bw": {
+      "name": "بتسوانا"
+    },
+    "sh": {
+      "name": "سانت هيلينا وأسينشين وتريستان دا كونا"
+    },
+    "si": {
+      "name": "سلوفينيا"
+    },
+    "by": {
+      "name": "روسيا البيضاء"
+    },
+    "sj": {
+      "name": "سفالبارد ويان ماين"
+    },
+    "bz": {
+      "name": "بليز"
+    },
+    "sk": {
+      "name": "سلوفاكيا"
+    },
+    "sl": {
+      "name": "سيراليون"
+    },
+    "sm": {
+      "name": "سان مارينو"
+    },
+    "sn": {
+      "name": "السنغال"
+    },
+    "so": {
+      "name": "الصومال"
+    },
+    "ca": {
+      "name": "كندا"
+    },
+    "sr": {
+      "name": "سورينام"
+    },
+    "cc": {
+      "name": "جزر كوكوس"
+    },
+    "ss": {
+      "name": "جنوب السودان"
+    },
+    "cd": {
+      "name": "جمهورية الكونغو الديمقراطية"
+    },
+    "st": {
+      "name": "ساو تومي وبرينسيب"
+    },
+    "cf": {
+      "name": "جمهورية أفريقيا الوسطى"
+    },
+    "sv": {
+      "name": "السلفادور"
+    },
+    "cg": {
+      "name": "جمهورية الكونغو"
+    },
+    "ch": {
+      "name": "سويسرا"
+    },
+    "sx": {
+      "name": "سينت مارتن"
+    },
+    "ci": {
+      "name": "ساحل العاج"
+    },
+    "sy": {
+      "name": "سوريا"
+    },
+    "sz": {
+      "name": "سوازيلاند"
+    },
+    "ck": {
+      "name": "جزر كوك"
+    },
+    "cl": {
+      "name": "شيلي"
+    },
+    "cm": {
+      "name": "الكاميرون"
+    },
+    "cn": {
+      "name": "الصين"
+    },
+    "co": {
+      "name": "كولومبيا"
+    },
+    "cr": {
+      "name": "كوستاريكا"
+    },
+    "tc": {
+      "name": "جزر توركس وكايكوس"
+    },
+    "td": {
+      "name": "تشاد"
+    },
+    "cu": {
+      "name": "كوبا"
+    },
+    "tf": {
+      "name": "أراض فرنسية جنوبية وأنتارتيكية"
+    },
+    "cv": {
+      "name": "الرأس الأخضر"
+    },
+    "tg": {
+      "name": "توجو"
+    },
+    "cw": {
+      "name": "كوراساو"
+    },
+    "th": {
+      "name": "تايلند"
+    },
+    "cx": {
+      "name": "جزيرة عيد الميلاد"
+    },
+    "cy": {
+      "name": "قبرص"
+    },
+    "tj": {
+      "name": "طاجكستان"
+    },
+    "cz": {
+      "name": "جمهورية التشيك"
+    },
+    "tk": {
+      "name": "توكيلو"
+    },
+    "tl": {
+      "name": "تيمور الشرقية"
+    },
+    "tm": {
+      "name": "تركمانستان"
+    },
+    "tn": {
+      "name": "تونس"
+    },
+    "to": {
+      "name": "تونجا"
+    },
+    "tr": {
+      "name": "تركيا"
+    },
+    "tt": {
+      "name": "ترينيداد وتوباغو"
+    },
+    "de": {
+      "name": "ألمانيا"
+    },
+    "tv": {
+      "name": "توفالو"
+    },
+    "tw": {
+      "name": "تايوان"
+    },
+    "dj": {
+      "name": "جيبوتي"
+    },
+    "tz": {
+      "name": "تانزانيا"
+    },
+    "dk": {
+      "name": "الدانمرك"
+    },
+    "dm": {
+      "name": "دومينيكا"
+    },
+    "do": {
+      "name": "جمهورية الدومينيكان"
+    },
+    "ua": {
+      "name": "أوكرانيا"
+    },
+    "ug": {
+      "name": "أوغندا"
+    },
+    "dz": {
+      "name": "الجزائر"
+    },
+    "um": {
+      "name": "جزر الولايات المتحدة الصغيرة النائية"
+    },
+    "ec": {
+      "name": "الاكوادور"
+    },
+    "us": {
+      "name": "الولايات المتحدة"
+    },
+    "ee": {
+      "name": "استونيا"
+    },
+    "eg": {
+      "name": "مصر"
+    },
+    "eh": {
+      "name": "الصحراء الغربية"
+    },
+    "uy": {
+      "name": "أورجواي"
+    },
+    "uz": {
+      "name": "أوزبكستان"
+    },
+    "va": {
+      "name": "الفاتيكان"
+    },
+    "er": {
+      "name": "اريتريا"
+    },
+    "vc": {
+      "name": "سانت فينسنت والغرينادين"
+    },
+    "es": {
+      "name": "أسبانيا"
+    },
+    "et": {
+      "name": "اثيوبيا"
+    },
+    "ve": {
+      "name": "فنزويلا"
+    },
+    "vg": {
+      "name": "جزر العذراء البريطانية"
+    },
+    "vi": {
+      "name": "جزر العذراء الأمريكية"
+    },
+    "vn": {
+      "name": "فيتنام"
+    },
+    "vu": {
+      "name": "فانواتو"
+    },
+    "fi": {
+      "name": "فنلندا"
+    },
+    "fj": {
+      "name": "فيجي"
+    },
+    "fk": {
+      "name": "جزر فوكلاند"
+    },
+    "fm": {
+      "name": "ميكرونيزيا"
+    },
+    "fo": {
+      "name": "جزر فارو"
+    },
+    "fr": {
+      "name": "فرنسا"
+    },
+    "wf": {
+      "name": "والس وفوتونا"
+    },
+    "ga": {
+      "name": "الجابون"
+    },
+    "gb": {
+      "name": "المملكة المتحدة"
+    },
+    "ws": {
+      "name": "ساموا"
+    },
+    "gd": {
+      "name": "جرينادا"
+    },
+    "ge": {
+      "name": "جورجيا"
+    },
+    "gf": {
+      "name": "غويانا"
+    },
+    "gg": {
+      "name": "جيرنزي"
+    },
+    "gh": {
+      "name": "غانا"
+    },
+    "gi": {
+      "name": "جبل طارق"
+    },
+    "gl": {
+      "name": "جرينلاند"
+    },
+    "gm": {
+      "name": "غامبيا"
+    },
+    "gn": {
+      "name": "غينيا"
+    },
+    "gp": {
+      "name": "جوادلوب"
+    },
+    "gq": {
+      "name": "غينيا الاستوائية"
+    },
+    "gr": {
+      "name": "اليونان"
+    },
+    "gs": {
+      "name": "جورجيا الجنوبية وجزر ساندويتش الجنوبية"
+    },
+    "gt": {
+      "name": "جواتيمالا"
+    },
+    "gu": {
+      "name": "جوام"
+    },
+    "gw": {
+      "name": "غينيا بيساو"
+    },
+    "gy": {
+      "name": "غيانا"
+    },
+    "hk": {
+      "name": "هونغ كونغ"
+    },
+    "hm": {
+      "name": "جزيرة هيرد وجزر ماكدونالد"
+    },
+    "hn": {
+      "name": "هندوراس"
+    },
+    "hr": {
+      "name": "كرواتيا"
+    },
+    "ht": {
+      "name": "هايتي"
+    },
+    "ye": {
+      "name": "اليمن"
+    },
+    "hu": {
+      "name": "المجر"
+    },
+    "id": {
+      "name": "اندونيسيا"
+    },
+    "yt": {
+      "name": "مايوت"
+    },
+    "ie": {
+      "name": "أيرلندا"
+    },
+    "il": {
+      "name": "اسرائيل"
+    },
+    "im": {
+      "name": "جزيرة مان"
+    },
+    "in": {
+      "name": "الهند"
+    },
+    "io": {
+      "name": "إقليم المحيط الهندي البريطاني"
+    },
+    "za": {
+      "name": "جنوب أفريقيا"
+    },
+    "iq": {
+      "name": "العراق"
+    },
+    "ir": {
+      "name": "ايران"
+    },
+    "is": {
+      "name": "أيسلندا"
+    },
+    "it": {
+      "name": "ايطاليا"
+    },
+    "zm": {
+      "name": "زامبيا"
+    },
+    "je": {
+      "name": "جيرسي"
+    },
+    "zw": {
+      "name": "زيمبابوي"
+    },
+    "jm": {
+      "name": "جامايكا"
+    },
+    "jo": {
+      "name": "الأردن"
+    },
+    "jp": {
+      "name": "اليابان"
+    },
+    "ke": {
+      "name": "كينيا"
+    },
+    "kg": {
+      "name": "قرغيزستان"
+    },
+    "kh": {
+      "name": "كمبوديا"
+    },
+    "ki": {
+      "name": "كيريباتي"
+    },
+    "km": {
+      "name": "جزر القمر"
+    },
+    "kn": {
+      "name": "سانت كيتس ونيفيس"
+    },
+    "kp": {
+      "name": "كوريا الشمالية"
+    },
+    "kr": {
+      "name": "كوريا الجنوبية"
+    },
+    "kw": {
+      "name": "الكويت"
+    },
+    "ky": {
+      "name": "جزر كايمان"
+    },
+    "kz": {
+      "name": "كازاخستان"
+    },
+    "la": {
+      "name": "لاوس"
+    },
+    "lb": {
+      "name": "لبنان"
+    },
+    "lc": {
+      "name": "سانت لوسيا"
+    },
+    "li": {
+      "name": "ليختنشتاين"
+    },
+    "lk": {
+      "name": "سريلانكا"
+    },
+    "lr": {
+      "name": "ليبيريا"
+    },
+    "ls": {
+      "name": "ليسوتو"
+    },
+    "lt": {
+      "name": "ليتوانيا"
+    },
+    "lu": {
+      "name": "لوكسمبورج"
+    },
+    "lv": {
+      "name": "لاتفيا"
+    },
+    "ly": {
+      "name": "ليبيا"
+    },
+    "ma": {
+      "name": "المغرب"
+    },
+    "mc": {
+      "name": "موناكو"
+    },
+    "md": {
+      "name": "مولدافيا"
+    },
+    "me": {
+      "name": "الجبل الأسود"
+    },
+    "mf": {
+      "name": "تجمع سان مارتين"
+    },
+    "mg": {
+      "name": "مدغشقر"
+    },
+    "mh": {
+      "name": "جزر مارشال"
+    },
+    "mk": {
+      "name": "مقدونيا"
+    },
+    "ml": {
+      "name": "مالي"
+    },
+    "mm": {
+      "name": "ميانمار"
+    },
+    "mn": {
+      "name": "منغوليا"
+    },
+    "mo": {
+      "name": "ماكاو"
+    },
+    "mp": {
+      "name": "جزر ماريانا الشمالية"
+    },
+    "mq": {
+      "name": "مارتينيك"
+    },
+    "mr": {
+      "name": "موريتانيا"
+    },
+    "ms": {
+      "name": "مونتسرات"
+    },
+    "mt": {
+      "name": "مالطا"
+    },
+    "mu": {
+      "name": "موريشيوس"
+    },
+    "mv": {
+      "name": "جزر المالديف"
+    },
+    "mw": {
+      "name": "ملاوي"
+    },
+    "mx": {
+      "name": "المكسيك"
+    },
+    "my": {
+      "name": "ماليزيا"
+    },
+    "mz": {
+      "name": "موزمبيق"
+    },
+    "na": {
+      "name": "ناميبيا"
+    },
+    "nc": {
+      "name": "كاليدونيا الجديدة"
+    },
+    "ne": {
+      "name": "النيجر"
+    },
+    "nf": {
+      "name": "جزيرة نورفولك"
+    },
+    "ng": {
+      "name": "نيجيريا"
+    },
+    "ni": {
+      "name": "نيكاراجوا"
+    },
+    "nl": {
+      "name": "هولندا"
+    },
+    "no": {
+      "name": "النرويج"
+    },
+    "np": {
+      "name": "نيبال"
+    },
+    "nr": {
+      "name": "نورو"
+    },
+    "nu": {
+      "name": "نيوي"
+    },
+    "nz": {
+      "name": "نيوزيلاندا"
+    },
+    "om": {
+      "name": "عمان"
+    },
+    "pa": {
+      "name": "بنما"
+    },
+    "pe": {
+      "name": "بيرو"
+    },
+    "pf": {
+      "name": "بولينزيا الفرنسية"
+    },
+    "pg": {
+      "name": "بابوا غينيا الجديدة"
+    },
+    "ph": {
+      "name": "الفيلبين"
+    },
+    "pk": {
+      "name": "باكستان"
+    },
+    "pl": {
+      "name": "بولندا"
+    },
+    "pm": {
+      "name": "سان بيير وميكلون"
+    },
+    "pn": {
+      "name": "بتكايرن"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "جوائز من أجل الامتياز في بلوغ أهداف Agora التعلمية ضمن برنامج Agora التعليمي",
+        "title": "جوائز تعليمية"
+      },
+      "social": {
+        "help": "جوائز تعترف بتأثيرك الإيجابي في المجتمع",
+        "title": "جائزة التأثير في المجتمع"
+      },
+      "operational": {
+        "help": "جوائز التميز في إدارة الأندية وتأسيسها",
+        "title": "الامتياز في تدبير النادي"
+      },
+      "community": {
+        "help": "جوائز مقابل المساعدات على تنمية وتقوية مجتمع Agora",
+        "title": "جوائز مجتمع Agora"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "بحث",
+      "register": "تسجيل"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "تنظيم حدث Agora محلي أو دولي بنجاح",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "منظم الحدث"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "قائد مؤهل"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "متحدث مؤهل"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "جائزة التأطير"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "الفوز بمنافسة Agora Speakers",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "الفائز بالمنافسة"
+        },
+        "third": {
+          "help": "الحلول ثالثا في منافسة Agora Speakers",
+          "image": "awards.individual.contest.third.svg",
+          "title": "منافسة، المركز 3"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "تنظيم منافسات Agora بنجاح",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "منظم المنافسات"
+        },
+        "participant": {
+          "help": "المشاركة في منافسة Agora Speakers",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "شهادة المشاركة"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "الحلول في المركز الثاني في منافسات Agora Speakers",
+          "image": "awards.individual.contest.second.svg",
+          "title": "منافسة، المركز 2"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "أكثر تحسن ملحوظ",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "جائزة التقدم التربوي"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "جائزة التواصل الخارجي"
+      },
+      "community": {
+        "leadership": {
+          "help": "التنفيذ المتميز للمشاريع المجتمعية",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "جائزة قيادة المجتمع"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "جائزة التميز والالتزام برسالة Agora",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "جائزة السفير الخاصة بالعضو المتميز"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "جائزة التميز الخاصة"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "قائد متمكن"
+        },
+        "communicator": "متواصل متمكن"
+      },
+      "help": {
+        "help": "الالتزام المتواصل بنجاح النادي",
+        "image": "awards.individual.help.svg",
+        "title": "جائزة التفاني في نجاح النادي"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "تمكن من مسار وسائل البث الإعلامي"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "تمكن من مسار المهارات الإقناعية"
+              }
+            },
+            "pr": {
+              "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "تمكن من مسار العلاقات العامة"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "تمكن من الخطابات في المناسبات الخاصة"
+              }
+            },
+            "storytelling": {
+              "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "تمكن من فن الحكاية"
+            },
+            "educational": {
+              "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "تمكن من المسار التعليمي"
+            },
+            "business": {
+              "contexts": {
+                "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "تمكن من مسار الأعمال"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "تمكن من مسار التفكير النقدي"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "تمكن من مسار رغم كل الصعاب"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "تمكن من المسار المقاولاتي"
+            },
+            "project": {
+              "management": {
+                "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "تمكن من مسار مدير مشروع"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "تمكن من مسار احتراف المهارات الشخصية"
+              }
+            },
+            "dramatization": {
+              "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "تمكن من مسار الدراما"
+            },
+            "humorous": {
+              "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "تمكن من المسار الفكاهي"
+            },
+            "leadership": {
+              "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "قائد متمكن"
+            },
+            "negotiation": {
+              "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "تمكن من مسار المفاوضة"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "إتمام المسار التعليمي المتقدم {{v0}} بنجاح",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "تمكن من فن الحكاية البصرية"
+              }
+            }
+          },
+          "title": "المتحدث المتكامل"
+        },
+        "communicator": {
+          "help": "إتمام المسار التواصلي بأكمله بنجاح",
+          "image": "awards.individual.accomplished.communicator.svg"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "قائد النادي"
+        },
+        "founder": {
+          "help": "تأسيس نادي Agora بنجاح",
+          "image": "awards.individual.club.founder.svg",
+          "title": "مؤسس النادي"
+        },
+        "officer": {
+          "help": "قيادة النادي بنجاح لسنة واحدة",
+          "image": "awards.individual.club.officer.svg",
+          "title": "قيادة النادي"
+        },
+        "growth": {
+          "help": "التميز في تأطير وإنجاز أندية Agora في البلد",
+          "image": "awards.individual.club.growth.svg",
+          "title": "جائزة تطور النادي"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "عضوية متواصلة في النادي ل 5 سنوات",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "جائزة الذكرى"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "جائزة عضو الشهر"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "الحضور المتواصل والنشاط في اللقاءات",
+        "image": "awards.individual.attendance.svg",
+        "title": "جائزة الالتزام"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "جائزة مجدد Agora"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "حامل مشعل Agora"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "جائزة المروج ل Agora"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "جائزة مستضيف الحدث"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "جائزة النادي الأقدم في البلد"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "جائزة التميزالتعليمي"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "جائزة التواصل التعليمي"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "جائزة النادي الأقدم في المدينة"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "جائزة التواصل المتميز"
+        }
+      },
+      "media": {
+        "help": "التميز في الترويج لمهمة Agora ولأنشتطتها في الإعلام",
+        "image": "awards.club.media.svg",
+        "title": "جائزة التميز الإعلامي"
+      },
+      "membership": {
+        "growth": "جائزة تطور العضوية",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "جائزة الاحتفاظ بالأعضاء"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "التنفيذ المتميز للمشاريع المجتمعية",
+          "image": "awards.club.community.leadership.svg",
+          "title": "جائزة قيادة المجتمع"
+        }
+      },
+      "content": {
+        "help": "التميز في إنجاز محتويات تجديدية من أجل مجتمع Agora.",
+        "image": "awards.club.content.svg",
+        "title": "جائزة إنجاز المحتويات"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "جائزة النادي المجدد"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "جائزة التميز الخاصة"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "جائز السفير"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "جائزة تأطير النادي"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "جائزة نادي الشهر"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "رضا الأعضاء عن النادي يتجاوز 90%",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "الجائزة الذهبية لرضا الأعضاء"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "رضا الأعضاء عن النادي يتجاوز 75%",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "الجائزة الفضية لرضا الأعضاء"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "جائزة رضا أعضاء النادي"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "تطور العضوية بما يفوق 20 عضوا",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "الجائزة الذهبية لتطور العضوية"
+          }
+        },
+        "anniversary": {
+          "help": "العمل الناجح والمستمر للنادي خلال عشر سنوات",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "جائزة الذكرى الذهبية"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "جائزة النادي النموذجي"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "تطور العضوية بما يفوق 10 أعضاء",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "الجائزة الفضية لتطور عضوية النادي"
+          }
+        },
+        "anniversary": {
+          "help": "العمل الناجح والمستمر للنادي خلال خمس سنوات",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "جائزة الذكرى الفضية"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "جائزة عيد ميلاد النادي - {{v0}} سنوات"
+      }
+    },
+    "place": {
+      "participation": "كيف أتعلم وأتطور؟"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "أفضل من يلقي ويطرح الأسئلة في فقرة الآراء المتضاربة في اللقاء",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "أفضل مشارك في فقرة الآراء المتضاربة"
+        },
+        "survivor": {
+          "help": "النجاة من فقرة الآراء المتضاربة في اللقاء",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "الناجي من فقرة الآراء المتضاربة"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "أفضل ملقي ومقدم أسئلة في الندوة",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "أفضل مشارك في الندوة"
+        },
+        "role": {
+          "help": "تنفيذ الدور في اللقاء بأفضل طريقة ممكنة",
+          "image": "awards.meeting.best.role.svg",
+          "title": "أفضل دور في اللقاء"
+        },
+        "speaker": {
+          "help": "أفضل إلقاء للخطابات المعدة في لقاء النادي",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "أفضل متحدث في اللقاء"
+        },
+        "hot": {
+          "response": {
+            "help": "أفضل إلقاء للخطابات المرتجلة في لقاء النادي",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "أفضل متحدث مرتجل في اللقاء"
+          }
+        },
+        "speechwriter": {
+          "help": "إنجاز أفضل خطاب في اللقاء",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "أفضل كاتب لخطابات اللقاء"
+        },
+        "evaluator": {
+          "help": "تقديم أفضل تقييم للقاء النادي",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "أفضل مقيم للقاء"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "مؤسسة Agora Speakers International Foundation هي منطمة أوربية، خيرية وعلمانية والتي تسعى إلى تمكين الناس حتى يصيروا متواصلين فعالين وقادة واثقين من أنفسهم وحتى يسهموا في تغيير العالم."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "آخر"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "تاريخ",
+      "country": "بلد",
+      "address": "عنوان",
+      "city": "مدينة",
+      "awards": "تم ربح الجائزة",
+      "state": "ولاية/ عمالة/ إقليم، إلخ.",
+      "event": "حدث",
+      "region": "منطقة",
+      "points": {
+        "total": "النقاط التي تم ربحها (المجموع)",
+        "year": "النقاط التي تم ربحها (هذه السنة)",
+        "name": "نقاط"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "يرجى تحديد اللغة أو اللغات التي ستستخدم في النادي (مثل: الإنجليزية)"
+      },
+      "charter": {
+        "date": "تاريخ التأسيس",
+        "help": "يجب أن يكون تاريخ التأسيس في المستقبل، على أن لا يتجاوز الأجل ثلاثين يوما"
+      },
+      "founder": {
+        "name": "مؤسس النادي (الاسم الكامل)",
+        "email": "بريد المؤسس الإلكتروني"
+      },
+      "fee": {
+        "title": "رسم عضوية النادي (إن وجد)"
+      },
+      "banner": "لافتة",
+      "restrictions": {
+        "guests": {
+          "input": "يرجي وصف نوع القيود التي سيتم فرضها من أجل الحضور كضيف للنادي (إن وجدت)"
+        },
+        "membership": {
+          "input": "يرجى وضف نوع القيود الموضوعة من أجل الانضمام إلى النادي كعضو (إن وجدت). إذا كنت ترغب في تسجيل نادي خاص بالشباب، فيرجى تحديد الفئة العمرية."
+        }
+      },
+      "type": {
+        "help": "تجدون مزيدا من المعلومات حول أنواع النوادي المختلفة هنا.",
+        "input": "نوع النادي"
+      },
+      "points": {
+        "date": "تاريخ النشاط",
+        "action": "نشاط النادي"
+      },
+      "token": "قسيمة النادي السرية",
+      "number": "عضو النادي",
+      "assets": "أصول النادي",
+      "awards": "جوائز النادي",
+      "contact": {
+        "help": {
+          "1": "معلومات الاتصال بالنادي. يجب أن تكون عبارة عن عنوان بريد إلكتروني أو رقم هاتف",
+          "2": "معلومات اتصال إضافية خاصة بالنادي - يجب أن تكون مختلفة عن المعلومات السابقة، ويمكن أن تكون بريد إلكتروني / هاتف آخر، أو صفحة على الإنترنت، مجموعة فيسبوك، مجموعة ميت آب، إلخ."
+        },
+        "title": "معلومات الاتصال"
+      },
+      "name": "اسم النادي",
+      "logo": {
+        "title": "يمكنك تنزيل اللوغو خاصتك. إذا لم تكن تتوفر على واحد، فإننا سنعمل على توليد واحد من أجل ناديك بشكل تلقائي."
+      },
+      "meeting": {
+        "schedule": "رزنامة اللقاء",
+        "info": "معلومات إضافية"
+      }
+    },
+    "personal": {
+      "participation": {
+        "input": "ما نوع المشاركة التي ترغب فيها؟",
+        "online": "لقاء مباشر عبر الإنترنت",
+        "physical": "لقاءات حضورية"
+      },
+      "languages": {
+        "interested": "ما هي اللغات التي تثير اهتمامك"
+      },
+      "joined": "تاريخ الانضمام",
+      "facebook": "رابط بروفايل فيسبوك",
+      "roles": {
+        "date": "تاريخ",
+        "role": "دور",
+        "taken": "الأدوار التي تم إسنادها",
+        "club": "نادي"
+      },
+      "speeches": {
+        "persuasive": "الخطابات الإقناعية",
+        "general": "خطابات ذات أهداف عامة",
+        "storytelling": "منافسات خطاب الحكاية",
+        "educational": "تعليمية",
+        "business": "عروض خاصة بالأعمال",
+        "interested": "ما نوع العروض أو الخطابات التي ترغب في تعلمها؟",
+        "media": "إنتاج مدونات الفيديو والإعلام",
+        "sales": "المبيعات",
+        "humorous": "خطابات فكاهية وهزلية"
+      },
+      "privacy": "أوافق على شروط وأحكام هذا الموقع، وأوافق أيضا على سياسة الخصوصية الخاصة ب Agora Speakers International",
+      "history": {
+        "date": "تاريخ",
+        "club": "اسم النادي",
+        "event": "حدث"
+      },
+      "linkedin": "رابط بروفايل لينكدين",
+      "skills": "من بين المهارات التالية، ماهي المهارات التي تسعى إلى تطويرها؟",
+      "number": "رقم العضو",
+      "password": {
+        "input": "كلمة مرور",
+        "verify": "يرجى تكرار كلمة المرور من أجل التحقق"
+      },
+      "clubs": {
+        "role": "دور"
+      },
+      "name": {
+        "address": {
+          "help": "كيف يمكننا مخاطبتك في مراسلاتنا (رسائل البريد الإلكتروني التي نرسلها لك، على سبيل المثال)",
+          "field": "الاسم المفضل من أجل التواصل:"
+        },
+        "certificates": {
+          "help": "كيف ترغب في أن يظهر اسمك على الشهادات والجوائد التي تحصل عليها؟",
+          "input": "الاسم المفضل من أجل الشهادات"
+        },
+        "online": {
+          "help": "كيف ترغب في أن يظهر اسمك في الأنظمة على الإنترنت، الندوات، إلخ؟",
+          "input": "الاسم المفضل لديك في اللقاءات المباشرة"
+        },
+        "full": "الاسم الكامل"
+      },
+      "principles": {
+        "agreement": "المرجو تأكيد موافقتك على مبادئنا الأساسية"
+      },
+      "position": "الوضعية الحالية في النادي",
+      "interests": {
+        "11": {
+          "language": "أرغب في تطوير مهاراتي في اللغات الأجنبية"
+        },
+        "01": {
+          "curious": "إنه فقط الفضول حول هذه المنظمة"
+        },
+        "12": {
+          "contests": "أنا مهتم بالتنافس في المنافسات التي تنظمها Agora Speakers International"
+        },
+        "02": {
+          "confidence": "أرغب في تطوير مستوى ثقتي بنفسي"
+        },
+        "13": {
+          "critical": "أنا مهتم بتعلم كيفية التفكير بشكل نقدي"
+        },
+        "03": {
+          "communicate": "أرغب في تعلم التواصل بشكل فعال"
+        },
+        "14": {
+          "friends": "أنا مهتم بملاقاة الناس جدد وتكوين صداقات جديدة"
+        },
+        "04": {
+          "speak": "أرغب في تطوير مهاراتي في الخطابة العامة"
+        },
+        "15": {
+          "cooperation": "انا مهتم بأنشطة التبادل والتعاون الثقافي"
+        },
+        "question": "ما الذي يثير اهتمامك ب Agora Speakers International",
+        "05": {
+          "leadership": "ارغب في تطوير مهاراتي في القيادة"
+        },
+        "16": {
+          "startclub": "أرغب في تأسيس نادي Agora في مدينتي"
+        },
+        "06": {
+          "networking": "أنا مهتم بالتشبيك المهني"
+        },
+        "17": {
+          "ambassador": "أرغب في أن أصير سفير Agora في بلدي"
+        },
+        "07": {
+          "presentations": "أرغب في تعلم إلقاء عروض في مجال الأعمال"
+        },
+        "18": {
+          "partnership": "أطمح إلى إبرام شراكة بين منظمتي وبين Agora Speakers International"
+        },
+        "08": {
+          "events": "أنا مهتم بالورشات، الندوات والأحداث التي تنظمونها"
+        },
+        "09": {
+          "debating": "أنا مهتم بالنقاش والحجاج"
+        },
+        "10": {
+          "community": "أنا مهتم بإحداث فرق في مجتمعي"
+        }
+      },
+      "email": "بريد إلكتروني"
+    },
+    "meeting": {
+      "date": "تاريخ اللقاء",
+      "number": "رقم اللقاء",
+      "venue": {
+        "name": "اسم فضاء اللقاء"
+      },
+      "address": {
+        "input": "عنوان فضاء اللقاء"
+      },
+      "online": {
+        "software": "برنام اللقاء",
+        "link": "رابط الدخول إلى اللقاء",
+        "id": "تعريف اللقاءات عن بعد",
+        "title": "معلومات خاصة باللقاءات عن بعد",
+        "passowrd": "كلمة السر من أجل الدخول إلى اللقاء"
+      },
+      "theme": "موضوعة اللقاء (إن وجدت)",
+      "time": "توقيت اللقاء"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) حقوق التأليف الخاصة ب Copyright Agora Speakers International. كل الحقوق محفوظة. مواد وأصول  Agora لا يمكن أن تستخدم إلا بتوافق مع شروط الاستخدام الخاصة بنا."
+    },
+    "terms": "شروط الاستخدام",
+    "legal": {
+      "notice": "معطيات قانونية"
+    },
+    "privacy": {
+      "policy": "سياسة الخصوصية"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "الهندية",
+      "ps": "البشتو",
+      "pt": "البرتغالية",
+      "hr": "الكرواتية",
+      "pt_br": "Brazilian",
+      "hu": "الهنغارية",
+      "yi": "اليديشية",
+      "hy": "الأرمنية",
+      "yo": "اليوروبا",
+      "ia": "اللّغة الوسيطة",
+      "id": "الإندونيسية",
+      "ig": "الإيجبو",
+      "ii": "السيتشيون يي",
+      "qu": "الكويتشوا",
+      "af": "الأفريقانية",
+      "ak": "الأكانية",
+      "is": "الأيسلندية",
+      "it": "الإيطالية",
+      "am": "الأمهرية",
+      "zh": "الصينية",
+      "ar": "العربية",
+      "as": "الأسامية",
+      "ja": "اليابانية",
+      "az": "الأذربيجانية",
+      "rm": "الرومانشية",
+      "zu": "الزولو",
+      "rn": "الرندي",
+      "ro": "الرومانية",
+      "be": "البيلاروسية",
+      "ru": "الروسية",
+      "bg": "البلغارية",
+      "rw": "الكينيارواندا",
+      "bm": "البامبارا",
+      "bn": "البنغالية",
+      "jv": "الجاوية",
+      "bo": "التبتية",
+      "sa": "السنسكريتية",
+      "br": "البريتونية",
+      "bs": "البوسنية",
+      "sd": "السندية",
+      "se": "سامي الشمالية",
+      "sg": "السانجو",
+      "sh": "صربية-كرواتية",
+      "ka": "الجورجية",
+      "si": "السنهالية",
+      "sk": "السلوفاكية",
+      "sl": "السلوفانية",
+      "sn": "الشونا",
+      "so": "الصومالية",
+      "ca": "الكتالانية",
+      "ki": "الكيكيو",
+      "sq": "الألبانية",
+      "sr": "الصربية",
+      "kk": "الكازاخستانية",
+      "kl": "الكالاليست",
+      "ce": "الشيشانية",
+      "km": "الخميرية",
+      "su": "السوندانية",
+      "kn": "الكانادا",
+      "sv": "السويدية",
+      "ko": "الكورية",
+      "sw": "السواحلية",
+      "ks": "الكشميرية",
+      "ku": "الكردية",
+      "kw": "الكورنية",
+      "ta": "التاميلية",
+      "ky": "القيرغيزية",
+      "cs": "التشيكية",
+      "te": "التيلوغوية",
+      "tg": "الطاجيكية",
+      "th": "التايلاندية",
+      "ti": "التغرينية",
+      "cy": "الويلزية",
+      "lb": "اللكسمبورغية",
+      "tk": "التركمانية",
+      "tl": "التاغالوغية",
+      "lg": "الغاندا",
+      "to": "التونغية",
+      "da": "الدانمركية",
+      "tr": "التركية",
+      "tt": "التترية",
+      "de": "الألمانية",
+      "ln": "اللينجالا",
+      "lo": "اللاوية",
+      "lt": "الليتوانية",
+      "lu": "اللوبا كاتانغا",
+      "lv": "اللاتفية",
+      "ug": "الأويغورية",
+      "dz": "الزونخاية",
+      "uk": "الأوكرانية",
+      "mg": "الملغاشي",
+      "mi": "الماورية",
+      "ur": "الأوردية",
+      "mk": "المقدونية",
+      "ml": "المالايالامية",
+      "ee": "الإيوي",
+      "mn": "المنغولية",
+      "mr": "الماراثية",
+      "uz": "الأوزبكية",
+      "ms": "الماليزية",
+      "el": "اليونانية",
+      "mt": "المالطية",
+      "en": "الإنجليزية",
+      "eo": "الإسبرانتو",
+      "my": "البورمية",
+      "es": "الإسبانية",
+      "et": "الإستونية",
+      "eu": "الباسكية",
+      "vi": "الفيتنامية",
+      "nb": "النرويجية بوكمال",
+      "nd": "النديبيل الشمالية",
+      "ne": "النيبالية",
+      "fa": "الفارسية",
+      "nl": "الهولندية",
+      "ff": "الفولانية",
+      "nn": "النرويجية نينورسك",
+      "no": "النرويجية",
+      "fi": "الفنلندية",
+      "fo": "الفاروية",
+      "fr": "الفرنسية",
+      "fy": "الفريزيان",
+      "wo": "الولوفية",
+      "ga": "الأيرلندية",
+      "gd": "الغيلية الأسكتلندية",
+      "om": "الأورومية",
+      "or": "الأورية",
+      "os": "الأوسيتيك",
+      "gl": "الجاليكية",
+      "gu": "الغوجاراتية",
+      "gv": "المنكية",
+      "xh": "الخوسا",
+      "pa": "البنجابية",
+      "ha": "الهوسا",
+      "pl": "البولندية",
+      "he": "العبرية"
+    },
+    "full": {
+      "hi": "الهندية (हिन्दी)",
+      "ps": "البشتو (پښتو)",
+      "pt": "البرتغالية (Português)",
+      "hr": "الكرواتية (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "الهنغارية (Magyar)",
+      "yi": "اليديشية (ייִדיש)",
+      "hy": "الأرمنية (Հայերեն)",
+      "yo": "اليوروبا (Èdè Yorùbá)",
+      "ia": "اللّغة الوسيطة (Interlingua)",
+      "id": "الإندونيسية (Indonesia)",
+      "ig": "الإيجبو (Igbo)",
+      "ii": "السيتشيون يي (ꆈꌠꉙ)",
+      "qu": "الكويتشوا (Runasimi)",
+      "af": "الأفريقانية (Afrikaans)",
+      "ak": "الأكانية (Akan)",
+      "is": "الأيسلندية (Íslenska)",
+      "it": "الإيطالية (Italiano)",
+      "am": "الأمهرية (አማርኛ)",
+      "zh": "الصينية (中文)",
+      "ar": "العربية (العربية)",
+      "as": "الأسامية (অসমীয়া)",
+      "ja": "اليابانية (日本語)",
+      "az": "الأذربيجانية (Azərbaycan)",
+      "rm": "الرومانشية (Rumantsch)",
+      "zu": "الزولو (IsiZulu)",
+      "rn": "الرندي (Ikirundi)",
+      "ro": "الرومانية (Română)",
+      "be": "البيلاروسية (Беларуская)",
+      "ru": "الروسية (Русский)",
+      "bg": "البلغارية (Български)",
+      "rw": "الكينيارواندا (Kinyarwanda)",
+      "bm": "البامبارا (Bamanakan)",
+      "bn": "البنغالية (বাংলা)",
+      "jv": "الجاوية (Jawa)",
+      "bo": "التبتية (བོད་སྐད་)",
+      "sa": "السنسكريتية (संस्कृत भाषा)",
+      "br": "البريتونية (Brezhoneg)",
+      "bs": "البوسنية (Bosanski)",
+      "sd": "السندية (سنڌي)",
+      "se": "سامي الشمالية (Davvisámegiella)",
+      "sg": "السانجو (Sängö)",
+      "sh": "صربية-كرواتية (Srpskohrvatski)",
+      "ka": "الجورجية (ქართული)",
+      "si": "السنهالية (සිංහල)",
+      "sk": "السلوفاكية (Slovenčina)",
+      "sl": "السلوفانية (Slovenščina)",
+      "sn": "الشونا (ChiShona)",
+      "so": "الصومالية (Soomaali)",
+      "ca": "الكتالانية (Català)",
+      "ki": "الكيكيو (Gikuyu)",
+      "sq": "الألبانية (Shqip)",
+      "sr": "الصربية (Српски)",
+      "kk": "الكازاخستانية (Қазақ тілі)",
+      "kl": "الكالاليست (Kalaallisut)",
+      "ce": "الشيشانية (Нохчийн)",
+      "km": "الخميرية (ខ្មែរ)",
+      "su": "السوندانية (Basa Sunda)",
+      "kn": "الكانادا (ಕನ್ನಡ)",
+      "sv": "السويدية (Svenska)",
+      "ko": "الكورية (한국어)",
+      "sw": "السواحلية (Kiswahili)",
+      "ks": "الكشميرية (کٲشُر)",
+      "ku": "الكردية (Kurdî)",
+      "kw": "الكورنية (Kernewek)",
+      "ta": "التاميلية (தமிழ்)",
+      "ky": "القيرغيزية (Кыргызча)",
+      "cs": "التشيكية (Čeština)",
+      "te": "التيلوغوية (తెలుగు)",
+      "tg": "الطاجيكية (Тоҷикӣ)",
+      "th": "التايلاندية (ไทย)",
+      "ti": "التغرينية (ትግር)",
+      "cy": "الويلزية (Cymraeg)",
+      "lb": "اللكسمبورغية (Lëtzebuergesch)",
+      "tk": "التركمانية (Türkmen dili)",
+      "tl": "التاغالوغية (Tagalog)",
+      "lg": "الغاندا (Luganda)",
+      "to": "التونغية (Lea fakatonga)",
+      "da": "الدانمركية (Dansk)",
+      "tr": "التركية (Türkçe)",
+      "tt": "التترية (Татар)",
+      "de": "الألمانية (Deutsch)",
+      "ln": "اللينجالا (Lingála)",
+      "lo": "اللاوية (ລາວ)",
+      "lt": "الليتوانية (Lietuvių)",
+      "lu": "اللوبا كاتانغا (Tshiluba)",
+      "lv": "اللاتفية (Latviešu)",
+      "ug": "الأويغورية (ئۇيغۇرچە)",
+      "dz": "الزونخاية (རྫོང་ཁ)",
+      "uk": "الأوكرانية (Українська)",
+      "mg": "الملغاشي (Malagasy)",
+      "mi": "الماورية (Te reo Māori)",
+      "ur": "الأوردية (اردو)",
+      "mk": "المقدونية (Македонски)",
+      "ml": "المالايالامية (മലയാളം)",
+      "ee": "الإيوي (Eʋegbe)",
+      "mn": "المنغولية (Монгол)",
+      "mr": "الماراثية (मराठी)",
+      "uz": "الأوزبكية (O‘zbek)",
+      "ms": "الماليزية (Melayu)",
+      "el": "اليونانية (Ελληνικά)",
+      "mt": "المالطية (Malti)",
+      "en": "الإنجليزية (English)",
+      "eo": "الإسبرانتو (Esperanto)",
+      "my": "البورمية (မြန်မာ)",
+      "es": "الإسبانية (Español)",
+      "et": "الإستونية (Eesti)",
+      "eu": "الباسكية (Euskara)",
+      "vi": "الفيتنامية (Tiếng Việt)",
+      "nb": "النرويجية بوكمال (Norsk bokmål)",
+      "nd": "النديبيل الشمالية (IsiNdebele)",
+      "ne": "النيبالية (नेपाली)",
+      "fa": "الفارسية (فارسی)",
+      "nl": "الهولندية (Nederlands)",
+      "ff": "الفولانية (Pulaar)",
+      "nn": "النرويجية نينورسك (Norsk nynorsk)",
+      "no": "النرويجية (Norsk)",
+      "fi": "الفنلندية (Suomi)",
+      "fo": "الفاروية (Føroyskt)",
+      "fr": "الفرنسية (Français)",
+      "fy": "الفريزيان (Frysk)",
+      "wo": "الولوفية (Wolof)",
+      "ga": "الأيرلندية (Gaeilge)",
+      "gd": "الغيلية الأسكتلندية (Gàidhlig)",
+      "om": "الأورومية (Oromoo)",
+      "or": "الأورية (ଓଡ଼ିଆ)",
+      "os": "الأوسيتيك (Ирон)",
+      "gl": "الجاليكية (Galego)",
+      "gu": "الغوجاراتية (ગુજરાતી)",
+      "gv": "المنكية (Gaelg)",
+      "xh": "الخوسا (IsiXhosa)",
+      "pa": "البنجابية (ਪੰਜਾਬੀ)",
+      "ha": "الهوسا (Hausa)",
+      "pl": "البولندية (Polski)",
+      "he": "العبرية (עברית)"
+    }
+  }
+}

@@ -1,0 +1,1992 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "Referans Kulüp",
+      "corporate": "Kurumsal Kulüp",
+      "restricted": "Kısıtlı Kulüp",
+      "term": "Agora Kulüp",
+      "pic": "Kamu Yararı Kulübü",
+      "open": "Umumi Kulüp"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "Porto Riko"
+    },
+    "ps": {
+      "name": "Filistin Bölgesi"
+    },
+    "pt": {
+      "name": "Portekiz"
+    },
+    "pw": {
+      "name": "Palau"
+    },
+    "py": {
+      "name": "Paraguay"
+    },
+    "qa": {
+      "name": "Katar"
+    },
+    "ad": {
+      "name": "Andorra"
+    },
+    "ae": {
+      "name": "Birleşik Arap Emirlikleri"
+    },
+    "af": {
+      "name": "Afganistan"
+    },
+    "ag": {
+      "name": "Antigua ve Barbuda"
+    },
+    "ai": {
+      "name": "Anguilla"
+    },
+    "al": {
+      "name": "Arnavutluk"
+    },
+    "am": {
+      "name": "Ermenistan"
+    },
+    "ao": {
+      "name": "Angola"
+    },
+    "aq": {
+      "name": "Antarktika"
+    },
+    "ar": {
+      "name": "Arjantin"
+    },
+    "as": {
+      "name": "Amerikan Samoası"
+    },
+    "at": {
+      "name": "Avusturya"
+    },
+    "re": {
+      "name": "Reunion"
+    },
+    "au": {
+      "name": "Avustralya"
+    },
+    "aw": {
+      "name": "Aruba"
+    },
+    "ax": {
+      "name": "Aland Adaları"
+    },
+    "az": {
+      "name": "Azerbaycan"
+    },
+    "ro": {
+      "name": "Romanya"
+    },
+    "ba": {
+      "name": "Bosna Hersek"
+    },
+    "bb": {
+      "name": "Barbados"
+    },
+    "rs": {
+      "name": "Sırbistan"
+    },
+    "bd": {
+      "name": "Bangladeş"
+    },
+    "be": {
+      "name": "Belçika"
+    },
+    "ru": {
+      "name": "Rusya Federasyonu"
+    },
+    "bf": {
+      "name": "Burkina Faso"
+    },
+    "bg": {
+      "name": "Bulgaristan"
+    },
+    "rw": {
+      "name": "Ruanda"
+    },
+    "bh": {
+      "name": "Bahreyn"
+    },
+    "bi": {
+      "name": "Burundi"
+    },
+    "bj": {
+      "name": "Benin"
+    },
+    "bl": {
+      "name": "Saint Barthelemy"
+    },
+    "bm": {
+      "name": "Bermuda"
+    },
+    "bn": {
+      "name": "Brunei"
+    },
+    "bo": {
+      "name": "Bolivya"
+    },
+    "sa": {
+      "name": "Suudi Arabistan"
+    },
+    "bq": {
+      "name": "Bonaire, Sint Eustatius ve Saba"
+    },
+    "sb": {
+      "name": "Solomon Adaları"
+    },
+    "br": {
+      "name": "Brezilya"
+    },
+    "sc": {
+      "name": "Seyşel Adaları"
+    },
+    "bs": {
+      "name": "Bahamalar"
+    },
+    "sd": {
+      "name": "Sudan"
+    },
+    "bt": {
+      "name": "Bhutan"
+    },
+    "se": {
+      "name": "İsveç"
+    },
+    "bv": {
+      "name": "Bouvet Adası"
+    },
+    "sg": {
+      "name": "Singapur"
+    },
+    "bw": {
+      "name": "Botsvana"
+    },
+    "sh": {
+      "name": "Saint Helena"
+    },
+    "si": {
+      "name": "Slovenya"
+    },
+    "by": {
+      "name": "Beyaz Rusya"
+    },
+    "sj": {
+      "name": "Svalbard ve Jan Mayen"
+    },
+    "bz": {
+      "name": "Belize"
+    },
+    "sk": {
+      "name": "Slovakya"
+    },
+    "sl": {
+      "name": "Sierra Leone"
+    },
+    "sm": {
+      "name": "San Marino"
+    },
+    "sn": {
+      "name": "Senegal"
+    },
+    "so": {
+      "name": "Somali"
+    },
+    "ca": {
+      "name": "Kanada"
+    },
+    "sr": {
+      "name": "Surinam"
+    },
+    "cc": {
+      "name": "Cocos Adaları"
+    },
+    "ss": {
+      "name": "Güney Sudan"
+    },
+    "cd": {
+      "name": "Kongo - Kinşasa"
+    },
+    "st": {
+      "name": "Sao Tome ve Principe"
+    },
+    "cf": {
+      "name": "Orta Afrika Cumhuriyeti"
+    },
+    "sv": {
+      "name": "El Salvador"
+    },
+    "cg": {
+      "name": "Kongo - Brazavil"
+    },
+    "ch": {
+      "name": "İsviçre"
+    },
+    "sx": {
+      "name": "Sint Maarten (Hollanda)"
+    },
+    "ci": {
+      "name": "Fildişi Sahili"
+    },
+    "sy": {
+      "name": "Suriye"
+    },
+    "sz": {
+      "name": "Svaziland"
+    },
+    "ck": {
+      "name": "Cook Adaları"
+    },
+    "cl": {
+      "name": "Şili"
+    },
+    "cm": {
+      "name": "Kamerun"
+    },
+    "cn": {
+      "name": "Çin"
+    },
+    "co": {
+      "name": "Kolombiya"
+    },
+    "cr": {
+      "name": "Kosta Rika"
+    },
+    "tc": {
+      "name": "Turks ve Caicos Adaları"
+    },
+    "td": {
+      "name": "Çad"
+    },
+    "cu": {
+      "name": "Küba"
+    },
+    "tf": {
+      "name": "Fransız Güney Bölgeleri"
+    },
+    "cv": {
+      "name": "Yeşilburun"
+    },
+    "tg": {
+      "name": "Togo"
+    },
+    "cw": {
+      "name": "Curaçao"
+    },
+    "th": {
+      "name": "Tayland"
+    },
+    "cx": {
+      "name": "Christmas Adası"
+    },
+    "cy": {
+      "name": "Güney Kıbrıs Rum Kesimi"
+    },
+    "tj": {
+      "name": "Tacikistan"
+    },
+    "cz": {
+      "name": "Çek Cumhuriyeti"
+    },
+    "tk": {
+      "name": "Tokelau"
+    },
+    "tl": {
+      "name": "Doğu Timor"
+    },
+    "tm": {
+      "name": "Türkmenistan"
+    },
+    "tn": {
+      "name": "Tunus"
+    },
+    "to": {
+      "name": "Tonga"
+    },
+    "tr": {
+      "name": "Türkiye"
+    },
+    "tt": {
+      "name": "Trinidad ve Tobago"
+    },
+    "de": {
+      "name": "Almanya"
+    },
+    "tv": {
+      "name": "Tuvalu"
+    },
+    "tw": {
+      "name": "Tayvan"
+    },
+    "dj": {
+      "name": "Cibuti"
+    },
+    "tz": {
+      "name": "Tanzanya"
+    },
+    "dk": {
+      "name": "Danimarka"
+    },
+    "dm": {
+      "name": "Dominika"
+    },
+    "do": {
+      "name": "Dominik Cumhuriyeti"
+    },
+    "ua": {
+      "name": "Ukrayna"
+    },
+    "ug": {
+      "name": "Uganda"
+    },
+    "dz": {
+      "name": "Cezayir"
+    },
+    "um": {
+      "name": "Amerika Birleşik Devletleri Küçük Dış Adaları"
+    },
+    "ec": {
+      "name": "Ekvador"
+    },
+    "us": {
+      "name": "Amerika Birleşik Devletleri"
+    },
+    "ee": {
+      "name": "Estonya"
+    },
+    "eg": {
+      "name": "Mısır"
+    },
+    "eh": {
+      "name": "Batı Sahara"
+    },
+    "uy": {
+      "name": "Uruguay"
+    },
+    "uz": {
+      "name": "Özbekistan"
+    },
+    "va": {
+      "name": "Vatikan"
+    },
+    "er": {
+      "name": "Eritre"
+    },
+    "vc": {
+      "name": "Saint Vincent ve Grenadinler"
+    },
+    "es": {
+      "name": "İspanya"
+    },
+    "et": {
+      "name": "Etiyopya"
+    },
+    "ve": {
+      "name": "Venezuela"
+    },
+    "vg": {
+      "name": "İngiliz Virgin Adaları"
+    },
+    "vi": {
+      "name": "ABD Virgin Adaları"
+    },
+    "vn": {
+      "name": "Vietnam"
+    },
+    "vu": {
+      "name": "Vanuatu"
+    },
+    "fi": {
+      "name": "Finlandiya"
+    },
+    "fj": {
+      "name": "Fiji"
+    },
+    "fk": {
+      "name": "Falkland Adaları"
+    },
+    "fm": {
+      "name": "Mikronezya Federal Eyaletleri"
+    },
+    "fo": {
+      "name": "Faroe Adaları"
+    },
+    "fr": {
+      "name": "Fransa"
+    },
+    "wf": {
+      "name": "Wallis ve Futuna"
+    },
+    "ga": {
+      "name": "Gabon"
+    },
+    "gb": {
+      "name": "Birleşik Krallık"
+    },
+    "ws": {
+      "name": "Samoa"
+    },
+    "gd": {
+      "name": "Granada"
+    },
+    "ge": {
+      "name": "Gürcistan"
+    },
+    "gf": {
+      "name": "Fransız Guyanası"
+    },
+    "gg": {
+      "name": "Guernsey"
+    },
+    "gh": {
+      "name": "Gana"
+    },
+    "gi": {
+      "name": "Cebelitarık"
+    },
+    "gl": {
+      "name": "Grönland"
+    },
+    "gm": {
+      "name": "Gambiya"
+    },
+    "gn": {
+      "name": "Gine"
+    },
+    "gp": {
+      "name": "Guadalupe"
+    },
+    "gq": {
+      "name": "Ekvator Ginesi"
+    },
+    "gr": {
+      "name": "Yunanistan"
+    },
+    "gs": {
+      "name": "Güney Georgia ve Güney Sandwich Adaları"
+    },
+    "gt": {
+      "name": "Guatemala"
+    },
+    "gu": {
+      "name": "Guam"
+    },
+    "gw": {
+      "name": "Gine-Bissau"
+    },
+    "gy": {
+      "name": "Guyana"
+    },
+    "hk": {
+      "name": "Hong Kong SAR - Çin"
+    },
+    "hm": {
+      "name": "Heard Adası ve McDonald Adaları"
+    },
+    "hn": {
+      "name": "Honduras"
+    },
+    "hr": {
+      "name": "Hırvatistan"
+    },
+    "ht": {
+      "name": "Haiti"
+    },
+    "ye": {
+      "name": "Yemen"
+    },
+    "hu": {
+      "name": "Macaristan"
+    },
+    "id": {
+      "name": "Endonezya"
+    },
+    "yt": {
+      "name": "Mayotte"
+    },
+    "ie": {
+      "name": "İrlanda"
+    },
+    "il": {
+      "name": "İsrail"
+    },
+    "im": {
+      "name": "Man Adası"
+    },
+    "in": {
+      "name": "Hindistan"
+    },
+    "io": {
+      "name": "Hint Okyanusu İngiliz Bölgesi"
+    },
+    "za": {
+      "name": "Güney Afrika"
+    },
+    "iq": {
+      "name": "Irak"
+    },
+    "ir": {
+      "name": "İran"
+    },
+    "is": {
+      "name": "İzlanda"
+    },
+    "it": {
+      "name": "İtalya"
+    },
+    "zm": {
+      "name": "Zambiya"
+    },
+    "je": {
+      "name": "Jersey"
+    },
+    "zw": {
+      "name": "Zimbabve"
+    },
+    "jm": {
+      "name": "Jamaika"
+    },
+    "jo": {
+      "name": "Ürdün"
+    },
+    "jp": {
+      "name": "Japonya"
+    },
+    "ke": {
+      "name": "Kenya"
+    },
+    "kg": {
+      "name": "Kırgızistan"
+    },
+    "kh": {
+      "name": "Kamboçya"
+    },
+    "ki": {
+      "name": "Kiribati"
+    },
+    "km": {
+      "name": "Komorlar"
+    },
+    "kn": {
+      "name": "Saint Kitts ve Nevis"
+    },
+    "kp": {
+      "name": "Kuzey Kore"
+    },
+    "kr": {
+      "name": "Güney Kore"
+    },
+    "kw": {
+      "name": "Kuveyt"
+    },
+    "ky": {
+      "name": "Cayman Adaları"
+    },
+    "kz": {
+      "name": "Kazakistan"
+    },
+    "la": {
+      "name": "Laos"
+    },
+    "lb": {
+      "name": "Lübnan"
+    },
+    "lc": {
+      "name": "Saint Lucia"
+    },
+    "li": {
+      "name": "Liechtenstein"
+    },
+    "lk": {
+      "name": "Sri Lanka"
+    },
+    "lr": {
+      "name": "Liberya"
+    },
+    "ls": {
+      "name": "Lesoto"
+    },
+    "lt": {
+      "name": "Litvanya"
+    },
+    "lu": {
+      "name": "Lüksemburg"
+    },
+    "lv": {
+      "name": "Letonya"
+    },
+    "ly": {
+      "name": "Libya"
+    },
+    "ma": {
+      "name": "Fas"
+    },
+    "mc": {
+      "name": "Monako"
+    },
+    "md": {
+      "name": "Moldovya"
+    },
+    "me": {
+      "name": "Karadağ"
+    },
+    "mf": {
+      "name": "Saint Martin"
+    },
+    "mg": {
+      "name": "Madagaskar"
+    },
+    "mh": {
+      "name": "Marshall Adaları"
+    },
+    "mk": {
+      "name": "Makedonya"
+    },
+    "ml": {
+      "name": "Mali"
+    },
+    "mm": {
+      "name": "Birmanya"
+    },
+    "mn": {
+      "name": "Moğolistan"
+    },
+    "mo": {
+      "name": "Makao S.A.R. Çin"
+    },
+    "mp": {
+      "name": "Kuzey Mariana Adaları"
+    },
+    "mq": {
+      "name": "Martinik"
+    },
+    "mr": {
+      "name": "Moritanya"
+    },
+    "ms": {
+      "name": "Montserrat"
+    },
+    "mt": {
+      "name": "Malta"
+    },
+    "mu": {
+      "name": "Mauritius"
+    },
+    "mv": {
+      "name": "Maldivler"
+    },
+    "mw": {
+      "name": "Malavi"
+    },
+    "mx": {
+      "name": "Meksika"
+    },
+    "my": {
+      "name": "Malezya"
+    },
+    "mz": {
+      "name": "Mozambik"
+    },
+    "na": {
+      "name": "Namibya"
+    },
+    "nc": {
+      "name": "Yeni Kaledonya"
+    },
+    "ne": {
+      "name": "Nijer"
+    },
+    "nf": {
+      "name": "Norfolk Adası"
+    },
+    "ng": {
+      "name": "Nijerya"
+    },
+    "ni": {
+      "name": "Nikaragua"
+    },
+    "nl": {
+      "name": "Hollanda"
+    },
+    "no": {
+      "name": "Norveç"
+    },
+    "np": {
+      "name": "Nepal"
+    },
+    "nr": {
+      "name": "Nauru"
+    },
+    "nu": {
+      "name": "Niue"
+    },
+    "nz": {
+      "name": "Yeni Zelanda"
+    },
+    "om": {
+      "name": "Umman"
+    },
+    "pa": {
+      "name": "Panama"
+    },
+    "pe": {
+      "name": "Peru"
+    },
+    "pf": {
+      "name": "Fransız Polinezyası"
+    },
+    "pg": {
+      "name": "Papua Yeni Gine"
+    },
+    "ph": {
+      "name": "Filipinler"
+    },
+    "pk": {
+      "name": "Pakistan"
+    },
+    "pl": {
+      "name": "Polonya"
+    },
+    "pm": {
+      "name": "Saint Pierre ve Miquelon"
+    },
+    "pn": {
+      "name": "Pitcairn"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Agora programında eğitim hedeflerine varmadaki mükemmeliyet için ödüller",
+        "title": "Eğitim Ödülleri"
+      },
+      "social": {
+        "help": "Topluluğunuzdaki olumlu etkinizi takdir eden ödüller",
+        "title": "Toplumsal Etki Ödülleri"
+      },
+      "operational": {
+        "help": "Kulüp kurmada ve yönetmede sergilenen mükemmeliyet için verilen ödüller",
+        "title": "Kulüp Yönetiminde Mükemmeliyet"
+      },
+      "community": {
+        "help": "Agora topluluğunu geliştirip güçlendirmedeki katkılarından ötürü",
+        "title": "Agora Topluluk Ödülleri"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "Arama",
+      "register": "Kayıt ol"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "Bir Agora Bölgesel ya da Uluslararası Konresi\u0027ni başarıyla organize etmek",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "Kongre Organizatörü"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "Kalifiye Lider"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "Kalifiye Konuşmacı"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "Danışmanlık Ödülü"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "Bir Agora Speakers Yarışması\u0027nı kazanmak",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "Yarışma Galibi"
+        },
+        "third": {
+          "help": "Bir Agora Speakers Yarışması\u0027nı üçüncü sırada bitirmek",
+          "image": "awards.individual.contest.third.svg",
+          "title": "Yarışma, 3.lük"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "Başarıyla bir Agora Yarışması düzenlemek",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "Yarışma Organizatörü"
+        },
+        "participant": {
+          "help": "Bir Agora Speakers Yarışması\u0027na katılmak",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "Katılım Sertifikası"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "Bir Agora Speakers Yarışması\u0027nı ikinci sırada bitirmek",
+          "image": "awards.individual.contest.second.svg",
+          "title": "Yarışma, 2.lik"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "En bariz gelişim",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "Eğitimsel İlerleme Ödülü"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "Yayılım Ödülü"
+      },
+      "community": {
+        "leadership": {
+          "help": "Topluluk projelerinin sıra dışı icrası",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "Topluluk Liderliği Ödülü"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "Mükemmeliyet ve Agora misyonuna bağlılık",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "Elçinin Seçkin Üye Ödülü"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "Özel Başarı Ödülü"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "Başarılı Lider"
+        },
+        "communicator": "Başarılı İletişimci"
+      },
+      "help": {
+        "help": "Kulübün başarısına sürekli adanmışlık",
+        "image": "awards.individual.help.svg",
+        "title": "Kulübe Bağlılık Başarı Ödülü"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "Başarılı Yayımlanmış Medya Konuşmacısı"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "Başarılı İkna Edici Konuşmacı"
+              }
+            },
+            "pr": {
+              "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "Başarılı PR Uzmanı"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "Başarılı Özel Etkinlikler Konuşmacısı"
+              }
+            },
+            "storytelling": {
+              "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "Başarılı Öykü Anlatıcı"
+            },
+            "educational": {
+              "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "Başarılı Eğisel Konuşmacı"
+            },
+            "business": {
+              "contexts": {
+                "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "Başarılı İş Konuşmacısı"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "Başarılı Eleştirel Düşünmeci"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "Başarılı Her Şeye Rağmen Konuşmacısı"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "Başarılı Girişimci Konuşmacı"
+            },
+            "project": {
+              "management": {
+                "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "Başarılı Proje Müdürü"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "Başarılı Kişilerarası Beceriler Uzmanı"
+              }
+            },
+            "dramatization": {
+              "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "Başarılı Dramatik Konuşmacı"
+            },
+            "humorous": {
+              "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "Başarılı Mizahi Konuşmacı"
+            },
+            "leadership": {
+              "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "Başarılı Lider"
+            },
+            "negotiation": {
+              "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "Başarılı Uzlaşmacı"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "{{v0}} İleri Eğitsel Yönerge\u0027yi başarıyla tamamlayanlara",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "Başarılı Görsel Öykü Anlatıcı"
+              }
+            }
+          },
+          "title": "Başarılı Konuşmacı"
+        },
+        "communicator": {
+          "help": "Tüm İletişim Seçeneği\u0027ni başarıyla tamamlayanlara",
+          "image": "awards.individual.accomplished.communicator.svg"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "Kulüp Lideri"
+        },
+        "founder": {
+          "help": "Başarıyla bir Agora Kulübü kurma",
+          "image": "awards.individual.club.founder.svg",
+          "title": "Kulüp Kurucusu"
+        },
+        "officer": {
+          "help": "Kulübe bir yıl başarıyla liderlik etmek",
+          "image": "awards.individual.club.officer.svg",
+          "title": "Kulüp Liderliği"
+        },
+        "growth": {
+          "help": "Ülkede Agora kulüpleri kurmada ve danışmanlık yapmada mükemmeliyet",
+          "image": "awards.individual.club.growth.svg",
+          "title": "Kulüp Büyüme Ödülü"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "Kulübe 5 yıl kesintisiz üyelik",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "Yıldönümü Ödülü"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "Ayın Üyesi Ödülü"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "Toplantılara sürekli ve aktif katılım",
+        "image": "awards.individual.attendance.svg",
+        "title": "Bağlılık Ödülü"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Agora Yenilikçi Ödülü"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Agora Yol Göstericisi"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "Agora Tanıtıcısı Ödülü"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "Kongre Ev Sahibi Ödülü"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "Ülke Öncüsü Ödülü"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "Eğitimde Mükemmellik Ödülü"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "Eğitimde Yayılma Ödülü"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "Şehir Öncüsü Ödülü"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "Yayılımda Mükemmmellik Ödülü"
+        }
+      },
+      "media": {
+        "help": "Agora misyonunu ve etkinliklerini medyada tanıtmada mükemmeliyet",
+        "image": "awards.club.media.svg",
+        "title": "Medya Mükemmeliyet Ödülü"
+      },
+      "membership": {
+        "growth": "Üyelik Büyüme Ödülü",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "Üyelik Elde Tutma Ödülü"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "Topluluk projelerinin sıra dışı icrası",
+          "image": "awards.club.community.leadership.svg",
+          "title": "Topluluk Liderliği Ödülü"
+        }
+      },
+      "content": {
+        "help": "Agora topluluğu için yeni içerik oluşturmada mükemmellik",
+        "image": "awards.club.content.svg",
+        "title": "İçerik Oluşturma Ödülü"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "Kulüp Yenilikçi Ödülü"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "Özel Başarı Ödülü"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "Elçi ödülü"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "Kulüp Danışmanlık ödülü"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "Ayın Kulübü Ödülü"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "Kulüp memnuniyetinin %90\u0027ı geçmesi ödülü",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "Üyelik Memnuniyet Altın Ödülü"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "Kulüp üyelik memnuniyetinin %75\u0027i geçmesi ödülü",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "Üyelik Memnuniyet Gümüş Ödülü"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "Kulüp Üyelik Memnuniyet Ödülü"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "Üyeliğin 20 üyenin üstüne çıkması",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "Altın Üyelik Büyüme Ödülü"
+          }
+        },
+        "anniversary": {
+          "help": "Kulübün on yıl boyunca başarılı ve sürekli faaliyeti",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "Altın Yıldönümü Ödülü"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "Örnek Kulüp Ödülü"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "Üyeliğin 10 üyenin üstüne çıkması",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "Gümüş Üyelik Büyüme Ödülü"
+          }
+        },
+        "anniversary": {
+          "help": "Kulübün beş yıl boyunca başarıyla ve sürekli faaliyeti",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "Gümüş Yıldönümü Ödülü"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "Kulüp Yıldönümü Ödülü - {{v0}} yıl"
+      }
+    },
+    "place": {
+      "participation": "Katılım"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "Bir toplantının çapraz ateş kısmında en meraklı ve ısrarcı sorgulayıcı olmak",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "En Meraklı Çapraz Ateş Katılımcısı"
+        },
+        "survivor": {
+          "help": "Bir toplantıda çapraz ateş kısmından sağ çıkma",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "Çapraz Ateşten Sağ Çıkma"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "En iyi kolokyum sunucusu ve soru sorucusu olmak",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "En İyi Kolokyum Katılımcısı"
+        },
+        "role": {
+          "help": "Toplantı rolünü mükemmel şekilde gerçekleştirmek",
+          "image": "awards.meeting.best.role.svg",
+          "title": "En İyi Toplantı Rolü"
+        },
+        "speaker": {
+          "help": "Bir kulüp toplantısında en iyi hazırlanmış konuşmayı sunmak",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "En İyi Toplantı Konuşmacısı"
+        },
+        "hot": {
+          "response": {
+            "help": "Bir kulüp toplantısında en iyi doğaçlama konuşmayı yapmak",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "Best Meeting Impromptu Speaker"
+          }
+        },
+        "speechwriter": {
+          "help": "Bir toplantıdaki en iyi konuşmayı yaratmak",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "En İyi Toplantı Konuşma Yazarı"
+        },
+        "evaluator": {
+          "help": "Bir kulüp toplantısında en iyi değerlendirmeyi yapmak",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "En İyi Toplantı Değerlendirici"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "Agora Speakers International Vakfı, insanları, daha iyi bir dünya oluşturacak parlak iletişimcilere ve öz güven sahibi liderlere dönüşmeleri için güçlendiren, Avrupa kökenli laik bir eğitim kurumudur."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "Diğer"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "Tarih",
+      "country": "Ülke",
+      "address": "Adres",
+      "city": "Şehir",
+      "awards": "Kazanılan Ödüller",
+      "state": "Eyalet/İl/Kanton/vb.",
+      "event": "Olay",
+      "region": "Bölge",
+      "points": {
+        "total": "Kazanılan Puanlar (Toplam)",
+        "year": "Kazanılan Puanlar (Bu yıl)",
+        "name": "Puan"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "Lütfen kulüpte kullanılacak dili ya da dilleri belirtin (örneğin İngilizce)"
+      },
+      "charter": {
+        "date": "Kuruluş Tarihi",
+        "help": "Kuruluş tarihi gelecekte olmalıdır ama bu süre 30 günü geçemez"
+      },
+      "founder": {
+        "name": "Kulüp Kurucusu (Tam Ad)",
+        "email": "Kurucu E-postası"
+      },
+      "fee": {
+        "title": "Kulüp üyelik ücreti (varsa)."
+      },
+      "banner": "Afiş",
+      "restrictions": {
+        "guests": {
+          "input": "Lütfen kulübe misafir olarak katılmada ne tür kısıtlamalar olduğunu belirtin (varsa)"
+        },
+        "membership": {
+          "input": "Lütfen kulübe üye olarak katılmada ne tür kısıtlamalar olduğunu belirtin (Varsa). Gençlik Kulübü olarak kayıt oluyorsanız lütfen yaş aralığını belirtin"
+        }
+      },
+      "type": {
+        "help": "Farklı kulüp türleriyle ilgili bilgiyi burada bulabilirsiniz.",
+        "input": "Kulüp Türü"
+      },
+      "points": {
+        "date": "Eylem Tarihi",
+        "action": "Kulüp Eylemi"
+      },
+      "token": "Kulüp Gizli Jetonu",
+      "number": "Kulüp Numarası",
+      "assets": "Kulüp Kaynakları",
+      "awards": "Kulüp Ödülleri",
+      "contact": {
+        "help": {
+          "1": "Kulüp için iletişim bilgisi. E-posta ya da telefon olmalıdır.",
+          "2": "Ek kulüp iletişim bilgisi - bir öncekinden farklı olmalıdı. E-posta/telefon ya da web sayfası, Facebook grubu, toplantı grubu vb. olabilir"
+        },
+        "title": "İletişim Bilgisi"
+      },
+      "name": "Kulüp Adı",
+      "logo": {
+        "title": "Kendi logonuzu yükleyebilirsiniz ya da logonuz yoksa kulübünüz için otomatikman bir tane üreteceğiz."
+      },
+      "meeting": {
+        "schedule": "Toplantı Takvimi",
+        "info": "Ek Bilgi"
+      }
+    },
+    "personal": {
+      "participation": {
+        "input": "Ne tür bir katılımla ilgileniyorsunuz?",
+        "online": "Çevrimiçi toplantılar",
+        "physical": "Fiziksel toplantılar"
+      },
+      "languages": {
+        "interested": "Hangi dillerle ilgileniyorsunuz?"
+      },
+      "joined": "Katılma Tarihi",
+      "facebook": "Facebook profil bağlantısı",
+      "roles": {
+        "date": "Tarih",
+        "role": "Rol",
+        "taken": "Doldurulan Roller",
+        "club": "Kulüp"
+      },
+      "speeches": {
+        "persuasive": "İkna edici konuşmalar",
+        "general": "Genel amaçlı konuşmalar",
+        "storytelling": "Öykü anlatma Konuşma Yarışması",
+        "educational": "Eğitsel",
+        "business": "İş sunumları",
+        "interested": "Hangi tür sunumlarla / konuşmalarla ilgileniyorsunuz?",
+        "media": "Vlog ve Medya prodüksiyonu",
+        "sales": "Satışlar",
+        "humorous": ".Mizahi konuşmalar ve komedi"
+      },
+      "privacy": "Bu sitedeki hükümlerin ve koşulların yanı sıra Agora Speakers International\u0027ın Gizlilik Politikası\u0027nı kabul ediyorum",
+      "history": {
+        "date": "Tarih",
+        "club": "Kulüp Adı",
+        "event": "Olay"
+      },
+      "linkedin": "Linkedin profil bağlantısı",
+      "skills": "Aşağıdaki becerilerden hangisini geliştirmekle ilgileniyorsunuz?",
+      "number": "Üye Numarası?",
+      "password": {
+        "input": "Parola",
+        "verify": "Doğrulama için parolayı tekrarlayın"
+      },
+      "clubs": {
+        "role": "Rol"
+      },
+      "name": {
+        "address": {
+          "help": "İletişimimizde (mesela e-postalarda) size nasıl hitap etmeliyiz?",
+          "field": "İletişim için yeğlenen isim"
+        },
+        "certificates": {
+          "help": "İsminiz kazandığınız sertifikalarda ve ödüllerde nasıl görünmeli?",
+          "input": "Sertifikalar için yeğlenen isim"
+        },
+        "online": {
+          "help": "İsminiz çevrimiçi sistemlerimizde, forumlarımızda vb. nasıl görünmeli?",
+          "input": "Tercih edilen çevrimiçi isim"
+        },
+        "full": "Tam Ad ve Soyad"
+      },
+      "principles": {
+        "agreement": "Lütfen temel ilkelerimizi kabul ettiğinizi belirtin"
+      },
+      "position": "Kulüpteki mevcut pozisyonu",
+      "interests": {
+        "11": {
+          "language": "Yabancı dil becerilerimi geliştirmek istiyorum"
+        },
+        "01": {
+          "curious": "Sadece organizasyonu merak ediyorum"
+        },
+        "12": {
+          "contests": "Agora Speakers International tarafından düzenlenen yarışmalara katılmak istiyorum"
+        },
+        "02": {
+          "confidence": "Öz güvenimi artırmak istiyorum"
+        },
+        "13": {
+          "critical": "Eleştirel düşünmeyi öğrenmekle ilgileniyorum"
+        },
+        "03": {
+          "communicate": "Daha etkili iletişim kurmayı öğrenmek istiyorum"
+        },
+        "14": {
+          "friends": "Yeni insanlarla tnanışıp yeni arkadaşlar kazanmakla ilgileniyorum"
+        },
+        "04": {
+          "speak": "Topluluk önünde konuşma becerilerimi geliştirmek istiyorum"
+        },
+        "15": {
+          "cooperation": "Karşılıklı kültürel değişimle ve kültürler arası iş birliği etkinlikleriyle ilgileniyorum"
+        },
+        "question": "Agora Speakers International\u0027a olan ilginiz nereden geliyor?",
+        "05": {
+          "leadership": "Liderlik becerilerimi geliştirmek istiyorum"
+        },
+        "16": {
+          "startclub": "Kendi şehrimde Agora Kulübü başlatmak istiyorum"
+        },
+        "06": {
+          "networking": "Profesyonel ağ kurmayla ilgileniyorum"
+        },
+        "17": {
+          "ambassador": "Ülkem için Agora Elçisi olmak istiyorum"
+        },
+        "07": {
+          "presentations": "İş sunumları yapmakla ilgileniyorum"
+        },
+        "18": {
+          "partnership": "Kendi kurumumla Agora Speakers International arasında bir ortaklıkla ilgileniyorumorganization and Agora Speakers International"
+        },
+        "08": {
+          "events": "Düzenlediğiniz atölyeler, seminerler ve etkinliklerle ilgileniyorum"
+        },
+        "09": {
+          "debating": "Münazara ve akıl yürütmeyle ilgileniyorum"
+        },
+        "10": {
+          "community": "Yaşadığım toplulukta bir fark yaratmak istiyorum"
+        }
+      },
+      "email": "E-posta"
+    },
+    "meeting": {
+      "date": "Toplantı Tarihi",
+      "number": "Toplantı Numarası",
+      "venue": {
+        "name": "Yer adı"
+      },
+      "address": {
+        "input": "Toplantı yerinin adresi"
+      },
+      "online": {
+        "software": "Toplantı yazılımı",
+        "link": "Katılım bağlantısı",
+        "id": "Çevrimiçi Toplantı Kimliği",
+        "title": "Çevrimiçi toplantı bilgileri",
+        "passowrd": "Katılım şifresi"
+      },
+      "theme": "Toplantı teması (varsa)",
+      "time": "Toplantı Saati"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) Telif Hakkı Agora Speakers International. Tüm hakları saklıdır. Agora materyalleri ve kaynakları ancak hükümlerimiz ve koşullarımız uyarınca kullanılabilir."
+    },
+    "terms": "Hükümler ve Koşullar",
+    "legal": {
+      "notice": "Yasal bilgi"
+    },
+    "privacy": {
+      "policy": "Gizlilik politikası"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "Hintçe",
+      "ps": "Peştuca",
+      "pt": "Portekizce",
+      "hr": "Hırvatça",
+      "pt_br": "Brazilian",
+      "hu": "Macarca",
+      "yi": "Yidiş",
+      "hy": "Ermenice",
+      "yo": "Yorubaca",
+      "ia": "İnterlingua",
+      "id": "Endonezce",
+      "ig": "İbo dili",
+      "ii": "Sichuan Yi",
+      "qu": "Keçuva dili",
+      "af": "Afrikaanca",
+      "ak": "Akan",
+      "is": "İzlandaca",
+      "it": "İtalyanca",
+      "am": "Amharca",
+      "zh": "Çince",
+      "ar": "Arapça",
+      "as": "Assamca",
+      "ja": "Japonca",
+      "az": "Azerbaycan dili",
+      "rm": "Romanşça",
+      "zu": "Zuluca",
+      "rn": "Kirundi",
+      "ro": "Rumence",
+      "be": "Belarusça",
+      "ru": "Rusça",
+      "bg": "Bulgarca",
+      "rw": "Kinyarwanda",
+      "bm": "Bambara",
+      "bn": "Bengalce",
+      "jv": "Cava dili",
+      "bo": "Tibetçe",
+      "sa": "Sanskrit",
+      "br": "Bretonca",
+      "bs": "Boşnakça",
+      "sd": "Sindhi dili",
+      "se": "Kuzey Laponcası",
+      "sg": "Sango",
+      "sh": "Sırp-Hırvat Dili",
+      "ka": "Gürcüce",
+      "si": "Sinhali dili",
+      "sk": "Slovakça",
+      "sl": "Slovence",
+      "sn": "Şona dili",
+      "so": "Somalice",
+      "ca": "Katalanca",
+      "ki": "Kikuyu",
+      "sq": "Arnavutça",
+      "sr": "Sırpça",
+      "kk": "Kazakça",
+      "kl": "Grönland dili",
+      "ce": "Çeçence",
+      "km": "Khmer dili",
+      "su": "Sunda dili",
+      "kn": "Kannada dili",
+      "sv": "İsveççe",
+      "ko": "Korece",
+      "sw": "Svahili dili",
+      "ks": "Keşmir dili",
+      "ku": "Kürtçe",
+      "kw": "Kernevekçe",
+      "ta": "Tamilce",
+      "ky": "Kırgızca",
+      "cs": "Çekçe",
+      "te": "Telugu dili",
+      "tg": "Tacikçe",
+      "th": "Tayca",
+      "ti": "Tigrinya dili",
+      "cy": "Galce",
+      "lb": "Lüksemburgca",
+      "tk": "Türkmence",
+      "tl": "Tagalogca",
+      "lg": "Ganda",
+      "to": "Tonga dili",
+      "da": "Danca",
+      "tr": "Türkçe",
+      "tt": "Tatarca",
+      "de": "Almanca",
+      "ln": "Lingala",
+      "lo": "Lao dili",
+      "lt": "Litvanca",
+      "lu": "Luba-Katanga",
+      "lv": "Letonca",
+      "ug": "Uygurca",
+      "dz": "Dzongkha",
+      "uk": "Ukraynaca",
+      "mg": "Malgaşça",
+      "mi": "Maori dili",
+      "ur": "Urduca",
+      "mk": "Makedonca",
+      "ml": "Malayalam dili",
+      "ee": "Ewe",
+      "mn": "Moğolca",
+      "mr": "Marathi dili",
+      "uz": "Özbekçe",
+      "ms": "Malayca",
+      "el": "Yunanca",
+      "mt": "Maltaca",
+      "en": "İngilizce",
+      "eo": "Esperanto",
+      "my": "Birman dili",
+      "es": "İspanyolca",
+      "et": "Estonca",
+      "eu": "Baskça",
+      "vi": "Vietnamca",
+      "nb": "Norveççe Bokmål",
+      "nd": "Kuzey Ndebele",
+      "ne": "Nepalce",
+      "fa": "Farsça",
+      "nl": "Felemenkçe",
+      "ff": "Fula dili",
+      "nn": "Norveççe Nynorsk",
+      "no": "Norveççe",
+      "fi": "Fince",
+      "fo": "Faroe dili",
+      "fr": "Fransızca",
+      "fy": "Batı Frizcesi",
+      "wo": "Volofça",
+      "ga": "İrlandaca",
+      "gd": "İskoç Gaelcesi",
+      "om": "Oromo dili",
+      "or": "Oriya dili",
+      "os": "Osetçe",
+      "gl": "Galiçyaca",
+      "gu": "Güceratça",
+      "gv": "Man dili",
+      "xh": "Zosa dili",
+      "pa": "Pencapça",
+      "ha": "Hausa dili",
+      "pl": "Lehçe",
+      "he": "İbranice"
+    },
+    "full": {
+      "hi": "Hintçe (हिन्दी)",
+      "ps": "Peştuca (پښتو)",
+      "pt": "Portekizce (Português)",
+      "hr": "Hırvatça (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "Macarca (Magyar)",
+      "yi": "Yidiş (ייִדיש)",
+      "hy": "Ermenice (Հայերեն)",
+      "yo": "Yorubaca (Èdè Yorùbá)",
+      "ia": "İnterlingua (Interlingua)",
+      "id": "Endonezce (Indonesia)",
+      "ig": "İbo dili (Igbo)",
+      "ii": "Sichuan Yi (ꆈꌠꉙ)",
+      "qu": "Keçuva dili (Runasimi)",
+      "af": "Afrikaanca (Afrikaans)",
+      "ak": "Akan (Akan)",
+      "is": "İzlandaca (Íslenska)",
+      "it": "İtalyanca (Italiano)",
+      "am": "Amharca (አማርኛ)",
+      "zh": "Çince (中文)",
+      "ar": "Arapça (العربية)",
+      "as": "Assamca (অসমীয়া)",
+      "ja": "Japonca (日本語)",
+      "az": "Azerbaycan dili (Azərbaycan)",
+      "rm": "Romanşça (Rumantsch)",
+      "zu": "Zuluca (IsiZulu)",
+      "rn": "Kirundi (Ikirundi)",
+      "ro": "Rumence (Română)",
+      "be": "Belarusça (Беларуская)",
+      "ru": "Rusça (Русский)",
+      "bg": "Bulgarca (Български)",
+      "rw": "Kinyarwanda (Kinyarwanda)",
+      "bm": "Bambara (Bamanakan)",
+      "bn": "Bengalce (বাংলা)",
+      "jv": "Cava dili (Jawa)",
+      "bo": "Tibetçe (བོད་སྐད་)",
+      "sa": "Sanskrit (संस्कृत भाषा)",
+      "br": "Bretonca (Brezhoneg)",
+      "bs": "Boşnakça (Bosanski)",
+      "sd": "Sindhi dili (سنڌي)",
+      "se": "Kuzey Laponcası (Davvisámegiella)",
+      "sg": "Sango (Sängö)",
+      "sh": "Sırp-Hırvat Dili (Srpskohrvatski)",
+      "ka": "Gürcüce (ქართული)",
+      "si": "Sinhali dili (සිංහල)",
+      "sk": "Slovakça (Slovenčina)",
+      "sl": "Slovence (Slovenščina)",
+      "sn": "Şona dili (ChiShona)",
+      "so": "Somalice (Soomaali)",
+      "ca": "Katalanca (Català)",
+      "ki": "Kikuyu (Gikuyu)",
+      "sq": "Arnavutça (Shqip)",
+      "sr": "Sırpça (Српски)",
+      "kk": "Kazakça (Қазақ тілі)",
+      "kl": "Grönland dili (Kalaallisut)",
+      "ce": "Çeçence (Нохчийн)",
+      "km": "Khmer dili (ខ្មែរ)",
+      "su": "Sunda dili (Basa Sunda)",
+      "kn": "Kannada dili (ಕನ್ನಡ)",
+      "sv": "İsveççe (Svenska)",
+      "ko": "Korece (한국어)",
+      "sw": "Svahili dili (Kiswahili)",
+      "ks": "Keşmir dili (کٲشُر)",
+      "ku": "Kürtçe (Kurdî)",
+      "kw": "Kernevekçe (Kernewek)",
+      "ta": "Tamilce (தமிழ்)",
+      "ky": "Kırgızca (Кыргызча)",
+      "cs": "Çekçe (Čeština)",
+      "te": "Telugu dili (తెలుగు)",
+      "tg": "Tacikçe (Тоҷикӣ)",
+      "th": "Tayca (ไทย)",
+      "ti": "Tigrinya dili (ትግር)",
+      "cy": "Galce (Cymraeg)",
+      "lb": "Lüksemburgca (Lëtzebuergesch)",
+      "tk": "Türkmence (Türkmen dili)",
+      "tl": "Tagalogca (Tagalog)",
+      "lg": "Ganda (Luganda)",
+      "to": "Tonga dili (Lea fakatonga)",
+      "da": "Danca (Dansk)",
+      "tr": "Türkçe (Türkçe)",
+      "tt": "Tatarca (Татар)",
+      "de": "Almanca (Deutsch)",
+      "ln": "Lingala (Lingála)",
+      "lo": "Lao dili (ລາວ)",
+      "lt": "Litvanca (Lietuvių)",
+      "lu": "Luba-Katanga (Tshiluba)",
+      "lv": "Letonca (Latviešu)",
+      "ug": "Uygurca (ئۇيغۇرچە)",
+      "dz": "Dzongkha (རྫོང་ཁ)",
+      "uk": "Ukraynaca (Українська)",
+      "mg": "Malgaşça (Malagasy)",
+      "mi": "Maori dili (Te reo Māori)",
+      "ur": "Urduca (اردو)",
+      "mk": "Makedonca (Македонски)",
+      "ml": "Malayalam dili (മലയാളം)",
+      "ee": "Ewe (Eʋegbe)",
+      "mn": "Moğolca (Монгол)",
+      "mr": "Marathi dili (मराठी)",
+      "uz": "Özbekçe (O‘zbek)",
+      "ms": "Malayca (Melayu)",
+      "el": "Yunanca (Ελληνικά)",
+      "mt": "Maltaca (Malti)",
+      "en": "İngilizce (English)",
+      "eo": "Esperanto (Esperanto)",
+      "my": "Birman dili (မြန်မာ)",
+      "es": "İspanyolca (Español)",
+      "et": "Estonca (Eesti)",
+      "eu": "Baskça (Euskara)",
+      "vi": "Vietnamca (Tiếng Việt)",
+      "nb": "Norveççe Bokmål (Norsk bokmål)",
+      "nd": "Kuzey Ndebele (IsiNdebele)",
+      "ne": "Nepalce (नेपाली)",
+      "fa": "Farsça (فارسی)",
+      "nl": "Felemenkçe (Nederlands)",
+      "ff": "Fula dili (Pulaar)",
+      "nn": "Norveççe Nynorsk (Norsk nynorsk)",
+      "no": "Norveççe (Norsk)",
+      "fi": "Fince (Suomi)",
+      "fo": "Faroe dili (Føroyskt)",
+      "fr": "Fransızca (Français)",
+      "fy": "Batı Frizcesi (Frysk)",
+      "wo": "Volofça (Wolof)",
+      "ga": "İrlandaca (Gaeilge)",
+      "gd": "İskoç Gaelcesi (Gàidhlig)",
+      "om": "Oromo dili (Oromoo)",
+      "or": "Oriya dili (ଓଡ଼ିଆ)",
+      "os": "Osetçe (Ирон)",
+      "gl": "Galiçyaca (Galego)",
+      "gu": "Güceratça (ગુજરાતી)",
+      "gv": "Man dili (Gaelg)",
+      "xh": "Zosa dili (IsiXhosa)",
+      "pa": "Pencapça (ਪੰਜਾਬੀ)",
+      "ha": "Hausa dili (Hausa)",
+      "pl": "Lehçe (Polski)",
+      "he": "İbranice (עברית)"
+    }
+  }
+}

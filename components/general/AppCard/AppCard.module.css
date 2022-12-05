@@ -1,0 +1,45 @@
+/*
+ * Copyright (c) 2022. Agora Speakers International.  All rights reserved.
+ * This file is subject to the terms and conditions defined in the  'LICENSE.txt' file which is part of this source code package.
+ *
+ * Author: Alexander Hristov
+ */
+.appCard {
+    float: left;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 15%;
+    min-width: 200px;
+    margin-right: 2em;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+
+}
+
+.appCard .iconContainer {
+    min-height: 19em;
+    border: 2px outset black;
+    padding: 10px;
+    background-color: #eeeeee;
+
+}
+
+.appCard .icon {
+    width:10em;
+    height:10em;
+}
+
+.appCard .title {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Hind Siliguri' sans-serif;
+    color: #34459c;
+    font-weight: bold;
+    height: 2.5em;
+    margin-top: 1em;
+}
+

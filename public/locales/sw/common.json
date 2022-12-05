@@ -1,0 +1,1243 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "Klabu za Rejea",
+      "corporate": "Klabu ya Shirika",
+      "restricted": "Klabu zenye Vizuizi",
+      "term": "Klabu ya Agora",
+      "pic": "Klabu za Manufaa ya Umma",
+      "open": "Klabu ya Umma"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Tuzo za ubora wa kufikia malengo ya kielimu ndani ya mpango wa Agora",
+        "title": "Tuzo za Kielimu"
+      },
+      "social": {
+        "help": "Tuzo zinazotambua matokeo chanya yako kwenye jamii yako",
+        "title": "Tuzo za Matokeo chanya kwenye jamii"
+      },
+      "operational": {
+        "help": "Tuzo za ubora wa usimamizi na uanzilishi wa klabu",
+        "title": "Ubora katika Usimamizi wa Klabu"
+      },
+      "community": {
+        "help": "Tuzo za mchango wa ukuaji na uimarishaji wa jamii ya Agora",
+        "title": "Tuzo ya Jamii ya Agora"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "Tafuta",
+      "register": "Jiandikishe"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "Kuandaa kwa Mafanikio Kongamano la Kimkoa au Kimataifa la Agora",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "Muandaaji wa Makongamano"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "Kiongozi Bora"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "Mzungumzaji mwenye Sifa Zinazostahili"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "Tuzo ya Ushauri"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "Kushinda katika Mashindano ya Agora Speakers",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "Mshindi wa Mashindano"
+        },
+        "third": {
+          "help": "Kumaliza wa tatu katika Mashindano ya Agora Speakers",
+          "image": "awards.individual.contest.third.svg",
+          "title": "Mashindano, Nafasi ya Tatu"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "Kuandaa kwa mafanikio Mashindano ya Agora",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "Muandaaji wa Mashindano"
+        },
+        "participant": {
+          "help": "Kushiriki katika Mashindano la Agora Speakers",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "Cheti cha Kushiriki"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "Kumaliza wa pili katika Mashindano la Agora Speakers",
+          "image": "awards.individual.contest.second.svg",
+          "title": "Mashindano, Nafasi ya Pili"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "Maendeleo yanayoonekana sana",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "Tuzo ya Maendeleo ya Kielimu"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "Tuzo ya Ufikivu"
+      },
+      "community": {
+        "leadership": {
+          "help": "Mtekelezaji mashuhuri wa miradi ya jamii",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "Tuzo ya Uongozi wa Jamii"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "Ubora na wajibu kwa dhamira ya Agora",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "Tuzo ya Mwanachama Maalum kwa Balozi"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "Tuzo ya Heshima Maalum"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "Kiongozi Hodari"
+        },
+        "communicator": "Mwenye Mawasiliano Hodari"
+      },
+      "help": {
+        "help": "Kuendelea kujitolea kwenye mafanikio ya klabu",
+        "image": "awards.individual.help.svg",
+        "title": "Tuzo ya Wakfu katika Mafanikio ya Klabu"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "Mzungumzaji Hodari wa vyombo vya habari"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "Mzungumzaji Hodari mwenye Ushawishi"
+              }
+            },
+            "pr": {
+              "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "Mtaalam Hodari wa Mahusiano wa Umma (PR)"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "Mzungumzaji Hodari wa Shughuli Maalum"
+              }
+            },
+            "storytelling": {
+              "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "Msimulia hadithi Hodari"
+            },
+            "educational": {
+              "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "Mzungumzaji Hodari wa Kielimu"
+            },
+            "business": {
+              "contexts": {
+                "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "Mzungumzaji Hodari wa Biashara"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "Mmakinifu Hodari"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "Mzungumzaji Hodari aliyepitia vikwazo vingi"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "Mzungumzaji Hodari wa Ujasiriamali"
+            },
+            "project": {
+              "management": {
+                "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "Msimamizi wa Mradi Hodari"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "Kiongozi Hodari wa Ujuzi wa Kibinafsi"
+              }
+            },
+            "dramatization": {
+              "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "Mzungumzaji Hodari wa Maigizo"
+            },
+            "humorous": {
+              "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "Mzungumzaji Hodari mwenye Ucheshi"
+            },
+            "leadership": {
+              "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "Kiongozi Hodari"
+            },
+            "negotiation": {
+              "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "Mpatanishi Hodari"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "Kumaliza kwa Mafanikio Njia ya Juu ya Kielimu {{v0}}",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "Msimulia hadithi Hodari wa Sibayana"
+              }
+            }
+          },
+          "title": "Mzungumzaji Hodari"
+        },
+        "communicator": {
+          "help": "Kumaliza kikamilifu njia yote ya mawasiliano",
+          "image": "awards.individual.accomplished.communicator.svg"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "Kiongozi wa Klabu"
+        },
+        "founder": {
+          "help": "Kuanzisha kwa Mafanikio klabu ya Agora",
+          "image": "awards.individual.club.founder.svg",
+          "title": "Mwanzilishi wa Klabu"
+        },
+        "officer": {
+          "help": "Kuongoza kwa mafanikio klabu katika kipindi cha mwaka mmoja",
+          "image": "awards.individual.club.officer.svg",
+          "title": "Uongozi wa Klabu"
+        },
+        "growth": {
+          "help": "Ubora katika kuwa mshauri na kuunda klabu za Agora ndani ya nchi",
+          "image": "awards.individual.club.growth.svg",
+          "title": "Tuzo ya Ukuaji wa Klabu"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "Uanachama wa kuendelea ndani ya klabu katika kipindi cha miaka mitano (5)",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "Tuzo ya Maadhimisho ya Miaka"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "Tuzo ya Mwanachama wa Mwezi"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "Kuendelea na mahudhurio ya mikutano",
+        "image": "awards.individual.attendance.svg",
+        "title": "Tuzo ya Wajibu"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Tuzo ya Ubunifu ya Agora"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Mbeba-tochi wa Agora"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "Tuzo ya Kutanganza Agora"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "Tuzo ya Kuandaa Mkutano"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "Tuzo ya Mwasisi wa Nchi"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "Tuzo ya Ubora wa juu wa Kielimu"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "Tuzo ya Ufikivu wa Kielimu"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "Tuzo ya Mwasisi wa Mji"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "Tuzo ya Ubora wa Ufikivu"
+        }
+      },
+      "media": {
+        "help": "Ubora katika kutangaza dhamira na shughuli za Agora katika vyombo vya habari",
+        "image": "awards.club.media.svg",
+        "title": "Tuzo ya Ubora wa Vyombo vya habari"
+      },
+      "membership": {
+        "growth": "Tuzo ya Ukuaji wa Uanachama",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "Tuzo ya Kubakisha Uanachama"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "Mtekelezaji mashuhuri wa miradi ya jamii",
+          "image": "awards.club.community.leadership.svg",
+          "title": "Tuzo ya Uongozi wa Jamii"
+        }
+      },
+      "content": {
+        "help": "Ubora wa kutengeneza maudhui mapya kwa ajili ya jamii ya Agora",
+        "image": "awards.club.content.svg",
+        "title": "Tuzo ya Utengenezaji wa Maudhui"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "Tuzo ya Ubunifu ya Klabu"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "Tuzo ya Heshima Maalum"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "Tuzo ya Balozi"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "Tuzo za Ushauri wa Klabu"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "Tuzo ya Klabu ya Mwezi"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "Uridhikaji wa uanachama wa klabu umezidi asilimi 90 (90%)",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "Membership Satisfaction Golden Award"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "Uridhikaji wa uanachama wa klabu umezidi asilimia 75 (75%)",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "Tuzo ya Fedha ya Uridhikaji wa Uanachama"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "Tuzo ya Uridhikaji wa Uanachama wa Klabu"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "Ukuaji wa uanachama wa zaidi ya wanachama 20",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "Tuzo ya Dhahabu ya Ukuaji wa Uanachama"
+          }
+        },
+        "anniversary": {
+          "help": "Kufanikiwa na kuendelea kuendesha klabu katika kipindi cha miaka kumi",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "Tuzo ya Kuadhimisha Miaka ya Dhahabu"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "Tuzo ya Klabu ya Kuigwa"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "Ukuaji wa Uanachama wa zaidi ya wanachama 10",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "Tuzo ya Fedha ya Ukuaji wa Uanachama"
+          }
+        },
+        "anniversary": {
+          "help": "Kufanikiwa na kuendelea kuendesha klabu katika kipindi cha miaka mitano",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "Tuzo ya Kuadhimisha Miaka ya Fedha"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "Tuzo za Maadhimisho ya Miaka ya {{v0}} ya Klabu"
+      }
+    },
+    "place": {
+      "participation": "Jinsi ya kujifunza na kujiendeleza"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "Kuwa mdadisi na muuliza maswali mwerevu katika mikutano ya papohapo",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "Mshiriki Mdadisi Zaidi katika hotuba za papohapo"
+        },
+        "survivor": {
+          "help": "Aliyepitia kipengele cha papohapo katika mkutano",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "Aliyepitia mikutano ya papohapo"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "Kuwa mwasilishaji na muuliza maswali bora katika kongamano",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "Mshiriki Bora wa Makongamano"
+        },
+        "role": {
+          "help": "Kufanya jukumu la mkutano katika njia bora zaidi",
+          "image": "awards.meeting.best.role.svg",
+          "title": "Jukumu Bora la Mkutano"
+        },
+        "speaker": {
+          "help": "Kuwasilisha hotuba iliyoandaliwa katika mkutano wa klabu",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "Mzungumzaji Bora wa Mikutano"
+        },
+        "hot": {
+          "response": {
+            "help": "Kuwasilisha hotuba bora ya papohapo katika mkutano wa klabu",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "Mzungumzaji bora katika Mikutano ya Papohapo"
+          }
+        },
+        "speechwriter": {
+          "help": "Kutengeneza hotuba nzuri katika mkutano",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "Mwandishi Bora wa Hotuba za Mikutano"
+        },
+        "evaluator": {
+          "help": "Kuwasilisha utathmini bora zaidi katika mkutano wa klabu",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "Mtathmini Bora wa Mikutano"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "Shirika la Agora Speakers International ni shirika la kihisani la kielimu la Ulaya ambalo linawezesha watu wazungumzaji wazuri na viongozi wanaojiamini ambao watajenga dunia bora zaidi."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "Nyingine"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "Tarehe",
+      "country": "Nchi",
+      "address": "Anuani",
+      "city": "Mji",
+      "awards": "Tuzo zilizoshindwa",
+      "state": "Wilaya/Manispaa/Kata/nk.",
+      "event": "Tukio",
+      "region": "Mkoa",
+      "points": {
+        "total": "Pointi Zilizopatikana (Jumla)",
+        "year": "Pointi Zilizopatikana (Mwaka Huu)",
+        "name": "Pointi"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "Tafadhali taja lugha ambayo au ambazo zitakuwa zinatumiwa kwenye klabu (kwa mfano: Kiingereza)"
+      },
+      "charter": {
+        "date": "Tarehe ya Uanzilishi",
+        "help": "Tarehe ya uanzilishi lazima iwe ya siku zijazo, lakini sio zaidi ya siku 30."
+      },
+      "founder": {
+        "name": "Mwanzilishi wa Klabu (Jina kamili)",
+        "email": "Barua pepe ya mwanzilishi"
+      },
+      "fee": {
+        "title": "Ada za uanachama wa klabu (kama zipo)."
+      },
+      "banner": "Bango",
+      "restrictions": {
+        "guests": {
+          "input": "Tafadhali elezea aina gani ya vizuizi vitakuwepo kwa anayehudhuria klabu kama mgeni (kama vipo)"
+        },
+        "membership": {
+          "input": "Tafadhali elezea aina gani ya vizuizi vitakuwepo kwa kujiunga kwenye klabu kama mwanachama (kama vipo). Kama unajiandikisha kama Klabu ya Vijana, tafadhali onyesha kiwango cha umri"
+        }
+      },
+      "type": {
+        "help": "Taarifa zaidi kuhusu aina tofauti za klabu hapa.",
+        "input": "Aina ya Klabu"
+      },
+      "points": {
+        "date": "Tarehe ya Matendo",
+        "action": "Matendo ya Klabu"
+      },
+      "token": "Token ya Siri ya Klabu",
+      "number": "Namba ya Klabu",
+      "assets": "Rasilimali za Klabu",
+      "awards": "Tuzo za Klabu",
+      "contact": {
+        "help": {
+          "1": "Taarifa za mawasiliano za klabu. Lazima iwe aidha barua pepe au namba ya simu.",
+          "2": "Taarifa za ziada za mawasiliano - lazima ziwe tofauti na za mwanzo, na inaweza kuwa Barua pepe/namba ya simu, au kurasa ya tovuti, kundi la Facebook, kundi la meetup, nk."
+        },
+        "title": "Taarifa ya Mawasiliano"
+      },
+      "name": "Jina la Klabu",
+      "logo": {
+        "title": "Unaweza kupakia nembo yako mwenyewe, au kama hauna tunaweza kukutengenezea nembo ya klabu yako kiotomatiki."
+      },
+      "meeting": {
+        "schedule": "Ratiba ya Mkutano",
+        "info": "Taarifa ya Ziada"
+      }
+    },
+    "personal": {
+      "participation": {
+        "input": "Ni aina gani ya ushiriki unavutiwa nao?",
+        "online": "Mikutano ya mtandaoni",
+        "physical": "Mikutano ya uso kwa uso"
+      },
+      "languages": {
+        "interested": "Ni lugha gani unavutiwa nazo?"
+      },
+      "joined": "Tarehe ya Kujiunga",
+      "facebook": "Unganisha na akaunti ya Facebook",
+      "roles": {
+        "date": "Tarehe",
+        "role": "Jukumu",
+        "taken": "Majukumu Yaliyochukuliwa",
+        "club": "Klabu"
+      },
+      "speeches": {
+        "persuasive": "Hotuba za kushawishi",
+        "general": "Hotuba za dhumuni kwa ujumla",
+        "storytelling": "Mashindano ya hotuba ya kuadithia hadithi",
+        "educational": "Kielimu",
+        "business": "Uwasilishaji wa Biashara",
+        "interested": "Ni aina gani ya uwasilishaji / hotuba ungependa kujifunza?",
+        "media": "Vlogging na uzalishaji wa habari",
+        "sales": "Mauzo",
+        "humorous": "Hotuba za ucheshi na vichekesho"
+      },
+      "privacy": "Nakubaliana na sheria na masharti ya tovuti hii, na Sera za Faragha za Agora Speakers International",
+      "history": {
+        "date": "Tarehe",
+        "club": "Jina la Klabu",
+        "event": "Tukio"
+      },
+      "linkedin": "Unganisha na akaunti ya Linkedin",
+      "skills": "Ujuzi upi kati ya haya yafuatayo ungependelea kuboresha?",
+      "number": "Namba ya Mwanachama",
+      "password": {
+        "input": "Neno la siri",
+        "verify": "Rudia neno la siri kwa uthibitisho"
+      },
+      "clubs": {
+        "role": "Jukumu"
+      },
+      "name": {
+        "address": {
+          "help": "Tukuite vipi kwenye mawasiliano yetu (kama vile barua pepe kuja kwako)?",
+          "field": "Jina unalopenda kutumia kwa mawasiliano:"
+        },
+        "certificates": {
+          "help": "Jina lako litokeaje kwenye vyeti na tuzo ambazo unashinda?",
+          "input": "Jina unalopendelea kwenye vyeti"
+        },
+        "online": {
+          "help": "Jina lako litokeaje kwenye mifumo yetu ya mtandaoni, mabaraza, nk.?",
+          "input": "Jina unalopendelea kuitwa mtandaoni"
+        },
+        "full": "Jina Kamili"
+      },
+      "principles": {
+        "agreement": "Tafadhali onyesha makubaliano yako na kanuni zetu za msingi"
+      },
+      "position": "Nafasi ya sasa ndani ya klabu",
+      "interests": {
+        "11": {
+          "language": "Ninataka kuboresha maarifa yangu wa lugha za kigeni"
+        },
+        "01": {
+          "curious": "Nina udadisi tu na shirika"
+        },
+        "12": {
+          "contests": "Ninataka kushindana kwenye mashindano yanayoandaliwa na Agora Speakers International"
+        },
+        "02": {
+          "confidence": "Ninataka kuimarisha kujiamini kwangu"
+        },
+        "13": {
+          "critical": "Ninavutiwa na na kujifunza kufikiri kimantiki"
+        },
+        "03": {
+          "communicate": "Ninataka kujifunza jinsi ya kuwasiliana kifanisi zaidi"
+        },
+        "14": {
+          "friends": "Ninataka kukutana na watu na kupata marafiki wapya"
+        },
+        "04": {
+          "speak": "Ninataka kuboresha ujuzi wangu wa kuongea mbele ya hadhira"
+        },
+        "15": {
+          "cooperation": "Ninavutiwa na mabadilishano ya tamaduni na shughuli za ushirikiano kati ya tamaduni"
+        },
+        "question": "Unavutiwa na nini kwenye Agora Speakers International?",
+        "05": {
+          "leadership": "Ninataka kuboresha ujuzi wangu wa uongozi"
+        },
+        "16": {
+          "startclub": "Ninataka kuanzisha klabu ya Agora katika mji wangu"
+        },
+        "06": {
+          "networking": "Ninataka kujenga mtandao wa kitaaluma"
+        },
+        "17": {
+          "ambassador": "Ninataka kuwa Balozi wa Agora katika nchi yangu"
+        },
+        "07": {
+          "presentations": "Ninataka kutoa uwasilishaji wa biashara"
+        },
+        "18": {
+          "partnership": "Ninavutiwa na ushirikiano kati ya shirika langu na Agora Speakers International"
+        },
+        "08": {
+          "events": "Ninavutiwa na warsha, semina na matukio ambayo mnaandaa"
+        },
+        "09": {
+          "debating": "Ninavutiwa na midahalo na majadiliano"
+        },
+        "10": {
+          "community": "Ninataka kufanya mabadiliko katika jamii yangu"
+        }
+      },
+      "email": "Barua pepe"
+    },
+    "meeting": {
+      "date": "Tarehe ya Mkutano",
+      "number": "Namba ya Mkutano",
+      "venue": {
+        "name": "Jina la ukumbi"
+      },
+      "address": {
+        "input": "Anuani ya eneo la mkutano"
+      },
+      "online": {
+        "software": "Programu ya mkutano",
+        "link": "Kiunganishi cha kujiunga",
+        "id": "Kitambulisho cha mkutano wa mtandaoni",
+        "title": "Taarifa za mikutano za mtandaoni",
+        "passowrd": "Neno la siri la kujiunga"
+      },
+      "theme": "Dhima ya mkutano (kama ipo)",
+      "time": "Muda wa Mkutano"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) Hakimiliki ya Agora Speakers International. Haki zote zimehifadhiwa. Nyenzo na rasilimali za Agora zinaweza zikatumika tu kulingana na sheria na masharti yetu."
+    },
+    "terms": "Sheria na Masharti",
+    "legal": {
+      "notice": "Taarifa za Kisheria"
+    },
+    "privacy": {
+      "policy": "Sera za Faragha"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "Kihindi",
+      "ps": "Kipashto",
+      "pt": "Kireno",
+      "hr": "Kikorasia",
+      "pt_br": "Brazilian",
+      "hu": "Kihungaria",
+      "yi": "Kiyiddi",
+      "hy": "Kiarmenia",
+      "yo": "Kiyoruba",
+      "ia": "Kiintalingua",
+      "id": "Kiindonesia",
+      "ig": "Kiigbo",
+      "ii": "Kiyi cha Sichuan",
+      "qu": "Kikechua",
+      "af": "Kiafrikana",
+      "ak": "Kiakani",
+      "is": "Kiisilandi",
+      "it": "Kiitaliano",
+      "am": "Kiamhari",
+      "zh": "Kichina",
+      "ar": "Kiarabu",
+      "as": "Kiassam",
+      "ja": "Kijapani",
+      "az": "Kiazerbaijani",
+      "rm": "Kiromanshi",
+      "zu": "Kizulu",
+      "rn": "Kirundi",
+      "ro": "Kiromania",
+      "be": "Kibelarusi",
+      "ru": "Kirusi",
+      "bg": "Kibulgaria",
+      "rw": "Kinyarwanda",
+      "bm": "Kibambara",
+      "bn": "Kibengali",
+      "jv": "Kijava",
+      "bo": "Kitibeti",
+      "sa": "Kisanskriti",
+      "br": "Kibretoni",
+      "bs": "Kibosnia",
+      "sd": "Kisindhi",
+      "se": "Kisami cha Kaskazini",
+      "sg": "Kisango",
+      "sh": "Kiserbia-kroeshia",
+      "ka": "Kijojia",
+      "si": "Kisinhala",
+      "sk": "Kislovakia",
+      "sl": "Kislovenia",
+      "sn": "Kishona",
+      "so": "Kisomali",
+      "ca": "Kikatalani",
+      "ki": "Kikikuyu",
+      "sq": "Kialbania",
+      "sr": "Kiserbia",
+      "kk": "Kikazakh",
+      "kl": "Kikalaallisut",
+      "ce": "Kichechenia",
+      "km": "Kikambodia",
+      "su": "Kisunda",
+      "kn": "Kikannada",
+      "sv": "Kiswidi",
+      "ko": "Kikorea",
+      "sw": "Kiswahili",
+      "ks": "Kikashmiri",
+      "ku": "Kikurdi",
+      "kw": "Kikorni",
+      "ta": "Kitamili",
+      "ky": "Kikyrgyz",
+      "cs": "Kicheki",
+      "te": "Kitelugu",
+      "tg": "Kitajiki",
+      "th": "Kithai",
+      "ti": "Kitigrinya",
+      "cy": "Kiwelisi",
+      "lb": "Kilasembagi",
+      "tk": "Kiturukimeni",
+      "tl": "Tagalog",
+      "lg": "Kiganda",
+      "to": "Kitonga",
+      "da": "Kidenmaki",
+      "tr": "Kituruki",
+      "tt": "Kitatari",
+      "de": "Kijerumani",
+      "ln": "Kilingala",
+      "lo": "Kilaosi",
+      "lt": "Kilithuania",
+      "lu": "Kiluba-Katanga",
+      "lv": "Kilatvia",
+      "ug": "Kiuyghur",
+      "dz": "Kizongkha",
+      "uk": "Kiukraini",
+      "mg": "Kimalagasi",
+      "mi": "Kimaori",
+      "ur": "Kiurdu",
+      "mk": "Kimacedonia",
+      "ml": "Kimalayalamu",
+      "ee": "Kiewe",
+      "mn": "Kimongolia",
+      "mr": "Kimarathi",
+      "uz": "Kiuzbeki",
+      "ms": "Kimalei",
+      "el": "Kigiriki",
+      "mt": "Kimalta",
+      "en": "Kiingereza",
+      "eo": "Kiesperanto",
+      "my": "Kiburma",
+      "es": "Kihispania",
+      "et": "Kiestonia",
+      "eu": "Kibaski",
+      "vi": "Kivietinamu",
+      "nb": "Kinorwe cha Bokmal",
+      "nd": "Kindebele cha Kaskazini",
+      "ne": "Kinepali",
+      "fa": "Kiajemi",
+      "nl": "Kiholanzi",
+      "ff": "Kifulani",
+      "nn": "Kinorwe cha Nynorsk",
+      "no": "Kinorwe",
+      "fi": "Kifini",
+      "fo": "Kifaroe",
+      "fr": "Kifaransa",
+      "fy": "Kifrisia cha Magharibi",
+      "wo": "Kiwolofu",
+      "ga": "Kiayalandi",
+      "gd": "Kigaeli cha Uskoti",
+      "om": "Kioromo",
+      "or": "Kioriya",
+      "os": "Kiosetia",
+      "gl": "Kigalisi",
+      "gu": "Kigujarati",
+      "gv": "Kimanx",
+      "xh": "Kixhosa",
+      "pa": "Kipunjabi",
+      "ha": "Kihausa",
+      "pl": "Kipolandi",
+      "he": "Kiebrania"
+    },
+    "full": {
+      "hi": "Kihindi (हिन्दी)",
+      "ps": "Kipashto (پښتو)",
+      "pt": "Kireno (Português)",
+      "hr": "Kikorasia (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "Kihungaria (Magyar)",
+      "yi": "Kiyiddi (ייִדיש)",
+      "hy": "Kiarmenia (Հայերեն)",
+      "yo": "Kiyoruba (Èdè Yorùbá)",
+      "ia": "Kiintalingua (Interlingua)",
+      "id": "Kiindonesia (Indonesia)",
+      "ig": "Kiigbo (Igbo)",
+      "ii": "Kiyi cha Sichuan (ꆈꌠꉙ)",
+      "qu": "Kikechua (Runasimi)",
+      "af": "Kiafrikana (Afrikaans)",
+      "ak": "Kiakani (Akan)",
+      "is": "Kiisilandi (Íslenska)",
+      "it": "Kiitaliano (Italiano)",
+      "am": "Kiamhari (አማርኛ)",
+      "zh": "Kichina (中文)",
+      "ar": "Kiarabu (العربية)",
+      "as": "Kiassam (অসমীয়া)",
+      "ja": "Kijapani (日本語)",
+      "az": "Kiazerbaijani (Azərbaycan)",
+      "rm": "Kiromanshi (Rumantsch)",
+      "zu": "Kizulu (IsiZulu)",
+      "rn": "Kirundi (Ikirundi)",
+      "ro": "Kiromania (Română)",
+      "be": "Kibelarusi (Беларуская)",
+      "ru": "Kirusi (Русский)",
+      "bg": "Kibulgaria (Български)",
+      "rw": "Kinyarwanda (Kinyarwanda)",
+      "bm": "Kibambara (Bamanakan)",
+      "bn": "Kibengali (বাংলা)",
+      "jv": "Kijava (Jawa)",
+      "bo": "Kitibeti (བོད་སྐད་)",
+      "sa": "Kisanskriti (संस्कृत भाषा)",
+      "br": "Kibretoni (Brezhoneg)",
+      "bs": "Kibosnia (Bosanski)",
+      "sd": "Kisindhi (سنڌي)",
+      "se": "Kisami cha Kaskazini (Davvisámegiella)",
+      "sg": "Kisango (Sängö)",
+      "sh": "Kiserbia-kroeshia (Srpskohrvatski)",
+      "ka": "Kijojia (ქართული)",
+      "si": "Kisinhala (සිංහල)",
+      "sk": "Kislovakia (Slovenčina)",
+      "sl": "Kislovenia (Slovenščina)",
+      "sn": "Kishona (ChiShona)",
+      "so": "Kisomali (Soomaali)",
+      "ca": "Kikatalani (Català)",
+      "ki": "Kikikuyu (Gikuyu)",
+      "sq": "Kialbania (Shqip)",
+      "sr": "Kiserbia (Српски)",
+      "kk": "Kikazakh (Қазақ тілі)",
+      "kl": "Kikalaallisut (Kalaallisut)",
+      "ce": "Kichechenia (Нохчийн)",
+      "km": "Kikambodia (ខ្មែរ)",
+      "su": "Kisunda (Basa Sunda)",
+      "kn": "Kikannada (ಕನ್ನಡ)",
+      "sv": "Kiswidi (Svenska)",
+      "ko": "Kikorea (한국어)",
+      "sw": "Kiswahili (Kiswahili)",
+      "ks": "Kikashmiri (کٲشُر)",
+      "ku": "Kikurdi (Kurdî)",
+      "kw": "Kikorni (Kernewek)",
+      "ta": "Kitamili (தமிழ்)",
+      "ky": "Kikyrgyz (Кыргызча)",
+      "cs": "Kicheki (Čeština)",
+      "te": "Kitelugu (తెలుగు)",
+      "tg": "Kitajiki (Тоҷикӣ)",
+      "th": "Kithai (ไทย)",
+      "ti": "Kitigrinya (ትግር)",
+      "cy": "Kiwelisi (Cymraeg)",
+      "lb": "Kilasembagi (Lëtzebuergesch)",
+      "tk": "Kiturukimeni (Türkmen dili)",
+      "tl": "Tagalog (Tagalog)",
+      "lg": "Kiganda (Luganda)",
+      "to": "Kitonga (Lea fakatonga)",
+      "da": "Kidenmaki (Dansk)",
+      "tr": "Kituruki (Türkçe)",
+      "tt": "Kitatari (Татар)",
+      "de": "Kijerumani (Deutsch)",
+      "ln": "Kilingala (Lingála)",
+      "lo": "Kilaosi (ລາວ)",
+      "lt": "Kilithuania (Lietuvių)",
+      "lu": "Kiluba-Katanga (Tshiluba)",
+      "lv": "Kilatvia (Latviešu)",
+      "ug": "Kiuyghur (ئۇيغۇرچە)",
+      "dz": "Kizongkha (རྫོང་ཁ)",
+      "uk": "Kiukraini (Українська)",
+      "mg": "Kimalagasi (Malagasy)",
+      "mi": "Kimaori (Te reo Māori)",
+      "ur": "Kiurdu (اردو)",
+      "mk": "Kimacedonia (Македонски)",
+      "ml": "Kimalayalamu (മലയാളം)",
+      "ee": "Kiewe (Eʋegbe)",
+      "mn": "Kimongolia (Монгол)",
+      "mr": "Kimarathi (मराठी)",
+      "uz": "Kiuzbeki (O‘zbek)",
+      "ms": "Kimalei (Melayu)",
+      "el": "Kigiriki (Ελληνικά)",
+      "mt": "Kimalta (Malti)",
+      "en": "Kiingereza (English)",
+      "eo": "Kiesperanto (Esperanto)",
+      "my": "Kiburma (မြန်မာ)",
+      "es": "Kihispania (Español)",
+      "et": "Kiestonia (Eesti)",
+      "eu": "Kibaski (Euskara)",
+      "vi": "Kivietinamu (Tiếng Việt)",
+      "nb": "Kinorwe cha Bokmal (Norsk bokmål)",
+      "nd": "Kindebele cha Kaskazini (IsiNdebele)",
+      "ne": "Kinepali (नेपाली)",
+      "fa": "Kiajemi (فارسی)",
+      "nl": "Kiholanzi (Nederlands)",
+      "ff": "Kifulani (Pulaar)",
+      "nn": "Kinorwe cha Nynorsk (Norsk nynorsk)",
+      "no": "Kinorwe (Norsk)",
+      "fi": "Kifini (Suomi)",
+      "fo": "Kifaroe (Føroyskt)",
+      "fr": "Kifaransa (Français)",
+      "fy": "Kifrisia cha Magharibi (Frysk)",
+      "wo": "Kiwolofu (Wolof)",
+      "ga": "Kiayalandi (Gaeilge)",
+      "gd": "Kigaeli cha Uskoti (Gàidhlig)",
+      "om": "Kioromo (Oromoo)",
+      "or": "Kioriya (ଓଡ଼ିଆ)",
+      "os": "Kiosetia (Ирон)",
+      "gl": "Kigalisi (Galego)",
+      "gu": "Kigujarati (ગુજરાતી)",
+      "gv": "Kimanx (Gaelg)",
+      "xh": "Kixhosa (IsiXhosa)",
+      "pa": "Kipunjabi (ਪੰਜਾਬੀ)",
+      "ha": "Kihausa (Hausa)",
+      "pl": "Kipolandi (Polski)",
+      "he": "Kiebrania (עברית)"
+    }
+  }
+}

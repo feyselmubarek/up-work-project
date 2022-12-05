@@ -1,0 +1,35 @@
+.tabPanelContainer {
+  padding: 0.25em !important;
+}
+
+.mobileOptions {
+  display: none;
+}
+
+.desktopOptions {
+  display: block;
+}
+
+.errorTab a {
+  color: #ce3c17 !important;
+  border-color: #ce3c17 !important;
+}
+
+.submitBtn {
+  position: fixed;
+  bottom: 80px;
+  right: 100px;
+  z-index: 1;
+}
+
+@media only screen and (max-width: 600px) {
+  .mobileOptions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .desktopOptions {
+    display: none;
+  }
+}

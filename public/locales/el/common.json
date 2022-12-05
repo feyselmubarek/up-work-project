@@ -1,0 +1,1992 @@
+{
+  "core": {
+    "clubs": {
+      "reference": "Λέσχη Αναφοράς",
+      "corporate": "Εταιρική Λέσχη",
+      "restricted": "Περιορισμένη Λέσχη",
+      "term": "Λέσχη Agora",
+      "pic": "Λέσχη Δημοσίου Ενδιαφέροντος",
+      "open": "Δημόσια Λέσχη"
+    }
+  },
+  "country": {
+    "pr": {
+      "name": "Πουέρτο Ρίκο"
+    },
+    "ps": {
+      "name": "Δυτική Όχθη"
+    },
+    "pt": {
+      "name": "Πορτογαλία"
+    },
+    "pw": {
+      "name": "Παλάου"
+    },
+    "py": {
+      "name": "Παραγουάη"
+    },
+    "qa": {
+      "name": "Κατάρ"
+    },
+    "ad": {
+      "name": "Ανδόρρα"
+    },
+    "ae": {
+      "name": "Ηνωμένα Αραβικά Εμιράτα"
+    },
+    "af": {
+      "name": "Αφγανιστάν"
+    },
+    "ag": {
+      "name": "Αντίγκουα και Μπαρμπούντα"
+    },
+    "ai": {
+      "name": "Ανγκουίλα"
+    },
+    "al": {
+      "name": "Αλβανία"
+    },
+    "am": {
+      "name": "Αρμενία"
+    },
+    "ao": {
+      "name": "Ανγκόλα"
+    },
+    "aq": {
+      "name": "Ανταρκτική"
+    },
+    "ar": {
+      "name": "Αργεντινή"
+    },
+    "as": {
+      "name": "Αμερικανική Σαμόα"
+    },
+    "at": {
+      "name": "Αυστρία"
+    },
+    "re": {
+      "name": "Ρεϋνιόν"
+    },
+    "au": {
+      "name": "Αυστραλία"
+    },
+    "aw": {
+      "name": "Αρούμπα"
+    },
+    "ax": {
+      "name": "Ώλαντ"
+    },
+    "az": {
+      "name": "Αζερμπαϊτζάν"
+    },
+    "ro": {
+      "name": "Ρουμανία"
+    },
+    "ba": {
+      "name": "Βοσνία-Ερζεγοβίνη"
+    },
+    "bb": {
+      "name": "Μπαρμπάντος"
+    },
+    "rs": {
+      "name": "Σερβία"
+    },
+    "bd": {
+      "name": "Μπανγκλαντές"
+    },
+    "be": {
+      "name": "Βέλγιο"
+    },
+    "ru": {
+      "name": "Ρωσία"
+    },
+    "bf": {
+      "name": "Μπουρκίνα Φάσο"
+    },
+    "bg": {
+      "name": "Βουλγαρία"
+    },
+    "rw": {
+      "name": "Ρουάντα"
+    },
+    "bh": {
+      "name": "Μπαχρέιν"
+    },
+    "bi": {
+      "name": "Μπουρούντι"
+    },
+    "bj": {
+      "name": "Μπενίν"
+    },
+    "bl": {
+      "name": "Άγιος Βαρθολομαίος"
+    },
+    "bm": {
+      "name": "Βερμούδες"
+    },
+    "bn": {
+      "name": "Μπρουνέι"
+    },
+    "bo": {
+      "name": "Βολιβία"
+    },
+    "sa": {
+      "name": "Σαουδική Αραβία"
+    },
+    "bq": {
+      "name": "Μποναίρ, Άγιος Ευστάθιος και Σάμπα"
+    },
+    "sb": {
+      "name": "Νήσοι Σολομώντος"
+    },
+    "br": {
+      "name": "Βραζιλία"
+    },
+    "sc": {
+      "name": "Σεϋχέλλες"
+    },
+    "bs": {
+      "name": "Μπαχάμες"
+    },
+    "sd": {
+      "name": "Σουδάν"
+    },
+    "bt": {
+      "name": "Μπουτάν"
+    },
+    "se": {
+      "name": "Σουηδία"
+    },
+    "bv": {
+      "name": "Μπουβέ"
+    },
+    "sg": {
+      "name": "Σιγκαπούρη"
+    },
+    "bw": {
+      "name": "Μποτσουάνα"
+    },
+    "sh": {
+      "name": "Νήσος Αγίας Ελένης"
+    },
+    "si": {
+      "name": "Σλοβενία"
+    },
+    "by": {
+      "name": "Λευκορωσία"
+    },
+    "sj": {
+      "name": "Σβάλμπαρντ"
+    },
+    "bz": {
+      "name": "Μπελίσε"
+    },
+    "sk": {
+      "name": "Σλοβακία"
+    },
+    "sl": {
+      "name": "Σιέρα Λεόνε"
+    },
+    "sm": {
+      "name": "Άγιος Μαρίνος"
+    },
+    "sn": {
+      "name": "Σενεγάλη"
+    },
+    "so": {
+      "name": "Σομαλία"
+    },
+    "ca": {
+      "name": "Καναδάς"
+    },
+    "sr": {
+      "name": "Σουρινάμ"
+    },
+    "cc": {
+      "name": "Νησιά Κόκος (Keeling)"
+    },
+    "ss": {
+      "name": "Νότιο Σουδάν"
+    },
+    "cd": {
+      "name": "Λαϊκή Δημοκρατία του Κογκό"
+    },
+    "st": {
+      "name": "Σάο Τομέ και Πρίνσιπε"
+    },
+    "cf": {
+      "name": "Κεντροαφρικανική Δημοκρατία"
+    },
+    "sv": {
+      "name": "Ελ Σαλβαδόρ"
+    },
+    "cg": {
+      "name": "Κογκό"
+    },
+    "ch": {
+      "name": "Ελβετία"
+    },
+    "sx": {
+      "name": "Άγιος Μαρτίνος (Ολλανδία)"
+    },
+    "ci": {
+      "name": "Ακτή Ελεφαντοστού"
+    },
+    "sy": {
+      "name": "Συρία"
+    },
+    "sz": {
+      "name": "Ζουαζηλάνδη"
+    },
+    "ck": {
+      "name": "Νήσοι Κουκ"
+    },
+    "cl": {
+      "name": "Χιλή"
+    },
+    "cm": {
+      "name": "Καμερούν"
+    },
+    "cn": {
+      "name": "Κίνα"
+    },
+    "co": {
+      "name": "Κολομβία"
+    },
+    "cr": {
+      "name": "Κόστα Ρίκα"
+    },
+    "tc": {
+      "name": "Τερκς και Κέικος"
+    },
+    "td": {
+      "name": "Τσαντ"
+    },
+    "cu": {
+      "name": "Κούβα"
+    },
+    "tf": {
+      "name": "Γαλλικά Νότια και Ανταρκτικά Εδάφη"
+    },
+    "cv": {
+      "name": "Πράσινο Ακρωτήριο"
+    },
+    "tg": {
+      "name": "Τόγκο"
+    },
+    "cw": {
+      "name": "Κουράσω"
+    },
+    "th": {
+      "name": "Ταϊλάνδη"
+    },
+    "cx": {
+      "name": "Νήσος των Χριστουγέννων"
+    },
+    "cy": {
+      "name": "Κύπρος"
+    },
+    "tj": {
+      "name": "Τατζικιστάν"
+    },
+    "cz": {
+      "name": "Τσεχία"
+    },
+    "tk": {
+      "name": "Τοκελάου"
+    },
+    "tl": {
+      "name": "Ανατολικό Τιμόρ"
+    },
+    "tm": {
+      "name": "Τουρκμενιστάν"
+    },
+    "tn": {
+      "name": "Τυνησία"
+    },
+    "to": {
+      "name": "Τόνγκα"
+    },
+    "tr": {
+      "name": "Τουρκία"
+    },
+    "tt": {
+      "name": "Τρινιντάντ και Τομπάγκο"
+    },
+    "de": {
+      "name": "Γερμανία"
+    },
+    "tv": {
+      "name": "Τουβαλού"
+    },
+    "tw": {
+      "name": "Ταϊβάν"
+    },
+    "dj": {
+      "name": "Τζιμπουτί"
+    },
+    "tz": {
+      "name": "Τανζανία"
+    },
+    "dk": {
+      "name": "Δανία"
+    },
+    "dm": {
+      "name": "Ντομίνικα"
+    },
+    "do": {
+      "name": "Δομινικανή Δημοκρατία"
+    },
+    "ua": {
+      "name": "Ουκρανία"
+    },
+    "ug": {
+      "name": "Ουγκάντα"
+    },
+    "dz": {
+      "name": "Αλγερία"
+    },
+    "um": {
+      "name": "Απομακρυσμένες Νησίδες των Ηνωμένων Πολιτειών"
+    },
+    "ec": {
+      "name": "Ισημερινός"
+    },
+    "us": {
+      "name": "Ηνωμένες Πολιτείες Αμερικής"
+    },
+    "ee": {
+      "name": "Εσθονία"
+    },
+    "eg": {
+      "name": "Αίγυπτος"
+    },
+    "eh": {
+      "name": "Δυτική Σαχάρα"
+    },
+    "uy": {
+      "name": "Ουρουγουάη"
+    },
+    "uz": {
+      "name": "Ουζμπεκιστάν"
+    },
+    "va": {
+      "name": "Βατικανό"
+    },
+    "er": {
+      "name": "Ερυθραία"
+    },
+    "vc": {
+      "name": "Άγιος Βικέντιος και Γρεναδίνες"
+    },
+    "es": {
+      "name": "Ισπανία"
+    },
+    "et": {
+      "name": "Αιθιοπία"
+    },
+    "ve": {
+      "name": "Βενεζουέλα"
+    },
+    "vg": {
+      "name": "Βρετανικές Παρθένοι Νήσοι"
+    },
+    "vi": {
+      "name": "Αμερικανικές Παρθένοι Νήσοι"
+    },
+    "vn": {
+      "name": "Βιετνάμ"
+    },
+    "vu": {
+      "name": "Βανουάτου"
+    },
+    "fi": {
+      "name": "Φινλανδία"
+    },
+    "fj": {
+      "name": "Φίτζι"
+    },
+    "fk": {
+      "name": "Νήσοι Φώκλαντ"
+    },
+    "fm": {
+      "name": "Μικρονησία"
+    },
+    "fo": {
+      "name": "Νήσοι Φερόε"
+    },
+    "fr": {
+      "name": "Γαλλία"
+    },
+    "wf": {
+      "name": "Ουαλλίς και Φουτουνά"
+    },
+    "ga": {
+      "name": "Γκαμπόν"
+    },
+    "gb": {
+      "name": "Ηνωμένο Βασίλειο"
+    },
+    "ws": {
+      "name": "Σαμόα"
+    },
+    "gd": {
+      "name": "Γρενάδα"
+    },
+    "ge": {
+      "name": "Γεωργία"
+    },
+    "gf": {
+      "name": "Γαλλική Γουιάνα"
+    },
+    "gg": {
+      "name": "Γκερνσέι"
+    },
+    "gh": {
+      "name": "Γκάνα"
+    },
+    "gi": {
+      "name": "Γιβραλτάρ"
+    },
+    "gl": {
+      "name": "Γροιλανδία"
+    },
+    "gm": {
+      "name": "Γκάμπια"
+    },
+    "gn": {
+      "name": "Γουινέα"
+    },
+    "gp": {
+      "name": "Γουαδελούπη"
+    },
+    "gq": {
+      "name": "Ισημερινή Γουινέα"
+    },
+    "gr": {
+      "name": "Ελλάδα"
+    },
+    "gs": {
+      "name": "Νήσοι Νότια Γεωργία και Νότιες Σάντουιτς"
+    },
+    "gt": {
+      "name": "Γουατεμάλα"
+    },
+    "gu": {
+      "name": "Γκουάμ"
+    },
+    "gw": {
+      "name": "Γουινέα-Μπισάου"
+    },
+    "gy": {
+      "name": "Γουιάνα"
+    },
+    "hk": {
+      "name": "Χονγκ Κονγκ"
+    },
+    "hm": {
+      "name": "Νήσοι Χερντ και Μακντόναλντ"
+    },
+    "hn": {
+      "name": "Ονδούρα"
+    },
+    "hr": {
+      "name": "Κροατία"
+    },
+    "ht": {
+      "name": "Αϊτή"
+    },
+    "ye": {
+      "name": "Υεμένη"
+    },
+    "hu": {
+      "name": "Ουγγαρία"
+    },
+    "id": {
+      "name": "Ινδονησία"
+    },
+    "yt": {
+      "name": "Μαγιότ"
+    },
+    "ie": {
+      "name": "Ιρλανδία"
+    },
+    "il": {
+      "name": "Ισραήλ"
+    },
+    "im": {
+      "name": "Νήσος Μαν"
+    },
+    "in": {
+      "name": "Ινδία"
+    },
+    "io": {
+      "name": "Βρετανικά Εδάφη Ινδικού Ωκεανού"
+    },
+    "za": {
+      "name": "Νότια Αφρική"
+    },
+    "iq": {
+      "name": "Ιράκ"
+    },
+    "ir": {
+      "name": "Ιράν"
+    },
+    "is": {
+      "name": "Ισλανδία"
+    },
+    "it": {
+      "name": "Ιταλία"
+    },
+    "zm": {
+      "name": "Ζάμπια"
+    },
+    "je": {
+      "name": "Υερσέη"
+    },
+    "zw": {
+      "name": "Ζιμπάμπουε"
+    },
+    "jm": {
+      "name": "Τζαμάικα"
+    },
+    "jo": {
+      "name": "Ιορδανία"
+    },
+    "jp": {
+      "name": "Ιαπωνία"
+    },
+    "ke": {
+      "name": "Κένυα"
+    },
+    "kg": {
+      "name": "Κιργιζία"
+    },
+    "kh": {
+      "name": "Καμπότζη"
+    },
+    "ki": {
+      "name": "Κιριμπάτι"
+    },
+    "km": {
+      "name": "Κομόρος"
+    },
+    "kn": {
+      "name": "Άγιος Χριστόφορος και Νέβις"
+    },
+    "kp": {
+      "name": "Βόρεια Κορέα"
+    },
+    "kr": {
+      "name": "Νότια Κορέα"
+    },
+    "kw": {
+      "name": "Κουβέιτ"
+    },
+    "ky": {
+      "name": "Κέιμαν Νήσοι"
+    },
+    "kz": {
+      "name": "Καζακστάν"
+    },
+    "la": {
+      "name": "Λάος"
+    },
+    "lb": {
+      "name": "Λίβανος"
+    },
+    "lc": {
+      "name": "Αγία Λουκία"
+    },
+    "li": {
+      "name": "Λιχτενστάιν"
+    },
+    "lk": {
+      "name": "Σρι Λάνκα"
+    },
+    "lr": {
+      "name": "Λιβερία"
+    },
+    "ls": {
+      "name": "Λεσότο"
+    },
+    "lt": {
+      "name": "Λιθουανία"
+    },
+    "lu": {
+      "name": "Λουξεμβούργο"
+    },
+    "lv": {
+      "name": "Λετονία"
+    },
+    "ly": {
+      "name": "Λιβύη"
+    },
+    "ma": {
+      "name": "Μαρόκο"
+    },
+    "mc": {
+      "name": "Μονακό"
+    },
+    "md": {
+      "name": "Μολδαβία"
+    },
+    "me": {
+      "name": "Μαυροβούνιο"
+    },
+    "mf": {
+      "name": "Άγιος Μαρτίνος (Γαλλία)"
+    },
+    "mg": {
+      "name": "Μαδαγασκάρη"
+    },
+    "mh": {
+      "name": "Νήσοι Μάρσαλ"
+    },
+    "mk": {
+      "name": "ΠΓΔ Μακεδονίας"
+    },
+    "ml": {
+      "name": "Μάλι"
+    },
+    "mm": {
+      "name": "Μιανμάρ"
+    },
+    "mn": {
+      "name": "Μογγολία"
+    },
+    "mo": {
+      "name": "Μακάο ΕΔΠ Κίνας"
+    },
+    "mp": {
+      "name": "Βόρειες Μαριάνες Νήσοι"
+    },
+    "mq": {
+      "name": "Μαρτινίκα"
+    },
+    "mr": {
+      "name": "Μαυριτανία"
+    },
+    "ms": {
+      "name": "Μονσεράτ"
+    },
+    "mt": {
+      "name": "Μάλτα"
+    },
+    "mu": {
+      "name": "Μαυρίκιος"
+    },
+    "mv": {
+      "name": "Μαλδίβες"
+    },
+    "mw": {
+      "name": "Μαλάουι"
+    },
+    "mx": {
+      "name": "Μεξικό"
+    },
+    "my": {
+      "name": "Μαλαισία"
+    },
+    "mz": {
+      "name": "Μοζαμβίκη"
+    },
+    "na": {
+      "name": "Ναμίμπια"
+    },
+    "nc": {
+      "name": "Νέα Καληδονία"
+    },
+    "ne": {
+      "name": "Νίγηρας"
+    },
+    "nf": {
+      "name": "Νησί Νόρφολκ"
+    },
+    "ng": {
+      "name": "Νιγηρία"
+    },
+    "ni": {
+      "name": "Νικαράγουα"
+    },
+    "nl": {
+      "name": "Ολλανδία"
+    },
+    "no": {
+      "name": "Νορβηγία"
+    },
+    "np": {
+      "name": "Νεπάλ"
+    },
+    "nr": {
+      "name": "Ναούρου"
+    },
+    "nu": {
+      "name": "Νιούε"
+    },
+    "nz": {
+      "name": "Νέα Ζηλανδία"
+    },
+    "om": {
+      "name": "Ομάν"
+    },
+    "pa": {
+      "name": "Παναμάς"
+    },
+    "pe": {
+      "name": "Περού"
+    },
+    "pf": {
+      "name": "Γαλλική Πολυνησία"
+    },
+    "pg": {
+      "name": "Παπούα Νέα Γουινέα"
+    },
+    "ph": {
+      "name": "Φιλιππίνες"
+    },
+    "pk": {
+      "name": "Πακιστάν"
+    },
+    "pl": {
+      "name": "Πολωνία"
+    },
+    "pm": {
+      "name": "Σαιντ Πιέρ και Μικελόν"
+    },
+    "pn": {
+      "name": "Νησιά Πίτκερν"
+    }
+  },
+  "award": {
+    "type": {
+      "educational": {
+        "help": "Βραβεία για την αριστεία στην επίτευξη εκπαιδευτικών στόχων στο πρόγραμμα Agora",
+        "title": "Εκπαιδευτικά Βραβεία"
+      },
+      "social": {
+        "help": "Βραβεία που αναγνωρίζουν τον θετικό σας αντίκτυπο στην κοινότητά σας",
+        "title": "Βραβεία για Αντίκτυπο στην Κοινωνία"
+      },
+      "operational": {
+        "help": "Βραβεία για την αριστεία στη διαχείριση και το καταστατικών λεσχών",
+        "title": "Αριστεία στη Διαχείριση Λέσχης"
+      },
+      "community": {
+        "help": "Βραβεία για συνεισφορές στην ανάπτυξη και ενίσχυση της κοινότητας της Agora",
+        "title": "Βραβεία Κοινότητας Agora"
+      }
+    }
+  },
+  "ui": {
+    "common": {
+      "search": "Αναζήτηση",
+      "register": "Εγγραφή"
+    }
+  },
+  "awards": {
+    "individual": {
+      "convention": {
+        "organizer": {
+          "help": "Οργάνωση επιτυχώς Περιφερειακής ή Διεθνούς Συνέλευσης της Agora",
+          "image": "awards.individual.convention.organizer.svg",
+          "title": "Οργανωτής Συνεδρίου"
+        }
+      },
+      "country": {
+        "ambassador": {
+          "image": "awards.individual.country.ambassador.svg"
+        }
+      },
+      "qualified": {
+        "leader": {
+          "image": "awards.individual.qualified.leader.svg",
+          "title": "Αρχηγός με Προσόντα"
+        },
+        "speaker": {
+          "image": "awards.individual.qualified.speaker.svg",
+          "title": "Ειδικευμένος Ομιλητής"
+        }
+      },
+      "mentor": {
+        "image": "awards.individual.mentor.svg",
+        "title": "Βραβείο Καθοδήγησης"
+      },
+      "contest": {
+        "storytelling": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "educational": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "winner": {
+          "help": "Κερδίζοντας έναν Διαγωνισμό Ομιλητών Agora",
+          "image": "awards.individual.contest.winner.svg",
+          "title": "Νικητής Διαγωνισμού"
+        },
+        "third": {
+          "help": "Τερματίζοντας τρίτος σε έναν Διαγωνισμό Ομιλητών Agora",
+          "image": "awards.individual.contest.third.svg",
+          "title": "Διαγωνισμός, 3η Θέση"
+        },
+        "social": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "organizer": {
+          "help": "Επιτυχής Οργάνωση Διαγωνισμού Agora",
+          "image": "awards.individual.contest.organizer.svg",
+          "title": "Οργανωτής Διαγωνισμού"
+        },
+        "participant": {
+          "help": "Συμμετοχή σε Διαγωνισμό Ομιλητών Agora",
+          "image": "awards.individual.contest.participant.svg",
+          "title": "Πιστοποιητικό Συμμετοχής"
+        },
+        "humorous": {
+          "world": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          },
+          "regional": {
+            "participation": {
+              "image": ""
+            },
+            "1": {
+              "image": ""
+            },
+            "2": {
+              "image": ""
+            },
+            "3": {
+              "image": ""
+            }
+          }
+        },
+        "second": {
+          "help": "Τερματίζοντας δεύτερος σε έναν Διαγωνισμό Ομιλητών Agora",
+          "image": "awards.individual.contest.second.svg",
+          "title": "Διαγωνισμός, 2η Θέση"
+        }
+      },
+      "educational": {
+        "progress": {
+          "help": "Πιο αξιοσημείωτη βελτίωση",
+          "image": "awards.individual.educational.progress.svg",
+          "title": "Βραβείο Εκπαιδευτικής Προόδου"
+        }
+      },
+      "outreach": {
+        "image": "awards.individual.outreach.svg",
+        "title": "Βραβείο Προσέγγισης"
+      },
+      "community": {
+        "leadership": {
+          "help": "Εξαιρετική εκτέλεση projects κοινότητας",
+          "image": "awards.individual.community.leadership.svg",
+          "title": "Βραβείο Ηγεσίας Κοινότητας"
+        }
+      },
+      "distinguished": {
+        "member": {
+          "help": "Αριστεία και αφοσίωση στην αποστολή της Agora",
+          "image": "awards.individual.distinguished.member.svg",
+          "title": "Βραβείο Πρεσβευτή Διακεκριμένου Μέλους"
+        }
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.individual.special.distinction.svg",
+          "title": "Βραβείο Ειδικής Διάκρισης"
+        }
+      },
+      "acoomplished": {
+        "leader": {
+          "image": "awards.individual.acoomplished.leader.svg",
+          "title": "Ολοκληρωμένος Ηγέτης"
+        },
+        "communicator": "Ολοκληρωμένος Επικοινωνιολόγος"
+      },
+      "help": {
+        "help": "Συνεχόμενη αφοσίωση στην επιτυχία της λέσχης",
+        "image": "awards.individual.help.svg",
+        "title": "Βραβείο Αφοσίωσης στην Επιτυχία της Λέσχης"
+      },
+      "accomplished": {
+        "speaker": {
+          "paths": {
+            "broadcast": {
+              "media": {
+                "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+                "image": "awards.individual.accomplished.speaker.paths.broadcast.media.svg",
+                "title": "Ολοκληρωμένος Ομιλητής Μετάδοσης Μέσων"
+              }
+            },
+            "persuasive": {
+              "skills": {
+                "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+                "image": "awards.individual.accomplished.speaker.paths.persuasive.skills.svg",
+                "title": "Ολοκληρωμένος Πειστικός Ομιλητής"
+              }
+            },
+            "pr": {
+              "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+              "image": "awards.individual.accomplished.speaker.paths.pr.svg",
+              "title": "Ολοκληρωμένος Ειδικός Δημοσίων Σχέσεων"
+            },
+            "specialty": {
+              "speeches": {
+                "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+                "image": "awards.individual.accomplished.speaker.paths.specialty.speeches.svg",
+                "title": "Ολοκληρωμένος Ομιλητής για Ειδικές Περιστάσεις"
+              }
+            },
+            "storytelling": {
+              "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+              "image": "awards.individual.accomplished.speaker.paths.storytelling.svg",
+              "title": "Ολοκληρωμένος Αφηγητής Ιστοριών"
+            },
+            "educational": {
+              "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+              "image": "awards.individual.accomplished.speaker.paths.educational.svg",
+              "title": "Ολοκληρωμένος Εκπαιδευτικός Ομιλητής"
+            },
+            "business": {
+              "contexts": {
+                "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+                "image": "awards.individual.accomplished.speaker.paths.business.contexts.svg",
+                "title": "Ολοκληρωμένος Επιχειρηματικός Ομιλητής"
+              }
+            },
+            "critical": {
+              "thinking": {
+                "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+                "image": "awards.individual.accomplished.speaker.paths.critical.thinking.svg",
+                "title": "Ολοκληρωμένος Κριτικός Στοχαστής"
+              }
+            },
+            "against": {
+              "all": {
+                "odds": {
+                  "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+                  "image": "awards.individual.accomplished.speaker.paths.against.all.odds.svg",
+                  "title": "Ολοκληρωμένος Ομιλητής Ενάντια στις Πιθανότητες"
+                }
+              }
+            },
+            "entrepreneurs": {
+              "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+              "image": "awards.individual.accomplished.speaker.paths.entrepreneurs.svg",
+              "title": "Ολοκληρωμένος Επιχειρηματικός Ομιλητής"
+            },
+            "project": {
+              "management": {
+                "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+                "image": "awards.individual.accomplished.speaker.paths.project.management.svg",
+                "title": "Ολοκληρωμένος Διαχειριστής Project"
+              }
+            },
+            "interpersonal": {
+              "skills": {
+                "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+                "image": "awards.individual.accomplished.speaker.paths.interpersonal.skills.svg",
+                "title": "Ολοκληρωμένος Αριστούχος Διαπροσωπικών Δεξιοτήτων"
+              }
+            },
+            "dramatization": {
+              "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+              "image": "awards.individual.accomplished.speaker.paths.dramatization.svg",
+              "title": "Ολοκληρωμένος Δραματικός Ομιλητής"
+            },
+            "humorous": {
+              "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+              "image": "awards.individual.accomplished.speaker.paths.humorous.svg",
+              "title": "Ολοκληρωμένος Χιουμοριστικός Ομιλητής"
+            },
+            "leadership": {
+              "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+              "image": "awards.individual.accomplished.speaker.paths.leadership.svg",
+              "title": "Ολοκληρωμένος Ηγέτης"
+            },
+            "negotiation": {
+              "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+              "image": "awards.individual.accomplished.speaker.paths.negotiation.svg",
+              "title": "Ολοκληρωμένος Διαπραγματευτής"
+            },
+            "visual": {
+              "storytelling": {
+                "help": "Ολοκληρώνοντας με επιτυχία το {{v0}} Εξελιγμένο Εκπαιδευτικό Μονοπάτι",
+                "image": "awards.individual.accomplished.speaker.paths.visual.storytelling.svg",
+                "title": "Ολοκληρωμένος Αφηγητής Οπτικών Ιστοριών"
+              }
+            }
+          },
+          "title": "Ολοκληρωμένος Ομιλητής"
+        },
+        "communicator": {
+          "help": "Ολοκληρώθηκε με επιτυχία το πλήρες κομμάτι επικοινωνίας",
+          "image": "awards.individual.accomplished.communicator.svg"
+        }
+      },
+      "club": {
+        "leader": {
+          "image": "awards.individual.club.leader.svg",
+          "title": "Αρχηγός Λέσχης"
+        },
+        "founder": {
+          "help": "Επιτυχής ίδρυση μιας Λέσχης Agora",
+          "image": "awards.individual.club.founder.svg",
+          "title": "Ιδρυτής Λέσχης"
+        },
+        "officer": {
+          "help": "Επιτυχής ηγεσία της λέσχης για έναν χρόνο",
+          "image": "awards.individual.club.officer.svg",
+          "title": "Ηγεσία Λέσχης"
+        },
+        "growth": {
+          "help": "Αριστεία στην καθοδήγηση και τη δημιουργία λεσχών Agora στη χώρα",
+          "image": "awards.individual.club.growth.svg",
+          "title": "Βραβείο Ανάπτυξης Λέσχης"
+        }
+      },
+      "golden": {
+        "anniversary": {
+          "help": "Συνεχόμενη συμμετοχή στη λέσχη για 5 έτη",
+          "image": "awards.individual.golden.anniversary.svg",
+          "title": "Βραβείο Επετείου"
+        }
+      },
+      "member": {
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.individual.member.of.the.month.svg",
+              "title": "Βραβείο Μέλους του Μήνα"
+            }
+          }
+        }
+      },
+      "attendance": {
+        "help": "Συνεχής και ενεργή συμμετοχή σε συναντήσεις",
+        "image": "awards.individual.attendance.svg",
+        "title": "Βραβείο Αφοσίωσης"
+      },
+      "agora": {
+        "innovator": {
+          "image": "awards.individual.agora.innovator.svg",
+          "title": "Βραβείο Πρωτοπόρου Agora"
+        },
+        "torchbearer": {
+          "image": "awards.individual.agora.torchbearer.svg",
+          "title": "Λαμπαδηδρόμος Agora"
+        }
+      },
+      "promotion": {
+        "image": "awards.individual.promotion.svg",
+        "title": "Βραβείο Προώθησης Agora"
+      }
+    },
+    "club": {
+      "convention": {
+        "host": {
+          "image": "awards.club.convention.host.svg",
+          "title": "Βραβείο Υποδοχής Συνεδρίου"
+        }
+      },
+      "country": {
+        "pioneer": {
+          "image": "awards.club.country.pioneer.svg",
+          "title": "Βραβείο Πρωτοπόρου Χώρας"
+        }
+      },
+      "educational": {
+        "excellence": {
+          "image": "awards.club.educational.excellence.svg",
+          "title": "Βραβείο Εκπαιδευτικής Αριστείας"
+        },
+        "outreach": {
+          "image": "awards.club.educational.outreach.svg",
+          "title": "Educational Outreach Award"
+        }
+      },
+      "city": {
+        "pioneer": {
+          "image": "awards.club.city.pioneer.svg",
+          "title": "Βραβείο Αστικού Πρωτοπόρου"
+        }
+      },
+      "outreach": {
+        "excellence": {
+          "image": "awards.club.outreach.excellence.svg",
+          "title": "Βραβείο Αριστείας Προσέγγισης"
+        }
+      },
+      "media": {
+        "help": "Αριστεία στην προώθηση της αποστολής της Agora και των δραστηριοτήτων στα μέσα",
+        "image": "awards.club.media.svg",
+        "title": "Βραβείο Αριστείας Μέσων"
+      },
+      "membership": {
+        "growth": "Βραβεία Ανάπτυξης Μελών",
+        "retention": {
+          "image": "awards.club.membership.retention.svg",
+          "title": "Βραβείο Δραστηριότητας Μελών"
+        }
+      },
+      "community": {
+        "leadership": {
+          "help": "Εξαιρετική εκτέλεση projects κοινότητας",
+          "image": "awards.club.community.leadership.svg",
+          "title": "Βραβείο Ηγεσίας Κοινότητας"
+        }
+      },
+      "content": {
+        "help": "Αριστεία στη δημιουργία νέου περιεχομένου για την κοινότητα της Agora",
+        "image": "awards.club.content.svg",
+        "title": "Βραβείο Παραγωγής Περιεχομένου"
+      },
+      "innovator": {
+        "image": "awards.club.innovator.svg",
+        "title": "Βραβείο Πρωτοπόρου Λέσχης"
+      },
+      "special": {
+        "distinction": {
+          "image": "awards.club.special.distinction.svg",
+          "title": "Βραβείο Ειδικής Διάκρισης"
+        }
+      },
+      "ambassador": {
+        "award": {
+          "image": "awards.club.ambassador.award.svg",
+          "title": "Βραβείο πρεσβευτή"
+        }
+      },
+      "club": {
+        "mentorship": {
+          "image": "awards.club.club.mentorship.svg",
+          "title": "Βραβείο Καθοδήγησης Λέσχης"
+        },
+        "of": {
+          "the": {
+            "month": {
+              "image": "awards.club.club.of.the.month.svg",
+              "title": "Βραβείο Λέσχης του Μήνα"
+            }
+          }
+        },
+        "golden": {
+          "satisfaction": {
+            "award": {
+              "help": "Ικανοποίηση μελών από την λέσχη που υπερβαίνει το 90%",
+              "image": "awards.club.club.golden.satisfaction.award.svg",
+              "title": "Χρυσό Βραβείο Ικανοποίησης Μελών"
+            }
+          }
+        },
+        "silver": {
+          "satisfaction": {
+            "award": {
+              "help": "Ικανοποίηση μελών από τη λέσχη που υπερβαίνει το 75%",
+              "image": "awards.club.club.silver.satisfaction.award.svg",
+              "title": "Ασημένιο Βραβείο Ικανοποίησης Μελών"
+            }
+          }
+        },
+        "satisfaction": {
+          "award": "Βραβείο Ικανοποίησης Μελών Λέσχης"
+        }
+      },
+      "golden": {
+        "membership": {
+          "growth": {
+            "help": "Ανάπτυξη περισσότερων από 20 μελών",
+            "image": "awards.club.golden.membership.growth.svg",
+            "title": "Χρυσό Βραβείο Ανάπτυξης Μελών"
+          }
+        },
+        "anniversary": {
+          "help": "Επιτυχής και συνεχής λειτουργία της λέσχης για δέκα χρόνια",
+          "image": "awards.club.golden.anniversary.svg",
+          "title": "Βραβείο Χρυσής Επετείου"
+        }
+      },
+      "model": {
+        "club": {
+          "image": "awards.club.model.club.svg",
+          "title": "Βραβείο Προτύπου Λέσχης"
+        }
+      },
+      "silver": {
+        "membership": {
+          "growth": {
+            "help": "Ανάπτυξη περισσότερων από 10 μέλη",
+            "image": "awards.club.silver.membership.growth.svg",
+            "title": "Ασημένιο Βραβείο Ανάπτυξης Μελών"
+          }
+        },
+        "anniversary": {
+          "help": "Επιτυχής και συνεχής λειτουργία της λέσχης για πέντε χρόνια",
+          "image": "awards.club.silver.anniversary.svg",
+          "title": "Βραβείο Ασημένιας Επετείου"
+        }
+      },
+      "anniversary": {
+        "image": "awards.club.anniversary.svg",
+        "title": "Βραβείο Επετείου Λέσχης - {{v0}} έτη"
+      }
+    },
+    "place": {
+      "participation": "Συμμετοχή"
+    },
+    "meeting": {
+      "crossfire": {
+        "inquisitive": {
+          "help": "Όντας ο πιο περίεργος και διεξοδικός ερωτών σε μια αντιπαράθεση σε μια συνάντηση",
+          "image": "awards.meeting.crossfire.inquisitive.svg",
+          "title": "Πιο Περίεργος Συμμετέχων σε Διασταυρούμενα Πυρά"
+        },
+        "survivor": {
+          "help": "Επιβίωση σε διασταυρούμενα πυρά σε μια συνάντηση",
+          "image": "awards.meeting.crossfire.survivor.svg",
+          "title": "Επιβίωση σε Διασταυρούμενα Πυρά"
+        }
+      },
+      "best": {
+        "colloquium": {
+          "help": "Όντας ο καλύτερος παρουσιαστής και ερωτώμενος στο συνέδριο",
+          "image": "awards.meeting.best.colloquium.svg",
+          "title": "Καλύτερος Συμμετέχων σε Συνέδριο"
+        },
+        "role": {
+          "help": "Εκτέλεση του ρόλου της συνάντησης με υπέροχο τρόπο",
+          "image": "awards.meeting.best.role.svg",
+          "title": "Καλύτερος Ρόλος Συνάντησης"
+        },
+        "speaker": {
+          "help": "Παρουσιάζοντας την καλύτερα προετοιμασμένη ομιλία σε μια συνάντηση λέσχης",
+          "image": "awards.meeting.best.speaker.svg",
+          "title": "Καλύτερος Ομιλητής Συνάντησης"
+        },
+        "hot": {
+          "response": {
+            "help": "Παρουσιάζοντας την καλύτερη αυτοσχέδια ομιλία σε μια συνάντηση λέσχης",
+            "image": "awards.meeting.best.hot.response.svg",
+            "title": "Καλύτερος Ομιλητής Αυτοσχεδιασμού σε Συνάντηση"
+          }
+        },
+        "speechwriter": {
+          "help": "Δημιουργία της καλύτερης ομιλίας σε μια συνάντηση",
+          "image": "awards.meeting.best.speechwriter.svg",
+          "title": "Καλύτερος Συγγραφέας Ομιλιών Συνάντησης"
+        },
+        "evaluator": {
+          "help": "Παραδίδοντας την καλύτερη αξιολόγηση σε μια συνάντηση λέσχης",
+          "image": "awards.meeting.best.evaluator.svg",
+          "title": "Καλύτερος Αξιολογητής Συνάντησης"
+        }
+      }
+    },
+    "agora": {
+      "shortdesc": "Το Agora Speakers International Foundation είναι μια ευρωπαϊκή κοσμική εκπαιδευτική φιλανθρωπική οργάνωση που δίνει τη δυνατότητα στους ανθρώπους να επικοινωνούν λαμπρά και να γίνουν ηγέτες με αυτοπεποίθηση που θα οικοδομήσουν ενεργά έναν καλύτερο κόσμο."
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "image": "/icons/contact/contact.whatsapp.svg"
+    },
+    "youtube": {
+      "image": "/icons/contact/contact.youtube.svg"
+    },
+    "other": {
+      "image": "/icons/contact/contact.other.svg",
+      "title": "Άλλο"
+    },
+    "line": {
+      "image": "/icons/contact/contact.line.svg"
+    },
+    "instagram": {
+      "image": "/icons/contact/contact.instagram.svg"
+    },
+    "linkedin": {
+      "image": "/icons/contact/contact.linkedin.svg"
+    },
+    "viber": {
+      "image": "/icons/contact/contact.viber.svg"
+    },
+    "skype": {
+      "image": "/icons/contact/contact.skype.svg"
+    },
+    "snapchat": {
+      "image": "/icons/contact/contact.snapchat.svg"
+    },
+    "twitter": {
+      "image": "/icons/contact/contact.twitter.svg"
+    },
+    "xing": {
+      "image": "/icons/contact/contact.xing.svg"
+    },
+    "weibo": {
+      "image": "/icons/contact/contact.weibo.svg"
+    },
+    "quora": {
+      "image": "/icons/contact/contact.quora.svg"
+    },
+    "web": {
+      "image": "/icons/contact/contact.web.svg"
+    },
+    "tiktok": {
+      "image": "/icons/contact/contact.tiktok.svg"
+    },
+    "kuaishou": {
+      "image": "/icons/contact/contact.kuaishou.svg"
+    },
+    "cyworld": {
+      "image": "/icons/contact/contact.cyworld.svg"
+    },
+    "reddit": {
+      "image": "/icons/contact/contact.reddit.svg"
+    },
+    "ok": {
+      "image": "/icons/contact/contact.ok.svg"
+    },
+    "signal": {
+      "image": "/icons/contact/contact.signal.svg"
+    },
+    "email": {
+      "image": "/icons/contact/contact.email.svg"
+    },
+    "qq": {
+      "image": "/icons/contact/contact.qq.svg"
+    },
+    "github": {
+      "image": "/icons/contact/contact.github.svg"
+    },
+    "douyin": {
+      "image": "/icons/contact/contact.douyin.svg"
+    },
+    "facebook": {
+      "image": "/icons/contact/contact.facebook.svg"
+    },
+    "wechat": {
+      "image": "/icons/contact/contact.wechat.svg"
+    },
+    "telegram": {
+      "image": "/icons/contact/contact.telegram.svg"
+    },
+    "pinterest": {
+      "image": "/icons/contact/contact.pinterest.svg"
+    },
+    "qzone": {
+      "image": "/icons/contact/contact.qzone.svg"
+    },
+    "patreon": {
+      "image": "/icons/contact/contact.patreon.svg"
+    },
+    "discord": {
+      "image": "/icons/contact/contact.discord.svg"
+    },
+    "taringa": {
+      "image": "/icons/contact/contact.taringa.svg"
+    },
+    "messenger": {
+      "image": "/icons/contact/contact.messenger.svg"
+    },
+    "phone": {
+      "image": "/icons/contact/contact.phone.svg"
+    },
+    "vk": {
+      "image": "/icons/contact/contact.vk.svg"
+    },
+    "gitlab": {
+      "image": "/icons/contact/contact.gitlab.svg"
+    }
+  },
+  "profile": {
+    "common": {
+      "date": "Ημερομηνία",
+      "country": "Χώρα",
+      "address": "Διεύθυνση",
+      "city": "Πόλη",
+      "awards": "Κερδισμένα Βραβεία",
+      "state": "Πολιτεία/Επαρχία/Καντόνι/κτλ.",
+      "event": "Εκδήλωση",
+      "region": "Περιοχή",
+      "points": {
+        "total": "Κερδισμένοι Πόντοι (Σύνολο)",
+        "year": "Κερδισμένοι Πόντοι (Αυτό το Έτος)",
+        "name": "Πόντοι"
+      }
+    },
+    "club": {
+      "languages": {
+        "input": "Προσδιορίστε τη γλώσσα ή τις γλώσσες που θα χρησιμοποιηθούν στη λέσχη (π.χ. Αγγλικά)"
+      },
+      "charter": {
+        "date": "Ημερομηνία Καταστατικού",
+        "help": "Η ημερομηνία καταστατικού πρέπει να είναι στο μέλλον, αλλά όχι πιο μακριά από 30 ημέρες."
+      },
+      "founder": {
+        "name": "Ιδρυτής Λέσχης (Πλήρες Όνομα)",
+        "email": "EMail Ιδρυτή"
+      },
+      "fee": {
+        "title": "Τέλος μέλους λέσχης (εάν υπάρχει)."
+      },
+      "banner": "Πανό",
+      "restrictions": {
+        "guests": {
+          "input": "Περιγράψτε τι είδους περιορισμοί θα υπάρχουν για τη συμμετοχή στη λέσχη ως επισκέπτης (εάν υπάρχουν)"
+        },
+        "membership": {
+          "input": "Περιγράψτε τι είδους περιορισμοί θα υπάρχουν για την ένταξη στη λέσχη ως μέλος (εάν υπάρχουν). Εάν εγγράφεστε στη Λέσχη Νέων, αναφέρετε το ηλικιακό εύρος"
+        }
+      },
+      "type": {
+        "help": "Περισσότερες πληροφορίες για τους διαφορετικούς τύπους λέσχης εδώ.",
+        "input": "Τύπος Λέσχης"
+      },
+      "points": {
+        "date": "Ημερομηνία Δράσης",
+        "action": "Δράση Λέσχης"
+      },
+      "token": "Μυστικό Διακριτικό Λέσχης",
+      "number": "Αριθμός Λέσχης",
+      "assets": "Υλικά Λέσχης",
+      "awards": "Βραβεία Λέσχης",
+      "contact": {
+        "help": {
+          "1": "Στοιχεία επικοινωνίας για τη λέσχη. Πρέπει να είναι είτε EMail ή τηλέφωνο.",
+          "2": "Πρόσθετα στοιχεία επικοινωνίας λέσχης - πρέπει να διαφέρουν από τα προηγούμενα, και μπορεί να είναι άλλο EMail/τηλέφωνο, ή ιστοσελίδα, ομάδα Facebook, ομάδα συναντήσεων κτλ."
+        },
+        "title": "Πληροφορίες Επικοινωνίας"
+      },
+      "name": "Όνομα Λέσχης",
+      "logo": {
+        "title": "Μπορείτε να ανεβάσετε το δικό σας λογότυπο, ή αν δεν έχετε, θα δημιουργήσουμε ένα λογότυπο για τη λέσχη σας αυτόματα."
+      },
+      "meeting": {
+        "schedule": "Πρόγραμμα Συνάντησης",
+        "info": "Επιπρόσθετες Πληροφορίες"
+      }
+    },
+    "personal": {
+      "participation": {
+        "input": "Τι είδους συμμετοχή σας ενδιαφέρει;",
+        "online": "Διαδικτυακές συναντήσεις",
+        "physical": "Φυσικές συναντήσεις"
+      },
+      "languages": {
+        "interested": "Σε ποιες γλώσσες ενδιαφέρεστε;"
+      },
+      "joined": "Ημερομηνία Εγγραφής",
+      "facebook": "Σύνδεσμος στο προφίλ Facebook",
+      "roles": {
+        "date": "Ημερομηνία",
+        "role": "Ρόλος",
+        "taken": "Πιασμένοι Ρόλοι",
+        "club": "Λέσχη"
+      },
+      "speeches": {
+        "persuasive": "Πειστικές ομιλίες",
+        "general": "Ομιλίες γενικού σκοπού",
+        "storytelling": "Διαγωνισμός Αφήγησης Ιστορίας Ομιλίας",
+        "educational": "Εκπαιδευτική",
+        "business": "Επιχειρηματικές παρουσιάσεις",
+        "interested": "Τι είδους παρουσιάσεις / ομιλίες σας ενδιαφέρει να μάθετε;",
+        "media": "Παραγωγή Vlogging και Media",
+        "sales": "Πωλήσεις",
+        "humorous": "Χιουμοριστικές ομιλίες και κωμωδία"
+      },
+      "privacy": "Συμφωνώ με τους όρους και τις προϋποθέσεις αυτού του ιστότοπου και με την Πολιτική απορρήτου της Agora Speakers International",
+      "history": {
+        "date": "Ημερομηνία",
+        "club": "Όνομα Λέσχης",
+        "event": "Εκδήλωση"
+      },
+      "linkedin": "Σύνδεσμος προς το προφίλ Linkedin",
+      "skills": "Ποιες από τις ακόλουθες δεξιότητες ενδιαφέρεστε να βελτιώσετε;",
+      "number": "Αριθμός Μέλους",
+      "password": {
+        "input": "Κωδικός",
+        "verify": "Επιλέξτε κωδικό για επαλήθευση"
+      },
+      "clubs": {
+        "role": "Ρόλος"
+      },
+      "name": {
+        "address": {
+          "help": "Πώς πρέπει να σας απευθυνθούμε στις επικοινωνίες μας (όπως τα email σας);",
+          "field": "Προτιμώμενο όνομα για επικοινωνία:"
+        },
+        "certificates": {
+          "help": "Πώς πρέπει να εμφανίζεται το όνομά σας στα πιστοποιητικά και τα βραβεία που κερδίζετε;",
+          "input": "Προτιμώμενο όνομα για πιστοποιητικά"
+        },
+        "online": {
+          "help": "Πώς πρέπει να εμφανίζεται το όνομά σας στα διαδικτυακά μας συστήματα, φόρουμ κτλ.;",
+          "input": "Προτιμώμενο διαδικτυακό όνομα"
+        },
+        "full": "Πλήρες Όνομα"
+      },
+      "principles": {
+        "agreement": "Αναφέρετε τη συμφωνία σας με τις βασικές αρχές μας"
+      },
+      "position": "Τρέχουσα θέση στη λέσχη",
+      "interests": {
+        "11": {
+          "language": "Ενδιαφέρομαι να βελτιώσω τις γνώσεις μου στην ξένη γλώσσα"
+        },
+        "01": {
+          "curious": "Είμαι απλώς περίεργος για τον οργανισμό"
+        },
+        "12": {
+          "contests": "Ενδιαφέρομαι να συμμετάσχω στους διαγωνισμούς που διοργανώνει η Agora Speakers International"
+        },
+        "02": {
+          "confidence": "Θέλω να βελτιώσω την αυτοπεποίθησή μου"
+        },
+        "13": {
+          "critical": "Ενδιαφέρομαι να μάθω να σκέφτομαι κριτικά"
+        },
+        "03": {
+          "communicate": "Θέλω να μάθω να επικοινωνώ πιο αποτελεσματικά"
+        },
+        "14": {
+          "friends": "Ενδιαφέρομαι να συναντήσω ανθρώπους και να κάνω νέους φίλους"
+        },
+        "04": {
+          "speak": "Θέλω να βελτιώσω τις δεξιότητές μου στη δημόσια ομιλία"
+        },
+        "15": {
+          "cooperation": "Ενδιαφέρομαι για δραστηριότητες πολιτιστικής ανταλλαγής και διαπολιτισμικής συνεργασίας"
+        },
+        "question": "Ποιο είναι το ενδιαφέρον σας για την Agora Speakers International;",
+        "05": {
+          "leadership": "Θέλω να βελτιώσω τις ηγετικές μου ικανότητες"
+        },
+        "16": {
+          "startclub": "Θέλω να ξεκινήσω μια Λέσχη Agora στην πόλη μου"
+        },
+        "06": {
+          "networking": "Ενδιαφέρομαι για την επαγγελματική δικτύωση"
+        },
+        "17": {
+          "ambassador": "Θέλω να γίνω Πρεσβευτής Agora για τη χώρα μου"
+        },
+        "07": {
+          "presentations": "Ενδιαφέρομαι να παραδώσω επιχειρηματικές παρουσιάσεις"
+        },
+        "18": {
+          "partnership": "Ενδιαφέρομαι για μια συνεργασία μεταξύ του οργανισμού μου και της Agora Speakers International"
+        },
+        "08": {
+          "events": "Ενδιαφέρομαι για τα εργαστήρια, τα σεμινάρια και τις εκδηλώσεις που οργανώνετε"
+        },
+        "09": {
+          "debating": "Με ενδιαφέρει η συζήτηση και η επιχειρηματολογία"
+        },
+        "10": {
+          "community": "Θέλω να κάνω τη διαφορά στην κοινότητά μου"
+        }
+      },
+      "email": "EMail"
+    },
+    "meeting": {
+      "date": "Ημερομηνία Συνάντησης",
+      "number": "Αριθμός Συνάντησης",
+      "venue": {
+        "name": "Όνομα Αϊθουσας"
+      },
+      "address": {
+        "input": "Διεύθυνση της αίθουσας συνάντησης"
+      },
+      "online": {
+        "software": "Λογισμικό συνάντησης",
+        "link": "Σύνδεσμος για συμμετοχή",
+        "id": "Ταυτότητα id διαδικτυακής συνάντησης",
+        "title": "Πληροφορίες για διαδικτυακές συναντήσεις",
+        "passowrd": "Κωδικός πρόσβασης για συμμετοχή"
+      },
+      "theme": "Θέμα συνάντησης (εάν υπάρχει)",
+      "time": "Ώρα Συνάντησης"
+    }
+  },
+  "legal": {
+    "copyright": {
+      "notice": "(c) Copyright Agora Speakers International. Ολα τα δικαιώματα διατηρούνται. Τα υλικά και τα περιουσιακά στοιχεία της Agora μπορούν να χρησιμοποιηθούν μόνο σύμφωνα με τους όρους και τις προϋποθέσεις μας."
+    },
+    "terms": "Όροι και Προϋποθέσεις",
+    "legal": {
+      "notice": "Νομικές Πληροφορίες"
+    },
+    "privacy": {
+      "policy": "Πολιτική απορρήτου"
+    }
+  },
+  "language": {
+    "native": {
+      "hi": "Χίντι",
+      "ps": "Πάστο",
+      "pt": "Πορτογαλικά",
+      "hr": "Κροατικά",
+      "pt_br": "Brazilian",
+      "hu": "Ουγγρικά",
+      "yi": "Γίντις",
+      "hy": "Αρμενικά",
+      "yo": "Γιορούμπα",
+      "ia": "Ιντερλίνγκουα",
+      "id": "Ινδονησιακά",
+      "ig": "Ίγκμπο",
+      "ii": "Σίτσουαν Γι",
+      "qu": "Κέτσουα",
+      "af": "Αφρικάανς",
+      "ak": "Ακάν",
+      "is": "Ισλανδικά",
+      "it": "Ιταλικά",
+      "am": "Αμχαρικά",
+      "zh": "Κινεζικά",
+      "ar": "Αραβικά",
+      "as": "Ασαμικά",
+      "ja": "Ιαπωνικά",
+      "az": "Αζερμπαϊτζανικά",
+      "rm": "Ρομανικά",
+      "zu": "Ζουλού",
+      "rn": "Ρούντι",
+      "ro": "Ρουμανικά",
+      "be": "Λευκορωσικά",
+      "ru": "Ρωσικά",
+      "bg": "Βουλγαρικά",
+      "rw": "Κινιαρουάντα",
+      "bm": "Μπαμπάρα",
+      "bn": "Βεγγαλικά",
+      "jv": "Ιαβανικά",
+      "bo": "Θιβετιανά",
+      "sa": "Σανσκριτικά",
+      "br": "Βρετονικά",
+      "bs": "Βοσνιακά",
+      "sd": "Σίντι",
+      "se": "Βόρεια Σάμι",
+      "sg": "Σάνγκο",
+      "sh": "Σερβοκροατικά",
+      "ka": "Γεωργιανά",
+      "si": "Σινχαλεζικά",
+      "sk": "Σλοβακικά",
+      "sl": "Σλοβενικά",
+      "sn": "Σόνα",
+      "so": "Σομαλικά",
+      "ca": "Καταλανικά",
+      "ki": "Κικούγιου",
+      "sq": "Αλβανικά",
+      "sr": "Σερβικά",
+      "kk": "Καζακικά",
+      "kl": "Καλαάλισουτ",
+      "ce": "Τσετσενικά",
+      "km": "Χμερ",
+      "su": "Σουνδανικά",
+      "kn": "Κανάντα",
+      "sv": "Σουηδικά",
+      "ko": "Κορεατικά",
+      "sw": "Σουαχίλι",
+      "ks": "Κασμιρικά",
+      "ku": "Κουρδικά",
+      "kw": "Κορνουαλικά",
+      "ta": "Ταμιλικά",
+      "ky": "Κιργιζικά",
+      "cs": "Τσεχικά",
+      "te": "Τελούγκου",
+      "tg": "Τατζικικά",
+      "th": "Ταϊλανδικά",
+      "ti": "Τιγκρινικά",
+      "cy": "Ουαλικά",
+      "lb": "Λουξεμβουργιανά",
+      "tk": "Τουρκμενικά",
+      "tl": "Τάγκαλογκ",
+      "lg": "Γκάντα",
+      "to": "Τονγκανικά",
+      "da": "Δανικά",
+      "tr": "Τουρκικά",
+      "tt": "Ταταρικά",
+      "de": "Γερμανικά",
+      "ln": "Λινγκάλα",
+      "lo": "Λαοτινά",
+      "lt": "Λιθουανικά",
+      "lu": "Λούμπα-Κατάνγκα",
+      "lv": "Λετονικά",
+      "ug": "Ουιγουρικά",
+      "dz": "Ντζόνγκχα",
+      "uk": "Ουκρανικά",
+      "mg": "Μαλγασικά",
+      "mi": "Μαορί",
+      "ur": "Ουρντού",
+      "mk": "Σλαβομακεδονικά",
+      "ml": "Μαλαγιαλαμικά",
+      "ee": "Έουε",
+      "mn": "Μογγολικά",
+      "mr": "Μαραθικά",
+      "uz": "Ουζμπεκικά",
+      "ms": "Μαλαισιανά",
+      "el": "Ελληνικά",
+      "mt": "Μαλτεζικά",
+      "en": "Αγγλικά",
+      "eo": "Εσπεράντο",
+      "my": "Βιρμανικά",
+      "es": "Ισπανικά",
+      "et": "Εσθονικά",
+      "eu": "Βασκικά",
+      "vi": "Βιετναμικά",
+      "nb": "Νορβηγικά Μποκμάλ",
+      "nd": "Βόρεια Ντεμπέλε",
+      "ne": "Νεπαλικά",
+      "fa": "Περσικά",
+      "nl": "Ολλανδικά",
+      "ff": "Φουλά",
+      "nn": "Νορβηγικά Νινόρσκ",
+      "no": "Νορβηγικά",
+      "fi": "Φινλανδικά",
+      "fo": "Φεροϊκά",
+      "fr": "Γαλλικά",
+      "fy": "Δυτικά Φριζικά",
+      "wo": "Γουόλοφ",
+      "ga": "Ιρλανδικά",
+      "gd": "Σκωτικά Κελτικά",
+      "om": "Ορόμο",
+      "or": "Όντια",
+      "os": "Οσετικά",
+      "gl": "Γαλικιανά",
+      "gu": "Γκουγιαράτι",
+      "gv": "Μανξ",
+      "xh": "Κόσα",
+      "pa": "Παντζαπικά",
+      "ha": "Χάουσα",
+      "pl": "Πολωνικά",
+      "he": "Εβραϊκά"
+    },
+    "full": {
+      "hi": "Χίντι (हिन्दी)",
+      "ps": "Πάστο (پښتو)",
+      "pt": "Πορτογαλικά (Português)",
+      "hr": "Κροατικά (Hrvatski)",
+      "pt_br": "Brazilian (Brazilian)",
+      "hu": "Ουγγρικά (Magyar)",
+      "yi": "Γίντις (ייִדיש)",
+      "hy": "Αρμενικά (Հայերեն)",
+      "yo": "Γιορούμπα (Èdè Yorùbá)",
+      "ia": "Ιντερλίνγκουα (Interlingua)",
+      "id": "Ινδονησιακά (Indonesia)",
+      "ig": "Ίγκμπο (Igbo)",
+      "ii": "Σίτσουαν Γι (ꆈꌠꉙ)",
+      "qu": "Κέτσουα (Runasimi)",
+      "af": "Αφρικάανς (Afrikaans)",
+      "ak": "Ακάν (Akan)",
+      "is": "Ισλανδικά (Íslenska)",
+      "it": "Ιταλικά (Italiano)",
+      "am": "Αμχαρικά (አማርኛ)",
+      "zh": "Κινεζικά (中文)",
+      "ar": "Αραβικά (العربية)",
+      "as": "Ασαμικά (অসমীয়া)",
+      "ja": "Ιαπωνικά (日本語)",
+      "az": "Αζερμπαϊτζανικά (Azərbaycan)",
+      "rm": "Ρομανικά (Rumantsch)",
+      "zu": "Ζουλού (IsiZulu)",
+      "rn": "Ρούντι (Ikirundi)",
+      "ro": "Ρουμανικά (Română)",
+      "be": "Λευκορωσικά (Беларуская)",
+      "ru": "Ρωσικά (Русский)",
+      "bg": "Βουλγαρικά (Български)",
+      "rw": "Κινιαρουάντα (Kinyarwanda)",
+      "bm": "Μπαμπάρα (Bamanakan)",
+      "bn": "Βεγγαλικά (বাংলা)",
+      "jv": "Ιαβανικά (Jawa)",
+      "bo": "Θιβετιανά (བོད་སྐད་)",
+      "sa": "Σανσκριτικά (संस्कृत भाषा)",
+      "br": "Βρετονικά (Brezhoneg)",
+      "bs": "Βοσνιακά (Bosanski)",
+      "sd": "Σίντι (سنڌي)",
+      "se": "Βόρεια Σάμι (Davvisámegiella)",
+      "sg": "Σάνγκο (Sängö)",
+      "sh": "Σερβοκροατικά (Srpskohrvatski)",
+      "ka": "Γεωργιανά (ქართული)",
+      "si": "Σινχαλεζικά (සිංහල)",
+      "sk": "Σλοβακικά (Slovenčina)",
+      "sl": "Σλοβενικά (Slovenščina)",
+      "sn": "Σόνα (ChiShona)",
+      "so": "Σομαλικά (Soomaali)",
+      "ca": "Καταλανικά (Català)",
+      "ki": "Κικούγιου (Gikuyu)",
+      "sq": "Αλβανικά (Shqip)",
+      "sr": "Σερβικά (Српски)",
+      "kk": "Καζακικά (Қазақ тілі)",
+      "kl": "Καλαάλισουτ (Kalaallisut)",
+      "ce": "Τσετσενικά (Нохчийн)",
+      "km": "Χμερ (ខ្មែរ)",
+      "su": "Σουνδανικά (Basa Sunda)",
+      "kn": "Κανάντα (ಕನ್ನಡ)",
+      "sv": "Σουηδικά (Svenska)",
+      "ko": "Κορεατικά (한국어)",
+      "sw": "Σουαχίλι (Kiswahili)",
+      "ks": "Κασμιρικά (کٲشُر)",
+      "ku": "Κουρδικά (Kurdî)",
+      "kw": "Κορνουαλικά (Kernewek)",
+      "ta": "Ταμιλικά (தமிழ்)",
+      "ky": "Κιργιζικά (Кыргызча)",
+      "cs": "Τσεχικά (Čeština)",
+      "te": "Τελούγκου (తెలుగు)",
+      "tg": "Τατζικικά (Тоҷикӣ)",
+      "th": "Ταϊλανδικά (ไทย)",
+      "ti": "Τιγκρινικά (ትግር)",
+      "cy": "Ουαλικά (Cymraeg)",
+      "lb": "Λουξεμβουργιανά (Lëtzebuergesch)",
+      "tk": "Τουρκμενικά (Türkmen dili)",
+      "tl": "Τάγκαλογκ (Tagalog)",
+      "lg": "Γκάντα (Luganda)",
+      "to": "Τονγκανικά (Lea fakatonga)",
+      "da": "Δανικά (Dansk)",
+      "tr": "Τουρκικά (Türkçe)",
+      "tt": "Ταταρικά (Татар)",
+      "de": "Γερμανικά (Deutsch)",
+      "ln": "Λινγκάλα (Lingála)",
+      "lo": "Λαοτινά (ລາວ)",
+      "lt": "Λιθουανικά (Lietuvių)",
+      "lu": "Λούμπα-Κατάνγκα (Tshiluba)",
+      "lv": "Λετονικά (Latviešu)",
+      "ug": "Ουιγουρικά (ئۇيغۇرچە)",
+      "dz": "Ντζόνγκχα (རྫོང་ཁ)",
+      "uk": "Ουκρανικά (Українська)",
+      "mg": "Μαλγασικά (Malagasy)",
+      "mi": "Μαορί (Te reo Māori)",
+      "ur": "Ουρντού (اردو)",
+      "mk": "Σλαβομακεδονικά (Македонски)",
+      "ml": "Μαλαγιαλαμικά (മലയാളം)",
+      "ee": "Έουε (Eʋegbe)",
+      "mn": "Μογγολικά (Монгол)",
+      "mr": "Μαραθικά (मराठी)",
+      "uz": "Ουζμπεκικά (O‘zbek)",
+      "ms": "Μαλαισιανά (Melayu)",
+      "el": "Ελληνικά (Ελληνικά)",
+      "mt": "Μαλτεζικά (Malti)",
+      "en": "Αγγλικά (English)",
+      "eo": "Εσπεράντο (Esperanto)",
+      "my": "Βιρμανικά (မြန်မာ)",
+      "es": "Ισπανικά (Español)",
+      "et": "Εσθονικά (Eesti)",
+      "eu": "Βασκικά (Euskara)",
+      "vi": "Βιετναμικά (Tiếng Việt)",
+      "nb": "Νορβηγικά Μποκμάλ (Norsk bokmål)",
+      "nd": "Βόρεια Ντεμπέλε (IsiNdebele)",
+      "ne": "Νεπαλικά (नेपाली)",
+      "fa": "Περσικά (فارسی)",
+      "nl": "Ολλανδικά (Nederlands)",
+      "ff": "Φουλά (Pulaar)",
+      "nn": "Νορβηγικά Νινόρσκ (Norsk nynorsk)",
+      "no": "Νορβηγικά (Norsk)",
+      "fi": "Φινλανδικά (Suomi)",
+      "fo": "Φεροϊκά (Føroyskt)",
+      "fr": "Γαλλικά (Français)",
+      "fy": "Δυτικά Φριζικά (Frysk)",
+      "wo": "Γουόλοφ (Wolof)",
+      "ga": "Ιρλανδικά (Gaeilge)",
+      "gd": "Σκωτικά Κελτικά (Gàidhlig)",
+      "om": "Ορόμο (Oromoo)",
+      "or": "Όντια (ଓଡ଼ିଆ)",
+      "os": "Οσετικά (Ирон)",
+      "gl": "Γαλικιανά (Galego)",
+      "gu": "Γκουγιαράτι (ગુજરાતી)",
+      "gv": "Μανξ (Gaelg)",
+      "xh": "Κόσα (IsiXhosa)",
+      "pa": "Παντζαπικά (ਪੰਜਾਬੀ)",
+      "ha": "Χάουσα (Hausa)",
+      "pl": "Πολωνικά (Polski)",
+      "he": "Εβραϊκά (עברית)"
+    }
+  }
+}

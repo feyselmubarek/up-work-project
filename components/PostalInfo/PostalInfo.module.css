@@ -1,0 +1,36 @@
+.container {
+  margin-bottom: 5em;
+}
+
+.help {
+  color: #767676;
+  font-size: 0.75em;
+  max-width: 27.5em;
+  width: 100%;
+}
+
+.formItem {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.heading {
+  font-size: 1.5em !important;
+}
+
+.customPanel {
+  max-width: 22em;
+  width: 100%;
+  position: relative;
+}
+
+.zip {
+  width: 30% !important;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.city {
+  width: 65% !important;
+}
